@@ -1,0 +1,271 @@
+\documentclass[journal]{IEEEtran}
+\usepackage{blindtext}
+\usepackage{graphicx}
+
+\ifCLASSINFOpdf
+\else
+\fi
+
+\begin{document}
+% can use linebreaks \\ within to get better formatting as desired
+\title{Re-ranking Recommended Citations Based on Its Predicted Impact}
+
+\author{Divit Singh (divit52)
+        Harsh Agrawal (harsh92)
+        Ambika Karanth (ambik89)}% <-this % stops a space
+
+% make the title area
+\maketitle
+
+
+\begin{abstract}
+When researching while writing a paper, it is not always the case that the first link returned by a search engine is the best one.  Searching through engines involves using a few keywords that relate to your paper.  Therefore, it is less likely that search engines might return desirable results when searching for entire sentences. Our approach aims to circumvent this bottleneck by providing recommendations that utilizes more information than a few keywords.   Through the concept of context analysis – analyzing entire sentences scattered throughout a paper, our intent is to provide more accurate recommendations than would be found if simply searching for a few keywords.  In addition to providing a recommendation set, we also want to experiment the relationship between relevance and high impact of a recommended citation.  Specifically, we want to see if adding higher impact citation will produce a higher impact paper for the author.   
+\end{abstract}
+% IEEEtran.cls defaults to using nonbold math in the Abstract.
+% This preserves the distinction between vectors and scalars. However,
+% if the journal you are submitting to favors bold math in the abstract,
+% then you can use LaTeX's standard command \boldmath at the very start
+% of the abstract to achieve this. Many IEEE journals frown on math
+% in the abstract anyway.
+
+% Note that keywords are not normally used for peerreview papers.
+\begin{IEEEkeywords}
+recommendations, prediction, high-impact, citation
+\end{IEEEkeywords}
+
+
+
+
+
+
+% For peer review papers, you can put extra information on the cover
+% page as needed:
+% \ifCLASSOPTIONpeerreview
+% \begin{center} \bfseries EDICS Category: 3-BBND \end{center}
+% \fi
+%
+% For peerreview papers, this IEEEtran command inserts a page break and
+% creates the second title. It will be ignored for other modes.
+\IEEEpeerreviewmaketitle
+
+
+
+\section{Introduction}
+One of the most common methods of conducting a literature search is to perform keyword searches to retrieve relevant documents or papers. On sites like IEEE and ACM searching is a labor-intensive process as one has to follow the chain of bibliographic citations. Researchers typically rely on manual methods to discover new research such as keyword-based searches, reading proceedings of conferences, and browsing publication list of known experts. These techniques are time-consuming and often result in a limited set of relevant documents. If we were to automate the search process by providing the researching with a more diverse, relevant set of papers, then we will greatly improve the productivity of the authors.
+
+Research is fast-paced, dynamic field.  Every year, there are a plethora of papers being produced on similar topics that expand on either prior research, or introduce new, cutting-edge concepts.  As a result of its dynamic nature, it is imperative that a researcher stay up to date with the latest literature when writing their own paper.  However, this task is easier said than done.  The process of searching through papers to create relevant citations is an extremely tedious and time intensive process.  
+
+Currently, the most ubiquitous approach is to perform short keyword searches on search engines such as IEEE and ACM and analyze the list of papers that are retrieved based solely on those keywords.  This generally leads to sequentially sifting through the bibliographic citations to retrieve other documents which may pertain to the researched keywords.  Not only is this process time-consuming, but also limits the search space of papers to analyze.  
+
+Consider if a researcher was presented with a list of citations automatically based on analyzing context throughout their paper.  A researcher would save time by being provided with relevant documents to read through.  In addition, by analyzing and searching for more content than a few keywords, a larger range of documents may be provided to the researcher. It is not enough to simply provide documents to the researcher.  It is also crucial that the documents provided are actually relevant to the context in which it is searched for.  It is equally crucial that the speed of retrieval of these relevant papers from the massive set is fast and provide good coverage within the research field.  We will use these criterion as the basis for recommending citations for the researcher.    
+
+The goal of a researcher is not only to provide information about a topic, but also attract attention from people in their field to consider and utilize their research. A popular belief in academia is that citing papers that have been highly cited (have high impact) tends to get more citations than to cite a paper with lower impact.   Our goal is to assess this myth be re-ranking our original recommendations based on the project impact of its citations to see if it results in a higher impact paper.  
+
+There are many challenges in relation to predicting the impact of a paper by using recommended citations.  First, we have to explore the aspects of a good recommendation engine.  Next, we consider the how to predict the impact of those citations.  Finally, we want investigate whether re-ranking the recommended citations for a given paper is, in fact, useful.
+
+\section{Problem Description}
+
+Given a graph G (V, E) where V in G represents the set of all the research papers,  we say that a directed edge E from $V_1$ to $V_2$ represents $V_1$ citing $V_2$ in its bibliography[6].  For every edge E in G, we want to assign a weight representing the similarity between the two vertices.  For a target paper T in the test set, we will use the weights of the outgoing edges from T, along with some feature representation of the abstract and full text of T, to recommend a set of papers C.  Next, we re-rank C based on the predictive impact of each citation $c_{i}/inC$.  We use this metric to assess the co relation between the impact of cited papers and the impact of the target paper T.  
+
+\section{Literature Review}
+In this section, we discuss the related work in the fields of citation recommendation and predicting the future impact of a given paper.  One of the most popular approaches to recommendation in general is Collaborative Filtering [7][12].  Given an initial set of citations, McNee et al[9] used Collaborative Filtering (CF) to recommend additional papers.   Traditional CF algorithms view the data set as a rating matrix.  The rows in this matrix represent the set of users.  The column represent the ratings for each item.  In case of a movie recommendation system, the items would be movies and the values of each element in the matrix would be the ratings associated with the movies for the corresponding user.   To apply CF on the problem of citation recommendation McNee et al[9] assigned each row to be a paper with an initial bibliography.  Every citation in the bibliography provided by these papers becomes its own column in the matrix. Each element $b_{i,j}$ is assigned 1 if $i^{th}$ paper has the $j^{th}$ citation.  Here I represents the citing paper(rows) and j represents the citation (column).   The author used the following CF algorithms for recommendations: Co-Citation Matching, User-Item CF, and Item-Item CF.  
+
+Co-Citation counts the number of times a pair of citations occur together in a list of bibliographies. Let the set of all possible recommendations be R and a target paper be T.  For each paper (r$\in$R), the co-citation count would be the sum of number of times r was co-cited with each paper in the bibliography of T.   The recommended paper would be the paper which has the maximum citation count.  User-Item CF constructs a similar matrix as Co-Citation matching.  However, it returns a set of papers in R where the similarity of each paper r$\in$R with respect to T is multiplied with the citation count of r.  The similarity of r is determined by co-sine similarity.  Item-item CF flips the User-Item CF and creates a neighborhood of items instead of users.   It is discussed in more detail in [5].  
+
+One of the limitations using approaches that require the presence of an initial bibliography is that it places the burden of the user.  The user is expected to provide a list of related work that they previously gathered. In order to circumvent this limitation, approaches started leveraging the idea of context. A context for a document is a bag of words model[3].  The global context is the title and the abstract of a paper.  The local context is the neighboring text of an in-line citation placeholder.   Citation context is a good summary of the motivation behind using existing set of citations[3].  Leveraging both global context and local context satisfy different information needs at different phases of writing a paper[1].  
+
+Initially, the author tends to be find a generic set of papers based on prior knowledge of related literature.  For this purpose, the global context would be the optimal choice since it leverages general such as venue, co-citations, and prior publication history of authors. However, during the writing process, the author might need suggestions to support a particular argument in a given section.  For this scenario, the local context would be the optimal choice as it utilizes surrounding text to give recommendations[3].  
+Based on the previous model, a CiteSite system was recently introduced.  The model builds a cache of citations to provide instantaneous recommendations at the time of active writing.  It continuously updates the list of recommendations by analyzing the contextual metadata of the database of indexed papers[1].  Since the resulting index is large, it is impossible for the system to give recommendations in real-time, hence, caches are used.  The cache is updated as information such as the title, abstract, and the context of citations are added by the author.  The median response time for a cache is 6.2ms, whereas the median response time of using a full index is 452 ms [1].   
+
+The previous approaches do not take into account user preferences.  For example, a user would not be able to obtain citations from a certain time period if they were to use any of the previously discusses approaches.  [6] introduces direction aware algorithms which are able to filter recommendations based on user preferences. 
+Given a graph that consists of out-going and incoming citations, this approach changes the weights assigned to each edge based on the search criteria.  Traditional algorithms such as page rank[6] base their recommendations on the number of edges that are connected to a citation.  Thus, it is more likely that older papers will get recommended above more recent papers as they have been available to the community for a longer period of time. [6] introduces a direct-awareness paramater $\lambda$ to obtain either recent or more results in the top k relevant documents.   This is done by modifying the parameter $\lambda$ to change the contribution of tradition papers or recent papers based on user preferences.
+
+We have discussed different approaches that have been explored when recommending citations for a given paper.  Now we shift our focus to analyze approaches that predict how well a given paper will be received by the community for which it is published.  We analyze this topic to investigate the myth of whether citing higher impact [14] papers will result in a higher citation count.  
+
+When predicting citation count of papers, there have been time-series based approaches [18][17].  [18] converts the citation data into time-series data that is suitable for prediction using regression.  The time-series data using the format: <citing paper id, citing paper id>  helps in investigating the change in citations of a number of papers over time.  [18] divided the  citation data into overlapping periods of time.  Specifically, they divided their data set into overlapping 3-month increments (e.g. January-March, February to April etc).   This approach not only increased the amount of training data available, but also reduce noise (possible errors in publication date of a given paper).  This table was used to create another table which contained differences between the citation count of adjacent intervals. This table served as the input for a regressor to predict the change in citation of a given paper over time.  [17] not only used time-series features, but also a set of keywords that represented the current topic trends.  To capture the intuition that the paper of a famous author will be better received by the community, relation based features such as h-index of authors were taken into consideration.
+
+While measuring paper impact [14] takes into account citations over several years.  This is done to differentiate papers that have a lasting influence from the papers that were popular over a short period of time.  This is done by using exponential decay which contains a parameter r which controls the rate of decay.  Most of the prediction algorithms used standard machine learning implementations such as decision trees, random forests etc.
+
+\section{Dataset}
+
+ The KDD Cup was one of the first attempts at creating a standard data set for the problem of predicting citations [16]. KDD Cup 2003 consists of the citation graph of the papers in  HEP-TH (high energy physics theory)section of arXiv which is an  popular repository of electronic preprints [15]. The node in the dataset are papers and if a paper i cites paper j, the graph contains a directed edge from i to j.. The dataset covers all the citations within a data set of 27,770 papers with 352,807 edges.  The challenge also provides full text and abstract of the papers.
+ 
+The data covers papers from January 1993 to April 2003 (124 months). It begins within a few months of the inception of the arXiv, and thus represents essentially the complete history of its hep-th section. The dataset constitutes of 30,119 papers written by 57,448 authors comprising in total 1.7GB of LaTeX sources with 719,109 total citations in the papers. 363,812 of these citations cited a paper outside hep-th, and 355,297 citations cited papers from the hep-th section.
+
+\section{Plan Of Attack}
+First all the members of this group will start by cleaning the different parts of the data set such as abstract, full text, and citation.  Next, Harsh and Divit will determine the useful information from and extract initial set of features from the cleaned data set.  Ambika will work primarily on visualizing the data sets and computing statistics.  All of the fore-mentioned tasks will take approximately 10 days to complete.  Then, Harsh and Divit will implement simple recommendation models while Ambika starts to work on the prediction model.  
+
+All of us will spend the next two weeks analyzing the results of the initial experiments and making sure that they are consistent with the results reported by past works.  These initial models will act as the baselines for the more complex models. By the midterm evaluation, our group should hopefully have a decent understanding of the data set will know the desired features from the data set.  The group will then combine these simple features to model more complex relationships to feed into recommendation models.  Since this is a complex task, the group will keep iterating until satisfactory results are obtained.  We estimate that this process will take about 20 days.  
+
+The final stretch of our project will involve the group trying to formulate various algorithms to re-rank recommendations and analyze the role it plays in determining the future impact of the target paper.  This will leave the group a period of 1 week to document the code and publish the results.
+
+\section{Experiments and Evaluation}
+There are two evaluations to be performed for this project: Recommendation and Prediction.  We perform experiments to evaluate the performance of both of the tasks separately.  To measure the performance of the recommendation model, we first use three simple evaluation metrics: recall, F1-measure, and mean reciprocal rank (MRR) [2][5].  Recall is the fraction of the documents that retrieved successfully from the set of all relevant documents.  
+
+\begin{equation}
+Recall = \frac{True Positive}{True Positive + False Negative}
+\end{equation}
+
+Here, True Positive contains the set of documents that were correctly classified as relevant.  False Negatives contains the of documents incorrectly classified as not relevant. 
+
+F1-measure is the harmonic mean of precision and recall.  It is often used in information retrieval for search, document classification, and query classification. 
+
+MRR is the average of the reciprocal rank of the results for a sample query. MRR is often used to evaluate how good a list of responses are to a particular query. 
+
+\begin{equation}
+MRR = \frac{1}{\mod{Q}}\sum\limits_{i=1}^n\frac{1}{rank_{i}}
+\end{equation}
+
+Another, more accurate form of evaluation of a recommendation model would be to compare the recommended citations to the existing list of citations for a published paper. However, this approach may suffer from missing citations due to space constraints. As a result,  the ground truth is not complete. In this scenario, the performance was measured using a metric based on relevancy score between the recommended paper and the originally cited paper. 
+
+Relevancy score is proportional to the number of times a paper was co-cited with the "true" citation .
+
+\begin{equation}
+res_{s} = \frac{no. of papers citing s & t}{number of papers citing t}
+\end{equation}
+where $s$ is a paper from the list of recommended papers, and $t$ is the paper that actually existed in the bibliography of the test paper. 
+
+Discounted Cumulative Gain (DCG) utilizes the relevancy score and measures the usefulness of a document based on its position in the result list[1].  The logic behind this measure is that highly relevant documents appearing lower in the search result gets penalized.  In other words, in addition to the relevance, the order in which the citations are presented are also taken into account. We can use this metric to validate the myth of whether high impact citations lead to higher impact papers. 
+
+\begin{equation}
+DCG_{p} = rel_{i} + \sum\limits_{i=2}^{p}\frac{rel_{i}}{\log{i}}
+\end{equation}
+
+To evaluate the prediction task , we compare our methods against the submissions in the KDD Cup 2003 challenge. The specific task is to predict the difference of a well cited paper between (a) the number of citations it received from February 1, 2003 and April 1, 2003 and (b) the number of citations received during the period from May 1, 2003 to July 31st, 2003. The evaluation metric here is the $L_1$ distance between the vector representing the predicted change for each of these periods[15].  
+\section{Conclusion}
+
+In this project, we want to explore the set of features that significantly contribute  towards the improvement of the recommendation model.  This problem is nontrivial as it requires significant data-cleaning in order to convert the raw data into useful information. We explore a diverse set of features which include various similarity citation metrics, co-citation matrix, author-paper matrix, and local/global context of the paper.  We then experiment with different recommendation models and evaluate the performance of context aware models vs. bibliography based models.
+
+Finally, we want to discredit or validate the myth that the choice of citations used for a target paper affects the impact it will have in the community.  We do this by re-ranking the recommended set based on the impact of the citations and measure if there is a significant increase in the predicted impact of the target paper. 
+
+\begin{thebibliography}{1}
+
+\bibitem{Livne:2014:CSC:2600428.2609585}
+Avishay Livne, Vivek Gokuladas, Jaime Teevan, Susan~T. Dumais, and Eytan Adar.
+\newblock Citesight: Supporting contextual citation recommendation using
+  differential search.
+\newblock In {\em Proceedings of the 37th International ACM SIGIR Conference on
+  Research \&\#38; Development in Information Retrieval}, SIGIR '14, pages
+  807--816, New York, NY, USA, 2014. ACM.
+
+\bibitem{Ren:2014:CEC:2623330.2623630}
+Xiang Ren, Jialu Liu, Xiao Yu, Urvashi Khandelwal, Quanquan Gu, Lidan Wang, and
+  Jiawei Han.
+\newblock Cluscite: Effective citation recommendation by information
+  network-based clustering.
+\newblock In {\em Proceedings of the 20th ACM SIGKDD International Conference
+  on Knowledge Discovery and Data Mining}, KDD '14, pages 821--830, New York,
+  NY, USA, 2014. ACM.
+
+\bibitem{He:2010:CCR:1772690.1772734}
+Qi~He, Jian Pei, Daniel Kifer, Prasenjit Mitra, and Lee Giles.
+\newblock Context-aware citation recommendation.
+\newblock In {\em Proceedings of the 19th International Conference on World
+  Wide Web}, WWW '10, pages 421--430, New York, NY, USA, 2010. ACM.
+
+\bibitem{Huang:2012:RCT:2396761.2398542}
+Wenyi Huang, Saurabh Kataria, Cornelia Caragea, Prasenjit Mitra, C.~Lee Giles,
+  and Lior Rokach.
+\newblock Recommending citations: Translating papers into references.
+\newblock In {\em Proceedings of the 21st ACM International Conference on
+  Information and Knowledge Management}, CIKM '12, pages 1910--1914, New York,
+  NY, USA, 2012. ACM.
+
+\bibitem{Caragea:2013:CSF:2467696.2467743}
+Cornelia Caragea, Adrian Silvescu, Prasenjit Mitra, and C.~Lee Giles.
+\newblock Can't see the forest for the trees?: A citation recommendation
+  system.
+\newblock In {\em Proceedings of the 13th ACM/IEEE-CS Joint Conference on
+  Digital Libraries}, JCDL '13, pages 111--114, New York, NY, USA, 2013. ACM.
+
+\bibitem{onur2012direction}
+K~Onur, Erik Saule, Kamer Kaya, and Umit~V Cataly{\"u}rek.
+\newblock Direction awareness in citation recommendation.
+\newblock 2012.
+
+\bibitem{Herlocker:2004:ECF:963770.963772}
+Jonathan~L. Herlocker, Joseph~A. Konstan, Loren~G. Terveen, and John~T. Riedl.
+\newblock Evaluating collaborative filtering recommender systems.
+\newblock {\em ACM Trans. Inf. Syst.}, 22(1):5--53, January 2004.
+
+\bibitem{Beel:2013:RPR:2532508.2532512}
+Joeran Beel, Stefan Langer, Marcel Genzmehr, Bela Gipp, Corinna Breitinger, and
+  Andreas N\"{u}rnberger.
+\newblock Research paper recommender system evaluation: A quantitative
+  literature survey.
+\newblock In {\em Proceedings of the International Workshop on Reproducibility
+  and Replication in Recommender Systems Evaluation}, RepSys '13, pages 15--22,
+  New York, NY, USA, 2013. ACM.
+
+\bibitem{McNee:2002:RCR:587078.587096}
+Sean~M. McNee, Istvan Albert, Dan Cosley, Prateep Gopalkrishnan, Shyong~K. Lam,
+  Al~Mamunur Rashid, Joseph~A. Konstan, and John Riedl.
+\newblock On the recommending of citations for research papers.
+\newblock In {\em Proceedings of the 2002 ACM Conference on Computer Supported
+  Cooperative Work}, CSCW '02, pages 116--125, New York, NY, USA, 2002. ACM.
+
+\bibitem{Beel:2013:CAO:2532508.2532511}
+Joeran Beel, Marcel Genzmehr, Stefan Langer, Andreas N\"{u}rnberger, and Bela
+  Gipp.
+\newblock A comparative analysis of offline and online evaluations and
+  discussion of research paper recommender system evaluation.
+\newblock In {\em Proceedings of the International Workshop on Reproducibility
+  and Replication in Recommender Systems Evaluation}, RepSys '13, pages 7--14,
+  New York, NY, USA, 2013. ACM.
+
+\bibitem{Strohman:2007:RCA:1277741.1277868}
+Trevor Strohman, W.~Bruce Croft, and David Jensen.
+\newblock Recommending citations for academic papers.
+\newblock In {\em Proceedings of the 30th Annual International ACM SIGIR
+  Conference on Research and Development in Information Retrieval}, SIGIR '07,
+  pages 705--706, New York, NY, USA, 2007. ACM.
+
+\bibitem{Jung:2004:ACF:1025132.1026401}
+Seikyung Jung, Juntae Kim, and Jonathan~L. Herlocker.
+\newblock Applying collaborative filtering for efficient document search.
+\newblock In {\em Proceedings of the 2004 IEEE/WIC/ACM International Conference
+  on Web Intelligence}, WI '04, pages 640--643, Washington, DC, USA, 2004. IEEE
+  Computer Society.
+
+\bibitem{El-Arini:2011:BKS:2020408.2020479}
+Khalid El-Arini and Carlos Guestrin.
+\newblock Beyond keyword search: Discovering relevant scientific literature.
+\newblock In {\em Proceedings of the 17th ACM SIGKDD International Conference
+  on Knowledge Discovery and Data Mining}, KDD '11, pages 439--447, New York,
+  NY, USA, 2011. ACM.
+
+\bibitem{mcnamara2013predicting}
+Daniel McNamara, Paul Wong, Peter Christen, and Kee~Siong Ng.
+\newblock Predicting high impact academic papers using citation network
+  features.
+\newblock In {\em Trends and Applications in Knowledge Discovery and Data
+  Mining}, pages 14--25. Springer, 2013.
+
+\bibitem{Gehrke:2003:OKC:980972.980992}
+Johannes Gehrke, Paul Ginsparg, and Jon Kleinberg.
+\newblock Overview of the 2003 kdd cup.
+\newblock {\em SIGKDD Explor. Newsl.}, 5(2):149--151, December 2003.
+
+\bibitem{bertsimas2014moneyball}
+Dimitris Bertsimas, Erik Brynjolfsson, Shachar Reichman, and John~M Silberholz.
+\newblock Moneyball for academics: Network analysis for predicting research
+  impact.
+\newblock {\em Available at SSRN 2374581}, 2014.
+
+\bibitem{Perlich:2003:PCR:980972.980994}
+Claudia Perlich, Foster Provost, and Sofus Macskassy.
+\newblock Predicting citation rates for physics papers: Constructing features
+  for an ordered probit model.
+\newblock {\em SIGKDD Explor. Newsl.}, 5(2):154--155, December 2003.
+
+\bibitem{Manjunatha:2003:CPU:980972.980993}
+J.~N. Manjunatha, K.~R. Sivaramakrishnan, Raghavendra~Kumar Pandey, and
+  M~Narasimha Murthy.
+\newblock Citation prediction using time series approach kdd cup 2003 (task 1).
+\newblock {\em SIGKDD Explor. Newsl.}, 5(2):152--153, December 2003.
+  
+\end{thebibliography}
+ 
+\end{document}
+
+
