@@ -2,6 +2,8 @@ import datetime
 import os
 import copy
 
+#Consult Divit if you have any questions about the code
+
 #reads and parses a file
 def read_file(file_path, filename, year):
 	curFile = open(file_path, 'r')
