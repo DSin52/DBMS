@@ -1,0 +1,13 @@
+Paper: hep-th/9807032
+
+Date: 1998-07-03
+
+Title: Non-perturbative VEVs from a Local Expansion
+
+Authors: A. Jaramillo (U. Valencia, Spain) and P. Mansfield (U. Durham, UK)
+
+Comments: 6 pages, LaTeX and appb.sty, 2 figures (uses epsf); Talk given at the
+
+Workshop on 'The Structure of Mesons, Baryons and Nuclei', Cracow, May 1998,to be published in Acta Physica Polonica BJournal-ref: Acta Phys.Polon. B29 (1998) 2487-2492
+
+We propose a method for the calculation of vacuum expectation values (VEVs)given a non-trivial, long-distance vacuum wave functional (VWF) of the kindthat arises, for example, in variational calculations. The VEV is written interms of a Schr\"odinger-picture path integral, then a local expansion for (thelogarithm of the) VWF is used. The integral is regulated with an explicitmomentum cut-off, $\Lambda$. The resulting series is not expected to convergefor $\Lambda$ larger than the mass-gap but studying the domain of analyticityof the VEVs allows us to use analytic continuation to estimate thelarge-$\Lambda$ limit. Scalar theory in 1+1 dimensions is analyzed, where (asin the case of Yang-Mills) we do not expect boundary divergences.

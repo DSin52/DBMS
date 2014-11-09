@@ -1,0 +1,11 @@
+Paper: hep-th/0208195
+
+Date: 2002-08-27
+
+Title: Modular Localization of Massive Particles with "Any" Spin in d=2+1
+
+Authors: Jens Mund
+
+Comments: 31 pages, 1 figure. Minor changes to conform with J. Math. Phys.
+
+versionWe discuss a concept of particle localization which is motivated from quantumfield theory, and has been proposed by Brunetti, Guido and Longo and bySchroer. It endows the single particle Hilbert space with a family of realsubspaces indexed by the space-time regions, with certain specific propertiesreflecting the principles of locality and covariance. We show by constructionthat such a localization structure exists also in the case of massive anyons ind=2+1, i.e. for particles with positive mass and with arbitrary spin s in thereals. The construction is completely intrinsic to the corresponding rayrepresentation of the (proper orthochronous) Poincare group. Our result is ofparticular interest since there are no free fields for anyons, which would fixa localization structure in a straightforward way. We present explicit formulasfor the real subspaces, expected to turn out useful for the construction of aquantum field theory for anyons. In accord with well-known results, onlylocalization in string-like, instead of point-like or bounded, regions isachieved. We also prove a single-particle PCT theorem, exhibiting a PCToperator which acts geometrically correctly on the family of real subspaces.

@@ -1,0 +1,11 @@
+Paper: hep-th/0303228
+
+Date: 2003-03-26
+
+Title: Canonical quantization of a massive particle on $AdS_3$
+
+Authors: James Lucietti
+
+Comments: 26 pages
+
+The classical theory for a massive free particle moving on the group manifold$AdS_3 \cong SL(2, \mathbb{R})$ is analysed in detail. In particular asymplectic structure and two different sets of canonical coordinates areexplicitly found, corresponding to the Cartan and Iwasawa decomposition of thegroup. Canonical quantization is performed in two different ways; either byimposing the future-directed constraint before or after quantization. It isfound that this leads to different quantum theories. The Hilbert space ofeither theory decomposes into the sum of certain irreducible representations of$sl(2,\mathbb{R}) \oplus sl(2,\mathbb{R})$; however, depending on how theconstraint is imposed we get different representations. Quantization of themass occurs, although a continuum exists in the unconstrained theorycorresponding to particles that can reverse their direction in time. Arepresentation on function space is worked out in detail, and from this thewavefunctions of $\widetilde{AdS_3}$ and the $BTZ$ black hole are deduced. Aquantization in terms of the ``chiral'' variables of the theory is also carriedout giving the same results. Comparisons are made between QFT in $AdS_3$ andthe quantum mechanics derived.

@@ -1,0 +1,13 @@
+Paper: hep-th/9807155
+
+Date: 1998-07-20
+
+Title: Combinatorial Formulae for Vassiliev Invariants from Chern-Simons Gauge
+
+TheoryAuthors: J. M. F. Labastida and Esther Perez
+
+Comments: 73 pages, latex, epsf, 18 figures, 2 tables
+
+Journal-ref: J.Math.Phys. 41 (2000) 2658-2699
+
+We analyse the perturbative series expansion of the vacuum expectation valueof a Wilson loop in Chern-Simons gauge theory in the temporal gauge. From theanalysis emerges the notion of the kernel of a Vassiliev invariant. The kernelof a Vassiliev invariant of order n is not a knot invariant, since it dependson the regular knot projection chosen, but it differs from a Vassilievinvariant by terms that vanish on knots with n singular crossings. Weconjecture that Vassiliev invariants can be reconstructed from their kernels.We present the general form of the kernel of a Vassiliev invariant and wedescribe the reconstruction of the full primitive Vassiliev invariants atorders two, three and four. At orders two and three we recover knowncombinatorial expressions for these invariants. At order four we present newcombinatorial expressions for the two primitive Vassiliev invariants present atthis order.

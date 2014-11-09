@@ -1,0 +1,13 @@
+Paper: hep-th/9805035
+
+Date: 1998-05-07
+
+Title: The Higgs Boson Mass and Ward-Takahashi Identity in Gauged
+
+Nambu-Jona-Lasinio ModelAuthors: Michio Hashimoto
+
+Comments: LaTeX file, 10 pages and 2 eps figures, application to QCD is
+
+described in detailJournal-ref: Phys.Lett. B441 (1998) 389-395
+
+A new formula for the composite Higgs boson mass is given, based on theWard-Takahashi identity and the Schwinger-Dyson(SD) equation. In this formulathe dominant asymptotic solution of the SD equation yields a correct answer, insharp contrast to the Partially Conserved Dilatation Current(PCDC) approachwhere the sub- and sub-sub-dominant solutions should be taken into accountcarefully. In the gauged Nambu-Jona-Lasinio model we find M_H \simeq \sqrt{2}Mfor the composite Higgs boson mass M_H and the dynamical mass of the fermion Min the case of the constant gauge coupling(with large cut off), which isconsistent with the PCDC approach and the renormalization-group approach. As tothe case of the running gauge coupling, we find M_H \simeq 2\sqrt{(A-1)/(2A-1)}M, where A \equiv 18 C_2 /(11N_c - 2N_f) with C_2 being thequadratic Casimir of the fermion representation. We also discuss astraightforward application of our formula to QCD(without 4-Fermi coupling),which yields M_{\sigma} \sim \sqrt{2}M_{dyn}, with M_{\sigma} and M_{dyn} beingthe light scalar(``\sigma-meson'') mass and mass of the constituent quark,respectively.

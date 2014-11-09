@@ -1,0 +1,13 @@
+Paper: hep-th/9304091
+
+Date: 1993-04-21
+
+Title: The Renormalization Structure and Quantum Equivalence of 2D Dilaton
+
+GravitiesAuthors: E. Elizalde, S. Naftulin and S.D. Odintsov
+
+Comments: 25 pages, LaTeX file, April 21
+
+Journal-ref: Int.J.Mod.Phys. A9 (1994) 933-952
+
+The one-loop effective action corresponding the general model of dilatongravity given by the Lagrangian $L=-\sqrt{g} \left[ \frac{1}{2}Z(\Phi )g^{\mu\nu} \partial_\mu \Phi \partial_\nu \Phi + C(\Phi ) R + V (\Phi)\right]$, where $Z(\Phi )$, $ C(\Phi )$ and $V (\Phi )$ are arbitraryfunctions of the dilaton field, is found. The question of the quantumequivalence of classically equivalent dilaton gravities is studied. By specificcalculation of explicit examples it is shown that classically equivalentquantum gravities are also perturbatively equivalent at the quantum level, butonly on-shell. The renormalization group equations for the generalizedeffective couplings $Z(\Phi )$, $ C(\Phi )$ and $V (\Phi )$ are written. Ananalysis of the equations shows, in particular, that theCallan-Giddings-Harvey-Strominger model is not a fixed point of theseequations.

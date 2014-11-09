@@ -1,0 +1,11 @@
+Paper: hep-th/0301190
+
+Date: 2003-01-24
+
+Title: A finite action for three dimensional gravity with a minimally coupled
+
+scalar fieldAuthors: Jack Gegenberg, Cristian Martinez, and Ricardo Troncoso
+
+Comments: 18 pages, some references added
+
+Three-dimensional gravity with a minimally coupled self-interacting scalar isconsidered. The fall-off of the fields at infinity is assumed to be slower thanthat of a localized distribution of matter, so that the asymptotic symmetrygroup is the conformal group. The counterterm Lagrangian needed to render theaction finite is found by demanding that the action attain an extremum for theboundary conditions implied by the above fall-off of the fields at infinity.These counterterms explicitly depend on the scalar field. As a consequence, theBrown-York stress-energy tensor acquires a non trivial contribution from thematter sector. Static circularly symmetric solutions with a regular scalarfield are explored for a one-parameter family of potentials. Their masses arecomputed via the Brown-York quasilocal stress-energy tensor, and they coincidewith the values obtained from the Hamiltonian approach. The thermal behavior,including the transition between different configurations, is analyzed, and itis found that the scalar black hole can decay into the BTZ solutionirrespective of the horizon radius. It is also shown that the AdS/CFTcorrespondence yields the same central charge as for pure gravity.

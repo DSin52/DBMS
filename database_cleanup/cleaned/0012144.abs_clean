@@ -1,0 +1,13 @@
+Paper: hep-th/0012144
+
+Date: 2000-12-18
+
+Title: Statistical properties of the spectrum of the QCD Dirac operator at low
+
+energyAuthors: D. Toublan and J.J.M. Verbaarschot
+
+Comments: 24 pages, 2 Postscript figures
+
+Journal-ref: Nucl.Phys. B603 (2001) 343-368
+
+We analyze the statistical properties of the spectrum of the QCD Diracoperator at low energy in a finite box of volume $L^4$ by means of partiallyquenched Chiral Perturbation Theory (pqChPT), a low-energy effective fieldtheory based on the symmetries of QCD. We derive the two-point spectralcorrelation function from the discontinuity of the chiral susceptibility. Foreigenvalues much smaller than $E_c=F^2/\Sigma L^2$, where $F$ is the pion decayconstant and $\Sigma$ is the absolute value of the quark condensate, our resultfor the two-point correlation function coincides with the result previouslyobtained from chiral Random Matrix Theory (chRMT). The departure from the chRMTresult above that scale is described by the contribution of the nonzeromomentum modes. In terms of the variance of the number of eigenvalues in aninterval containing $n$ eigenvalues on average, it results in a crossover froma $\log n$-behavior to a $n^2 \log n$-behavior.

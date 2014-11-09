@@ -1,0 +1,13 @@
+Paper: hep-th/0009194
+
+Date: 2000-09-25
+
+Title: Gauging of Geometric Actions and Integrable Hierarchies of KP Type
+
+Authors: Emil Nissimov and Svetlana Pacheva
+
+Comments: LaTeX209, 47 pages
+
+SystemsJournal-ref: Int.J.Mod.Phys. A16 (2001) 2311-2364
+
+This work consist of two interrelated parts. First, we derive massivegauge-invariant generalizations of geometric actions on coadjoint orbits ofarbitrary (infinite-dimensional) groups $G$ with central extensions, with gaugegroup $H$ being certain (infinite-dimensional) subgroup of $G$. We show thatthere exist generalized ``zero-curvature'' representation of the pertinentequations of motion on the coadjoint orbit. Second, in the special case of $G$being Kac-Moody group the equations of motion of the underlying gauged WZNWgeometric action are identified as additional-symmetry flows of generalizedDrinfeld-Sokolov integrable hierarchies based on the loop algebra ${\hat \cG}$.For ${\hat \cG} = {\hat {SL}}(M+R)$ the latter hiearchies are equivalent to aclass of constrained (reduced) KP hierarchies called ${\sl cKP}_{R,M}$, whichcontain as special cases a series of well-known integrable systems (mKdV, AKNS,Fordy-Kulish, Yajima-Oikawa etc.). We describe in some detail the loop algebrasof additional (non-isospectral) symmetries of ${\sl cKP}_{R,M}$ hierarchies.Apart from gauged WZNW models, certain higher-dimensional nonlinear systemssuch as Davey-Stewartson and $N$-wave resonant systems are also identified asadditional symmetry flows of ${\sl cKP}_{R,M}$ hierarchies. Along the way weexhibit explicitly the interrelation between the Sato pseudo-differentialoperator formulation and the algebraic (generalized) Drinfeld-Sokolovformulation of ${\sl cKP}_{R,M}$ hierarchies. Also we present the explicitderivation of the general Darboux-B\"acklund solutions of ${\sl cKP}_{R,M}$preserving their additional (non-isospectral) symmetries, which for R=1 containamong themselves solutions to the gauged $SL(M+1)/U(1)\times SL(M)$ WZNW fieldequations.

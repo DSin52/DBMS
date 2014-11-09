@@ -1,0 +1,11 @@
+Paper: hep-th/0105315
+
+Date: 2001-05-31
+
+Title: Representations of the Renormalization Group as Matrix Lie Algebra
+
+Authors: M. Berg, P. Cartier
+
+Comments: 30 pages, uses feynmf package
+
+Renormalization is cast in the form of a Lie algebra of matrices. Byexponentiation, these matrices generate counterterms for Feynman diagrams withsubdivergences. The matrices are triangular, and in general infinite. Asrepresentations of an insertion operator, the matrices provide explicitrepresentations of the Connes-Kreimer Lie algebra. In fact, the right-symmetricnonassociative algebra of the Connes-Kreimer insertion product is equivalent toan ``Ihara bracket'' in the matrix Lie algebra. We check our results in a fewthree-loop examples in scalar field theory. Apart from the obvious applicationto high-precision phenomenology, some ideas about possible applications innoncommutative geometry and functional integration are given.

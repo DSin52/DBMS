@@ -1,0 +1,13 @@
+Paper: hep-th/9612250
+
+Date: 1996-12-31
+
+Title: Gauge Independence in terms of the Functional Integral
+
+Authors: T. Kashiwa and N. Tanimura (Kyushu Univ. Fukuoka, Japan)
+
+Comments: 15 pages, 5 figure files, LaTeX
+
+Journal-ref: Phys.Rev. D56 (1997) 2281-2290
+
+Among various approaches in proving gauge independence, models containing anexplicit gauge dependence are convenient. The well-known example is the gaugeparameter in the covariant gauge fixing which is of course most suitable forthe perturbation theory but a negative metric prevents us from imaging adynamical picture. Noncovariant gauge such as the Coulomb gauge is on thecontrary used for many physical situations. Therefore it is desirable toinclude both cases. More than ten years ago, Steinmann introduced a function(distribution) which can play this role in his attempt on discussing quantumelectrodynamics (QED) in terms of the gauge invariant fields solely. The methodill-defined because of 1/p^2 singularity in the Minkowski space. In this paper,function we first restrict it to be able to have a well- defined operator, andthen a Hamiltonian with which we can build up the (Euclidean) path integralformula. Although the formula is far from covariant, a full covariantexpression is recovered by reviving the components which have been discardedunder the construction of the Hamiltonian. There is no pathological defectscontrary to the operator formalism. With the aid of the path integral formula,the gauge independence of the free energy as well as the S-matrix is proved.Moreover the reason is clarified why it is so simple and straightforward toargue gauge transformations in the path integral. Discussions on the quarkconfinement is also presented.

@@ -1,0 +1,13 @@
+Paper: hep-th/9505005
+
+Date: 1995-05-01
+
+Title: Topology on the lattice; 2d Yang-Mills theories with a theta term
+
+Authors: Tam\'as G. Kov\'acs, E.T. Tomboulis and Zsolt Schram
+
+Comments: 19 pages LaTeX
+
+Journal-ref: Nucl. Phys. B454 (1995) 45
+
+We study two-dimensional U($N$) and SU($N$) gauge theories with a topologicalterm on arbitrary surfaces. Starting from a lattice formulation we derive thecontinuum limit of the action which turns out to be a generalisation of theheat kernel in the presence of a topological term. In the continuum limit wecan reconstruct the topological information encoded in the theta term. In thetopologically trivial cases the theta term gives only a trivial shift to theground state energy but in the topologically nontrivial ones it remains to becoupled to the dynamics in the continuum. In particular for the U($N$) gaugegroup on orientable surfaces it gives rise to a phase transition at $\theta=\pi$, similar to the ones observed in other models. Using the equivalence of 2dQCD and a 1d fermion gas on a circle we rewrite our result in the fermioniclanguage and show that the theta term can be also interpreted as an externalmagnetic field imposed on the fermions.

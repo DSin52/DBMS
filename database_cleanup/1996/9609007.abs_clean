@@ -1,0 +1,11 @@
+Paper: hep-th/9609007
+
+Date: 1996-08-30
+
+Title: Interaction Representation in Boltzmann Field Theory
+
+Authors: I.Ya. Arefeva and A.P. Zubarev
+
+Comments: 48 pages, 16 figures, latex, uses bezier.sty
+
+We consider an interaction representation in the Boltzmann field theory. Itdescribes the master field for a subclass of planar diagrams in matrix models,so called half-planar diagrams. This interaction representation was found inthe previous paper by Accardi, Volovich and one of us (I.A.) and it has anunusual property that one deals with a rational function of the interactionLagrangian instead of the ordinary exponential function. Here we study theinteraction representation in more details and show that under naturalassumptions this representation is in fact unique. We demonstrate thatcorresponding Schwinger-Dyson equations lead to a closed set of integralequations for two- and four-point correlation functions. Renormalization of themodel is performed and renormalization group equations are obtained. Some modelexamples with discrete number of degrees of freedom are solved numerically. Thesolution for one degree of freedom is compared with the planar approximationfor one matrix model. For large variety of coupling constant it reproduces theplanar approximation with good accuracy.

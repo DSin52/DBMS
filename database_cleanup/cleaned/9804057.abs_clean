@@ -1,0 +1,11 @@
+Paper: hep-th/9804057
+
+Date: 1998-04-07
+
+Title: Duality of large N Yang-Mills Theory on $T^2 \times R^n$
+
+Authors: Z. Guralnik
+
+Comments: 17 pages, harvmac, reference added
+
+We find aspects of electrically confining large $N$ Yang-Mills theories on$T^2 \times R^{d-2}$ which are consistent with a $GL(2,Z)$ duality. The modularparameter associated with this $GL(2,Z)$ is given by ${m\over N} + i\Lambda^2A$, where $A$ is the area of the torus, $m$ is the t'Hooft twist on the torus,and $\Lambda^2$ is the string tension. $N$ is taken to infinity keeping $m\overN$ and $g^2N$ fixed. This duality may be interpreted as T-duality of the QCDstring if one identifies the magnetic flux with a two-form background in thestring theory. Our arguments make no use of supersymmetry. While we are notable to show that this is an exact self duality of conventional QCD, weconjecture that it may be applicable within the universality class of QCD. Wediscuss the status of the conjecture for the soluble case of pure twodimensional Euclidean QCD on $T^2$, which is almost but not exactly self dual.For higher dimensional theories, we discuss qualitative features consistentwith duality. For $m=0$, such a duality would lead to an equivalence betweenpure QCD on $R^4$ and QCD on $R^2$ with two adjoint scalars. When $\Lambda^2 A<< m^2/N^2$, the proposed duality includes exchanges of rank with twist. Thisexchange bears some resemblance, but is not equivalent, to Nahm duality. Aproposal for an explicit perturbative map which implements duality in thislimit is discussed.

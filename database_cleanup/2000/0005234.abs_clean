@@ -1,0 +1,13 @@
+Paper: hep-th/0005234
+
+Date: 2000-05-25
+
+Title: Gauge Field Theory Coherent States (GCS)
+
+Authors: T. Thiemann, O. Winkler
+
+Comments: 49 pages, LATEX, no figures
+
+Journal-ref: Class.Quant.Grav. 18 (2001) 4629-4682
+
+In the preceding paper of this series of articles we established peakednessproperties of a family of coherent states that were introduced by Hall for anycompact gauge group and were later generalized to gauge field theory byAshtekar, Lewandowski, Marolf, Mour\~ao and Thiemann.In this paper we establish the ``Ehrenfest Property'' of these states whichare labelled by a point (A,E), a connection and an electric field, in theclassical phase space. By this we mean that i) The expectation value of {\itall} elementary quantum operators $\hat{O}$ with respect to the coherent statewith label (A,E) is given to zeroth order in $\hbar$ by the value of thecorresponding classical function O evaluated at the phase space point (A,E) andii) The expectation value of the commutator between two elementary quantumoperators $[\hat{O}_1,\hat{O}_2]/(i\hbar)$ divided by $i\hbar$ with respect tothe coherent state with label (A,E) is given to zeroth order in $\hbar$ by thevalue of the Poisson bracket between the corresponding classical functions$\{O_1,O_2\}$ evaluated at the phase space point (A,E).These results can be extended to all polynomials of elementary operators andto a certain non-polynomial function of the elementary operators associatedwith the volume operator of quantum general relativity. It follows that theinfinitesimal quantum dynamics of quantum general relativity is to zeroth orderin $\hbar$ indeed given by classical general relativity.

@@ -1,0 +1,11 @@
+Paper: hep-th/0212289
+
+Date: 2002-12-23
+
+Title: Canonical form of Euler-Lagrange equations and gauge symmetries
+
+Authors: B. Geyer (U. of Leipzig), D.M. Gitman (U. of Sao Paulo), I.V. Tyutin
+
+(Lebedev Institute)Comments: 27 pages, LaTex file
+
+The structure of the Euler-Lagrange equations for a general Lagrangian theoryis studied. For these equations we present a reduction procedure to theso-called canonical form. In the canonical form the equations are solved withrespect to highest-order derivatives of nongauge coordinates, whereas gaugecoordinates and their derivatives enter in the right hand sides of theequations as arbitrary functions of time. The reduction procedure revealsconstraints in the Lagrangian formulation of singular systems and, in thatrespect, is similar to the Dirac procedure in the Hamiltonian formulation.Moreover, the reduction procedure allows one to reveal the gauge identitiesbetween the Euler-Lagrange equations. Thus, a constructive way of finding allthe gauge generators within the Lagrangian formulation is presented. At thesame time, it is proven that for local theories all the gauge generators arelocal in time operators.

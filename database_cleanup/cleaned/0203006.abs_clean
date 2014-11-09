@@ -1,0 +1,13 @@
+Paper: hep-th/0203006
+
+Date: 2002-03-01
+
+Title: Critical exponents from optimised renormalisation group flows
+
+Authors: Daniel F. Litim
+
+Comments: 34 pages, 15 figures, revtex, to appear in NPB
+
+Journal-ref: Nucl.Phys. B631 (2002) 128-158
+
+Within the exact renormalisation group, the scaling solutions for O(N)symmetric scalar field theories are studied to leading order in the derivativeexpansion. The Gaussian fixed point is examined for d>2 dimensions andarbitrary infrared regularisation. The Wilson-Fisher fixed point in d=3 isstudied using an optimised flow. We compute critical exponents and subleadingcorrections-to-scaling to high accuracy from the eigenvalues of the stabilitymatrix at criticality for all N. We establish that the optimisation isresponsible for the rapid convergence of the flow and polynomial truncationsthereof. The scheme dependence of the leading critical exponent is analysed.For all N > 0, it is found that the leading exponent is bounded. The upperboundary is achieved for a Callan-Symanzik flow and corresponds, for all N, tothe large-N limit. The lower boundary is achieved by the optimised flow and isclosest to the physical value. We show the reliability of polynomialapproximations, even to low orders, if they are accompanied by an appropriatechoice for the regulator. Possible applications to other theories are outlined.

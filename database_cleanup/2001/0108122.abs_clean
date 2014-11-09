@@ -1,0 +1,11 @@
+Paper: hep-th/0108122
+
+Date: 2001-08-16
+
+Title: Instantons, the Information Metric, and the AdS/CFT Correspondence
+
+Authors: Matthias Blau, K.S. Narain, George Thompson
+
+Comments: 44 pages, LaTeX, no figures
+
+We describe some remarkable properties of the so-called Information Metric oninstanton moduli space. This Metric is manifestly gauge and conformallyinvariant and coincides with the Euclidean AdS_5 metric on the one-instantonSU(2) moduli space for the standard metric on R^4. We propose that for anarbitrary boundary metric the AdS/CFT bulk space-time is the instanton modulispace equipped with the Information Metric.To test this proposal, we examine the variation of the instanton moduli andthe Information Metric for first-order perturbations of the boundary metric andInformation Metric is Einstein. (2) The perturbed instanton density is thecorresponding massless boundary-to-bulk scalar propagator. (3) The regularizedboundary-to-bulk geodesic distance is proportional to the logarithm of theperturbed instanton density. The Hamilton-Jacobi equation implied by (3) equipsthe moduli space with a rich geometrical structure which we explore.These results tentatively suggest a picture in which the one-instanton sectorof SU(2) Yang-Mills theory (rather than some large-N limit) is in some senseholographically dual to bulk gravity.

@@ -1,0 +1,13 @@
+Paper: hep-th/9310164
+
+Date: 1993-10-25
+
+Title: Spherical Categories
+
+Authors: John W. Barrett and Bruce W. Westbury
+
+Comments: 16 pages. Minor corrections
+
+Journal-ref: Adv.Math. 143 (1999) 357-375
+
+This paper is a study of monoidal categories with duals where the tensorproduct need not be commutative. The motivating examples are categories ofrepresentations of Hopf algebras and the motivating application is thedefinition of 6j-symbols as used in topological field theories.We introduce the new notion of a spherical category. In the first sectionwe prove a coherence theorem for a monoidal category with duals followingMacLane (1963). In the second section we give the definition of a sphericalcategory, and construct a natural quotient which is also spherical.In the third section we define spherical Hopf algebras so that the categoryof representations is spherical. Examples of spherical Hopf algebras areinvolutory Hopf algebras and ribbon Hopf algebras. Finally we study the naturalquotient in these cases and show it is semisimple.

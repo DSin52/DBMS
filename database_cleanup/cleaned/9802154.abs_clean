@@ -1,0 +1,13 @@
+Paper: hep-th/9802154
+
+Date: 1998-02-22
+
+Title: The Vacuum Energy Density of QCD with n_f=3 Quark Flavors
+
+Authors: Martin Schaden (New York University)
+
+Comments: Cleaned version, no quantitative changes. 26 pages, Latex with 4
+
+ps-figures, figures included using psfig.styJournal-ref: Phys.Rev. D58 (1998) 025016
+
+An equivariant BRST-construction is used to define the continuum SU(3) gaugetheory on a finite torus. I corroborate previous results using renormalizationgroup techniques by explicitly computing the measure on the moduli-space of themodel with 3 quark flavors to two loops. I find that the correction to themaximum of the one-loop effective action is indeed of order $g^2$ in thecritical covariant gauge. The leading logarithmic corrections from higher loopsare also shown to be suppressed by at least one order of $g^2$. I therefore amable to relate the expectation value of the moduli to the asymptotic scaleparameter of the modified minimal subtraction scheme. An immediate consequenceis the determination of the non-perturbative proportionality constant in therelation between the vacuum expectation value of the trace of the energymomentum tensor and $\Lambda_{QCD}$ for the modified minimal subtraction schemewith three quark flavors. The result compares favorably with phenomenologicalestimates of the gluon condensate from QCD sumrules for the charmonium systemand $\Lambda_{QCD}$ from $\tau$-decay.

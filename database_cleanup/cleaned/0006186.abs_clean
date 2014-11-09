@@ -1,0 +1,13 @@
+Paper: hep-th/0006186
+
+Date: 2000-06-23
+
+Title: Quantum structure of T-dualized models with symmetry breaking
+
+Authors: P. Y. Casteill, G. Valent
+
+Comments: 24 pages, no figures, latex2e
+
+Journal-ref: Nucl.Phys. B591 (2000) 491-514
+
+We study the principal sigma-models defined on any group manifold GL x GR/GDwith breaking of GR, and their T-dual transforms. For abritary breaking we canexpress the torsion and Ricci tensor of the dual model in terms of the framegeometry of the initial principal model. Using these results, we give necessaryand sufficient conditions for the dual model to be torsionless and prove thatthe one-loop renormalizability of a given principal model is inherited by itsdual partner, who shares the same beta-functions. These results are shown tohold also if the principal model is endowed with torsion. As an application wecompute the beta-functions for the full Bianchi family and show that for somechoices the dual torsion vanishes. For the dualized Bianchi V model (which istorsionless for any breaking), we take advantage of its simpler structure, tostudy its two-loops renormalizability.

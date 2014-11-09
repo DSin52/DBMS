@@ -1,0 +1,13 @@
+Paper: hep-th/9906113
+
+Date: 1999-06-15
+
+Title: Lam'e Instantons
+
+Authors: Gerald V. Dunne and Kumar Rao
+
+Comments: 4 pp, RevTeX, 4 figs, uses epsfig.sty; references added
+
+Journal-ref: JHEP 0001 (2000) 019
+
+We perform a precise analytic test of the instanton approximation bycomparing the exact band spectrum of the periodic Lam\'e potential to thetight-binding, instanton and WKB approximations. The instanton result gives thecorrect leading behavior in the semiclassical limit, while the tight-bindingapproximation does even better. WKB is off by an overall factor of$\sqrt{e/\pi}$.

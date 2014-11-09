@@ -1,0 +1,13 @@
+Paper: hep-th/9311062
+
+Date: 1993-11-10
+
+Title: On a `universal' class of WZW-type conformal models
+
+Authors: A.A.Tseytlin
+
+Comments: 29 pages, harvmac, CERN-TH.7068/93 [Section 5 is expanded; the action
+
+of two `chiral' sets of group coordinates which corresponds to the `master'Hamiltonian is given in an explicit form.]Journal-ref: Nucl.Phys. B418 (1994) 173-194
+
+We consider a class of sigma models that appears from a generalisation of thegauged WZW model parametrised by a constant matrix $Q$. Particular values of$Q$ correspond to the standard gauged WZW models, chiral gauged WZW models anda bosonised version of the non-abelian Thirring model. The condition ofconformal invariance of the models (to one loop or $1/k$-order but exactly in$Q$) is derived and is represented as an algebraic equation on $Q$. Solvingthis equation we demonstrate explicitly the conformal invariance of the sigmamodels associated with arbitrary $G/H$ gauged and chiral gauged WZW theories aswell as of the models that can be represented as WZW model perturbed byintegrably marginal operators (constructed from currents of the Cartansubalgebra $H_c$ of $G$). The latter models can be also interpreted as $G xH/H$ gauged WZW models and have the corresponding target space couplings(metric, antisymmetric tensor and dilaton) depending on an arbitrary constantmatrix which parametrises an embedding of the abelian subgroup $H$ (isomorphicto $H_c$) into $G x H$. We discuss the relation of our conformal invarianceequation to the large $k$ form of the master equation of the affine-Virasoroconstruction. Our equation describes `reducible' versions of some `irreducible'solutions (cosets) of the master equation. We suggest a classicallynon-Lorentz-invariant sigma model that may correspond to other solutions of themaster equation.

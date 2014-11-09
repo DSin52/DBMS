@@ -1,0 +1,13 @@
+Paper: hep-th/9908151
+
+Date: 1999-08-24
+
+Title: Rigid and gauge Noether symmetries for constrained systems
+
+Authors: J.M. Pons and J. Antonio Garcia
+
+Comments: 22 pages, RevTeX
+
+Journal-ref: Int.J.Mod.Phys. A15 (2000) 4681-4721
+
+We develop the general theory of Noether symmetries for constrained systems.In our derivation, the Dirac bracket structure with respect to the primaryconstraints appears naturally and plays an important role in thecharacterization of the conserved quantities associated to these Noethersymmetries. The issue of projectability of these symmetries from tangent spaceto phase space is fully analyzed, and we give a geometrical interpretation ofthe projectability conditions in terms of a relation between the Noetherconserved quantity in tangent space and the presymplectic form defined on it.We also examine the enlarged formalism that results from taking the Lagrangemultipliers as new dynamical variables; we find the equation that characterizesthe Noether symmetries in this formalism. The algebra of generators for Noethersymmetries is discussed in both the Hamiltonian and Lagrangian formalisms. Wefind that a frequent source for the appearance of open algebras is the factthat the transformations of momenta in phase space and tangent space onlycoincide on shell. Our results apply with no distinction to rigid and gaugesymmetries; for the latter case we give a general proof of existence of Noethergauge symmetries for theories with first and second class constraints that donot exhibit tertiary constraints in the stabilization algorithm. Among someexamples that illustrate our results, we study the Noether gauge symmetries ofthe Abelian Chern-Simons theory in $2n+1$ dimensions. An interesting feature ofthis example is that its primary constraints can only be identified after thedetermination of the secondary constraint. The example is worked out retainingall the original set of variables.

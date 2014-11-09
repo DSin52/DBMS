@@ -1,0 +1,13 @@
+Paper: hep-th/9901086
+
+Date: 1999-01-20
+
+Title: Casimir Surface Force on a Dilute Dielectric Ball
+
+Authors: Iver Brevik and Valery Marachevsky
+
+Comments: 24 pages, latex, no figures, some additions to the Acknowledments
+
+sectionJournal-ref: Phys.Rev. D60 (1999) 085006
+
+The Casimir surface force density F on a dielectric dilute spherical ball ofradius a, surrounded by a vacuum, is calculated at zero temperature. We treat(n-1) (n being the refractive index) as a small parameter. The dispersiveproperties of the material are taken into account by adopting a simpledispersion relation, involving a sharp high frequency cutoff at omega =omega_0. For a nondispersive medium there appears (after regularization) afinite, physical, force F^{nondisp} which is repulsive. By means of a uniformasymptotic expansion of the Riccati-Bessel functions we calculate F^{nondisp}up to the fourth order in 1/nu. For a dispersive medium the main part of theforce F^{disp} is also repulsive. The dominant term in F^{disp} is proportionalto (n-1)^2{omega_0}^3/a, and will under usual physical conditions outweighF^{nondisp} by several orders of magnitude.

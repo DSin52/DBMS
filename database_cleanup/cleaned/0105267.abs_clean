@@ -1,0 +1,13 @@
+Paper: hep-th/0105267
+
+Date: 2001-05-27
+
+Title: Dynamically Triangulating Lorentzian Quantum Gravity
+
+Authors: J. Ambjorn (NBI, Copenhagen), J. Jurkiewicz (U. Krakow) and R. Loll
+
+(AEI, Golm)Comments: 41 pages, 14 figures
+
+Journal-ref: Nucl.Phys. B610 (2001) 347-382
+
+Fruitful ideas on how to quantize gravity are few and far between. In thispaper, we give a complete description of a recently introduced non-perturbativegravitational path integral whose continuum limit has already been investigatedextensively in d less than 4, with promising results. It is based on asimplicial regularization of Lorentzian space-times and, most importantly,possesses a well-defined, non-perturbative Wick rotation. We present a detailedanalysis of the geometric and mathematical properties of the discretized modelin d=3,4. This includes a derivation of Lorentzian simplicial manifoldconstraints, the gravitational actions and their Wick rotation. We define atransfer matrix for the system and show that it leads to a well-definedself-adjoint Hamiltonian. In view of numerical simulations, we also suggestsets of Lorentzian Monte Carlo moves. We demonstrate that certain pathologicalphases found previously in Euclidean models of dynamical triangulations cannotbe realized in the Lorentzian case.

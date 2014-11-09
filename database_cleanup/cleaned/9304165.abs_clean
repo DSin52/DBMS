@@ -1,0 +1,11 @@
+Paper: hep-th/9304165
+
+Date: 1993-05-02
+
+Title: High-Order Adiabatic Approximation for Non-Hermitian Quantum System and
+
+Complexization of Berry's PhaseAuthors: Chang-Pu Sun
+
+Comments: ITP.SB-93-22,17 pages
+
+In this paper the evolution of a quantum system drived by a non-HermitianHamiltonian depending on slowly-changing parameters is studied by building anuniversal high-order adiabatic approximation(HOAA) method with Berry's phase,which is valid for either the Hermitian or the non-Hermitian cases. Thismethod can be regarded as a non-trivial generalization of the HOAA method forclosed quantum system presented by this author before. In a general situation,the probabilities of adiabatic decay and non-adiabatic transitions areexplicitly obtained for the evolution of the non-Hermitian quantum system. Itis also shown that the non-Hermitian analog of the Berry's phase factor for thenon-Hermitian case just enjoys the holonomy structure of the dual linear bundleover the parameter manifold. The non-Hermitian evolution of the generalizedforced harmonic oscillator is discussed as an illustrative examples.

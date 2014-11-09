@@ -1,0 +1,11 @@
+Paper: hep-th/0205072
+
+Date: 2002-05-08
+
+Title: On covariant phase space methods
+
+Authors: Bernard Julia and Sebastian Silva
+
+Comments: 34 pages, no figure
+
+It is well known that the Lagrangian and the Hamiltonian formalisms can becombined and lead to "covariant symplectic" methods. For that purpose a"pre-symplectic form" has been constructed from the Lagrangian using theso-called Noether form. However, analogously to the standard Noether currents,this symplectic form is only determined up to total divergences which arehowever essential ingredients in gauge theories.We propose a new definition of the symplectic form which is covariant andfree of ambiguities in a general first order formulation. Indeed, ourconstruction depends on the equations of motion but not on the Lagrangian. Wethen define a generalized Hamiltonian which generates the equations of motionsin a covariant way. Applications to Yang-Mills, general relativity,Chern-Simons and supergravity theories are given. We also consider nice sets ofpossible boundary conditions that imply the closure and conservation of thetotal symplectic form.We finally revisit the construction of conserved charges associated withgauge symmetries, from both the "covariant symplectic" and the "covariantizedRegge-Teitelboim" points of view. We find that both constructions coincide whenthe ambiguity in the Noetherian pre-symplectic form is fixed using our newprescription. We also present a condition of integrability of the equationsthat lead to these quantities.

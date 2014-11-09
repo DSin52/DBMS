@@ -1,0 +1,13 @@
+Paper: hep-th/9907044
+
+Date: 1999-07-07
+
+Title: Recursive Graphical Construction for Feynman Diagrams of Quantum
+
+ElectrodynamicsAuthors: M. Bachmann, H. Kleinert, A. Pelster
+
+Comments: Author Information under
+
+Journal-ref: Phys.Rev. D61 (2000) 085017
+
+We present a method for a recursive graphical construction of Feynmandiagrams with their correct multiplicities in quantum electrodynamics. Themethod is first applied to find all diagrams contributing to the vacuum energyfrom which all n-point functions are derived by functional differentiation withrespect to electron and photon propagators, and to the interaction. Basis forour construction is a functional differential equation obeyed by the vacuumenergy when considered as a functional of the free propagators and theinteraction. Our method does not employ external sources in contrast totraditional approaches.

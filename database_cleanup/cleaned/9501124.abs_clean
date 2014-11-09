@@ -1,0 +1,13 @@
+Paper: hep-th/9501124
+
+Date: 1995-01-27
+
+Title: On the Connection Between Momentum Cutoff and Operator Cutoff
+
+RegularizationsAuthors: Sen-Ben Liao
+
+Comments: 28 pages in plain TeX, no figures. revised and expanded
+
+Journal-ref: Phys.Rev. D53 (1996) 2020-2036
+
+Operator cutoff regularization based on the original Schwinger's proper-timeformalism is examined. By constructing a regulating smearing function for theproper-time integration, we show how this regularization scheme simulates theusual momentum cutoff prescription yet preserves gauge symmetry even in thepresence of the cutoff scales. Similarity between the operator cutoffregularization and the method of higher (covariant) derivatives is alsoobserved. The invariant nature of the operator cutoff regularization makes it apromising tool for exploring the renormalization group flow of gauge theoriesin the spirit of Wilson-Kadanoff blocking transformation.

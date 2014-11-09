@@ -1,0 +1,13 @@
+Paper: hep-th/9604019
+
+Date: 1996-04-03
+
+Title: Anomalous thresholds and edge singularities in Electrical Impedance
+
+TomographyAuthors: S. Ciulli, S. Ispas (Univ. de Montpellier 2) and M.K. Pidcock (Oxford
+
+Brookes University)Comments: Correction of a misprint which occurred in the unnumbered formula
+
+preceding Eq. (14), LaTeX file as an uuencoded file, 40 pages with 12figures, uses epsf.styPM-95/21)Journal-ref: J.Math.Phys. 37 (1996) 4388-4417
+
+Studies of models of current flow behaviour in Electrical ImpedanceTomography (EIT) have shown that the current density distribution variesextremely rapidly near the edge of the electrodes used in the technique. Thisbehaviour imposes severe restrictions on the numerical techniques used in imagereconstruction algorithms. In this paper we have considered a simple twodimensional case and we have shown how the theory of end point/pinchsingularities which was developed for studying the anomalous thresholdsencountered in elementary particle physics can be used to give a completedescription of the analytic structure of the current density near to the edgeof the electrodes. As a byproduct of this study it was possible to give acomplete description of the Riemann sheet manifold of the eigenfunctions of thelogarithmic kernel. These methods can be readily extended to other weaklysingular kernels.

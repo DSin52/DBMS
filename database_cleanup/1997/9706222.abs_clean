@@ -1,0 +1,13 @@
+Paper: hep-th/9706222
+
+Date: 1997-06-30
+
+Title: Confinement in Covariant Gauges
+
+Authors: Martin Schaden, Alexander Rozenberg (New York University)
+
+Comments: 45 pages, Latex, uses psfig.sty and epsfig.sty to include
+
+postscript-figuresJournal-ref: Phys.Rev. D57 (1998) 3670-3693
+
+We examine the weak coupling limit of Euclidean SU(n) gauge theory incovariant gauges. Following an earlier suggestion, an equivariantBRST-construction is used to define the continuum theory on a finite torus. Theequivariant gauge fixing introduces constant ghost fields as moduli of themodel. We study the parameter- and moduli- space perturbatively. For $n_f \leqn$ quark flavors, the moduli flow to a non-trivial fixed point in certaincritical covariant gauges and the one-loop effective potential indicates thatthe global SU(n) color symmetry of the gauge fixed model is spontaneouslybroken to $U(1)^{n-1}$. Ward identities and renormalization group argumentsimply that the longitudinal gauge boson propagator at long range is dominatedby $n(n-1)$ Goldstone bosons in these critical covariant gauges. In the large$n$ limit, we derive a nonlinear integral equation for the expectation value oflarge Wilson loops assuming that the exchange of Goldstone bosons dominates theinteraction at long range in critical covariant gauges. We find numericallythat the expectation value of large circular Wilson loops decreasesexponentially with the enclosed area in the absence of dynamical fermions. Thegauge invariance of this mechanism for confinement in critical covariant gaugesis discussed.

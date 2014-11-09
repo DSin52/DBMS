@@ -1,0 +1,13 @@
+Paper: hep-th/9203016
+
+Date: 1992-03-07
+
+Title: Nonlocal Yang-Mills
+
+Authors: Gary Kleppe and R. P. Woodard
+
+Comments: 38 pages, figures available upon request. No macro needed
+
+Journal-ref: Nucl.Phys. B388 (1992) 81-112
+
+We present a very simple and explicit procedure for nonlocalizing the actionof any theory which can be formulated perturbatively. When the resultingnonlocal field theory is quantized using the functional formalism --- with unitmeasure factor --- its Green's functions are finite to all orders. Theconstruction also ensures perturbative unitarity to all orders for scalars withnonderivative interactions, however, decoupling is lost at one loop when vectorand tensor quanta are present. Decoupling can be restored (again, to allorders) if a suitable measure factor exists. We compute the required measurefactor for pure Yang-Mills at order $g^2$ and then use it to evaluate thevacuum polarization at one loop. A peculiar feature of our regularizationscheme is that the on-shell tree amplitudes are completely unaffected. Thisimplies that the nonlocal field theory can be viewed as a highly noncanonicalquantization of the original, local field equations.

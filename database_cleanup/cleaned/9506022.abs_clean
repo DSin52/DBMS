@@ -1,0 +1,13 @@
+Paper: hep-th/9506022
+
+Date: 1995-06-03
+
+Title: Feynman rules for string field theories with discrete target space
+
+Authors: Saburo Higuchi and Ivan K. Kostov
+
+Comments: 19 pages, harvmac, 4 uuencoded figures included using epsf. A missing
+
+term added to the expression for the genus-one tadpole and Fig.3 modifiedcorrespondinglyJournal-ref: Phys.Lett. B357 (1995) 62-70
+
+We derive a minimal set of Feynman rules for the loop amplitudes in unitarymodels of closed strings, whose target space is a simply laced (extended)Dynkin diagram. The string field Feynman graphs are composed of propagators,vertices (including tadpoles) of all topologies, and leg factors for themacroscopic loops. A vertex of given topology factorizes into a fusioncoefficient for the matter fields and an intersection number associated withthe corresponding punctured surface. As illustration we obtain explicitexpressions for the genus-one tadpole and the genus-zero four-loop amplitude.

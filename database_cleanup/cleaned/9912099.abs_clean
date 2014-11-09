@@ -1,0 +1,11 @@
+Paper: hep-th/9912099
+
+Date: 1999-12-13
+
+Title: Two and three-fermion 3D equations deduced from Bethe-Salpeter equations
+
+Authors: J. Bijtebier
+
+Comments: 27 pages in LaTeX. This is a combined and improved version of
+
+hep-th/9809131 and hep-th/9903035We write a 3D equation for three fermions by combining the three two-bodypotentials obtained in 3D reductions (based on a series expansion around arelative-energy fixing "approximation" of the free propagators) of thecorresponding two-fermion Bethe-Salpeter equations to equivalent 3D equations,putting the third fermion on its positive-energy mass shell. In this way, thecluster-separated limits are exact, and the Lorentz invariance / clusterseparability requirement is automatically satisfied, provided no supplementaryapproximation, like the Born approximation, is made. The use of positivefree-energy projectors in the chosen reductions of the two-fermionBethe-Salpeter equations prevents continuum dissolution in our 3D three-fermionequation. The potentials are hermitian below the inelastic threshold and dependonly slowly on the total three-fermion energy. This "hand-made" three-fermion3D equation is also obtained by starting with an approximation of thethree-fermion Bethe-Salpeter equation, in which the three-body kernel isneglected and the two-body kernels approached by positive-energy instantaneousexpressions, with the spectator fermion on the mass shell. The neglected termsare then transformed into corrections to the 3D equation, in three stepsimplying each a series expansion. The result is of course complicated, but thelowest-order contributions of these correction terms to the energy spectrumremain manageable.We also present some other 3D reduction procedures andpropagator, 3D reductions performed by a series expansion around instantaneousapproximations of the kernels instead of "approximations" of the propagators,Gross' spectator model.

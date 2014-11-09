@@ -1,0 +1,11 @@
+Paper: hep-th/9906169
+
+Date: 1999-06-22
+
+Title: New Kernels in Quantum Gravity
+
+Comments: 19 pages, plain Tex. In this revised version, section 5 is new,
+
+section 3 is longer, and the presentation has been improvedJournal-ref: Class.Quant.Grav. 16 (1999) 3999-4010
+
+Recent work in the literature has proposed the use of non-local boundaryconditions in Euclidean quantum gravity. The present paper studies first a moregeneral form of such a scheme for bosonic gauge theories, by adding to theboundary operator for mixed boundary conditions of local nature a two-by-twomatrix of pseudo-differential operators with pseudo-homogeneous kernels. Therequest of invariance of such boundary conditions under infinitesimal gaugetransformations leads to non-local boundary conditions on ghost fields. InEuclidean quantum gravity, an alternative scheme is proposed, where non-localboundary conditions and the request of their complete gauge invariance aresufficient to lead to gauge-field and ghost operators of pseudo-differentialnature. The resulting boundary conditions have a Dirichlet and apseudo-differential sector, and are pure Dirichlet for the ghost. This approachis eventually extended to Euclidean Maxwell theory.

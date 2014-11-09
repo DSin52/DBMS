@@ -1,0 +1,13 @@
+Paper: hep-th/9503144
+
+Date: 1995-03-21
+
+Title: Hyper-Charged Vortices and Strings with Signature Change Horizon
+
+Authors: CHaranjit S. Aulakh
+
+Comments: 9 pages latex; Minor typos corrected
+
+Journal-ref: Mod. Phys. Lett. A10 (1995) 2501
+
+We show that self-dual Nielsen Olesen (NO) vortices in $3$ dimensions giverise to a class of exact solutions when coupled to Einstein Maxwell Dilatongravity obeying the Majumdar-Papapetrou(MP) relation between gravitational andMaxwell couplings , provided certain Chern-Simons type interactions arepresent. The metric may be solved for explicitly in terms of the NO vortexfunction and becomes degenerate at scales $r_H \sim l_S exp(\frac{l_S}{l_P})$where $l_S$ is the vortex core size and $l_P$ the Planck length. For typical$l_S\geq 10^4 l_P$ the horizon is thus pushed out to exponentially largescales. In the intermediate asymptotic region (IAR) $l_S<<r<<r_H$ there is alogarithmic deviation of the metric from the flat metric and of the electricfield from that of a point charge (which makes it decrease {\it{slower}} thanintegrals increase logarithmically with the distance from the core region andfinally diverge at the signature change horizon. String solutions in $4+p$dimensions are obtained by replacing the Maxwell fiel0d by an antisymmetrictensor field (of rank $2+p$) and have essentially similar properties with $r_H\sim l_S exp((\frac{l_S}{l_P})^{2+p})$ and with the antisymmetric chargeplaying the role of the topological electric charge .

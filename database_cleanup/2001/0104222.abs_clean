@@ -1,0 +1,13 @@
+Paper: hep-th/0104222
+
+Date: 2001-04-25
+
+Title: Folding in the Skyrme Model
+
+Authors: Conor J. Houghton, Steffen Krusch
+
+Comments: 25 pages, 5 figures
+
+Journal-ref: J.Math.Phys. 42 (2001) 4079-4100
+
+There are only three stable singularities of a differentiable map betweenthree-dimensional manifolds, namely folds, cusps and swallowtails. A Skyrmeconfiguration is a map from space to SU(2), and its singularities correspond tothe points where the baryon density vanishes. In this paper we consider thesingularity structure of Skyrme configurations. The Skyrme model can only besolved numerically. However, there are good analytic ansaetze. The simplest ofthese, the rational map ansatz, has a non-generic singularity structure. Thisleads us to introduce a non-holomorphic ansatz as a generalization. For baryonnumber two, three and four, the approximate solutions derived from this ansatzare closer in energy to the true solutions than any other ansatz solution. Wefind that there is a tiny amount of negative baryon density for baryon numberthree, but none for two or four. We comment briefly on the relationship toBogomolny-Prasad-Sommerfield monopoles.

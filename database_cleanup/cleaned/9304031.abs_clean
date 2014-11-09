@@ -1,0 +1,11 @@
+Paper: hep-th/9304031
+
+Date: 1993-04-08
+
+Title: On Functional Determinants of Laplacians in Polygons and Simplices
+
+Comments: 40 pages
+
+Journal-ref: Commun.Math.Phys. 165 (1994) 233-260
+
+The functional determinant of an elliptic operator with positive, discretespectrum may be defined as $e^{-Z'(0)}$, where $Z(s)$, the zeta function, isthe sum $\sum_n^{\infty} \lambda_n^{-s}$ analytically continued to $s$ aroundthe origin. In this paper $Z'(0)$ is calculated for the Laplace operator withDirichlet boundary conditions inside polygons and simplices with the topologyof a disc in the Euclidean plane. The domains we consider are hence piece--wiseflat with corners on the boundary and in the interior. Our results arecomplementary to earlier investigations of the determinants on smooth surfaceswith smooth boundaries. We have explicit closed integrated expressions fortriangles and regular polygons.

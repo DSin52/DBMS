@@ -1,0 +1,13 @@
+Paper: hep-th/9709146
+
+Date: 1997-09-19
+
+Title: Fayet-Iliopoulos Potentials from Four-Folds
+
+Authors: Wolfgang Lerche
+
+Comments: 23 pages, harvmac
+
+Journal-ref: JHEP 9711 (1997) 004
+
+We show how certain non-perturbative superpotentials W, which are thetwo-dimensional analogs of the Seiberg-Witten prepotential in 4d, can becomputed via geometric engineering from 4-folds. We analyze an explicit examplefor which the relevant compact geometry of the 4-fold is given by $P^1$ fiberedover $P^2$. In the field theory limit, this gives an effective U(1) gaugetheory with N=(2,2) supersymmetry in two dimensions. We find that the analog ofthe SW curve is a K3 surface, and that the complex FI coupling is given by themodular parameter of this surface. The FI potential itself coincides with themiddle period of a meromorphic differential. However, it only shows up in theeffective action if a certain 4-flux is switched on, and then supersymmetryappears to be non-perturbatively broken. This can be avoided by tuning the bareFI coupling by hand, in which case the supersymmetric minimum naturallycorresponds to a singular K3.

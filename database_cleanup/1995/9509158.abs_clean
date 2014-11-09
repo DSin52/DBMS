@@ -1,0 +1,13 @@
+Paper: hep-th/9509158
+
+Date: 1995-09-27
+
+Title: Loop calculations in quantum-mechanical non-linear sigma models sigma
+
+models with fermions and applications to anomaliesAuthors: Jan de Boer, Bas Peeters, Kostas Skenderis and Peter van Nieuwenhuizen
+
+Comments: 67 pages, LaTeX, with one figure (needs epsfig)
+
+Journal-ref: Nucl.Phys. B459 (1996) 631
+
+We construct the path integral for one-dimensional non-linear sigma models,starting from a given Hamiltonian operator and states in a Hilbert space. Byexplicit evaluation of the discretized propagators and vertices we find thecorrect Feynman rules which differ from those often assumed. These rules, whichwe previously derived in bosonic systems \cite{paper1}, are now extended tofermionic systems. We then generalize the work of Alvarez-Gaum\'e and Witten\cite{alwi} by developing a framework to compute anomalies of an$n$-dimensional quantum field theory by evaluating perturbatively acorresponding quantum mechanical path integral. Finally, we apply thisformalism to various chiral and trace anomalies, and solve a series ofintegrals with coherent states (the methods of fermion doubling and fermionhalving yield equivalent results when used in applications to anomalies),$(ii)$ a complete path integral treatment of the ghost sector of chiralYang-Mills anomalies, $(iii)$ a complete path integral treatment of traceanomalies, $(iv)$ the supersymmetric extension of the Van Vleck determinant,and $(v)$ a derivation of the spin-$3\over 2$ Jacobian of Alvarez-Gaum\'{e} andWitten for Lorentz anomalies.

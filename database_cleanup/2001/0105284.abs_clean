@@ -1,0 +1,13 @@
+Paper: hep-th/0105284
+
+Date: 2001-05-29
+
+Title: Gaussian and Mean Field Approximations for Reduced 4D Supersymmetric
+
+Yang-Mills IntegralAuthors: Fumihiko Sugino
+
+Comments: 18 pages, 4 figures, LaTeX; comments added, the final version
+
+published in JHEPJournal-ref: JHEP 0107 (2001) 014
+
+In this paper, we consider a reduced supersymmetric Yang-Mills integral withfour supercharges by using a Gaussian approximation scheme and its improvedversion. We calculate the free energy and the expectation values of Polyakovloop and Wilson loop operators by extending the method employed in the bosoniccase in the previous paper. Our results nicely match to the exact and thenumerical results obtained before. The loop amplitudes exhibit good scalingbehaviors similarly as in the bosonic case. The 't Hooft like large $N$ limitleads simple formulas for the case of the loop length smaller. Also, thePolyakov loop and the Wilson loop are computed for the case of the loop lengthsufficiently large, where we see that the behavior of the Wilson loopreproduces the result simulated for a few smaller values of $N$ at leastqualitatively.

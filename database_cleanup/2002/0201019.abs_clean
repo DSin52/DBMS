@@ -1,0 +1,9 @@
+Paper: hep-th/0201019
+
+Date: 2002-01-04
+
+Title: Notes On Higher Spin Symmetries
+
+Comments: 26 pages, LaTeX
+
+The strong form of the AdS/CFT correspondence implies that the leading $N$expressions for the connected correlation functions of the gauge invariantoperators in the free ${\cal N}=4$ supersymmetric Yang-Mills theory with thegauge group SU(N) correspond to the boundary S matrix of the classicalinteracting theory in the Anti de Sitter space. It was conjectured recentlythat the theory in the bulk should be a local theory of infinitely many higherspin fields. In this paper we study the free higher spin fields ($N=\infty$)corresponding to the free scalar fields on the boundary. We explicitlyconstruct the boundary to bulk propagator for the higher spin fields and showthat the classical solutions in the bulk are in one to one correspondence withthe deformations of the free action on the boundary by the bilinear operators.We also discuss the constraints on the correlation functions following from thehigher spin symmetry. We show that the higher spin symmetries fix thecorrelation functions up to the finite number of parameters. We formulatesufficient conditions for the bulk theory to reproduce the free fieldcorrelation functions on the boundary.

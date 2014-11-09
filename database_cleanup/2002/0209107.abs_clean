@@ -1,0 +1,11 @@
+Paper: hep-th/0209107
+
+Date: 2002-09-13
+
+Title: Analysis of constraints in light-cone version of SU(2) Yang-Mills
+
+mechanicsAuthors: V.P. Gerdt, A.M. Khvedelidze and D.M. Mladenov
+
+Comments: 10 pages, LaTeX, no figures. To appear in the Proceedings of the
+
+Workshop Computer Algebra and its Application to Physics, June 28-30 2001,DubnaWe study the classical dynamics of mechanical model obtained from thelight-cone version of SU(2) Yang-Mills field theory under the supposition ofgauge potential dependence only on ``time'' along the light-cone direction. Thecomputer algebra system Maple was used strongly to compute and separate thecomplete set of constraints. In contrast to the instant form of Yang-Millsmechanics the constraints here represent a mixed form of first and second-classconstraints and reduce the number of the physical degrees of freedom up to fourcanonical one.

@@ -1,0 +1,13 @@
+Paper: hep-th/9602093
+
+Date: 1996-02-16
+
+Title: Non-Abelian Anomalies and Effective Actions for a Homogeneous Space
+
+$G/H$Authors: Chong-Sun Chu, Pei-Ming Ho and Bruno Zumino
+
+Comments: revised
+
+Journal-ref: Nucl.Phys. B475 (1996) 484-504
+
+We consider the problem of constructing the fully gauged effective action in$2n$-dimensional space-time for Nambu-Goldstone bosons valued in a homogeneousspace $G/H$, with the requirement that the action be a solution of theanomalous Ward identity and be invariant under the gauge transformations of$H$. We show that this can be done whenever the homotopy group $\pi_{2n}(G/H)$is trivial, $G/H$ is reductive and $H$ is embedded in $G$ so as to be anomalyfree, in particular if $H$ is an anomaly safe group. We construct the necessarygeneralization of the Bardeen counterterm and give explicit forms for theanomaly and the effective action. When $G/H$ is a symmetric space thecounterterm and the anomaly decompose into a parity even and a parity odd part.In this case, for the parity even part of the action, one does not need theanomaly free embedding of $H$.

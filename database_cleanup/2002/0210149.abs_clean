@@ -1,0 +1,11 @@
+Paper: hep-th/0210149
+
+Date: 2002-10-16
+
+Title: Discrete Spectra of Semirelativistic Hamiltonians
+
+Authors: Richard Hall, Wolfgang Lucha, and F. F. Schoeberl
+
+Comments: 21 pages, 3 figures
+
+We review various attempts to localize the discrete spectra ofsemirelativistic Hamiltonians of the form H = \beta \sqrt{m^2 + p^2} + V(r)(w.l.o.g. in three spatial dimensions) as entering, for instance, in thespinless Salpeter equation. Every Hamiltonian in this class of operatorsconsists of the relativistic kinetic energy \beta \sqrt{m^2 + p^2} (where \beta> 0 allows for the possibility of more than one particles of mass m) and aspherically symmetric attractive potential V(r), r = |x|. In general, accurateeigenvalues of a nonlocal Hamiltonian operator can only be found by the use ofa numerical approximation procedure. Our main emphasis, however, is on thederivation of rigorous semi-analytical expressions for both upper and lowerbounds to the energy levels of such operators. We compare the bounds obtainedwithin different approaches and present relationships existing between thebounds.

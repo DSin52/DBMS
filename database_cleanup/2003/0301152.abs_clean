@@ -1,0 +1,11 @@
+Paper: hep-th/0301152
+
+Date: 2003-01-21
+
+Title: Multi-Lagrangians, Hereditary Operators and Lax Pairs for the
+
+Korteweg-de Vries Positive and Negative HierarchiesAuthors: Miguel D. Bustamante and Sergio A. Hojman
+
+Comments: Submitted to J. Math. Phys.; RevTeX, 21 pages, 3 figures
+
+SystemsWe present an approach to the construction of Action Principles for firstorder (in time derivatives) differential equations to construct systematically,for integrable equations which are based on the existence of a Nijenhuis (orhereditary) operator, a ladder of Action Principles which is complementary tothe well-known multi-Hamiltonian formulation. We work out results for theKorteweg-de Vries (KdV) equation, which is a member of the positive hierarchyrelated to the hereditary operator. Three negative hierarchies of (negative)evolution equations are defined naturally from the hereditary operator as well,in a concise way, suitable for field theory. We identify the Liouville,Sinh-Gordon, Hunter-Zheng and Camassa-Holm equations as negative ones. The samemulti-Lagrangian scheme for KdV is shown to apply also to these and otherpositive and negative evolution equations. The Euler-Lagrange equations arisingfrom the Action Principles are equivalent to deformations of the originalevolution equation, and the deformations are obtained explicitly in terms ofthe positive and negative evolution vectors. For example, Action Principles forKdV which are time-reparametrization invariant are constructed, and a newAction Principle for the deformed system Sinh-Gordon + spatial translationvector is presented. The factorized hereditary operator allows for the explicitcomputation of local and nonlocal Hamiltonian operators, as the inverses of allthe symplectic 2-forms in the ladder. Nonlocal constants of the motion areconstructed for KdV as well as for positive and negative vectors, in a conciseway. Alternative Lax pairs for all negative vectors are constructed. Someresults are mapped to the Krichever-Novikov and Harry-Dym equations.

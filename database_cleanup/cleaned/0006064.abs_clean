@@ -1,0 +1,11 @@
+Paper: hep-th/0006064
+
+Date: 2000-06-09
+
+Title: A gauge invariant exact renormalization group II
+
+Comments: TeX, harvmac, epsf; 73 pages, 25 figs; several clarifying sentences
+
+addedJournal-ref: JHEP 0012 (2000) 012
+
+A manifestly gauge invariant and regularized renormalization group flowequation is constructed for pure SU(N) gauge theory in the large N limit. Inthis way we make precise and concrete the notion of a non-perturbative gaugeinvariant continuum Wilsonian effective action. Manifestly gauge invariantcalculations may be performed, without gauge fixing, and receive a naturalinterpretation in terms of fluctuating Wilson loops. Regularization is achievedby covariant higher derivatives and by embedding in a spontaneously brokenSU(N|N) supergauge theory; the resulting heavy fermionic vectors arePauli-Villars fields. We prove the finiteness of this method to one loop andany number of external gauge fields. A duality is uncovered that changes thesign of the squared coupling constant. As a test of the basic formalism wecompute the one loop beta function, for the first time without any gaugefixing, and prove its universality with respect to cutoff function.

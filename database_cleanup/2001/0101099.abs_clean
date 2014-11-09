@@ -1,0 +1,13 @@
+Paper: hep-th/0101099
+
+Date: 2001-01-16
+
+Title: Conformal Anomaly via AdS/CFT Duality
+
+Authors: Sachiko Ogushi (Ochanomizu U.)
+
+Comments: LaTeX file, 79 pages, typos corrected and references added
+
+Journal-ref: Soryushiron kenkyu 103 (2001) 6-84
+
+AdS/CFT duality is a conjectured dual correspondence between the large $N$limit of Conformal Field Theory (CFT) in $d$-dimensions and the supergravity(SUGRA) in $d+1$-dimensional Anti de Sitter (AdS) space. By using thisconjecture, we can study various properties of large $N$ CFT by simplecalculations in SUGRA. Recently much attention has been paid to theRenormalization Group (RG) flow viewed from the SUGRA side. Such RG flow in CFTis known to be characterized by the c-function which connects CFTs withdifferent central charges. Therefore, we are interested in deriving thisc-function from SUGRA with the help of AdS/CFT correspondence. To derive thec-function, we calculate the conformal anomaly (CA) in SUGRA, since it isclosely related to the central charge. In this thesis, we discuss the variousaspects of CA from AdS/CFT duality, especially for the cases of SUGRA in 3 and5-dimensions which correspond to 2 and 4-dimensional CFTs, respectively. It isknown that the bosonic part of SUGRA with scalar (dilaton) and arbitrary scalarpotential describes the special RG flows in dual quantum field theory. So wecalculate dilaton-dependent CA from dilatonic gravity with arbitrary potential.After that, we propose candidates of c-functions from such dilatonic gravityand investigate the properties of them.

@@ -1,0 +1,13 @@
+Paper: hep-th/0303104
+
+Date: 2003-03-11
+
+Title: On the Matter of the Dijkgraaf--Vafa Conjecture
+
+Authors: Per Kraus, Masaki Shigemori
+
+Comments: 20 pages, harvmac. v2
+
+Journal-ref: JHEP 04 (2003) 052
+
+With the aim of extending the gauge theory -- matrix model connection to moregeneral matter representations, we prove that for various two-index tensors ofthe classical gauge groups, the perturbative contributions to the glueballsuperpotential reduce to matrix integrals. Contributing diagrams consist ofcertain combinations of spheres, disks, and projective planes, which weevaluate to four and five loop order. In the case of $Sp(N)$ with antisymmetricmatter, independent results are obtained by computing the nonperturbativesuperpotential for $N=4,6$ and 8. Comparison with the Dijkgraaf-Vafa approachreveals agreement up to $N/2$ loops in matrix model perturbation theory, withdisagreement setting in at $h=N/2+1$ loops, $h$ being the dual Coxeter number.At this order, the glueball superfield $S$ begins to obey nontrivial relationsdue to its underlying structure as a product of fermionic superfields. Wetherefore find a relatively simple example of an ${\cal N}=1$ gauge theoryadmitting a large $N$ expansion, whose dynamically generated superpotentialdiffers from the one obtained in the matrix model approach.

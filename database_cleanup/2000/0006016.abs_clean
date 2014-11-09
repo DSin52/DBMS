@@ -1,0 +1,11 @@
+Paper: hep-th/0006016
+
+Date: 2000-06-02
+
+Title: On the Running Gauge Coupling Constant in the Exact Renormalization
+
+GroupAuthors: Jun-Ichi Sumi
+
+Comments: 12 pages, no figures
+
+In this paper, we investigate the beta-function of the gauge couplingconstant ($e$) of the gauged four-fermi theory in the Exact RenormalizationGroup (ERG) framework. It seems that the presence of the four-fermi interactionstrongly affects to the naive RG running of the gauge coupling constant. Weshow that this strong correction has no physical meaning since the vertex $\appA\SR\psi$ involves the contribution from a mixing as well as a pure gaugeinteraction due to the (anomalous) mixing among the photon and the vectorcomposite field. By introducing the auxiliary field for the vector compositefield, the situation turns to be rather clear. We adopt the counterterm tocancel the gauge non-invariant correction, and decompose the pure gaugeinteraction from the contribution of the mixing. We find the beta-function ofthe gauge coupling constant in the large $N$ limit.

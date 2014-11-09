@@ -1,0 +1,11 @@
+Paper: hep-th/9511120
+
+Date: 1995-11-16
+
+Title: Three formulas for eigenfunctions of integrable Schroedinger operators
+
+Authors: Giovanni Felder, Alexander Varchenko
+
+Comments: 29 pages, AMSLaTeX
+
+We give three formulas for meromorphic eigenfunctions (scattering states) ofSutherland's integrable N-body Schroedinger operators and theirgeneralizations. The first is an explicit computation of the Etingof-Kirillovtraces of intertwining operators, the second an integral representation ofhypergeometric type, and the third is a formula of Bethe ansatz type. The lasttwo formulas are degenerations of elliptic formulas obtained previously inconnection with the Knizhnik-Zamolodchikov-Bernard equation. The Bethe ansatzEigenfunctions are parametrized by a ``Hermite-Bethe'' variety, ageneralization of the spectral variety of the Lame' operator. We also give theq-deformed version of our first formula. In the scalar sl_N case, this givescommon eigenfunctions of the commuting Macdonald-Rujsenaars differenceoperators.

@@ -1,0 +1,13 @@
+Paper: hep-th/9702002
+
+Date: 1997-01-29
+
+Title: BRST Quantization of the Proca Model based on the BFT and the BFV
+
+FormalismAuthors: Yong-Wan Kim, Mu-In Park, Young-Jai Park, and Sean J. Yoon
+
+Comments: 29 pages, plain Latex, To be published in Int. J. Mod. Phys. A
+
+Journal-ref: Int.J.Mod.Phys. A12 (1997) 4217-4239
+
+The BRST quantization of the Abelian Proca model is performed using theBatalin-Fradkin-Tyutin and the Batalin-Fradkin-Vilkovisky formalism. First, theBFT Hamiltonian method is applied in order to systematically convert a secondclass constraint system of the model into an effectively first class one byintroducing new fields. In finding the involutive Hamiltonian we adopt a newapproach which is more simpler than the usual one. We also show that in ourmodel the Dirac brackets of the phase space variables in the original secondclass constraint system are exactly the same as the Poisson brackets of thecorresponding modified fields in the extended phase space due to the linearcharacter of the constraints comparing the Dirac or Faddeev-Jackiw formalisms.Then, according to the BFV formalism we obtain that the desired resultingLagrangian preserving BRST symmetry in the standard local gauge fixingprocedure naturally includes the St\"uckelberg scalar related to the explicitgauge symmetry breaking effect due to the presence of the mass term. We alsoanalyze the nonstandard nonlocal gauge fixing procedure.

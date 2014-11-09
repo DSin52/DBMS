@@ -1,0 +1,11 @@
+Paper: hep-th/9502053
+
+Date: 1995-02-08
+
+Title: Fusion Hierarchy and Finite-Size Corrections of $U_q[sl(2)]$ Invariant
+
+Vertex Models with Open BoundariesComments: Pages 29; revised version
+
+Journal-ref: Nucl.Phys. B453 (1995) 619-646
+
+The fused six-vertex models with open boundary conditions are studied. TheBethe ansatz solution given by Sklyanin has been generalized to the transfermatrices of the fused models. We have shown that the eigenvalues of transfermatrices satisfy a group of functional relations, which are the $su$(2) fusionrule held by the transfer matrices of the fused models. The fused transfermatrices form a commuting family and also commute with the quantum group$U_q[sl(2)]$. In the case of the parameter $q^h=-1$ ($h=4,5,\cdots$) thefunctional relations in the limit of spectral parameter $u\to \i\infty$ aretruncated. This shows that the $su$(2) fusion rule with finite level appearsfor the six vertex model with the open boundary conditions. We have solved thefunctional relations to obtain the finite-size corrections of the fusedtransfer matrices for low-lying excitations. From the corrections the centralcharges and conformal weights of underlying conformal field theory areextracted. To see different boundary conditions we also have studied thesix-vertex model with a twisted boundary condition.

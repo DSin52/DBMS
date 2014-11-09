@@ -1,0 +1,13 @@
+Paper: hep-th/9807216
+
+Date: 1998-07-29
+
+Title: Quantum three-dimensional de Sitter space
+
+Authors: Maximo Banados, Thorsten Brotz, Miguel Ortiz
+
+Comments: 10 pages
+
+Journal-ref: Phys.Rev. D59 (1999) 046002
+
+We compute the canonical partition function of 2+1 dimensional de Sitterspace using the Euclidean $SU(2)\times SU(2)$ Chern-Simons formulation of 3dgravity with a positive cosmological constant. Firstly, we point out that onecan work with a Chern-Simons theory with level $k=l/4G$, and itsrepresentations are therefore unitary for integer values of $k$. We thencompute explicitly the partition function using the standard character formulaefor SU(2) WZW theory and find agreement, in the large $k$ limit, with thesemiclassical result. Finally, we note that the de Sitter entropy can also beobtained as the degeneracy of states of representations of a Virasoro algebrawith $c=3l/2G$.

@@ -1,0 +1,11 @@
+Paper: hep-th/0302099
+
+Date: 2003-02-13
+
+Title: D-branes, B fields, and Ext groups
+
+Authors: A. Caldararu, S. Katz, E. Sharpe
+
+Comments: 23 pages, LaTeX; v2
+
+In this paper we extend previous work on calculating massless boundary Ramondsector spectra of open strings to include cases with nonzero flat B fields. Insuch cases, D-branes are no longer well-modelled precisely by sheaves, butrather they are replaced by `twisted' sheaves, reflecting the fact that gaugetransformations of the B field act as affine translations of the Chan-Patonfactors. As in previous work, we find that the massless boundary Ramond sectorstates are counted by Ext groups -- this time, Ext groups of twisted sheaves.As before, the computation of BRST cohomology relies on physically realizingsome spectral sequences. Subtleties that cropped up in previous work alsoappear here.

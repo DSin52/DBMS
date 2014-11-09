@@ -1,0 +1,11 @@
+Paper: hep-th/0104251
+
+Date: 2001-04-29
+
+Title: AdS Dynamics for Massive Scalar Field
+
+propagatorAuthors: Z. Chang (1), C.B. Guan (1), H.Y. Guo (2) ((1) IHEP, Academia Sinica,
+
+(2) ITP, Academia Sinica)Comments: LaTeX, 18 pages, 3 eps figures
+
+AdS dynamics for massive scalar field is studied both by solving exactly theequation of motion and by constructing bulk-boundary propagator. ARobertson-Walker-like metric is deduced from the familiar SO(2,n) invariantmetric. The metric allows us to present a time-like Killing vector, which isnot only invariant under space-like transformations but also invariant underthe isometric transformations of SO(2,n) in certain sense. A horizon appears inthis coordinate system. Singularities of field variables at boundary aredemonstrated explicitly. It is shown that there is a one-to-one correspondenceamong the exact solutions and the bulk fields obtained by using thebulk-boundary propagator.

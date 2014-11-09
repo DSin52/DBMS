@@ -1,0 +1,11 @@
+Paper: hep-th/0111020
+
+Date: 2001-11-02
+
+Title: Fuzzy Complex Grassmannian Spaces and their Star Products
+
+Authors: Brian P. Dolan and Oliver Jahn
+
+Comments: 1+23 pages, 1 figure, LaTeX. Typos fixed, references added, version
+
+to appear in Int.J.Mod.Phys.AWe derive an explicit expression for an associative star product onnon-commutative versions of complex Grassmannian spaces, in particular for thecase of complex 2-planes. Our expression is in terms of a finite sum ofderivatives. This generalises previous results for complex projective spacesand gives a discrete approximation for the Grassmannians in terms of anon-commutative algebra, represented by matrix multiplication in afinite-dimensional matrix algebra. The matrices are restricted to have adimension which is precisely determined by the harmonic expansion of functionson the commutative Grassmannian, truncated at a finite level. In the limit ofinfinite-dimensional matrices we recover the commutative algebra of functionson the complex Grassmannians.

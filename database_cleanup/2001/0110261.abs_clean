@@ -1,0 +1,11 @@
+Paper: hep-th/0110261
+
+Date: 2001-10-29
+
+Title: The "Bootstrap Program" for Integrable Quantum Field Theories in 1+1 Dim
+
+Authors: H. Babujian, M. Karowski
+
+Comments: Latex, 23 pages
+
+The purpose of the "bootstrap program" is to construct integrable quantumfield theories in 1+1 dimensions in terms of their Wightman functionsexplicitly. As an input the integrability and general assumptions of localThe S-matrix is obtained using a qualitative knowledge of the particle spectrumand the Yang-Baxter equations. 2) Matrix elements of local operators arecalculated by means of the "form factor program" using the S-matrix as aninput. 3) The Wightman functions are calculated by taking sums overintermediate states. The first step has been performed for a large number ofmodels and also the second one for several models. The third step is unsolvedup to now. Here the program is illustrated in terms of the sine-Gordon modelalias the massive Thirring model. Exploiting the "off-shell" Bethe Ansatz wepropose general formulae for form factors. For example the n-particle matrixelement for all higher currents are given and in particular all eigenvalues ofthe higher conserved charges are calculated. Furthermore quantum operatorequations are obtained in terms of their matrix elements, in particular thequantum sine-Gordon field equation. Exact expressions for the finite wavefunction and mass renormalization constants are calculated.

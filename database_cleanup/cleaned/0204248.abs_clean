@@ -1,0 +1,11 @@
+Paper: hep-th/0204248
+
+Date: 2002-04-29
+
+Title: A Matrix Model for \nu_{k_1k_2}=\frac{k_1+k_2}{k_1 k_2} Fractional
+
+Quantum Hall StatesAuthors: Ahmed Jellal, El Hassan Saidi, Hendrik B. Geyer
+
+Comments: 40 pages, 1 figure, clarifications and references added
+
+We propose a matrix model to describe a class of fractional quantum Hall(FQH) states for a system of (N_1+N_2) electrons with filling factor moregeneral than in the Laughlin case. Our model, which is developed for FQH stateswith filling factor of the form \nu_{k_1k_2}=\frac{k_1+k_2}{k_1k_2} (k_1 andk_2 odd integers), has a U(N_1)\times U(N_2) gauge invariance, assumes that FQHfluids are composed of coupled branches of the Laughlin type, and uses ideasborrowed from hierarchy scenarios. Interactions are carried, amongst others, byfields in the bi-fundamentals of the gauge group. They simultaneously play therole of a regulator, exactly as does the Polychronakos field. We build thevacuum configurations for FQH states with filling factors given by the series\nu_{p_1p_2}=\frac{p_2}{p_1p_2-1}, p_1 and p_2 integers. Electrons areinterpreted as a condensate of fractional D0-branes and the usual degeneracy ofthe fundamental state is shown to be lifted by the non-commutative geometrybehaviour of the plane. The formalism is illustrated for the state at\nu={2/5}.

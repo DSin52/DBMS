@@ -1,0 +1,13 @@
+Paper: hep-th/9505076
+
+Date: 1995-05-14
+
+Title: Finite Size Effects for the Ising Model Coupled to 2-D Random Surfaces
+
+Authors: N. D. Hari Dass, B. E. Hanlon and T. Yukawa
+
+Comments: 18 pages, 3 figures
+
+Journal-ref: Phys.Lett. B368 (1996) 55-63
+
+Finite size effects for the Ising Model coupled to two dimensional randomsurfaces are studied by exploiting the exact results from the 2-matrix models.The fixed area partition function is numerically calculated with arbitraryprecision by developing an efficient algorithm for recursively solving thequintic equations so encountered. An analytic method for studying finite sizeeffects is developed based on the behaviour of the free energy near itssingular points. The generic form of finite size corrections so obtained areseen to be quite different from the phenomenological parameterisations used inthe literature. The method of singularities is also applied to study themagnetic susceptibility. A brief discussion is presented on the implications ofthese results to the problem of a reliable determination of stringsusceptibility from numerical simulations.

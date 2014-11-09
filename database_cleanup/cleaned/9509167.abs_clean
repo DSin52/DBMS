@@ -1,0 +1,13 @@
+Paper: hep-th/9509167
+
+Date: 1995-09-28
+
+Title: SU3 isoscalar factors
+
+Authors: H. Thomas Williams (Washington and Lee University)
+
+Comments: 20 pages, LaTeX (earlier version incomplete)
+
+Journal-ref: J.Math.Phys. 37 (1996) 4187-4198
+
+A summary of the properties of the Wigner Clebsch-Gordan coefficients andisoscalar factors for the group SU3 in the SU2$\otimes$U1 decomposition ispresented. The outer degeneracy problem is discussed in detail with a proof ofa conjecture (Braunschweig's) which has been the basis of previous work on theSU3 coupling coefficients. Recursion relations obeyed by the SU3 isoscalarfactors are produced, along with an algorithm which allows numericaldetermination of the factors from the recursion relations. The algorithmproduces isoscalar factors which share all the symmetry properties underpermutation of states and conjugation which are familiar from the SU2 case. Thefull set of symmetry properties for the SU3 Wigner-Clebsch-Gordan coefficientsand isoscalar factors are displayed.

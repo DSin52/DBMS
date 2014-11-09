@@ -1,0 +1,13 @@
+Paper: hep-th/9907171
+
+Date: 1999-07-21
+
+Title: Affine sl(2|1) and D(2|1;alpha) as Vertex Operator Extensions of Dual
+
+Affine sl(2) AlgebrasAuthors: P. Bowcock, B. L. Feigin, A. M. Semikhatov, A. Taormina
+
+Comments: 50 pages, Latex2e, 2 figures, acknowledgements added
+
+Journal-ref: Commun.Math.Phys. 214 (2000) 495-545
+
+We discover a realisation of the affine Lie superalgebra sl(2|1) and of theexceptional affine superalgebra D(2|1;alpha) as vertex operator extensions oftwo affine sl(2) algebras with dual levels (and an auxiliary level 1 sl(2)algebra). The duality relation between the levels is (k+1)(k'+1)=1. Weconstruct the representation of sl(2|1) at level k' on a sum of tensor productsof sl(2) at level k, sl(2) at level k' and sl(2) at level 1 modules anddecompose it into a direct sum over the sl(2|1) spectral flow orbit. Thisdecomposition gives rise to character identities, which we also derive. Theextension of the construction to the affine D(2|1;k') at level k is traced toproperties of sl(2)+sl(2)+sl(2) embeddings into D(2|1;alpha) and their relationwith the dual sl(2) pairs. Conversely, we show how the level k' sl(2)representations are constructed from level k sl(2|1) representations.

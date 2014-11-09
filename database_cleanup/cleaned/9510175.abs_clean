@@ -1,0 +1,11 @@
+Paper: hep-th/9510175
+
+Date: 1995-10-24
+
+Title: From CFT's to Graphs
+
+Comments: 44 pages, 6 postscript figures, the whole uuencoded. TEX file, macros
+
+amssym.texJournal-ref: Nucl.Phys. B463 (1996) 161-193
+
+In this paper, we pursue the discussion of the connections between rationalconformal field theories (CFT) and graphs. We generalize our recent work on therelations of operator product algebra (OPA) structure constants of $sl(2)\,$theories with the Pasquier algebra attached to the graph. We show that in avariety of CFT built on $sl(n)\,$ -- typically conformal embeddings andorbifolds, similar considerations enable one to write a linear system satisfiedby the matrix elements of the Pasquier algebra in terms of conformal data --quantum dimensions and fusion coefficients. In some cases, this provides asufficient information for the determination of all the eigenvectors of anadjacency matrix, and hence of a graph.

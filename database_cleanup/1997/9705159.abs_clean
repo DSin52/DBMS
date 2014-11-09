@@ -1,0 +1,13 @@
+Paper: hep-th/9705159
+
+Date: 1997-05-21
+
+Title: Variational Mass Perturbation Theory for Light-Front Bound-State
+
+EquationsAuthors: Koji Harada (1), Thomas Heinzl (2) and Christian Stern (2) ((1) Kyushu
+
+University, Japan, (2) Universitaet Regensburg, Germany)Comments: some points clarified, representation straightened, to appear in
+
+Phys. Rev. D, 31 pages, Latex, REVTeX, epsfig, 3 postscript figures includedJournal-ref: Phys.Rev. D57 (1998) 2460-2474
+
+We investigate the mesonic light-front bound-state equations of the 't Hooftand Schwinger model in the two-particle, i.e. valence sector, for small fermionmass. We perform a high precision determination of the mass and light-cone wavefunction of the lowest lying meson by combining fermion mass perturbationtheory with a variational approach. All calculations are done entirely in thefermionic representation without using any bosonization scheme. In astep-by-step procedure we enlarge the space of variational parameters. For thefirst two steps, the results are obtained analytically. Beyond that we usecomputer algebraic and numerical methods. We achieve good convergence so thatthe calculation of the meson mass squared can be extended to third order in thefermion mass. Within the numerical treatment we include higher Fock states upto six particles. Our results are consistent with all previous numericalinvestigations, in particular lattice calculations. For the massive Schwingermodel, we find a small discrepancy (less than 2 percent) in comparison withknown bosonization results. Possible resolutions of this discrepancy arediscussed.

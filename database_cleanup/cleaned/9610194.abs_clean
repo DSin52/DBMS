@@ -1,0 +1,13 @@
+Paper: hep-th/9610194
+
+Date: 1996-10-25
+
+Title: The Dirac-Maxwell Equations with Cylindrical Symmetry
+
+Authors: Hilary Booth, Chris Radford (University of New England, Australia)
+
+Comments: 17 pages, Latex, 5 figures, psfig, to be published in J. Maths Phys
+
+Journal-ref: J.Math.Phys. 38 (1997) 1257-1268
+
+A reduction of the Dirac-Maxwell equations in the case of static cylindricalsymmetry is performed. The behaviour of the resulting system of o.d.e.'s isexamined analytically and numerical solutions presented. There are two classesof solutions.The first type of solution is a Dirac field surrounding a charged "wire". TheDirac field is highly localised, concentrated in cylindrical shells about thewire. A comparison with the usual linearized theory demonstrates that thislocalization is entirely due to the non-linearities in the equations whichresult from the inclusion of the "self-field".The second class of solutions have the electrostatic potential finite alongthe axis of symmetry but unbounded at large distances from the axis.

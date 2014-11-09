@@ -1,0 +1,13 @@
+Paper: hep-th/9710128
+
+Date: 1997-10-15
+
+Title: On One-Loop Gap Equations for the Magnetic Mass in d=3 Gauge Theory
+
+Authors: John M. Cornwall
+
+Comments: 21 pages, LaTex, 2 .eps figures
+
+Journal-ref: Phys.Rev. D57 (1998) 3694-3700
+
+Recently several workers have attempted determinations of the so-calledmagnetic mass of d=3 non-Abelian gauge theories through a one-loop gapequation, using a free massive propagator as input. Self-consistency isattained only on-shell, because the usual Feynman-graph construction isgauge-dependent off-shell. We examine two previous studies of the pinchtechnique proper self-energy, which is gauge-invariant at all momenta, using afree propagator as input, and show that it leads to inconsistent and unphysicalresult. In one case the residue of the pole has the wrong sign (necessarilyimplying the presence of a tachyonic pole); in the second case the residue ispositive, but two orders of magnitude larger than the input residue, whichshows that the residue is on the verge of becoming ghostlike. This happensbecause of the infrared instability of d=3 gauge theory. A possible alternativeone-loop determination via the effective action also fails. The lesson is thatgap equations must be considered at least at two-loop level.

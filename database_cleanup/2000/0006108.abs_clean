@@ -1,0 +1,13 @@
+Paper: hep-th/0006108
+
+Date: 2000-06-15
+
+Title: Renormalizability of the open string sigma model and emergence of
+
+D-branesAuthors: W. Kummer, D.V. Vassilevich
+
+Comments: 24 pages, a reference and discussion (about 1 page, sec. 3.3 and 4.1)
+
+added, typos correctedJournal-ref: JHEP 0007 (2000) 012
+
+Rederiving the one-loop divergences for the most general coupling of the openstring sigma model by the heat kernel technique, we distinguish the classicalbackground field from the mean field of the effective action. The latter isarbitrary, i.e. does not fulfil the boundary conditions. As a consequence a newdivergent counter term strongly suggests the introduction of another externalone-form field (beside the usual gauge field), coupled to the normal derivativeat the boundary. Actually such a field has been proposed in the literature fordifferent reasons, but its full impact never seems to have thoroughlyinvestigated before. The beta function for the resulting renormalizable modelis calculated and the consequences are discussed, including the ones for theBorn-Infeld action. The most exciting property of the new coupling is that itenters the coefficient in front of the normal derivative in Neumann boundaryconditions. For certain values of the background fields this coefficientvanishes, leading to Dirichlet boundary conditions. This provides a naturalmechanism for the emergence of D-branes.

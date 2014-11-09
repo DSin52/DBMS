@@ -1,0 +1,11 @@
+Paper: hep-th/9307058
+
+Date: 1993-07-08
+
+Title: Kac-Moody Algebras and String Theory (THESIS)
+
+Authors: Gerald B. Cleaver
+
+Comments: 109 pages, jytex, uses amysm fonts, texing instructions at beginning
+
+of file ** Now includes ``\input jytex.tex'' on first line **The focus of this thesis is on (1) the role of Ka\v c-Moody (KM) algebras instring theory and the development of techniques for systematically buildingstring theory models based on higher level ($K\geq 2$) KM algebras and (2)fractional superstrings. In chapter two we review KM algebras and their role instring theory. In the next chapter, we present two results concerning theconstruction of modular invariant partition functions for conformal fieldtheories built by tensoring together other conformal field theories. First weshow how the possible modular invariants for the tensor product theory areconstrained if the allowed modular invariants of the individual conformal fieldtheory factors have been classified. We illustrate the use of these constraintsfor theories of the type $SU(2)_{K_A}xSU(2)_{K_B}$, finding all consistenttheories for $K_A$ and $K_B$ odd. Second we show how known diagonal modularinvariants can be used to construct inherently asymmetric invariants where theholomorphic and anti- holomorphic theories do not share the same chiralalgebra. Explicit examples are given. Next, in chapter four we investigate someissues relating to proposed fractional superstring theories with $D_{\rmcritical}<10$. Using the factorization approach of Gepner and Qiu, wesystematically rederive the partition functions of the $K=4,\, 8,$ and $16$theories and examine their spacetime supersymmetry. Generalized GSO projectionoperators for the $K=4$ model are found. Uniqueness of the twist field,$\phi^{K/4}_{K/4}$, as source of spacetime fermions, is demonstrated.

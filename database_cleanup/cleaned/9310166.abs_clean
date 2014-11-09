@@ -1,0 +1,13 @@
+Paper: hep-th/9310166
+
+Date: 1993-10-26
+
+Title: Construction of topological field theories using BV
+
+Authors: F. De Jonghe and S. Vandoren
+
+Comments: 15p
+
+Journal-ref: Phys.Lett. B324 (1994) 328-334
+
+We discuss in detail the construction of topological field theories using theBatalin--Vilkovisky (BV) quantisation scheme. By carefully examining thedependence of the antibracket on an external metric, we show thatdifferentiating with respect to the metric and the BRST charge do not commutein general. We introduce the energy momentum tensor in this scheme and showthat it is BRST invariant, both for the classical and quantum BRST operators.It is antifield dependent, guaranteeing gauge independence. For topologicalfield theories, this energy momentum has to be quantum BRST exact. This leadsto conditions at each order in $\hbar$. As an example of this procedure, weconsider topological Yang--Mills theory. We show how the reducible set ofsymmetries used in topological Yang--Mills can be recovered by means of trivialsystems and canonical transformations. Self duality of the antighosts isproperly treated by introducing an infinite tower of auxiliary fields. Finally,it is shown that the full energy momentum tensor is classically BRST exact inthe antibracket sense.

@@ -1,0 +1,13 @@
+Paper: hep-th/9508013
+
+Date: 1995-08-02
+
+Title: Deformation quantizations with separation of variables on a K\"ahler
+
+manifoldAuthors: Karabegov Alexander
+
+Comments: latex, 14 pages
+
+Journal-ref: Commun.Math.Phys. 180 (1996) 745
+
+We give a simple geometric description of all formal deformationquantizations on a K\"ahler manifold $M$ which enjoy the following property ofseparation of variables into holomorphic and antiholomorphic ones. For eachopen subset $U\subset M$, $\star$-multiplication from the left by a holomorphicfunction and from the right by an antiholomorphic function on $U$ coincideswith the pointwise multiplication by these functions. These quantizations arein 1-1 correspondence with formal deformations of the original K\"ahler metricson $M$. It has been shown in [Ka] that the formal deformation quantizationsobtained from the full asymptotic expansion of Berezin's $*$-product on theorbits of a compact semisimple Lie group in [Mo2] and [CGR1] and on boundedsymmetric domains in [Mo1] and [CGR2] are those with separation of variablesand correspond to the trivial deformation of the original K\"ahler metrics.

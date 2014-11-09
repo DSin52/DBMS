@@ -1,0 +1,11 @@
+Paper: hep-th/9607162
+
+Date: 1996-07-18
+
+Title: Bethe Ansatz and Classical Hirota Equations
+
+Authors: A.V.Zabrodin
+
+Comments: 4 pages, LaTeX, no figures; Talk presented at the II Sakharov
+
+International ConferenceA brief non-technical review of the recent study of classical integrablestructures in quantum integrable systems is given. It is explained how toidentify the standard objects of quantum integrable systems (transfer matrices,Baxter's $Q$-operators, etc) with elements of classical non-linear integrabledifference equations ($\tau$-functions, Baker-Akhiezer functions, etc). Thenested Bethe ansatz equations for $A_{k-1}$-type models emerge as discrete timeequations of motion for zeros of classical $\tau$-functions and Baker-Akhiezerfunctions. The connection with discrete time Ruijsenaars-Schneider system ofparticles is discussed.

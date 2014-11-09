@@ -1,0 +1,13 @@
+Paper: hep-th/9506201
+
+Date: 1995-06-30
+
+Title: Excitation Spectra of Spin Models constructed from Quantized Affine
+
+Algebras of type $B_n^{(1)}$, $D_n^{(1)}$Authors: Brian Davies and Masato Okado
+
+Comments: Plain TeX --- 178k including 3 eps files. 1. For correct
+
+cross-references, run twice (as with LaTeX). 2. The FIGURES for this paperare at the end of this file. They must split off and saved with namesfig1.eps, fig2.eps, fig3.eps The standard macros package epsf.tex is alsorequiredJournal-ref: Int.J.Mod.Phys. A11 (1996) 1975-2018
+
+The energy and momentum spectrum of the spin models constructed from thevector representation of the quantized affine algebras of type $\B$ and $\D$are computed using the approach of Davies et al. \cite{DFJMN92}. The resultsare for the anti-ferromagnetic (massive) regime, and they agree with the massspectrum found from the factorized S--matrix theory by Ogievetsky et al.\cite{ORW87}. The other new result is the explicit realization of the fusionconstruction for the quantized affine algebras of type $\B$ and $\D$.}

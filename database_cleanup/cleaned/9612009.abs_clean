@@ -1,0 +1,9 @@
+Paper: hep-th/9612009
+
+Date: 1996-12-01
+
+Title: R-torsion and linking numbers from simplicial abelian gauge theories
+
+Comments: 48 pages, latex, 9 figures (drawn in xfig)
+
+AlgebraSimplicial versions of topological abelian gauge theories are constructedwhich reproduce the continuum expressions for the partition function and Wilsonexpectation value of linked loops, expressible in terms of R-torsion andlinking numbers respectively. The new feature which makes this possible is theintroduction of simplicial fields (cochains) associated with the dualtriangulation of the background manifold, as well as with the triangulationitself. This doubling of fields, reminiscent of lattice fermion doubling, isrequired because the natural simplicial analogue of the Hodge star operatormaps between cochains of a triangulation and cochains of the dualtriangulation. The simplicial analogue of Hodge-de Rham theory is developed,along with a natural simplicial framework for considering linking numbers offramed loops. When the loops represent torsion elements of the homology of themanifold then Q/Z-valued torsion pairings appear in place of linking numbersfor certain discrete values of the coupling parameter of the theory.

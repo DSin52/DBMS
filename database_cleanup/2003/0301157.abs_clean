@@ -1,0 +1,11 @@
+Paper: hep-th/0301157
+
+Date: 2003-01-22
+
+Title: Quantum parameter space in super Yang-Mills, II
+
+Authors: Frank Ferrari (University of Neuchatel)
+
+Comments: 12 pages including 2 large figures
+
+In [1] (hep-th/0211069), the author has discussed the quantum parameter spaceof the N=1 super Yang-Mills theory with one adjoint Higgs field Phi, tree-levelsuperpotential W_tree = m (Phi^2)/2 + g (Phi^3)/3$, and gauge group U(Nc). Inparticular, full details were worked out for U(2) and U(3). By discussinghigher rank gauge groups like U(4), for which the classical parameter space hasa large number of disconnected components, we show that the phenomena discussedin [1] are generic. It turns out that the quantum space is connected. Theclassical components are related in the quantum theory either through standardsingularities with massless monopoles or by branch cuts without going throughany singularity. The branching points associated with the branch cutscorrespond to new strong coupling singularities, which are not associated withvanishing cycles in the geometry, and at which glueballs can become massless.The transitions discussed recently by Cachazo, Seiberg and Witten are specialinstances of those phenomena.

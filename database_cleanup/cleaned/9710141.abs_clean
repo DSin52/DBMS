@@ -1,0 +1,13 @@
+Paper: hep-th/9710141
+
+Date: 1997-10-17
+
+Title: Lagrangian and Covariant Field Equations for Supersymmetric Yang-Mills
+
+Theory in 12DAuthors: Hitoshi Nishino
+
+Comments: 14 pages, latex, no figures
+
+Journal-ref: Phys.Lett. B426 (1998) 64-72
+
+We present a lagrangian formulation for recently-proposed supersymmetricYang-Mills theory in twelve dimensions. The field content of our multiplet hasan additional auxiliary vector field in the adjoint representation. The usualYang-Mills field strength is modified by a Chern-Simons form containing thisauxiliary vector field. This formulation needs no constraint imposed on thecomponent field from outside, and a constraint on the Yang-Mills field isgenerated as the field equation of the auxiliary vector field. The invariancecheck of the action is also performed without any reference to constraints byhand. Even though the total lagrangian takes a simple form, it has severalhighly non-trivial extra symmetries. We couple this twelve-dimensionalsupersymmetric Yang-Mills background to Green-Schwarz superstring, and confirmfermionic kappa-invariance. As another improvement of this theory, we present aset of fully Lorentz-covariant and supercovariant field equations with no useof null-vectors. This system has an additional scalar field, whose gradientplays a role of the null-vector. This system exhibits spontaneous breaking ofthe original Lorentz symmetry SO(10,2) for twelve-dimensions down to SO(9,1)for ten-dimensions.

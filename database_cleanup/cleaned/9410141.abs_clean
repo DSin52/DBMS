@@ -1,0 +1,11 @@
+Paper: hep-th/9410141
+
+Date: 1994-10-19
+
+Title: The Renormalization Group and Two Dimensional Multicritical Effective
+
+Scalar Field TheoryComments: Note added on "shadow operators". Version to be published in Phys.
+
+Lett. BJournal-ref: Phys.Lett. B345 (1995) 139-148
+
+Direct verification of the existence of an infinite set of multicriticalnon-perturbative FPs (Fixed Points) for a single scalar field in twodimensions, is in practice well outside the capabilities of the presentstandard approximate non-perturbative methods. We apply a derivative expansionof the exact RG (Renormalization Group) equations in a form which allows thecorresponding FP equations to appear as non-linear eigenvalue equations for theanomalous scaling dimension $\eta$. At zeroth order, only continuum limitsbased on critical sine-Gordon models, are accessible. At second order inderivatives, we perform a general search over all $\eta\ge.02$, finding theexpected first ten FPs, and {\sl only} these. For each of these we verify thecorrect relevant qualitative behaviour, and compute critical exponents, and thedimensions of up to the first ten lowest dimension operators. Depending on thequantity, our lowest order approximate description agrees with CFT (ConformalField Theory) with an accuracy between 0.2\% and 33\%; this requires howeverthat certain irrelevant operators that are total derivatives in the CFT areassociated with ones that are not total derivatives in the scalar field theory.

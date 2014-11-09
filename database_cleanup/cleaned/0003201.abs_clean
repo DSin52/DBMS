@@ -1,0 +1,13 @@
+Paper: hep-th/0003201
+
+Date: 2000-03-22
+
+Title: The braiding for representations of q-deformed affine $sl_2$
+
+Authors: E.J. Beggs and P.R. Johnson
+
+Comments: LaTeX, 10 pages with 2 figs, uses epsfig
+
+Journal-ref: J.Math.Phys. 42 (2001) 2156-2166
+
+We compute the braiding for the `principal gradation' of $U_q(\hat{{\itsl}_2})$ for $|q|=1$ from first principles, starting from the idea of a rigidbraided tensor category. It is not necessary to assume either the crossing orthe unitarity condition from S-matrix theory. We demonstrate the uniqueness ofthe normalisation of the braiding under certain analyticity assumptions, andshow that its convergence is critically dependent on the number-theoreticproperties of the number $\tau$ in the deformation parameter $q=e^{2\pii\tau}$. We also examine the convergence using probability, assuming a uniformdistribution for $q$ on the unit circle.

@@ -1,0 +1,13 @@
+Paper: hep-th/0110283
+
+Date: 2001-10-30
+
+Title: Two-Loop Superstrings II, The Chiral Measure on Moduli Space
+
+Authors: Eric D'Hoker, D.H. Phong
+
+Comments: 64 pages, no figures
+
+Journal-ref: Nucl.Phys. B636 (2002) 3-60
+
+A detailed derivation from first principles is given for the unambiguous andslice-independent formula for the two-loop superstring chiral measure which wasannounced in the first paper of this series. Supergeometries are projected ontotheir super period matrices, and the integration over odd supermoduli isperformed by integrating over the fibers of this projection. The subtletiesassociated with this procedure are identified. They require the inclusion ofsome new finite-dimensional Jacobian superdeterminants, a deformation of theworldsheet correlation functions using the stress tensor, and perhapsparadoxically, another additional gauge choice, ``slice \hat\mu choice'', whoseindependence also has to be established. This is done using an importantcorrespondence between superholomorphic notions with respect to a supergeometryand holomorphic notions with respect to its super period matrix. Altogether,the subtleties produce precisely the corrective terms which restore theindependence of the resulting gauge-fixed formula under infinitesimal changesof gauge-slice. This independence is a key criterion for any gauge-fixedformula and hence is verified in detail.

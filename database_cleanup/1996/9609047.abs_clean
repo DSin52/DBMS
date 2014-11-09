@@ -1,0 +1,11 @@
+Paper: hep-th/9609047
+
+Date: 1996-09-05
+
+Title: Renormalization Effects in a Dilute Bose Gas
+
+Authors: Eric Braaten and Agustin Nieto (Ohio State University)
+
+Comments: 10 pages, 1 postscript figure, LaTeX
+
+The low-density expansion for a homogeneous interacting Bose gas at zerotemperature can be formulated as an expansion in powers of $\sqrt{\rho a^3}$,where $\rho$ is the number density and $a$ is the S-wave scattering length.Logarithms of $\rho a^3$ appear in the coefficients of the expansion. We showthat these logarithms are determined by the renormalization properties of theeffective field theory that describes the scattering of atoms at zero density.The leading logarithm is determined by the renormalization of the pointlike $3\to 3$ scattering amplitude.

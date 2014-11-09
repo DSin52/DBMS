@@ -1,0 +1,13 @@
+Paper: hep-th/0111016
+
+Date: 2001-11-01
+
+Title: Two-Loop Superstrings III, Slice Independence and Absence of Ambiguities
+
+Authors: Eric D'Hoker, D.H. Phong
+
+Comments: 20 pages, no figures
+
+Journal-ref: Nucl.Phys. B636 (2002) 61-79
+
+The chiral superstring measure constructed in the earlier papers of thisseries for general gravitino slices is examined in detail for slices supportedat two points x_\alpha. In this case, the invariance of the measure underinfinitesimal changes of gravitino slices established previously ismoduli space, to be locally and globally independent from the points x_\alpha,as well as from the superghost insertion points p_a, q_\alpha introducedearlier as computational devices. In particular, the measure is completelyunambiguous. The limit x_\alpha = q_\alpha is then well defined. It is ofspecial interest, since it elucidates some subtle issues in the construction ofthe picture-changing operator Y(z) central to the BRST formalism. The formulafor the chiral superstring measure in this limit is derived explicitly.

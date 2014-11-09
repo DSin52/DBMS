@@ -1,0 +1,13 @@
+Paper: hep-th/9407035
+
+Date: 1994-07-06
+
+Title: SL(2,R) Yang-Mills theory on a circle
+
+Authors: I. Bengtsson and J. Hallin
+
+Comments: 10 pages, Goteborg ITP 94-19, Contains two files
+
+all figures drawn in latex and a tar archive including a slightly modifiedlatex file (uses psfig) and nicer postscript figures+necessary macrosJournal-ref: Mod.Phys.Lett. A9 (1994) 3245-3254
+
+The kinematics of SL(2,R) Yang-Mills theory on a circle is considered, forreasons that are spelled out. The gauge transformations exhibit hyperbolicfixed points, and this results in a physical configuration space with anon-Hausdorff "network" topology. The ambiguity encountered in canonicalquantization is then much more pronounced than in the compact case, and can notbe resolved through the kind of appeal made to group theory in that case.

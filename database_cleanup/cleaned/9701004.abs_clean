@@ -1,0 +1,11 @@
+Paper: hep-th/9701004
+
+Date: 1997-01-02
+
+Title: Large-Order Perturbation Theory in Infrared-Unstable Superrenormalizable
+
+Field TheoriesComments: 28 pages, Latex, three .eps figures
+
+Journal-ref: Phys.Rev. D55 (1997) 6209-6217
+
+We study the factorial divergences of Euclidean $\phi^3_5$, a problem withconnections both to high-energy multiparticle scattering in d=4 and to d=3 (orhigh-temperature) gauge theory, which like $\phi^3_5$ is infrared-unstable andsuperrenormalizable. At large external momentum p (or small mass M) and largeorder N one might expect perturbative bare skeleton graphs to behave roughlylike $N!(ag^2/p)^N$ with a>0, so that no matter how large p is there is an$N\sim g^2/p$ giving rise to strong perturbative amplitudes. The semi-classical Lipatov technique (which works only in the presence of a mass) isblind to this momentum dependence, so we proceed by direct summation of bareskeleton graphs. We find that the various limits of large N, large p, and smallM do not commute, and that when $N\gg p^2/M^2$ there is a Borel singularityassociated with $g^2/M$, not $g^2/p$. This is described by the zero-momentumLipatov technique, and we find the necessary soliton for $\phi^3_5$; thecorresponding sphaleron-like solution for unbroken Yang-Mills theory has longbeen known. We also show that the massless theories have no classical solitons.We discuss non-perturbative effects based partly on known physical argumentsconcerning the cancellation by solitons of imaginary parts due to the pert-urbative Borel singularity, and partly on the dressing of bare skeleton graphsby dressed propagators showing non-perturbative mass generation, as happens ind=3 gauge theory.

@@ -1,0 +1,13 @@
+Paper: hep-th/0103159
+
+Date: 2001-03-20
+
+Title: Convergent Yang-Mills Matrix Theories
+
+Authors: Peter Austing and John F. Wheater
+
+Comments: 21 pages, no figures, JHEP style, typos corrected, 1 reference added
+
+Journal-ref: JHEP 0104 (2001) 019
+
+We consider the partition function and correlation functions in the bosonicand supersymmetric Yang-Mills matrix models with compact semi-simple gaugegroup. In the supersymmetric case, we show that the partition functionconverges when $D=4,6$ and 10, and that correlation functions of degree $k<k_c=2(D-3)$ are convergent independently of the group. In the bosonic case weshow that the partition function is convergent when $D \geq D_c$, and thatcorrelation functions of degree $k < k_c$ are convergent, and calculate $D_c$and $k_c$ for each group, thus extending our previous results for SU(N). As aspecial case these results establish that the partition function and a set ofcorrelation functions in the IKKT IIB string matrix model are convergent.

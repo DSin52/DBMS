@@ -1,0 +1,11 @@
+Paper: hep-th/0304252
+
+Date: 2003-04-29
+
+Title: Classical Solutions for Poisson Sigma Models on a Riemann surface
+
+Authors: Martin Bojowald and Thomas Strobl
+
+Comments: 28 pages
+
+We determine the moduli space of classical solutions to the field equationsof Poisson Sigma Models on arbitrary Riemann surfaces for Poisson structureswith vanishing Poisson form class. This condition ensures the existence of apresymplectic form on the target Poisson manifold which agrees with the inducedsymplectic forms of the Poisson tensor upon pullback to the leaves. Thedimension of the classical moduli space as a function of the genus of theworldsheet Sigma and the corank k of the Poisson tensor is determined ask(rank(H^1(Sigma))+1). Representatives of the classical solutions are providedusing the above mentioned presymplectic 2-forms, and possible generalizationsto cases where such a form does not exist are discussed. The results arecompared to the known moduli space of classical solutions for two-dimensionalBF and Yang-Mills theories.

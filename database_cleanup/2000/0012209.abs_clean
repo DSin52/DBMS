@@ -1,0 +1,13 @@
+Paper: hep-th/0012209
+
+Date: 2000-12-21
+
+Title: Model of a quantum particle in spacetime
+
+Authors: Jan Naudts and Maciej Kuna
+
+Comments: revtex, 8 pages
+
+Journal-ref: J.Phys. A34 (2001) 4227-4240
+
+Doplicher, Fredenhagen, and Roberts (1994, 1995) proposed a simple model of aparticle in quantum spacetime. We give a new formulation of the model andpropose some small changes and additions which improve the physicalinterpretation. In particular, we show that the internal degrees of freedom eand m of the particle represent external forces acting on the particle. Toobtain this result we follow a constructive approach. The model is formulatedas a covariance system. It has projective representations in which not only thespacetime coordinates but also the conjugated momenta are two-by-twononcommuting. These momenta are of the form P_mu-(b/c)A_mu, where b is thecharge of the particle. The electric and magnetic fields obtained from thevector potential A_mu coincide with the variables e and m postulated by DFR.Similarly, the spacetime position operators are of the form Q_mu-(al^2/hbar c)Omega_mu where a is a generalized charge, l a fundamental length, and withvector potentials Omega_mu which are in some sense dual w.r.t. the A_mu.

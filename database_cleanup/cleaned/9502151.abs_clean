@@ -1,0 +1,13 @@
+Paper: hep-th/9502151
+
+Date: 1995-02-27
+
+Title: Finite-Element Lattice Hamiltonian Matrix Eleents. Anharmonic
+
+OscillatorsAuthors: K. A. Milton and R. Das
+
+Comments: 17 pages, RevTeX (three uuencoded postscript figures), available
+
+Journal-ref: Lett.Math.Phys. 36 (1996) 177
+
+The finite-element approach to lattice field theory is both highly accurate(relative errors $\sim 1/N^2$, where $N$ is the number of lattice points) andexactly unitary (in the sense that canonical commutation relations are exactlypreserved at the lattice sites). In this paper we construct matrix elements forthe time evolution operator for the anharmonic oscillator, for which thecontinuum Hamiltonian is $H=p^2/2+\lambda q^{2k}/2k$. Construction of suchmatrix elements does not require solving the implicit equations of motion. Loworder approximations turn out to be quite accurate. For example, the matrixelement of the time evolution operator in the harmonic oscillator ground stategives a result for the $k=2$ anharmonic oscillator ground state energy accurateto better than 1\%, while a two-state approximation reduces the error to lessthan 0.1\%. Accurate wavefunctions are also extracted. Analogous results may beobtained in the continuum, but there the computation is more difficult, and notgeneralizable to field theories in more dimensions.

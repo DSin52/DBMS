@@ -1,0 +1,13 @@
+Paper: hep-th/0207120
+
+Date: 2002-07-12
+
+Title: Calculating Vacuum Energies in Renormalizable Quantum Field Theories
+
+New Approach to the Casimir ProblemAuthors: N. Graham, R. L. Jaffe, V. Khemani, M. Quandt, M. Scandurra, H. Weigel
+
+Comments: 36pages, Latex, 20 eps files. included via epsfig
+
+Journal-ref: Nucl.Phys. B645 (2002) 49-84
+
+The Casimir problem is usually posed as the response of a fluctuating quantumfield to externally imposed boundary conditions. In reality, however, nointeraction is strong enough to enforce a boundary condition on all frequenciesof a fluctuating field. We construct a more physical model of the situation bycoupling the fluctuating field to a smooth background potential that implementsthe boundary condition in a certain limit. To study this problem, we developgeneral new methods to compute renormalized one--loop quantum energies andenergy densities. We use analytic properties of scattering data to computeGreen's functions in time--independent background fields at imaginary momenta.Our calculational method is particularly useful for numerical studies ofsingular limits because it avoids terms that oscillate or require cancellationof exponentially growing and decaying factors. To renormalize, we identifypotentially divergent contributions to the Casimir energy with low orders inthe Born series to the Green's function. We subtract these contributions andadd back the corresponding Feynman diagrams, which we combine with countertermsfixed by imposing standard renormalization conditions on low--order Green'sfunctions. The resulting Casimir energy and energy density are finitefunctionals for smooth background potentials. In general, however, the Casimirenergy diverges in the boundary condition limit. This divergence is real andreflects the infinite energy needed to constrain a fluctuating field on allenergy scales; renormalizable quantum field theories have no place for ad hocsurface counterterms. We apply our methods to simple examples to illustratecases where these subtleties invalidate the conclusions of the boundarycondition approach.

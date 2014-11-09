@@ -1,0 +1,13 @@
+Paper: hep-th/0007105
+
+Date: 2000-07-13
+
+Title: Dimensional regularization of the path integral in curved space on an
+
+infinite time intervalAuthors: F. Bastianelli, O. Corradini, P. van Nieuwenhuizen
+
+Comments: 13 pages, 10 figures, LaTeX
+
+Journal-ref: Phys.Lett. B490 (2000) 154-162
+
+We use dimensional regularization to evaluate quantum mechanical pathintegrals in arbitrary curved spaces on an infinite time interval. We perform3-loop calculations in Riemann normal coordinates, and 2-loop calculations ingeneral coordinates. It is shown that one only needs a covariant two-loopcounterterm (V_{DR} = R/8) to obtain the same results as obtained earlier inother regularization schemes. It is also shown that the mass term needed inorder to avoid infrared divergences explicitly breaks general covariance in thefinal result.

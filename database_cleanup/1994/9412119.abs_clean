@@ -1,0 +1,13 @@
+Paper: hep-th/9412119
+
+Date: 1994-12-14
+
+Title: Solution of the Three--Anyon Problem
+
+Authors: Stefan Mashkevich, Jan Myrheim, K{\aa}re Olaussen and Ronald Rietman
+
+Comments: 15 pages, LaTeX2.09
+
+Journal-ref: Phys.Lett. B348 (1995) 473
+
+We solve, by separation of variables, the problem of three anyons with aharmonic oscillator potential. The anyonic symmetry conditions from cyclicpermutations are separable in our coordinates. The conditions from two-particletranspositions are not separable, but can be expressed as reflection symmetryconditions on the wave function and its normal derivative on the boundary of acircle. Thus the problem becomes one-dimensional. We solve this problemnumerically by discretization. $N$-point discretization with very small $N$ isoften a good first approximation, on the other hand convergence as $N\to\infty$is sometimes very slow.

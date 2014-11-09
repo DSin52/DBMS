@@ -1,0 +1,11 @@
+Paper: hep-th/0012233
+
+Date: 2000-12-24
+
+Title: Calabi-Yau Manifolds Over Finite Fields, I
+
+Authors: Philip Candelas, Xenia de la Ossa, and Fernando Rodriguez-Villegas
+
+Comments: 75 pages, 6 eps figures
+
+We study Calabi-Yau manifolds defined over finite fields. These manifoldshave parameters, which now also take values in the field and we compute thenumber of rational points of the manifold as a function of the parameters. Theintriguing result is that it is possible to give explicit expressions for thenumber of rational points in terms of the periods of the holomorphicthree-form. We show also, for a one parameter family of quintic threefolds,that the number of rational points of the manifold is closely related to as thenumber of rational points of the mirror manifold. Our interest is primarilywith Calabi-Yau threefolds however we consider also the interesting case ofelliptic curves and even the case of a quadric in CP_1 which is a zerodimensional Calabi-Yau manifold. This zero dimensional manifold has trivialdependence on the parameter over C but a not trivial arithmetic structure.

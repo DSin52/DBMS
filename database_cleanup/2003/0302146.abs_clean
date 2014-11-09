@@ -1,0 +1,11 @@
+Paper: hep-th/0302146
+
+Date: 2003-02-19
+
+Title: S-Brane Thermodynamics
+
+Authors: Alexander Maloney, Andrew Strominger and Xi Yin
+
+Comments: 42 pages
+
+The description of string-theoretic s-branes at g_s=0 as exact worldsheetCFTs with a (lambda cosh X^0) or (lambda e^(X^0)) boundary interaction isconsidered. Due to the imaginary-time periodicity of the interaction under X^0hole or de Sitter geometries. For example, the open string pair production asseen by an Unruh detector is thermal at temperature T = 1/4 pi. It is shownthat, despite the rapid time dependence of the s-brane, there exists an exactlythermal mixed state of open strings. The corresponding boundary state isconstructed for both the bosonic and superstring cases. This state defines along-distance Euclidean effective field theory whose light modes are confinedto the s-brane. At the critical value of the coupling lambda=1/2, the boundaryinteraction simply generates an SU(2) rotation by pi from Neumman to Dirichletboundary conditions. The lambda=1/2 s-brane reduces to an array of sD-branes(D-branes with a transverse time dimension) on the imaginary time axis. Thelong range force between a (bosonic) sD-brane and an ordinary D-brane is shownfrom the annulus diagram to be 11/12 times the force between two D-branes. Thelinearized time-dependent RR field F=dC produced by an sD-brane in superstringtheory is explicitly computed and found to carry a half unit of s-chargeQ_s=\int_S *F=1/2, where S is any transverse spacelike slice.

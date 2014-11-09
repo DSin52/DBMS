@@ -1,0 +1,13 @@
+Paper: hep-th/0107088
+
+Date: 2001-07-11
+
+Title: Living with Ghosts
+
+Authors: S.W. Hawking, Thomas Hertog
+
+Comments: 13 pages;typo corrected, reference added
+
+Journal-ref: Phys.Rev. D65 (2002) 103515
+
+Perturbation theory for gravity in dimensions greater than two requireshigher derivatives in the free action. Higher derivatives seem to lead toghosts, states with negative norm. We consider a fourth order scalar fieldtheory and show that the problem with ghosts arises because in the canonicaltreatment, $\phi$ and $\Box \phi $ are regarded as two independent variables.Instead, we base quantum theory on a path integral, evaluated in Euclideanspace and then Wick rotated to Lorentzian space. The path integral requiresthat quantum states be specified by the values of $\phi$ and $\phi_{,\tau}$. Tocalculate probabilities for observations, one has to trace out over$\phi_{,\tau}$ on the final surface. Hence one loses unitarity, but one cannever produce a negative norm state or get a negative probability. It is shownthat transition probabilities tend toward those of the second order theory, asthe coefficient of the fourth order term in the action tends to zero. Henceunitarity is restored at the low energies that now occur in the universe.

@@ -1,0 +1,11 @@
+Paper: hep-th/9711045
+
+Date: 1997-11-06
+
+Title: Loop Homotopy Algebras in Closed String Field Theory
+
+Comments: LaTeX 2.09, 29 pages. Section "Loop homotopy Lie algebras - operadic
+
+approach" substantially revisedJournal-ref: Commun.Math.Phys. 221 (2001) 367-384
+
+Barton Zwiebach constructed the `string products' on the Hilbert space ofcombined conformal field theory of matter and ghosts. It is well-known that the`tree level' specialization of these products forms a strongly homotopy Liealgebra. A strongly homotopy Lie algebra is given by a square zero coderivationon the cofree cocommutative connected coalgebra, on the other hand, stronglyhomotopy Lie algebras are algebras over the cobar construction on thecommutative algebras operad. The aim of our paper is to give two similarcharacterizations of the structure formed by the `string products' of arbitrarygenera. Our first characterization will be based on the notion of a higherorder coderivation, the second characterization will be based on the machineryof modular operads. We will also discuss possible generalizations to openstring field theory.

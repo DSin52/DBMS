@@ -1,0 +1,13 @@
+Paper: hep-th/9603192
+
+Date: 1996-03-28
+
+Title: BRST operator quantization of generally covariant gauge systems
+
+Authors: Rafael Ferraro and Daniel M. Sforza
+
+Comments: 16 pages (LaTeX manuscript). Revised version (minor changes) to
+
+appear in Physical Review DJournal-ref: Phys.Rev. D55 (1997) 4785-4790
+
+The BRST generator is realized as a Hermitian nilpotent operator for afinite-dimensional gauge system featuring a quadratic super-Hamiltonian andlinear supermomentum constraints. As a result, the emerging ordering for theHamiltonian constraint is not trivial, because the potential must enter thekinetic term in order to obtain a quantization invariant under scaling. Namely,BRST quantization does not lead to the curvature term used in the literature asa means to get that invariance. The inclusion of the potential in the kineticterm, far from being unnatural, is beautifully justified in light of theJacobi's principle.

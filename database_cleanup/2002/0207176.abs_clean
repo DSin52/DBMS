@@ -1,0 +1,13 @@
+Paper: hep-th/0207176
+
+Date: 2002-07-19
+
+Title: Exact S-matrices for supersymmetric sigma models and the Potts model
+
+Authors: Paul Fendley and Nicholas Read
+
+Comments: 32 pages, 8 figures
+
+Statistical MechanicsJournal-ref: J. Phys. A 35 (2002) 10675
+
+We study the algebraic formulation of exact factorizable S-matrices forintegrable two-dimensional field theories. We show that different formulationsof the S-matrices for the Potts field theory are essentially equivalent, in thesense that they can be expressed in the same way as elements of theTemperley-Lieb algebra, in various representations. This enables us toconstruct the S-matrices for certain nonlinear sigma models that are invariantunder the Lie ``supersymmetry'' algebras sl(m+n|n) (m=1,2; n>0), both for thebulk and for the boundary, simply by using another representation of the samealgebra. These S-matrices represent the perturbation of the conformal theory attheta=pi by a small change in the topological angle theta. The m=1, n=1 theoryhas applications to the spin quantum Hall transition in disordered fermionsystems. We also find S-matrices describing the flow from weak to strongcoupling, both for theta=0 and theta=pi, in certain other supersymmetric sigmamodels.

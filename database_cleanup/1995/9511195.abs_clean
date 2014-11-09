@@ -1,0 +1,11 @@
+Paper: hep-th/9511195
+
+Date: 1995-11-27
+
+Title: Topological interactions in broken gauge theories
+
+Authors: Mark de Wild Propitius
+
+Comments: 168 pages, LaTeX using amssymb.sty, 19 eps figures, all in a single
+
+uuencoded file. PhD thesis submitted to the University of Amsterdam. Hardcopies available upon request. Postscript version also available atThis thesis deals with planar gauge theories in which some gauge group G isspontaneously broken to a finite subgroup H. The spectrum consists of magneticvortices, global H charges and dyonic combinations exhibiting topologicalAharonov-Bohm interactions. Among other things, we review the Hopf algebra D(H)related to this residual discrete H gauge theory, which provides an unifieddescription of the spin, braid and fusion properties of the aforementionedparticles. The implications of adding a Chern-Simons (CS) term to these modelsare also addressed. We recall that the CS actions for a compact gauge group Gare classified by the cohomology group H^4(BG,Z). For finite groups H thisclassification boils down to the cohomology group H^3(H,U(1)). Thus thedifferent CS actions for a finite group H are given by the inequivalent3-cocycles of H. It is argued that adding a CS action for the broken gaugegroup G leads to additional topological interactions for the vortices governedby a 3-cocycle for the residual finite gauge group H determined by a naturalhomomorphism from H^4(BG,Z) to H^3(H,U(1)). Accordingly, the related Hopfalgebra D(H) is deformed into a quasi-Hopf algebra. These generalconsiderations are illustrated by CS theories in which the direct product ofsome U(1) gauge groups is broken to a finite subgroup H. It turns out that notall conceivable 3-cocycles for finite abelian gauge groups H can be obtained inthis way. Those that are not reached are the most interesting. A Z_2 x Z_2 xZ_2 CS theory given by such a 3-cocycle, for instance, is dual to an ordinarygauge theory with nonabelian gauge group the dihedral group of order eight.Finally, the CS theories with nonabelian finite gauge group a dihedral ordouble dihedral group are also discussed in full detail.

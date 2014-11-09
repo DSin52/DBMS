@@ -1,0 +1,11 @@
+Paper: hep-th/9907173
+
+Date: 1999-07-22
+
+Title: Perturbative Analysis of the Two-body Problem in (2+1)-AdS gravity
+
+Comments: 19 pages, no figures, LaTeX file
+
+Journal-ref: Int.J.Mod.Phys. A16 (2001) 2945-2964
+
+We derive a perturbative scheme to treat the interaction between pointsources and AdS-gravity. The interaction problem is equivalent to the search ofa polydromic mapping $X^A= X^A(x^\mu)$, endowed with 0(2,2) monodromies,between the physical coordinate system and a Minkowskian 4-dimensionalcoordinate system, which is however constrained to live on a hypersurface. Thephysical motion of point sources is therefore mapped to a geodesic motion onthis hypersuface. We impose an instantaneous gauge which induces a set ofequations defining such a polydromic mapping. Their consistency leads naturallyto the Einstein equations in the same gauge. We explore the restriction of themonodromy group to O(2,1), and we obtain the solution of the fieldsperturbatively in the cosmological constant.

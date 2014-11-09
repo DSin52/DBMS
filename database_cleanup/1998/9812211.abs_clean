@@ -1,0 +1,13 @@
+Paper: hep-th/9812211
+
+Date: 1998-12-22
+
+Title: Anharmonic oscillators, the thermodynamic Bethe ansatz, and nonlinear
+
+integral equationsAuthors: Patrick Dorey and Roberto Tateo
+
+Comments: 11 pages, Latex 2e, uses amssymb, cite
+
+Journal-ref: J.Phys. A32 (1999) L419-L425
+
+The spectral determinant $D(E)$ of the quartic oscillator is known to satisfya functional equation. This is mapped onto the $A_3$-related $Y$-systememerging in the treatment of a certain perturbed conformal field theory,allowing us to give an alternative integral expression for $D(E)$. Generalisingthis result, we conjecture a relationship between the $x^{2M}$ anharmonicoscillators and the $A_{2M-1}$ TBA systems. Finally, spectral determinants forgeneral $|x|^{\alpha}$ potentials are mapped onto the solutions of nonlinearintegral equations associated with the (twisted) XXZ and sine-Gordon models.

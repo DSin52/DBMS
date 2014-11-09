@@ -1,0 +1,13 @@
+Paper: hep-th/0003242
+
+Date: 2000-03-27
+
+Title: On the Landau-Ginzburg description of Boundary CFTs and special
+
+Lagrangian submanifoldsAuthors: Suresh Govindarajan (IITM) and T. Jayaraman (IMSc)
+
+Comments: 28+1 pages; no figures; requires JHEP.cls, amssymb; (v2) typo
+
+corrected; (v3) references addedJournal-ref: JHEP 0007 (2000) 016
+
+We consider Landau-Ginzburg (LG) models with boundary conditions preservingA-type N=2 supersymmetry. We show the equivalence of a linear class of boundaryconditions in the LG model to a particular class of boundary states in thecorresponding CFT by an explicit computation of the open-string Witten index inthe LG model. We extend the linear class of boundary conditions to generalnon-linear boundary conditions and determine their consistency with A-type N=2supersymmetry. This enables us to provide a microscopic description of specialLagrangian submanifolds in C^n due to Harvey and Lawson. We generalise thisconstruction to the case of hypersurfaces in P^n. We find that the boundaryconditions must necessarily have vanishing Poisson bracket with the combination(W(\phi)-\bar{W}(\bar{\phi})), where W(\phi) is the appropriate superpotentialfor the hypersurface. An interesting application considered is the T^3supersymmetric cycle of the quintic in the large complex structure limit.

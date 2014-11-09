@@ -1,0 +1,13 @@
+Paper: hep-th/9701036
+
+Date: 1997-01-10
+
+Title: Dynamical Symmetry Breaking in Fractal Space
+
+Authors: Yukinori Nagatani (Nagoya University)
+
+Comments: 28 pages, 5 figures, LaTeX with epsf macro
+
+Journal-ref: Phys.Rev. D56 (1997) 1239-1249
+
+We formulate field theories in fractal space and show the phase diagrams ofthe coupling versus the fractal dimension for the dynamical symmetry breaking.We first consider the 4-dimensional Gross-Neveu (GN) model in the(4-d)-dimensional randomized Cantor space where the fermions are restricted toa fractal space by the high potential barrier of Cantor fractal shape. By thestatistical treatment of this potential, we obtain an effective actiondepending on the fractal dimension. Solving the 1/N leading Schwinger-Dyson(SD) equation, we get the phase diagram of dynamical symmetry breaking with acritical line similar to that of the d-dimensional (2<d<4) GN model except forthe system-size dependence. We also consider QED4 with only the fermionsformally compactified to d dimensions. Solving the ladder SD equation, weobtain the phase diagram of dynamical chiral symmetry breaking with a linearcritical line, which is consistent with the known results for d=4 (theMaskawa-Nakajima case) and d=2 (the case with the external magnetic field).

@@ -1,0 +1,13 @@
+Paper: hep-th/0106226
+
+Date: 2001-06-25
+
+Title: Large Mass Invariant Asymptotics of the Effective Action
+
+Authors: Alexander A. Osipov and Brigitte Hiller (Centro de Fisica Teorica,
+
+Universidade de Coimbra, Portugal)Comments: 5 pages, revtex, no figures
+
+Journal-ref: Phys.Rev. D64 (2001) 087701
+
+We study the large mass asymptotics of the Dirac operator with anondegenerate mass matrix m={diag}(m_1,m_2,m_3) in the presence of scalar andpseudoscalar background fields taking values in the Lie algebra of the U(3)group. The corresponding one-loop effective action is regularized by theSchwinger's proper-time technique. Using a well-known operator identity, weobtain a series representation for the heat kernel which differs from thestandard proper-time expansion, if m_1\ne m_2\ne m_3. After integrating overthe proper-time we use a new algorithm to resum the series. The invariantcoefficients which define the asymptotics of the effective action arecalculated up to the fourth order and compared with the related Seeley-DeWittcoefficients for the particular case of a degenerate mass matrix withm_1=m_2=m_3.

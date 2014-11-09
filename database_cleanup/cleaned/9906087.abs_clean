@@ -1,0 +1,13 @@
+Paper: hep-th/9906087
+
+Date: 1999-06-11
+
+Title: Can DLCQ test the Maldacena Conjecture?
+
+Authors: Francesco Antonuccio, Akikazu Hashimoto, Oleg Lunin, and Stephen
+
+PinskyComments: 19 pages, 5 figures
+
+Journal-ref: JHEP 9907 (1999) 029
+
+We consider the Maldacena conjecture applied to the near horizon geometry ofa D1-brane in the supergravity approximation and consider the possibility oftesting the conjecture against the boundary field theory calculation usingDLCQ. We propose the two point function of the stress energy tensor as aconvenient quantity that may be computed on both sides of the correspondence.On the supergravity side, we may invoke the methods of Gubser, Klebanov,Polyakov, and Witten. On the field theory side, we derive an explicitexpression for the two point function in terms of data that may be extractedfrom a DLCQ calculation at a given harmonic resolution. This gives rise to awell defined numerical algorithm for computing the two point function, which wetest in the context of free fermions and the 't Hooft model. For thesupersymmetric Yang-Mills theory with 16 supercharges that arises in theMaldacena conjecture, the algorithm is perfectly well defined, although thesize of the numerical computation grows too fast to admit any detailed analysisat present, and our results are only preliminary. We are, however, able topresent more detailed results on the supersymmetric DLCQ computation of thestress energy tensor correlators for two dimensional Yang Mills theories with(1,1) and (2,2) supersymmetries.

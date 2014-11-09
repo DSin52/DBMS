@@ -1,0 +1,13 @@
+Paper: hep-th/9609014
+
+Date: 1996-08-31
+
+Title: New Algorithm for Tensor Calculation in Field Theories
+
+Authors: Shoichi Ichinose
+
+Comments: 27 pages, 17 figures, epsbox.sty included, to appear in
+
+Int.Jour.Mod.Phys.CJournal-ref: Int.J.Mod.Phys. C9 (1998) 243-264
+
+Tensor calculation of suffix-contraction is carried out by a C-program.Tensors are represented graphically, and the algorithm makes use of thetopology of graphs. Classical and quantum gravity, in the weak-fieldperturbative approach, is a special interest. Examples of the leading ordercalculation of some general invariants such as $R_{\mn\ls}R^{\mn\ls}$ aregiven. Application to Weyl anomaly calculation is commented.

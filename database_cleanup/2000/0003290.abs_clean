@@ -1,0 +1,13 @@
+Paper: hep-th/0003290
+
+Date: 2000-03-31
+
+Title: The Dimensional-Reduction Anomaly in Spherically Symmetric Spacetimes
+
+Authors: P. Sutton
+
+Comments: LaTeX, 19 pages, 2 figures. v2
+
+addedJournal-ref: Phys.Rev. D62 (2000) 044033
+
+In D-dimensional spacetimes which can be foliated by n-dimensionalhomogeneous subspaces, a quantum field can be decomposed in terms of modes onthe subspaces, reducing the system to a collection of (D-n)-dimensional fields.This allows one to write bare D-dimensional field quantities like the Greenfunction and the effective action as sums of their (D-n)-dimensionalcounterparts in the dimensionally reduced theory. It has been shown, however,that renormalization breaks this relationship between the original anddimensionally reduced theories, an effect called the dimensional-reductionanomaly. We examine the dimensional-reduction anomaly for the important case ofspherically symmetric spaces.

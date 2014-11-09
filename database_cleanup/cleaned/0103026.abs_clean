@@ -1,0 +1,13 @@
+Paper: hep-th/0103026
+
+Date: 2001-03-05
+
+Title: Skyrmions, Fullerenes and Rational Maps
+
+Authors: Richard Battye and Paul Sutcliffe
+
+Comments: 58 pages, including 10 figures
+
+Journal-ref: Rev.Math.Phys. 14 (2002) 29-86
+
+We apply two very different approaches to calculate Skyrmions with baryonnumber B less than 23. The first employs the rational map ansatz, whereapproximate charge B Skyrmions are constructed from a degree B rational mapbetween Riemann spheres. We use a simulated annealing algorithm to search forthe minimal energy rational map of a given degree B. The second involves thenumerical solution of the full non-linear time dependent equations of motion,with initial conditions consisting of a number of well separated Skyrmionclusters. In general, we find a good agreement between the two approaches. ForB greater than 6 almost all the solutions are of fullerene type, that is, thebaryon density isosurface consists of twelve pentagons and 2B-14 hexagonsarranged in a trivalent polyhedron. There are exceptional cases where thisstructure is modified, which we discuss in detail. We find that for a givenvalue of B there are often many Skyrmions, with different symmetries, whoseenergies are very close to the minimal value, some of which we discuss. Wepresent rational maps which are good approximations to these Skyrmions andaccurately compute their energy by relaxation using the full non-lineardynamics.

@@ -1,0 +1,13 @@
+Paper: hep-th/0011175
+
+Date: 2000-11-20
+
+Title: Gaussian and Mean Field Approximations for Reduced Yang-Mills Integrals
+
+Authors: Satsuki Oda, Fumihiko Sugino
+
+Comments: 51 pages, 11 figures, LaTeX, Minor typos corrected (v2);Comments
+
+added, Numerical data added to figures (v3); shorter version (41 pages, 8figures) published in JHEP (v4)Journal-ref: JHEP 0103 (2001) 026
+
+In this paper, we consider bosonic reduced Yang-Mills integrals by using someapproximation schemes, which are a kind of mean field approximation calledGaussian approximation and its improved version. We calculate the free energyand the expectation values of various operators including Polyakov loop andWilson loop. Our results nicely match to the exact and the numerical resultsobtained before. Quite good scaling behaviors of the Polyakov loop and of theWilson loop can be seen under the 't Hooft like large $N$ limit for the case ofthe loop length smaller. Then, simple analytic expressions for the loops areobtained. Furthermore, we compute the Polyakov loop and the Wilson loop for thecase of the loop length sufficiently large, where with respect to the Polyakovloop there seems to be no known results in appropriate literatures even innumerical calculations. The result of the Wilson loop exhibits a strongresemblance to the result simulated for a few smaller values of $N$ in thesupersymmetric case.

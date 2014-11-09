@@ -1,0 +1,11 @@
+Paper: hep-th/9407032
+
+Date: 1994-07-05
+
+Title: $U_q osp(2,2)$ Lattice Models
+
+Comments: 19 pages, plain LaTeX, no figures. Minor changes (version accepted
+
+for publication)Journal-ref: J.Phys. A28 (1995) 1305-1324
+
+In this paper I construct lattice models with an underlying $U_q osp(2,2)$superalgebra symmetry. I find new solutions to the graded Yang-Baxter equation.These {\it trigonometric} $R$-matrices depend on {\it three} continuousparameters, the spectral parameter, the deformation parameter $q$ and the$U(1)$ parameter, $b$, of the superalgebra. It must be emphasized that theparameter $q$ is generic and the parameter $b$ does not correspond to the`nilpotency' parameter of \cite{gs}. The rational limits are given; they alsodepend on the $U(1)$ parameter and this dependence cannot be rescaled away. Igive the Bethe ansatz solution of the lattice models built from some of these$R$-matrices, while for other matrices, due to the particular nature of therepresentation theory of $osp(2,2)$, I conjecture the result. The parameter $b$appears as a continuous generalized spin. Finally I briefly discuss the problemof finding the ground state of these models.

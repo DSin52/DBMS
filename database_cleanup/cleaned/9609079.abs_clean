@@ -1,0 +1,13 @@
+Paper: hep-th/9609079
+
+Date: 1996-09-10
+
+Title: Non-critical strings at high energy
+
+Authors: Kenichiro Aoki, Eric D'Hoker
+
+Comments: 34pp, 8 figures, harvmac, epsf (TeXing problems fixed)
+
+Journal-ref: Nucl.Phys. B490 (1997) 40-74
+
+We consider scattering amplitudes in non-critical string theory of $N$external states in the limit where the energy of all external states is largecompared to the string tension. We argue that the amplitudes are naturallycomplex analytic in the matter central charge $c$ and we propose to define theamplitudes for arbitrary value of $c$ by analytic continuation. We show thatthe high energy limit is dominated by a saddle point that can be mapped onto anequilibrium electro-static energy configuration of an assembly of $N$ pointlike(Minkowskian) charges, together with a density of charges arising from theLiouville field. We argue that the Liouville charges accumulate on segments ofcurves, and produce quadratic branch cuts on the worldsheet. Theelectro-statics problem is solved for string tree level in terms ofhyper-elliptic integrals and is given explicitly for 3- and 4-point functions.We show that the high energy limit should behave in a string-like fashion withexponential dependence on the energy scale for generic values of $c$.

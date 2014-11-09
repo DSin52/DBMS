@@ -1,0 +1,13 @@
+Paper: hep-th/9703065
+
+Date: 1997-03-10
+
+Title: Dynkin Diagrams and Integrable Models Based on Lie Superalgebras
+
+Authors: Jonathan M. Evans, Jens Ole Madsen
+
+Comments: 31 pages; plain TeX, macros included; 5 main Figs., more in tables;
+
+(already corrected in published version)Journal-ref: Nucl.Phys. B503 (1997) 715-746
+
+An analysis is given of the structure of a general two-dimensional Toda fieldtheory involving bosons and fermions which is defined in terms of a set ofsimple roots for a Lie superalgebra. It is shown that a simple root system fora superalgebra has two natural bosonic root systems associated with it whichcan be found very simply using Dynkin diagrams; the construction is closelyrelated to the question of how to recover the signs of the entries of a Cartanmatrix for a superalgebra from its Dynkin diagram. The significance for Todatheories is that the bosonic root systems correspond to the purely bosonicsector of the integrable model, knowledge of which can determine the bosonicpart of the extended conformal symmetry in the theory, or its classical massspectrum, as appropriate. These results are applied to some special kinds ofmodels and their implications are investigated for features such assupersymmetry, positive kinetic energy and generalized reality conditions forthe Toda fields. As a result, some new families of integrable theories withpositive kinetic energy are constructed, some containing a mixture of masslessand massive degrees of freedom, others being purely massive and supersymmetric,involving a number of coupled sine/sinh-Gordon theories.

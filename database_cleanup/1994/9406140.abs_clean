@@ -1,0 +1,9 @@
+Paper: hep-th/9406140
+
+Date: 1994-06-21
+
+Title: Geometry of determinants of elliptic operators
+
+Comments: 25 pages
+
+This paper is essentially a short version of hep-th/9404046.We compute multiplicative anomaly det(AB)/(detA detB) =F(A,B)for elliptic pseudo-differential operators (PDOs) A, B on a closedmanifold M in terms of their symbols. We prove that F(A,B)=1 forelliptic differential operators close to positive-definite ones onan odd-dimensional M. For such M we introduce a holomorphic determinant.Its monodromy lies in a finite group of roots of unity.In general case, we relate the multiplicative anomaly with a centralextension of the group of elliptic symbols and with aninvariant quadratic form on this extension. We compute the Liealgebra of the central extension in terms of logarithmic symbols.The main tool is a new trace-type functional defined on classical PDOsof non-integer orders. A canonical det of elliptic PDOs generalizingthe zeta-regularized det is introduced.

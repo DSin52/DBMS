@@ -1,0 +1,13 @@
+Paper: hep-th/9903248
+
+Date: 1999-03-29
+
+Title: Virasoro Orbits, AdS_3 Quantum Gravity and Entropy
+
+Authors: J.Navarro-Salas, P.Navarro
+
+Comments: LaTex file, 12 pages. New references added
+
+Journal-ref: JHEP 9905 (1999) 009
+
+We analyse the canonical structure of AdS_3 gravity in terms of the coadjointorbits of the Virasoro group. There is one subset of orbits, associated to BTZblack hole solutions, that can be described by a pair of chiral free fieldswith a background charge. There is also a second subset of orbits, associatedto point-particle solutions, that are described by two pairs of chiral freefields obeying a constraint. All these orbits admit K\"ahler quantization andgenerate a Hilbert space which, despite of having $\Delta_0(\bar{\Delta}_0)=0$,does not provide the right degeneracy to account for the Bekenstein-Hawkingentropy due to the breakdown of modular invariance. Therefore, additionaldegrees of freedom, reestablishing modular invariance, are necessarily requiredto properly account for the black hole entropy.

@@ -1,0 +1,13 @@
+Paper: hep-th/9911249
+
+Date: 1999-11-30
+
+Title: Matrix strings from generalized Yang-Mills theory on arbitrary Riemann
+
+surfacesAuthors: M. Billo', A D'Adda and P. Provero
+
+Comments: Latex2e, 29 pages, 2 .eps figures
+
+Journal-ref: Nucl.Phys. B576 (2000) 241-264
+
+We quantize pure 2d Yang-Mills theory on an arbitrary Riemann surface in thegauge where the field strength is diagonal. Twisted sectors originate, as inMatrix string theory, from permutations of the eigenvalues around homotopicallynon-trivial loops. These sectors, that must be discarded in the usualquantization due to divergences occurring when two eigenvalues coincide, can beconsistently kept if one modifies the action by introducing a coupling of thefield strength to the space-time curvature. This leads to a generalizedYang-Mills theory whose action reduces to the usual one in the limit of zerocurvature. After integrating over the non-diagonal components of the gaugefields, the theory becomes a free string theory (sum over unbranched coverings)with a U(1) gauge theory on the world-sheet. This is shown to be equivalent toa lattice theory with a gauge group which is the semi-direct product of S_N andU(1)^N. By using well known results on the statistics of coverings, thepartition function on arbitrary Riemann surfaces and the kernel functions onsurfaces with boundaries are calculated. Extensions to include branch pointsand non-abelian groups on the world-sheet are briefly commented upon.

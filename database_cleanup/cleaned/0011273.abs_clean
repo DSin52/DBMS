@@ -1,0 +1,11 @@
+Paper: hep-th/0011273
+
+Date: 2000-11-29
+
+Title: New results for the quantum supersymmetric kink
+
+Authors: Alfred Scharff Goldhaber, Andrei Litvintsev and Peter van
+
+NieuwenhuizenComments: 8 pages, 8 figures
+
+We review our work on computations of the quantum corrections to the mass andthe central charge of the susy kink. For the mass corrections, we find that thewidely used momentum cut-off scheme gives an incorrect result, but we deducethrough smoothing of the cut-off an extra term in the mass formula, whichproduces the correct result. We discover the importance of boundary effects forthe mode number cut-off regularization scheme. We introduce the notion ofdelocalized boundary energy. We discuss two discrete $Z_2$ symmetries and theirimportance to the mode number approach. For the central charge corrections, weuse momentum cut-off regularization with two cut-offs, one for propagators andanother for Dirac delta functions. We then compute the quantum anomaly in thecentral charge, and find that it restores the BPS bound at the one-loop levelif the two cut-offs are equal.

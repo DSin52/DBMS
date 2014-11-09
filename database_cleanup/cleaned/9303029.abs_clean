@@ -1,0 +1,13 @@
+Paper: hep-th/9303029
+
+Date: 1993-03-04
+
+Title: Dirty black holes
+
+Authors: Matt Visser
+
+Comments: plain LaTeX, 17 pages, minor revisions
+
+Journal-ref: Phys.Rev. D48 (1993) 583-591
+
+Considerable interest has recently been expressed in the entropy versus arearelationship for ``dirty'' black holes --- black holes in interaction withvarious classical matter fields, distorted by higher derivative gravity, orinfested with various forms of quantum hair. In many cases it is found that theSchwarzschild, Reissner--Nordstrom, Kerr--Newman, and dilatonic black holes. On(Riemann)^n gravity, Lovelock gravity, and various versions of quantum hair.The pattern underlying these results is less than clear. This paper{k A_H/(4\ell_P^2)}+ {1/T_H} \int_\Sigma [rho - {L}_E ] K^\mu d\Sigma_\mu+ \int_\Sigma s V^\mu d\Sigma_\mu. (K^\mu is the timelike Killing vector,V^\mu the four velocity of a co--rotating observer.) If no hair is present thevalidity of the ``entropy = (1/4) area'' law reduces to the question of whetheror not the Lorentzian energy density for the system under consideration isformally equal to the Euclideanized Lagrangian. ****** To appear in PhysicalReview D 15 July 1993 ****** [Stylistic changes, minor typos fixed, referencesupdated, discussion of the Born-Infeld system excised]

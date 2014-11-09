@@ -1,0 +1,11 @@
+Paper: hep-th/9908197
+
+Date: 1999-08-30
+
+Title: Quantization of gauge theory for gauge dependent operators
+
+Authors: Xiang-Song Chen, Wei-Min Sun, Fan Wang, Amand Faessler
+
+Comments: 4 pages revtex, no figure, multicol style
+
+Based on a canonically derived path integral formalism, we demonstrate thatthe perturbative calculation of the matrix element for gauge dependentoperators has crucial difference from that for gauge invariant ones. For agauge dependent operator ${\cal O}(\phi)$ what appears in the Feynman diagramsis not ${\cal O} (\phi)$ itself, but the gauge-transformed one ${\calO}(^\omega \phi)$, where $\omega$ characterizes the specific gaugetransformation which brings any field variable into the particular gauge whichwe have adopted to quantize the gauge theory using the canonical method. Thestudy of the matrix element of gauge dependent operators also reveals that theformal path integral formalism for gauge theory is not always reliable.

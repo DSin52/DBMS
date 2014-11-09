@@ -1,0 +1,11 @@
+Paper: hep-th/9507107
+
+Date: 1995-07-20
+
+Title: Generalized quantum mechanics of nonabelian gauge theories
+
+Comments: 54 pages, revtex, two PostScript figures included as a (8kB)
+
+uuencoded gzipped tar file. (Some corrections and format changes inpreparation for submission to journal; figures now included asreasonably-sized (10-15kB) PostScript files)Journal-ref: Phys.Rev. D53 (1996) 3118-3146
+
+Hartle's generalized quantum mechanics in the sum-over-histories formalism isused to describe a nonabelian gauge theory. Predictions are made for certainalternatives, with particular attention given to coarse-grainings involving theconstraint. In this way, the theory is compared to other quantum-mechanicaldescriptions of gauge theories in which the constraints are imposed by hand.The vanishing of the momentum space constraint is seen to hold, both through asimple formal argument and via a more careful description of the Lorentzianpath integral as defined on a spacetime lattice. (Incidentally, the treatmentof the time slicing in the path integral may be of general technical interest.)The configuration space realization of the constraint is shown to behave in amore complicated fashion. For some coarse grainings, we recover the knownresult from an abelian theory, that coarse grainings by values of theconstraint either predict its vanishing or fail to decohere. However, sets ofalternatives defined in terms of a more complicated quantity in the abeliancase are exhibited where definite predictions can be made which disagree withthe assumption that the constraints vanish. Finally, the configuration spacesum-over-histories theory is exhibited in a manifestly Lorentz-invariantformulation.

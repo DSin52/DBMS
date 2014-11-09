@@ -1,0 +1,11 @@
+Paper: hep-th/9212072
+
+Date: 1992-12-10
+
+Title: On Some Algebraic Structures Arising in String Theory
+
+Authors: Michael Penkava and Albert Schwarz
+
+Comments: 15 pages (Some corrections were made)
+
+Lian and Zuckerman proved that the homology of a topological chiral algebracan be equipped with the structure of a BV-algebra; \ie one can introduce amultiplication, an odd bracket, and an odd operator $\Delta$ having the sameproperties as the corresponding operations in Batalin-Vilkovisky quantizationprocedure. We give a simple proof of their results and discuss a generalizationof these results to the non chiral case. To simplify our proofs we use thefollowing theorem giving a characterization of a BV-algebra in terms ofassociative algebra and $\Delta$ is an odd second order derivation on $A$satisfying $\Delta^2=0$, one can provide $A$ with the structure of aBV-algebra.}

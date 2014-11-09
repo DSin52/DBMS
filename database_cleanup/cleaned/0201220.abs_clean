@@ -1,0 +1,11 @@
+Paper: hep-th/0201220
+
+Date: 2002-01-28
+
+Title: Chiral Anomalies and Topology
+
+Authors: J. Zinn-Justin
+
+Comments: Saclay preprint, lecture notes, 72 pages, TeX with private macros,
+
+one figureWhen a quantum field theory has a symmetry, global or local like in gaugetheories, in the tree or classical approximation formal manipulations lead tobelieve that the symmetry can also be implemented in the full quantum theory,provided one uses the proper quantization rules. While this is often true, itis not a general property and therefore requires a proof because simple formalmanipulations ignore the unavoidable divergences of perturbation theory. Theexistence of invariant regularizations allows solving the problem in most casesbut the combination of gauge symmetry and chiral fermions leads to subtleobstructions to the quantization of chiral gauge symmetries.Because anomaliestake the form of local polynomials in the fields, are linked to local grouptransformations, but vanish for global (rigid) transformations they have atopological character.In these notes we review various perturbative andnon-perturbative regularization techniques, and show that they leave room forpossible anomalies when both gauge fields and chiral fermions are present. Wedetermine the form of anomalies in simple examples. We relate anomalies to theindex of the Dirac operator in a gauge background. We exhibit gauge instantonsthat contribute to the anomaly in the example of the CP(N-1) models and SU(2)gauge theories. We briefly mentioned a few physical consequences. For manyyears the problem of anomalies had been discussed only within the framework ofperturbation theory. New non-perturbative solutions based on latticeregularization have recently been proposed. We describe the so-called overlapand domain wall fermion formulations.

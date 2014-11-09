@@ -1,0 +1,11 @@
+Paper: hep-th/9407075
+
+Date: 1994-07-14
+
+Title: The Zeeman Effect for the Relativistic Bound State
+
+Authors: M. C. Land and L. P. Horwitz
+
+Comments: 21 pages, TAUP-2150-94
+
+In the context of a relativistic quantum mechanics with invariant evolutionparameter, solutions for the relativistic bound state problem have been found,which yield a spectrum for the total mass coinciding with the nonrelativisticSchr\"odinger energy spectrum. These spectra were obtained by choosing anarbitrary spacelike unit vector $n_\mu$ and restricting the support of theeigenfunctions in spacetime to the subspace of the Minkowski measure space, forwhich $(x_\perp )^2 = [x-(x \cdot n) n ]^2 \geq 0$. In this paper, we examinethe Zeeman effect for these bound states, which requires $n_\mu$ to be adynamical quantity. We recover the usual Zeeman splitting in a manifestlycovariant form.

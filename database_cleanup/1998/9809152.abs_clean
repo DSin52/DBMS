@@ -1,0 +1,13 @@
+Paper: hep-th/9809152
+
+Date: 1998-09-21
+
+Title: Is it possible to construct exactly solvable models?
+
+Authors: Oliver Haschke, Werner Ruehl
+
+Comments: 22 pages, 2 eps figures, latex 2epsilon, usepackage epsfig
+
+Journal-ref: Lect.Notes Phys. 539 (2000) 118-140
+
+We develop a constructive method to derive exactly solvable quantummechanical models of rational (Calogero) and trigonometric (Sutherland) type.triangular finite matrices. These eigenvectors are transcribed intoeigenfunctions of a selfadjoint Schr\"odinger operator. We prove thefeasibility of our method by constructing a new "$AG_3$ model" of trigonometrictype (the rational case was known before from Wolfes 1975). Applying a Coxetergroup analysis we prove its equivalence with the $B_3$ model. In order tobetter understand features of our construction we exhibit the $F_4$ rationalmodel with our method.

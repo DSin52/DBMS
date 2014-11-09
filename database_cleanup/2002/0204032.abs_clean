@@ -1,0 +1,13 @@
+Paper: hep-th/0204032
+
+Date: 2002-04-03
+
+Title: Validity of Goldstone Theorem at Two Loops in Noncommutative U(N) Linear
+
+Sigma ModelAuthors: Yi Liao (ITP, Leipzig)
+
+Comments: 21 pages, 4 figures using axodraw, 2 appendices; version 2
+
+item [9] added to cite efforts to all orders, typos fixed; to appear in NuclPhys BJournal-ref: Nucl.Phys. B635 (2002) 505-524
+
+The scalar theory is ultraviolet (UV) quadratically divergent on ordinaryspacetime. On noncommutative (NC) spacetime, this divergence will generallyinduce pole-like infrared (IR) singularities in external momenta through theUV/IR mixing. In spontaneous symmetry breaking theory this would invalidate theGoldstone theorem which is the basis for mass generation when symmetry isgauged. We examine this issue at two loop level in the U(N) linear sigma modelwhich is known to be free of such IR singularities in the Goldstoneself-energies at one loop. We analyze the structures in the NC parameter(\theta_{\mu\nu}) dependence in two loop integrands of Goldstone self-energies.We find that their coefficients are effectively once subtracted at the externalmomentum p=0 due to symmetry relations between 1PI and tadpole contributions,leaving a final result proportional to a quadratic form in p. We then computethe leading IR terms induced by NC to be of order p^2\ln(\theta_{\mu\nu})^2 andp^2\ln\tilde{p}^2 (\tilde{p}_{\mu}=\theta_{\mu\nu}p^{\nu}) which are muchmilder than naively expected without considering the above cancellation. TheGoldstone bosons thus keep massless and the theorem holds true at this level.However, the limit of \theta\to 0 cannot be smooth any longer as it is in theone loop Goldstone self-energies, and this nonsmooth behaviour is notnecessarily associated with the IR limit of the external momentum as we see inthe term of p^2\ln(\theta_{\mu\nu})^2.

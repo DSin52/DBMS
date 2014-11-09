@@ -1,0 +1,13 @@
+Paper: hep-th/9611058
+
+Date: 1996-11-08
+
+Title: The Connes-Lott program on the sphere
+
+Authors: J.A. Mignaco(1), C. Sigaud(1), A.R. da Silva(2) and F.J. Vanhecke(1)
+
+((1) Instituto de Fisica da UFRJ, (2) Instituto de Matematica da UFRJ)Comments: 34 pages, Latex, submitted for publication
+
+Journal-ref: Rev.Math.Phys. 9 (1997) 689-718
+
+We describe the classical Schwinger model as a study of the projectivemodules over the algebra of complex-valued functions on the sphere. On thesemodules, classified by $\pi_2(S^2)$, we construct hermitian connections withvalues in the universal differential envelope which leads us to the Schwingermodel on the sphere. The Connes-Lott program is then applied using the Hilbertspace of complexified inhomogeneous forms with its Atiyah-Kaehler structure. Itsplits in two minimal left ideals of the Clifford algebra preserved by theDirac-Kaehler operator D=i(d-delta). The induced representation of theuniversal differential envelope, in order to recover its differentialstructure, is divided by the unwanted differential ideal and the obtainedquotient is the usual complexified de Rham exterior algebra over the spherewith Clifford action on the "spinors" of the Hilbert space. The subsequentsteps of the Connes-Lott program allow to define a matter action, and the fieldaction is obtained using the Dixmier trace which reduces to the integral of thecurvature squared.

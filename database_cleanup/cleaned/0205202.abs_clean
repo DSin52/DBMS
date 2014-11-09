@@ -1,0 +1,9 @@
+Paper: hep-th/0205202
+
+Date: 2002-05-20
+
+Title: Integrability in string/field theories and Hamiltonian Flows in the
+
+Space of Physical SystemsComments: 15 pages, LaTeX; Proceedings of the workshop "Classical and Quantum
+
+Integrable Systems", Protvino, Russia and talk presented at the workshop"Integrable Models, Strings and Quantum Gravity", Chennai, India; January2002Integrability in string/field theories is known to emerge when consideringdynamics in the moduli space of physical theories. This implies that one has tolook at the dynamics with respect to unusual time variables like couplingconstants or other quantities parameterizing configuration space of physicaltheories. The dynamics given by variations of coupling constants can beconsidered as a canonical transformation or, infinitesimally, a Hamiltonianflow in the space of physical systems. We briefly consider here an example ofmechanical integrable systems. Then, any function $T(\vec p, \vec q)$ generatesa one-parametric family of integrable systems in vicinity of a single system.For integrable system with several coupling constants the corresponding"Hamiltonians" $T_i(\vec p, \vec q)$ satisfy Whitham equations and afterquantization (of the original system) become operators satisfying the[\frac{\partial}{\partial g_a} - \hat T_a(\hat{\vec p},\hat{\vec q}),\\frac{\partial}{\partial g_b} - \hat T_b(\hat{\vec p},\hat{\vec q})] = 0 $$

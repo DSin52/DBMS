@@ -1,0 +1,13 @@
+Paper: hep-th/0003140
+
+Date: 2000-03-16
+
+Title: Critical thermodynamics of the two-dimensional systems in five-loop
+
+renormalization-group approximationAuthors: E. V. Orlov and A. I. Sokolov (Saint Petersburg Electrotechnical
+
+University, Saint Petersburg, Russia)Comments: LaTeX, 6 pages, concise English version of the paper published, in
+
+Russian, in Fizika Tverdogo Tela (Physics of the Solid State); includes allformulas, tables and complete list of references of the original paperJournal-ref: Fizika Tverdogo Tela 42, No 11, 2087-2093 (2000)
+
+The RG functions of the 2D n-vector \phi^4 model are calculated in thefive-loop approximation. Perturbative series for the \beta-function andcritical exponents are resummed by the Pade-Borel and Pade-Borel-Leroytechniques, resummation procedures are optimized and an accuracy of thenumerical results is estimated. In the Ising case n = 1 as well as in theothers (n = 0, n = -1, n = 2, 3,...32) an account for the five-loop term isfound to shift the Wilson fixed point location only briefly, leaving it outsidethe segment formed by the results of the corresponding lattice calculations;even error bars of the RG and lattice estimates do not overlap in the mostcases studied. This is argued to reflect the influence of the singular(non-analytical) contribution to the \beta-function that can not be foundperturbatively. The evaluation of the critical exponents for n = 1, n = 0 and n= -1 in the five-loop approximation and comparison of the numbers obtained withtheir known exact counterparts confirm the conclusion that non-analyticalcontributions are visible in two dimensions. For the 2D Ising model, theestimates \omega = 1.31(3) for the correction-to-scaling exponent is found thatis close to the value 4/3 resulting from the conformal invariance.

@@ -1,0 +1,13 @@
+Paper: hep-th/9906229
+
+Date: 1999-06-29
+
+Title: On the concept of determinant for the differential operators of Quantum
+
+PhysicsAuthors: E. Elizalde
+
+Comments: 13 pages, LaTeX
+
+Theory; Functional AnalysisJournal-ref: JHEP 9907 (1999) 015
+
+The concept of determinant for a linear operator in an infinite-dimensionalspace is addressed, by using the derivative of the operator's zeta-function(following Ray and Singer) and, eventually, through its zeta-function trace. Alittle play with operators as simple as $\pm I$ ($I$ being the identityoperator) and variations thereof, shows that the presence of a non-commutativeanomaly (i.e., the fact that det $(AB) \neq$ det $A$ det $B$), is unavoidable,even for commuting and, remarkably, also for almost constant operators. In thecase of Dirac-type operators, similarly basic arguments lead to the conclusion\det (\slash D -im)$ (as follows from the symmetry condition of the $\slashD$-spectrum), it turns out that these determinants may {\it not} be equal to$\sqrt{\det (\slash D^2 +m^2)}$, simply because $\det [(\slash D +im) (\slash Dgiven, by way of a very simple example, using operators with anharmonic-oscillator spectrum and fulfilling the symmetry condition. Thisanomaly can be physically relevant if, in addition to a mass term (or insteadof it), a chemical potential contribution is added to the Dirac operator.

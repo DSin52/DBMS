@@ -1,0 +1,9 @@
+Paper: hep-th/9705211
+
+Date: 1997-05-27
+
+Title: Quantum Groups, Roots of Unity and Particles on quantized Anti-de Sitter
+
+SpaceComments: Ph.D. Thesis. 115 pages LaTeX, 8 figures included using epsf
+
+Quantum groups in general and the quantum Anti-de Sitter group $U_q(so(2,3))$in particular are studied from the point of view of quantum field theory. Weshow that if $q$ is a suitable root of unity, there exist finite-dimensional,unitary representations corresponding to essentially all the classicalone-particle representations with (half)integer spin, with the same structureat low energies as in the classical case. In the massless case for spin $\geq1$, the "naive" representations are unitarizable only after factoring out asubspace of "pure gauges", as classically. Unitary many-particlerepresentations are defined, with the correct classical limit. Furthermore, weidentify a remarkable element $Q$ in the center of $U_q(g)$, which plays therole of a BRST operator in the case of $U_q(so(2,3))$ at roots of unity, forany spin $\geq 1$. The associated ghosts are an intrinsic part of theindecomposable representations. We show how to define an involution on algebrasof creation and anihilation operators at roots of unity, in an examplecorresponding to non-identical particles. It is shown how nonabelian gaugefields appear naturally in this framework, without having to define connectionson fiber bundles. Integration on Quantum Euclidean space and sphere and onAnti-de Sitter space is studied as well. We give a conjecture how $Q$ can beused in general to analyze the structure of indecomposable representations, andto define a new, completely reducible associative (tensor) product ofrepresentations at roots of unity, which generalizes the standard "truncated"tensor product as well as our many-particle representations.

@@ -1,0 +1,11 @@
+Paper: hep-th/0109221
+
+Date: 2001-09-28
+
+Title: Euclidean Scalar Green Function in a Higher Dimensional Global Spacetime
+
+Comments: 18 pages, LaTex format, no figures
+
+Journal-ref: J.Math.Phys. 43 (2002) 1018-1028
+
+We construct the explicit Euclidean scalar Green function associated with amassless field in a higher dimensional global monopole spacetime, i.e., a$(1+d)$-spacetime with $d\geq3$ which presents a solid angle deficit. Ourresult is expressed in terms of a infinite sum of products of Legendrefunctions with Gegenbauer polynomials. Although this Green function cannot beexpressed in a closed form, for the specific case where the solid angle deficitis very small, it is possible to develop the sum and obtain the Green functionin a more workable expression. Having this expression it is possible tocalculate the vacuum expectation value of some relevant operators. As anapplication of this formalism, we calculate the renormalized vacuum expectationvalue of the square of the scalar field, $<\Phi^2(x)>_{Ren.}$, and theenergy-momentum tensor, $<T_{\mu\nu}(x)>_{Ren.}$, for the global monopolespacetime with spatial dimensions $d=4$ and $d=5$.

@@ -1,0 +1,13 @@
+Paper: hep-th/0005083
+
+Date: 2000-05-09
+
+Title: On the Consistency of the Exact Renormalization Group Approach Applied
+
+to Gauge Theories in Algebraic Non-Covariant GaugesAuthors: Michele Simionato
+
+Comments: Latex2e, 49 pages, 2 EPS figures. Misprints corrected. Version to be
+
+published on IJMPAJournal-ref: Int.J.Mod.Phys. A15 (2000) 4811-4848
+
+We study a class of Wilsonian formulations of non-Abelian gauge theories inalgebraic non-covariant gauges where the Wilsonian infrared cutoff $\Lambda$ isinserted as a mass term for the propagating fields. In this way theWard-Takahashi identities are preserved to all scales. NeverthelessBRST-invariance in broken and the theory is gauge-dependent and unphysical at$\Lambda\neq0$. Then we discuss the infrared limit $\Lambda\to0$. We show thatthe singularities of the axial gauge choice are avoided in planar gauge andlight-cone gauge. In addition the issue of infrared divergences is addressed insome explicit example. Finally the rectangular Wilson loop of size $2L\times2T$ is evaluated at lowest order in perturbation theory and a non commutativitybetween the limits $\Lambda\to0$ and $T\to\infty$ is pointed out.

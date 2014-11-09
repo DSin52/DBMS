@@ -1,0 +1,13 @@
+Paper: hep-th/0003048
+
+Date: 2000-03-07
+
+Title: Hamilton-Jacobi equations and Brane associated Lagrangians
+
+Authors: L.M. Baker and D.B. Fairlie
+
+Comments: 23 pages,LaTeX2e, clarified text, generalised proof in appendix
+
+Journal-ref: Nucl.Phys. B596 (2001) 348-364
+
+This article seeks to relate a recent proposal for the association of acovariant Field Theory with a string or brane Lagrangian to the Hamilton-Jacobiformalism for strings and branes. It turns out that since in this special case,the Hamiltonian depends only upon the momenta of the Jacobi fields and not thefields themselves, it is the same as a Lagrangian, subject to a constancyconstraint. We find that the associated Lagrangians for strings or branes havea covariant description in terms of the square root of the same Lagrangian. Ifthe Hamilton-Jacobi function is zero, rather than a constant, then it is in inone dimension lower, reminiscent of the `holographic' idea. In the second partof the paper, we discuss properties of these Lagrangians, which lead to what wehave called `Universal Field Equations', characteristic of covariant equationsof motion.

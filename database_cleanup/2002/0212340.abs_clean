@@ -1,0 +1,11 @@
+Paper: hep-th/0212340
+
+Date: 2002-12-31
+
+Title: A discrete history of the Lorentzian path integral
+
+Authors: R. Loll (U. Utrecht)
+
+Comments: 38 pages, 16 figures, typos corrected, some comments and references
+
+addedIn these lecture notes, I describe the motivation behind a recent formulationof a non-perturbative gravitational path integral for Lorentzian (instead ofthe usual Euclidean) space-times, and give a pedagogical introduction to itsmain features. At the regularized, discrete level this approach solves theproblems of (i) having a well-defined Wick rotation, (ii) possessing acoordinate-invariant cutoff, and (iii) leading to_convergent_ sums overgeometries. Although little is known as yet about the existence and nature ofan underlying continuum theory of quantum gravity in four dimensions, there arealready a number of beautiful results in d=2 and d=3 where continuum limitshave been found. They include an explicit example of the inequivalence of theEuclidean and Lorentzian path integrals, a non-perturbative mechanism for thecancellation of the conformal factor, and the discovery that causality can actas an effective regulator of quantum geometry.

@@ -1,0 +1,11 @@
+Paper: hep-th/9611128
+
+Date: 1996-11-18
+
+Title: Chaos, Scaling and Existence of a Continuum Limit in Classical
+
+Non-Abelian Lattice Gauge TheoryAuthors: Holger Bech Nielsen, Hans Henrik Rugh and Svend Erik Rugh
+
+Comments: 10 pages, LaTeX, 1 Postscript figure, uses stwol.sty (included). Talk
+
+presented at the 28th Int. Conf. on H.E.P. in WarsawWe discuss space-time chaos and scaling properties for classical non-Abeliangauge fields discretized on a spatial lattice. We emphasize that there is a``no go'' for simulating the original continuum classical gauge fields over along time span since there is a never ending dynamical cascading towards theultraviolet. We note that the temporal chaotic properties of the originalcontinuum gauge fields and the lattice gauge system have entirely differentscaling properties thereby emphasizing that they are entirely differentdynamical systems which have only very little in common. Considered as astatistical system in its own right the lattice gauge system in a situationwhere it has reached equilibrium comes closest to what could be termed a``continuum limit'' in the limit of very small energies (weak non-linearities).We discuss the lattice system both in the limit for small energies and in thelimit of high energies where we show that there is a saturation of the temporalchaos as a pure lattice artifact. Our discussion focuses not only on thetemporal correlations but to a large extent also on the spatial correlations inthe lattice system. We argue that various conclusions of physics have beenbased on monitoring the non-Abelian lattice system in regimes where the fieldsare correlated over few lattice units only. This is further evidenced bycomparison with results for Abelian lattice gauge theory. How the real timesimulations of the classical lattice gauge theory may reach contact with thereal time evolution of (semi-classical aspects of) the quantum gauge theory(e.g. Q.C.D.) is left as an important question to be further examined.

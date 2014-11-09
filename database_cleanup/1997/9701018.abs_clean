@@ -1,0 +1,13 @@
+Paper: hep-th/9701018
+
+Date: 1997-01-07
+
+Title: Heat-Kernel Asymptotics with Generalized Boundary Conditions
+
+Authors: Ivan G. Avramidi and G. Esposito
+
+Comments: 19 pages, plain Tex. The revised version contains new results, and
+
+the presentation is improved. To appear in Classical and Quantum Gravitywith boundary"Journal-ref: Class.Quant.Grav. 15 (1998) 281-297
+
+The quantization of gauge fields and gravitation on manifolds with boundarymakes it necessary to study boundary conditions which involve both normal andtangential derivatives of the quantized field. The resulting one-loopdivergences can be studied by means of the asymptotic expansion of the heatkernel, and a particular case of their general structure is here analyzed indetail. The interior and boundary contributions to heat-kernel coefficients arewritten as linear combinations of all geometric invariants of the problem. Thebehaviour of the differential operator and of the heat kernel under conformalrescalings of the background metric leads to recurrence relations which,jointly with the boundary conditions, may determine these linear combinations.Remarkably, they are expressed in terms of universal functions, independent ofthe dimension of the background and invariant under conformal rescalings, andnew geometric invariants contribute to heat-kernel asymptotics. Such techniqueis applied to the evaluation of the A(1) coefficient when the matricesoccurring in the boundary operator commute with each other. Under theseassumptions, the form of the A(3/2) and A(2) coefficients is obtained for thefirst time, and new equations among universal functions are derived. Ageneralized formula, relating asymptotic heat kernels with different boundaryconditions, is also obtained.

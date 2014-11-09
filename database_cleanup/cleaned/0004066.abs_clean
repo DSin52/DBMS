@@ -1,0 +1,11 @@
+Paper: hep-th/0004066
+
+Date: 2000-04-10
+
+Title: A Semi-Infinite Construction of Unitary N=2 Modules
+
+Authors: BL Feigin, AM Semikhatov, and IYu Tipunin
+
+Comments: LaTeX2e
+
+references addedWe show that each unitary representation of the N=2 superVirasoro algebra canbe realized in terms of ``collective excitations'' over a filled Dirac sea offermionic operators satisfying a generalized exclusion principle. These aresemi-infinite forms in the modes of one of the fermionic currents. Theconstraints imposed on the fermionic operators have a counterpart in the formof a model one-dimensional lattice system, studying which allows us to provethe existence of a remarkable monomial basis in the semi-infinite space. Thisleads to a Rogers--Ramanujan-like character formula. We construct the N=2action on the semi-infinite space using a filtration by finite-dimensionalsubspaces (the structure of which is related to the supernomial coefficients);the main technical tool is provided by the dual functional realization. As anapplication, we identify the coinvariants with the dual to a space ofmeromorphic functions on products of punctured Riemann surfaces with aprescribed behaviour on multiple diagonals. For products of punctured $CP^1$,such spaces are related to the unitary N=2 fusion algebra, for which we alsogive an independent derivation.

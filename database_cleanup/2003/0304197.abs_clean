@@ -1,0 +1,11 @@
+Paper: hep-th/0304197
+
+Date: 2003-04-23
+
+Title: Tachyon kinks on non BPS D-branes
+
+Authors: Ph.Brax, J.Mourad, D.A.Steer
+
+Comments: 16 pages, 2 figures
+
+We consider solitonic solutions of the DBI tachyon effective action for anon-BPS brane. When wrapped on a circle, these solutions are regular and have afinite energy. We show that in the decompactified limit, these solitons giveSen's infinitely thin finite energy kink -- interpreted as a BPS brane --provided that some conditions on the potential hold. In particular, if forlarge $T$ the potential is exponential, $V = e^{-T^a}$, then Sen's solution isonly found for $a<1$. For power-law potentials $V = 1/T^b$, one must have$b>1$. If these conditions are not satisfied, we show that the lowest energyconfiguration is the unstable tachyon vacuum with no kinks. We examine thestability of the solitons and the spectrum of small perturbations.

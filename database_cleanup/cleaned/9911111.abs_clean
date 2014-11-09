@@ -1,0 +1,11 @@
+Paper: hep-th/9911111
+
+Date: 1999-11-15
+
+Title: Relative entropy for compact Riemann surfaces
+
+Comments: 20 pages, LaTeX 2e, 2 PS figures; to appear in Phys. Rev. D
+
+Journal-ref: Phys.Rev. D61 (2000) 084001
+
+The relative entropy of the massive free bosonic field theory is studied onvarious compact Riemann surfaces as a universal quantity with physicalsignificance, in particular, for gravitational phenomena. The exact expressionfor the sphere is obtained, as well as its asymptotic series for large mass andits Taylor series for small mass. One can also derive exact expressions for thetorus but not for higher genus. However, the asymptotic behaviour for largemass can always be established-up to a constant-with heat-kernel methods. Itconsists of an asymptotic series determined only by the curvature, hence commonfor homogeneous surfaces of genus higher than one, and exponentially vanishingcorrections whose form is determined by the concrete topology. The coefficientof the logarithmic term in this series gives the conformal anomaly.

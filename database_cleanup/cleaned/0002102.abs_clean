@@ -1,0 +1,13 @@
+Paper: hep-th/0002102
+
+Date: 2000-02-12
+
+Title: Towards an Algebraic Classification of Calabi-Yau Manifolds I
+
+K3 SpacesAuthors: F. Anselmo (INFN Bologna), J. Ellis (CERN), D.V. Nanopoulos (Texas
+
+A&M, HARC, Academy of Athens), G. Volkov (CERN, IHEP Protvino)Comments: 87 pages LaTeX, 16 eps figures, uses header.tex (included)
+
+Journal-ref: Phys.Part.Nucl. 32 (2001) 318-375; Fiz.Elem.Chast.Atom.Yadra 32
+
+(2001) 605-698We present an inductive algebraic approach to the systematic construction andclassification of generalized Calabi-Yau (CY) manifolds in different numbers ofcomplex dimensions, based on Batyrev's formulation of CY manifolds as toricvarieties in weighted complex projective spaces associated with reflexivepolyhedra. We show how the allowed weight vectors in lower dimensions may beextended to higher dimensions, emphasizing the roles of projection andintersection in their dual description, and the natural appearance ofCartan-Lie algebra structures. The 50 allowed extended four-dimensional vectorsmay be combined in pairs (triples) to form 22 (4) chains containing 90 (91) K3spaces, of which 94 are distinct, and one further K3 space is found usingduality. In the case of CY_3 spaces, pairs (triples) of the 10~270 allowedextended vectors yield 4242 (259) chains with K3 (elliptic) fibers containing730 additional K3 polyhedra. A more complete study of CY_3 spaces is left forlater work.

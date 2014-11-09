@@ -1,0 +1,11 @@
+Paper: hep-th/9602078
+
+Date: 1996-02-14
+
+Title: Perturbative expansion in gauge theories on compact manifolds
+
+Authors: David H. Adams
+
+Comments: 47 pages, latex. Typo's in the Feynman diagrams corrected, 5
+
+references added, some clarifying comments added (mainly in the introduction)A geometric formal method for perturbatively expanding functional integralsarising in quantum gauge theories is described when the spacetime is a compactriemannian manifold without boundary. This involves a refined version of theFaddeev-Popov procedure using the covariant background field gauge-fixingcondition with background gauge field chosen to be a general critical point forthe action functional (i.e. a classical solution). The refinement takes intoaccount the gauge-fixing ambiguities coming from gauge transformations whichleave the critical point unchanged, resulting in the absence of infrareddivergences when the critical point is isolated modulo gauge transformations.The procedure can be carried out using only the subgroup of gaugetransformations which are topologically trivial, possibly avoiding the usualproblems which arise due to gauge-fixing ambiguities. For Chern-Simons gaugetheory the method enables the partition function to be perturbatively expandedfor a number of simple spacetime manifolds such as $S^3$ and lens spaces, andthe expansions are shown to be formally independent of the metric used in thegauge-fixing.

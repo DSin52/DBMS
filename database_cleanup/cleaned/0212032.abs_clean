@@ -1,0 +1,11 @@
+Paper: hep-th/0212032
+
+Date: 2002-12-03
+
+Title: Calculating Gluino-Condensate Prepotential
+
+Authors: H. Itoyama, A. Morozov
+
+Comments: the appendix properly represented, typo corrected
+
+We discuss the derivation of the CIV-DV prepotential for arbitrary power n+1of the original superpotential in the N=1 SUSY YM theory (for arbitrary numbern of cuts in the solution of the planar matrix model in the Dijkgraaf-Vafainterpretation). The goal is to hunt for structures, not so much for exactformulas, which are necessarily complicated, before the right language is foundto represent them. Some entities, reminiscent of representation theory, clearlyemerge, but a lot of work remains to be done to identify the relevant ones. Asa practical application, we obtain a cubic (first non-perturbative)contribution to the prepotential for any n.

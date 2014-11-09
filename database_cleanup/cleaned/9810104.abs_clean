@@ -1,0 +1,11 @@
+Paper: hep-th/9810104
+
+Date: 1998-10-14
+
+Title: A manifestly gauge invariant exact renormalization group
+
+Authors: Tim R. Morris
+
+Comments: Invited lectures at the Workshop on the Exact Renormalization Group,
+
+Faro, Portugal, Sept. 10-12, 1998. 32 pages including 24 figs. Conventionsand notation changed to correspond to imminent papers, plus minor correctionsIn these lectures we describe the construction of a gauge invariantrenormalization group equation for pure non-Abelian gauge theory. In theprocess, a non-perturbative gauge invariant continuum Wilsonian effectiveaction is precisely defined. The formulation makes sense without gauge fixingand thus manifest gauge invariance may be preserved at all stages. In the largeexpressed through a path integral for a single particle whose trajectorydescribes a Wilson loop. Regularization is achieved with the help of a set ofPauli-Villars fields whose formulation follows naturally in this picture.Finally, we show how the one loop beta function was computed, for the firsttime without any gauge fixing.

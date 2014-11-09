@@ -1,0 +1,11 @@
+Paper: hep-th/9602047
+
+Date: 1996-02-09
+
+Title: Emergence of the Haar measure in the standard functional integral
+
+representation of the Yang-Mills partition functionComments: 14 pages, LaTeX, no figures
+
+Journal-ref: Mod.Phys.Lett. A11 (1996) 2451-2462
+
+The conventional path integral expression for the Yang-Mills transitionamplitude with flat measure and gauge-fixing built in via the Faddeev-Popovmethod has been claimed to fall short of guaranteeing gauge invariance in thenon-perturbative regime. We show, however, that it yields the gauge invariantpartition function where the projection onto gauge invariant wave functions isexplicitly performed by integrating over the compact gauge group. In a variantof maximal Abelian gauge the Haar measure arises in the conventional Yang-Millspath integral from the Faddeev-Popov determinant.

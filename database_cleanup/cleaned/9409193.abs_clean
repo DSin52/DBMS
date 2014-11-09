@@ -1,0 +1,13 @@
+Paper: hep-th/9409193
+
+Date: 1994-09-30
+
+Title: Hamilton Formalism in Non-Commutative Geometry
+
+Authors: W. Kalau
+
+Comments: 35p
+
+Journal-ref: J.Geom.Phys. 18 (1996) 349-380
+
+We study the Hamilton formalism for Connes-Lott models, i.e., for Yang-Millstheory in non-commutative geometry. The starting point is an associative$*$-algebra $\cA$ which is of the form $\cA=C(I,\cAs)$ where $\cAs$ is itself aassociative $*$-algebra. With an appropriate choice of a k-cycle over $\cA$ itis possible to identify the time-like part of the generalized differentialalgebra constructed out of $\cA$. We define the non-commutative analogue ofintegration on space-like surfaces via the Dixmier trace restricted to therepresentation of the space-like part $\cAs$ of the algebra. Due to thisrestriction it possible to define the Lagrange function resp. Hamilton functionalso for Minkowskian space-time. We identify the phase-space and give adefinition of the Poisson bracket for Yang-Mills theory in non-commutativegeometry. This general formalism is applied to a model on a two-point space andto a model on Minkowski space-time $\times$ two-point space.

@@ -1,0 +1,13 @@
+Paper: hep-th/9710091
+
+Date: 1997-10-10
+
+Title: Loop Corrections and Bosonization Formulae
+
+Authors: C. D. Fosco, C. N\'u\~nez, F. A. Schaposnik
+
+Comments: 16 pages, Latex, no figures
+
+Journal-ref: Annals Phys. 271 (1999) 31-45
+
+We study the functional integrals that appear in a path integral bosonizationprocedure for more than two spacetime dimensions. Since they are not in generalexactly solvable, their evaluation by a suitable loop expansion would be anatural procedure, even if the exact fermionic determinant were known. Theoutcome of our study is that we can consistently ignore loop corrections in thefunctional integral defining the bosonized action, if the same is done for thefunctional integral corresponding to the bosonic representation of thegenerating functional. If contributions up to some order $l$ in the number ofloops are included in both integrals, all but the lowest terms cancel out inthe final result for the generating functional.

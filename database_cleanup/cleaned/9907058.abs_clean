@@ -1,0 +1,13 @@
+Paper: hep-th/9907058
+
+Date: 1999-07-08
+
+Title: Dimensionally Reduced SYM_4 as Solvable Matrix Quantum Mechanics
+
+Authors: Jens Hoppe, Vladimir Kazakov and Ivan K. Kostov
+
+Comments: 29 pages, harvmac, 1 figure, formulas in appendices B and C corrected
+
+Journal-ref: Nucl.Phys. B571 (2000) 479-509
+
+We study the quantum mechanical model obtained as a dimensional reduction ofN=1 super Yang-Mills theory to a periodic light-cone "time". After mapping thetheory to a cohomological field theory, the partition function (with periodicboundary conditions) regularized by a massive term appears to be equal to thepartition function of the twisted matrix oscillator. We show that thispartition function perturbed by the operator of the holonomy around the timecircle is a tau function of Toda hierarchy. We solve the model in the large Nlimit and study the universal properties of the solution in the scaling limitof vanishing perturbation. We find in this limit a phase transition ofGross-Witten type.

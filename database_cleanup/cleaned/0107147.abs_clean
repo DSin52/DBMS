@@ -1,0 +1,13 @@
+Paper: hep-th/0107147
+
+Date: 2001-07-18
+
+Title: Perturbative Wilson loop in two-dimensional non-commutative Yang-Mills
+
+theoryAuthors: A. Bassetto, G. Nardelli and A. Torrielli
+
+Comments: 17 pages, LaTex, no figures
+
+Journal-ref: Nucl.Phys. B617 (2001) 308-320
+
+We perform a perturbative ${\cal O}(g^4)$ Wilson loop calculation for theU(N) Yang-Mills theory defined on non-commutative one space - one timedimensions. We choose the light-cone gauge and compare the results obtainedwhen using the Wu-Mandelstam-Leibbrandt ($WML$) and the Cauchy principal value($PV$) prescription for the vector propagator. In the $WML$ case the$\theta$-dependent term is well-defined and regular in the limit $\theta \to0$, where the commutative theory is recovered; it provides a non-trivialexample of a consistent calculation when non-commutativity involves the timevariable. In the $PV$ case, unexpectedly, the result differs from the $WML$ oneonly by the addition of two singular terms with a trivial $\theta$-dependence.We find this feature intriguing, when remembering that, in ordinary theories oncompact manifolds, the difference between the two cases can be traced back tothe contribution of topological excitations.

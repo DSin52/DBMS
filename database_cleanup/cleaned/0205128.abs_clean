@@ -1,0 +1,13 @@
+Paper: hep-th/0205128
+
+Date: 2002-05-14
+
+Title: Noncommutative geometry of angular momentum space U(su(2))
+
+Authors: E. Batista and S. Majid
+
+Comments: Minor revision to add reference [11]. 37 pages latex
+
+Journal-ref: J.Math.Phys. 44 (2003) 107-137
+
+We study the standard angular momentum algebra $[x_i,x_j]=i\lambda\epsilon_{ijk}x_k$ as a noncommutative manifold $R^3_\lambda$. We show thatthere is a natural 4D differential calculus and obtain its cohomology and Hodge* operator. We solve the spin 0 wave equation and some aspects of the Maxwellor electromagnetic theory including solutions for a uniform electric currentdensity, and we find a natural Dirac operator. We embed $R^3_\lambda$ inside a4D noncommutative spacetime which is the limit $q\to 1$ of q-Minkowski spaceand show that $R^3_\lambda$ has a natural quantum isometry group given by thequantum double $D(U(su(2)))$ as a singular limit of the $q$-Lorentz group. Weview $\R^3_\lambda$ as a collection of all fuzzy spheres taken together. Wealso analyse the semiclassical limit via minimum uncertainty states$|j,\theta,\phi>$ approximating classical positions in polar coordinates.

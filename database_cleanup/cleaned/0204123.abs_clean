@@ -1,0 +1,13 @@
+Paper: hep-th/0204123
+
+Date: 2002-04-16
+
+Title: A comment on the dual field in the AdS-CFT correspondence
+
+Authors: M. Duetsch, K.-H. Rehren
+
+Comments: 15 pages, v2 substantially revised and extended to vector fields,
+
+references addedJournal-ref: Lett.Math.Phys. 62 (2002) 171-184
+
+In the perturbative AdS-CFT correspondence, the dual field whose source arethe prescribed boundary values of a bulk field in the functional integral, andthe boundary limit of the quantized bulk field are the same thing. Thisstatement is due to the fact that Witten graphs are boundary limits of thecorresponding Feynman graphs for the bulk fields, and hence the dual conformalcorrelation functions are limits of bulk correlation functions. Thismanifestation of duality is analyzed in terms of the underlying functionalintegrals of different structure.

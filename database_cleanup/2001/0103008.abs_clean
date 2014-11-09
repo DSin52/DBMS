@@ -1,0 +1,11 @@
+Paper: hep-th/0103008
+
+Date: 2001-03-01
+
+Title: Quotient Stacks and String Orbifolds
+
+Authors: Eric Sharpe
+
+Comments: 10 pages, LaTeX, 1 figure, v2
+
+In this short review we outline some recent developments in understandingstring orbifolds. In particular, we outline the recent observation that stringorbifolds do not precisely describe string propagation on quotient spaces, butrather are literally sigma models on objects called quotient stacks, which areclosely related to (but not quite the same as) quotient spaces. We show howthis is an immediate consequence of definitions, and also how this explains anumber of features of string orbifolds, from the fact that the CFT iswell-behaved to orbifold Euler characteristics. Put another way, many featuresof string orbifolds previously considered ``stringy'' are now understood ascoming from the target-space geometry; one merely needs to identify the correcttarget-space geometry.

@@ -1,0 +1,13 @@
+Paper: hep-th/9605130
+
+Date: 1996-05-18
+
+Title: Symmetry, Integrable Chain Models and Stochastic Processes
+
+Authors: Sergio Albeverio, Shao-Ming Fei
+
+Comments: 34 pages, Latex
+
+Integrable SystemsJournal-ref: Rev.Math.Phys. 10 (1998) 723-750
+
+A general way to construct chain models with certain Lie algebraic or quantumLie algebraic symmetries is presented. These symmetric models give rise toseries of integrable systems. As an example the chain models with $A_n$symmetry and the related Temperley-Lieb algebraic structures andrepresentations are discussed. It is shown that corresponding to these $A_n$symmetric integrable chain models there are exactly solvable stationarydiscrete-time (resp. continuous-time) Markov chains whose spectra of thetransition matrices (resp. intensity matrices) are the same as the ones of thecorresponding integrable models.

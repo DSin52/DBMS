@@ -1,0 +1,13 @@
+Paper: hep-th/0105179
+
+Date: 2001-05-18
+
+Title: The Geometry of Point Particles
+
+Authors: Michael Atiyah and Paul Sutcliffe
+
+Comments: 32 pages, including 8 figures
+
+Journal-ref: Proc.Roy.Soc.Lond. A458 (2002) 1089-1116
+
+There is a very natural map from the configuration space of n distinct pointsin Euclidean 3-space into the flag manifold U(n)/U(1)^n, which is compatiblewith the action of the symmetric group. The map is well-defined for allconfigurations of points provided a certain conjecture holds, for which weprovide numerical evidence. We propose some additional conjectures, which implythe first, and test these numerically. Motivated by the above map, we define ageometrical multi-particle energy function and compute the energy minimizingconfigurations for up to 32 particles. These configurations comprise thevertices of polyhedral structures which are dual to those found in a number ofcomplicated physical theories, such as Skyrmions and fullerenes. Comparisonswith 2-particle and 3-particle energy functions are made. The planarrestriction and the generalization to hyperbolic 3-space are also investigated.

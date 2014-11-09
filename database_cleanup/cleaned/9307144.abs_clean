@@ -1,0 +1,11 @@
+Paper: hep-th/9307144
+
+Date: 1993-07-23
+
+Title: On the Probability Distribution of Velocity Circulation in
+
+Three-Dimensional TurbulenceAuthors: Makoto Umeki
+
+Comments: E-mail
+
+UT-F-93-1The probability distribution functions of the circulation of velocity inthree-dimensional decaying isotropic turbulence are examined by the database ofthe numerical simulation based on the pseudospectral method. It is shown thatthe standard deviation increases nearly as $A^{2/3}$ where $A$ is the area ofthe loop. The PDFs change from exponential to gaussian as the size becomeslarge. The former agrees well with the prediction by Migdal (1993), althoughthe latter does not match. A modification is proposed to explain the gaussiandistribution with the $A^{2/3}$ dependence.

@@ -1,0 +1,13 @@
+Paper: hep-th/0201127
+
+Date: 2002-01-16
+
+Title: Strong Brane Gravity and the Radion at Low Energies
+
+Authors: T. Wiseman
+
+Comments: 24 pages, 3 figures
+
+Journal-ref: Class.Quant.Grav. 19 (2002) 3083-3106
+
+For the 2-brane Randall-Sundrum model, we calculate the bulk geometry forstrong gravity, in the low matter density regime, for slowly varying mattersources. This is relevant for astrophysical or cosmological applications. Thewarped compactification means the radion can not be written as a homogeneousmode in the orbifold coordinate, and we introduce it by extending thecoordinate patch approach of the linear theory to the non-linear case. Thenegative tension brane is taken to be in vacuum. For conformally invariantmatter on the positive tension brane, we solve the bulk geometry as aderivative expansion, formally summing the `Kaluza-Klein' contributions to allorders. For general matter we compute the Einstein equations to leading order,finding a scalar-tensor theory with $\omega(\Psi) \propto \Psi / (1 - \Psi)$,and geometrically interpret the radion. We comment that this radion scalar maybecome large in the context of strong gravity with low density matter.Equations of state allowing $(\rho - 3 P)$ to be negative, can exhibit behaviorwhere the matter decreases the distance between the 2 branes, which weillustrate numerically for static star solutions using an incompressible fluid.For increasing stellar density, the branes become close before the upper masslimit, but after violation of the dominant energy condition. This raises theinteresting question of whether astrophysically reasonable matter, and initialdata, could cause branes to collide at low energy, such as in dynamicalcollapse.

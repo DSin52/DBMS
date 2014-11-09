@@ -1,0 +1,13 @@
+Paper: hep-th/0203005
+
+Date: 2002-03-01
+
+Title: Renormalisation group flows for gauge theories in axial gauges
+
+Authors: Daniel F. Litim, Jan M. Pawlowski
+
+Comments: 27 pages, revtex, arguments detailed, references added, published in
+
+JHEPJournal-ref: JHEP 0209 (2002) 049
+
+Gauge theories in axial gauges are studied using Exact Renormalisation Groupflows. We introduce a background field in the infrared regulator, but not inthe gauge fixing, in contrast to the usual background field gauge. It is shownhow heat-kernel methods can be used to obtain approximate solutions to the flowand the corresponding Ward identities. Expansion schemes are discussed, whichare not applicable in covariant gauges. As an application, we derive theone-loop effective action for covariantly constant field strength, and theone-loop beta-function for arbitrary regulator.

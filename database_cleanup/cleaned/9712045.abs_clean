@@ -1,0 +1,11 @@
+Paper: hep-th/9712045
+
+Date: 1997-12-04
+
+Title: Conformally Invariant Green Functions of Current and Energy-Momentum
+
+Tensor in Spaces of Even Dimension D >= 4Authors: E. S. Fradkin and M. Ya. Palchik
+
+Comments: 39 pages, LaTeX file
+
+We study the conformally invariant quantum field theory in spaces of evendimension D >= 4. The conformal transformations of current j_\mu andenergy-momentum tensor T_{\mu\nu} are examined. It is shown that the set ofconformal transformations of particular kind corresponds to the canonical(unlike anomalous) dimensions l_j=D-1 and l_T=D of those fields. Thesetransformations cannot be derived by a smooth transiton from anomalousdimensions. The structure of representations of the conformal group, whichcorrespond to these canonical dimensions, is analyzed, and new expressions forthe propagators < j_\mu j_\nu > and < T_{\mu\nu} T_{\rho\sigma}> are derived.The latter expressions have integrable singularities. It is shown that bothpropagators satisfy non-trivial Ward identities. The higher Green functions ofthe fields j_\mu and T_{\mu\nu} are considered. The conformal QED and linearconformal gravity are discussed. We obtain the expressions for invariantpropagators of electromagnetic and gravitational fields. The integrations overinternal photon and graviton lines are performed. The integrals are shown to beconformally invariant and convergent, provided that the new expressions for thepropagators are used.

@@ -1,0 +1,13 @@
+Paper: hep-th/9407118
+
+Date: 1994-07-19
+
+Title: Topology, Entropy and Witten Index of Dilaton Black Holes
+
+Authors: G.W. Gibbons and R.E. Kallosh
+
+Comments: 51 pages, 4 figures, LaTeX. Considerably extended version. New
+
+sections include discussion of the Witten index, topology of the modulispace, black hole sigma model, and black hole fission with huge energyreleaseJournal-ref: Phys.Rev. D51 (1995) 2839-2862
+
+We have found that for extreme dilaton black holes an inner boundary must beintroduced in addition to the outer boundary to give an integer value to theEuler number. The resulting manifolds have (if one identifies imaginary time)topology $S^1 \times R \times S^2 $ and Euler number $\chi = 0$ in contrast tothe non-extreme case with $\chi=2$. The entropy of extreme $U(1)$ dilaton blackholes is already known to be zero. We include a review of some recent ideas dueto Hawking on the Reissner-Nordstr\"om case. By regarding all extreme blackholes as having an inner boundary, we conclude that the entropy of {\sl all}extreme black holes, including $[U(1)]^2$ black holes, vanishes. We discuss therelevance of this to the vanishing of quantum corrections and the idea that thefunctional integral for extreme holes gives a Witten Index. We have studiedalso the topology of ``moduli space'' of multi black holes. The quantummechanics on black hole moduli spaces is expected to be supersymmetric despitethe fact that they are not HyperK\"ahler since the corresponding geometry hastorsion unlike the BPS monopole case. Finally, we describe the possibility ofextreme black hole fission for states with an energy gap. The energy released,as a proportion of the initial rest mass, during the decay of anelectro-magnetic black hole is 300 times greater than that released by thefission of an ${}^{235} U$ nucleus.

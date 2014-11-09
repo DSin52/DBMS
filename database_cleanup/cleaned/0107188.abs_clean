@@ -1,0 +1,13 @@
+Paper: hep-th/0107188
+
+Date: 2001-07-23
+
+Title: Mesons in Light-Front QCD$_{2+1}$
+
+HamiltonianAuthors: Dipankar Chakrabarti and A. Harindranath
+
+Comments: Accepted for publication in Physical Review D
+
+Journal-ref: Phys.Rev. D64 (2001) 105002
+
+We study the meson sector of 2+1 dimensional light-front QCD using a Blocheffective Hamiltonian in the first non-trivial order. The resulting twodimensional integral equation is converted into a matrix equation and solvednumerically. We investigate the efficiency of Gaussian quadrature in achievingthe cancellation of linear and logarithmic light-front infrared divergences.The vanishing energy denominator problem which leads to severe infrareddivergences in 2+1 dimensions is investigated in detail. Our study indicatesthat in the context of Fock space based effective Hamiltonian methods to tacklegauge theories in 2+1 dimensions, approaches like similarity renormalizationmethod may be mandatory due to uncanceled infrared divergences caused by thevanishing energy denominator problem. We define and study numerically a reducedmodel which is relativistic, free from infrared divergences, and exhibitslogarithmic confinement. The manifestation and violation of rotational symmetryas a function of the coupling are studied quantitatively.

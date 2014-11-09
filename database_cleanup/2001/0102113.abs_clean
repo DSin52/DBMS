@@ -1,0 +1,11 @@
+Paper: hep-th/0102113
+
+Date: 2001-02-19
+
+Title: Cardy-Verlinde Formula and AdS Black Holes
+
+Comments: 18 pages, latex, no figures, discussions on the charged AdS black
+
+holes changedJournal-ref: Phys.Rev. D63 (2001) 124018
+
+In a recent paper hep-th/0008140 by E. Verlinde, an interesting formula hasbeen put forward, which relates the entropy of a conformal formal field inarbitrary dimensions to its total energy and Casimir energy. This formula hasbeen shown to hold for the conformal field theories that have AdS duals in thecases of AdS Schwarzschild black holes and AdS Kerr black holes. In this paperwe further check this formula with various black holes with AdS asymptotics.For the hyperbolic AdS black holes, the Cardy-Verlinde formula is found to holdif we choose the ``massless'' black hole as the ground state, but in this case,the Casimir energy is negative. For the AdS Reissner-Nordstr\"om black holes inarbitrary dimensions and charged black holes in D=5, D=4, and D=7 maximallysupersymmetric gauged supergravities, the Cardy-Verlinde formula holds as well,but a proper internal energy which corresponds to the mass of supersymmetricbackgrounds must be subtracted from the total energy. It is failed to rewritethe entropy of corresponding conformal field theories in terms of theCardy-Verlinde formula for the AdS black holes in the Lovelock gravity.

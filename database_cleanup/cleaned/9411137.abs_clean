@@ -1,0 +1,13 @@
+Paper: hep-th/9411137
+
+Date: 1994-11-17
+
+Title: Kaplan-Narayanan-Neuberger lattice fermions pass a perturbative test
+
+Authors: S. Aoki, R. B. Levien
+
+Comments: LaTeX 18 pages, 3 figures
+
+Journal-ref: Phys.Rev. D51 (1995) 3790-3802
+
+We test perturbatively a recent scheme for implementing chiral fermions onthe lattice, proposed by Kaplan and modified by Narayanan and Neuberger, usingas our testing ground the chiral Schwinger model. The scheme is found toreproduce the desired form of the effective action, whose real part is gaugeinvariant and whose imaginary part gives the correct anomaly in the continuumlimit, once technical problems relating to the necessary infinite extent of theextra dimension are properly addressed. The indications from this study arethat the Kaplan--Narayanan--Neuberger (KNN) scheme has a good chance at being acorrect lattice regularization of chiral gauge theories.

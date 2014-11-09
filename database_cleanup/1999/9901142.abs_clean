@@ -1,0 +1,13 @@
+Paper: hep-th/9901142
+
+Date: 1999-01-27
+
+Title: On the Correspondence Between the Strongly Coupled 2-Flavor Lattice
+
+Schwinger Model and the Heisenberg Antiferromagnetic ChainAuthors: F. Berruto (1), G. Grignani (1), G. W. Semenoff (2) and P. Sodano (1)
+
+((1) Dipartimento di Fisica and I.N.F.N., Perugia, Italy, (2) Department ofPhysics and Astronomy, University of British Columbia, Canada)Comments: A misprint in the last equation corrected
+
+Journal-ref: Annals Phys. 275 (1999) 254-296
+
+We study the strong coupling limit of the 2-flavor massless Schwinger modelon a lattice using staggered fermions and the Hamiltonian approach to latticegauge theories. Using the correspondence between the low-lying states of the2-flavor strongly coupled lattice Schwinger model and the antiferromagneticHeisenberg chain established in a previous paper, we explicitly compute themass gaps of the other excitations in terms of vacuum expectation values(v.e.v.'s) of powers of the Heisenberg Hamiltonian and spin-spin correlationfunctions. We find a satisfactory agreement with the results of the continuumtheory already at the second order in the strong coupling expansion. We showthat the pattern of symmetry breaking of the continuum theory is wellreproduced by the lattice theory; we see indeed that in the lattice theory theisoscalar and isovector chiral condensates are zero to every order in thestrong coupling expansion. In addition, we find that the chiral condensate$<\bar{\psi}_{L}^{(2)}\bar{\psi}_{L}^{(1)}\psi_{R}^{(1)}\psi_{R}^{(2)}>$ is nonzero also on the lattice; this is the only relic in this lattice model of theaxial anomaly in the continuum theory. We compute the v.e.v.'s of the spin-spincorrelators of the Heisenberg model which are pertinent to the calculation ofthe mass spectrum and obtain an explicit construction of the lowest lyingstates for finite size Heisenberg Hamiltonian chains.

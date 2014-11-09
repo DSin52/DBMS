@@ -1,0 +1,11 @@
+Paper: hep-th/0107076
+
+Date: 2001-07-10
+
+Title: Spin-Statistics Theorem in Path Integral Formulation
+
+Comments: 19 pages. Some minor changes in the presentation and a correction of
+
+a misprint. Int. J. Mod. Phys. A (in press)Journal-ref: Int.J.Mod.Phys. A16 (2001) 4025-4044
+
+We present a coherent proof of the spin-statistics theorem in path integralformulation. The local path integral measure and Lorentz invariant localLagrangian, when combined with Green's functions defined in terms of timeordered products, ensure causality regardless of statistics. The Feynman's$m-i\epsilon$ prescription ensures the positive energy condition regardless ofstatistics, and the abnormal spin-statistics relation for both of spin-0 scalarparticles and spin-1/2 Dirac particles is excluded if one imposes the positivenorm condition in conjunction with Schwinger's action principle. The minuscommutation relation between one Bose and one Fermi field arises naturally inpath integral. The Feynman's $m-i\epsilon$ prescription also ensures a smoothcontinuation to Euclidean theory, for which the use of the Weyl anomaly isillustrated to exclude the abnormal statistics for the scalar and Diracparticles not only in 4-dimensional theory but also in 2-dimensional theory.

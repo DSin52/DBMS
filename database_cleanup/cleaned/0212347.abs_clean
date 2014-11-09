@@ -1,0 +1,11 @@
+Paper: hep-th/0212347
+
+Date: 2002-12-31
+
+Title: Generating Lie and gauge free differential (super)algebras by expanding
+
+Maurer-Cartan forms and Chern-Simons supergravityAuthors: Jose A. de Azcarraga, Jose M. Izquierdo, Moises Picon and Oscar Varela
+
+Comments: 37 pages, Plain Latex, 30-Dec-02
+
+Geometry; Group TheoryWe study how to generate new Lie algebras $\mathcal{G}(N_0,..., N_p,...,N_n)$from a given one $\mathcal{G}$. The (order by order) method consists inexpanding its Maurer-Cartan one-forms in powers of a real parameter $\lambda$which rescales the coordinates of the Lie (super)group $G$, $g^{i_p} \to\lambda^p g^{i_p}$, in a way subordinated to the splitting of $\mathcal{G}$ asa sum $V_0 \oplus ... \oplus V_p \oplus ... \oplus V_n$ of vector subspaces. Wealso show that, under certain conditions, one of the obtained algebras maycorrespond to a generalized \.In\"on\"u-Wigner contraction in the sense ofWeimar-Woods, but not in general. The method is used to derive the M-theorysuperalgebra, including its Lorentz part, from $osp(1|32)$. It is also extendedto include gauge free differential (super)algebras and Chern-Simons theories,and then applied to D=3 CS supergravity.

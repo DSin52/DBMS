@@ -1,0 +1,13 @@
+Paper: hep-th/0110079
+
+Date: 2001-10-09
+
+Title: Higher Derivative Gravity and Torsion from the Geometry of C-spaces
+
+Authors: C. Castro and M. Pavsic
+
+Comments: 19 pages; A section describing the main physical implications of
+
+C-space is added, and the rest of the text is modified accordinglyJournal-ref: Phys.Lett. B539 (2002) 133-142
+
+We start from a new theory (discussed earlier) in which the arena for physicsis not spacetime, but its straightforward extension-the so called Cliffordspace ($C$-space), a manifold of points, lines, areas, etc..; physicalquantities are Clifford algebra valued objects, called polyvectors. Thisprovides a natural framework for description of supersymmetry, since spinorsare just left or right minimal ideals of Clifford algebra. The geometry ofcurved $C$-space is investigated. It is shown that the curvature in $C$-spacecontains higher orders of the curvature in the underlying ordinary space. A$C$-space is parametrized not only by 1-vector coordinates $x^\mu$ but also bythe 2-vector coordinates $\sigma^{\mu \nu}$, 3-vector coordinates $\sigma^{\mu\nu \rho}$, etc., called also {\it holographic coordinates}, since theydescribe the holographic projections of 1-lines, 2-loops, 3-loops, etc., ontothe coordinate planes. A remarkable relation between the "area" derivative $\p/quantity depends on the coordinates $\sigma^{\mu \nu}$ this indicates thepresence of torsion, and if a vector valued quantity depends so, this impliesnon vanishing curvature. We argue that such a deeper understanding of the$C$-space geometry is a prerequisite for a further development of this newtheory which in our opinion will lead us towards a natural and elegantformulation of $M$-theory.

@@ -1,0 +1,13 @@
+Paper: hep-th/9503042
+
+Date: 1995-03-07
+
+Title: Secondary Quantum Hamiltonian Reduction
+
+Authors: J.O. Madsen and E. Ragoucy
+
+Comments: 33 pages, LATEX. Final version, including proof of conjecture.
+
+Accepted for publication in Comm. Math. PhysJournal-ref: Commun.Math.Phys. 185 (1997) 509-541
+
+Recently, it has been shown how to perform the quantum hamiltonian reductionin the case of general $sl(2)$ embeddings into Lie (super)algebras, and in thecase of general $osp(1|2)$ embeddings into Lie superalgebras. In anotherdevelopment it has been shown that when $H$ and $H'$ are both subalgebras of aLie algebra $G$ with $H'\subset H$, then classically the $W(G,H)$ algebra canbe obtained by performing a secondary hamiltonian reduction on $W(G,H')$. Inthis paper we show that the corresponding statement is true also for quantumhamiltonian reduction when the simple roots of $H'$ can be chosen as a subsetof the simple roots of $H$. As an application, we show that the quantumsecondary reductions provide a natural framework to study and explain thelinearization of the $W$ algebras, as well as a great number of newrealizations of $W$ algebras.

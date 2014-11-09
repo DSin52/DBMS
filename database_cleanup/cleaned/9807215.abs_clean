@@ -1,0 +1,13 @@
+Paper: hep-th/9807215
+
+Date: 1998-07-29
+
+Title: Deformation stability of BRST-quantization
+
+Authors: M. Duetsch, K. Fredenhagen
+
+Comments: 10 pages, the paper is written by means of LATEX, some macros are at
+
+the beginning of the fileJournal-ref: AIP Conf.Proc. 453 (1998) 324-333
+
+To avoid the problems which are connected with the long distance behavior ofperturbative gauge theories we present a local construction of the observableswhich does not involve the adiabatic limit. First we construct the interactingfields as formal power series by means of causal perturbation theory. Theobservables are defined by BRST invariance where the BRST-transformation$\tilde s$ acts as a graded derivation on the algebra of interacting fields.Positivity, i.e. the existence of Hilbert space representations of the localalgebras of observables is shown with the help of a local Kugo-Ojima operator$Q_{\rm int}$ which implements $\tilde s$ on a local algebra and differs fromthe corresponding operator $Q$ of the free theory. We prove that the Hilbertspace structure present in the free case is stable under perturbations. Allassumptions are shown to be satisfied in QED in a finite spatial volume withsuitable boundary conditions. As a by-product we find that theBRST-quantization is not compatible with periodic boundary conditions formassless free gauge fields.

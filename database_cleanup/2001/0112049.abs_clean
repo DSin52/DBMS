@@ -1,0 +1,13 @@
+Paper: hep-th/0112049
+
+Date: 2001-12-07
+
+Title: Deformation Quantization of Geometric Quantum Mechanics
+
+Authors: H. Garcia-Compean, J.F. Plebanski, M. Przanowski, F.J. Turrubiates
+
+Comments: 27+1 pages, harvmac file, no figures
+
+Journal-ref: J.Phys. A35 (2002) 4301-4320
+
+Second quantization of a classical nonrelativistic one-particle system as adeformation quantization of the Schrodinger spinless field is considered. Underthe assumption that the phase space of the Schrodinger field is $C^{\infty}$,both, the Weyl-Wigner-Moyal and Berezin deformation quantizations are discussedand compared. Then the geometric quantum mechanics is also quantized using theBerezin method under the assumption that the phase space is $CP^{\infty}$endowed with the Fubini-Study Kahlerian metric. Finally, the Wigner functionfor an arbitrary particle state and its evolution equation are obtained. As isshown this new "second quantization" leads to essentially different resultsthan the former one. For instance, each state is an eigenstate of the totalnumber particle operator and the corresponding eigenvalue is always ${1 \over\hbar}$.

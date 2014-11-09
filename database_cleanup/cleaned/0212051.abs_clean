@@ -1,0 +1,11 @@
+Paper: hep-th/0212051
+
+Date: 2002-12-04
+
+Title: Characteristic Polynomials of Complex Random Matrix Models
+
+Authors: G. Akemann and G. Vernizzi
+
+Comments: LaTeX, 22 pages; typos corrected, comment added
+
+We calculate the expectation value of an arbitrary product of characteristicpolynomials of complex random matrices and their hermitian conjugates. Usingthe technique of orthogonal polynomials in the complex plane our result can bewritten in terms of a determinant containing these polynomials and theirkernel. It generalizes the known expression for hermitian matrices and it alsoprovides a generalization of the Christoffel formula to the complex plane. Thederivation we present holds for complex matrix models with a general weightfunction at finite-N, where N is the size of the matrix. We give some explicitexamples at finite-N for specific weight functions. The characteristicpolynomials in the large-N limit at weak and strong non-hermiticity followeasily and they are universal in the weak limit. We also comment on the issueof the BMN large-N limit.

@@ -1,0 +1,13 @@
+Paper: hep-th/0106185
+
+Date: 2001-06-20
+
+Title: k-string tensions in SU(N) gauge theories
+
+Authors: Luigi Del Debbio, Haralambos Panagopoulos, Paolo Rossi, and Ettore
+
+VicariComments: version accepted for publication in Phys Rev D (Rap Comm)
+
+Journal-ref: Phys.Rev. D65 (2002) 021501
+
+In the context of four-dimensional SU(N) gauge theories, we study thespectrum of the confining strings. We compute, for the SU(6) gauge theoryformulated on a lattice, the three independent string tensions sigma_k relatedto sources with Z_N charge k=1,2,3, using Monte Carlo simulations. Our results,whose uncertainty is approximately 2% for k=2 and 4% for k=3, are consistentwith the sine formula sigma_k/sigma = sin(k pi/N) / \sin(pi/N) for the ratiobetween sigma_k and the standard string tension sigma, and show deviations fromthe Casimir scaling.The sine formula is known to emerge in supersymmetric SU(N) gauge theoriesand in M-theory. We comment on an analogous behavior exhibited bytwo-dimensional SU(N)xSU(N) chiral models.

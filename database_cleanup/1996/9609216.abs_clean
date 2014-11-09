@@ -1,0 +1,13 @@
+Paper: hep-th/9609216
+
+Date: 1996-09-27
+
+Title: Variational Master Field for Large-N Interacting Matrix Models - Free
+
+Random Variables on TrialAuthors: Michael Engelhardt and Shimon Levit (Weizmann Institute)
+
+Comments: 24 pages, 16 figures
+
+Journal-ref: Nucl.Phys. B488 (1997) 735-774
+
+Matrices are said to behave as free non-commuting random variables if theaction which governs their dynamics constrains only their eigenvalues, i.e.depends on traces of powers of individual matrices. The authors use recentlydeveloped mathematical techniques in combination with a standard variationalprinciple to formulate a new variational approach for matrix models.Approximate variational solutions of interacting large-N matrix models arefound using the free random matrices as the variational space. Several classesof classical and quantum mechanical matrix models with different types ofinteractions are considered and the variational solutions compared with exactMonte Carlo and analytical results. Impressive agreement is found in a majorityof cases.

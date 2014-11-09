@@ -1,0 +1,11 @@
+Paper: hep-th/0206142
+
+Date: 2002-06-17
+
+Title: Moduli spaces of discrete gravity I
+
+Authors: A.Holfter, M.Paschke
+
+Comments: 35 pages, Latex, uses xy-packages
+
+Spectral triples describe and generalize Riemannian spin geometries byconverting the geometrical information into algebraic data, which consist of analgebra $A$, a Hilbert space $H$ carrying a representation of $A$ and the Diracoperator $D$ (a selfadjoint operator acting on $H$). The gravitational actionis described by the trace of a suitable function of $D$. In this paper weexamine the (path-integral-) quantization of such a system given by a finitedimensional commutative algebra. It is then (in concrete examples) possible toconstruct the moduli space of the theory, i.e. to divide the space of all Diracoperators by the action of the diffeomorphism group, and to construct aninvariant measure on this space. We discuss expectation values of variousobservables and demonstrate some interesting effects such as the effect ofcoupling the system to Fermions (which renders finite quantities in cases,where the Bosons alone would give infinite quantities) or the striking effectof spontaneous breaking of spectral invariance.

@@ -1,0 +1,11 @@
+Paper: hep-th/0301052
+
+Date: 2003-01-09
+
+Title: On Hamiltonian formulations of the Schr\"{o}dinger system
+
+Authors: L\'aszl\'o \'A. Gergely
+
+Journal-ref: Annals Phys. 298 (2002) 394-402
+
+We review and compare different variational formulations for theSchr\"{o}dinger field. Some of them rely on the addition of a convenientlychosen total time derivative to the hermitic Lagrangian. Alternatively, theDirac-Bergmann algorithm yields the Schr\"{o}dinger equation first as aconsistency condition in the full phase space, second as canonical equation inthe reduced phase space. The two methods lead to the same (reduced)Hamiltonian. As a third possibility, the Faddeev-Jackiw method is shown to be ashortcut of the Dirac method. By implementing the quantization scheme forsystems with second class constraints, inconsistencies of previous treatmentsare eliminated.

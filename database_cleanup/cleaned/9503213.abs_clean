@@ -1,0 +1,13 @@
+Paper: hep-th/9503213
+
+Date: 1995-03-30
+
+Title: GEOMETRICAL STRING and DUAL SPIN SYSTEMS
+
+Authors: G.K.Savvidy, K.G.Savvidy and F.J.Wegner.
+
+Comments: 16 pages,Latex
+
+Journal-ref: Nucl.Phys. B443 (1995) 565-580
+
+We are able to perform the duality transformation of the spin system whichwas found before as a lattice realization of the string with linear action. Infour and higher dimensions this spin system can be described in terms of atwo-plaquette gauge Hamiltonian. The duality transformation is constructed ingeometrical and algebraic language. The dual Hamiltonian represents a new typeof spin system with local gauge invariance. At each vertex $\xi$ there are$d(d-1)/2$ Ising spins $\Lambda_{\mu,\nu}= \Lambda_{\nu,\mu}$, $\mu \neq \nu =1,..,d$ and one Ising spin $\Gamma$ on every link $(\xi,\xi +e_{\mu})$. For thefrozen spin $\Gamma \equiv 1$ the dual Hamiltonian factorizes into $d(d-1)/2$two-dimensional Ising ferromagnets and into antiferromagnets in the case$\Gamma \equiv -1$. For fluctuating $\Gamma$ it is a sort of spin glass systemwith local gauge invariance. The generalization to $p$-branes is given.

@@ -1,0 +1,13 @@
+Paper: hep-th/0004110
+
+Date: 2000-04-14
+
+Title: A Construction of an Effective Hamiltonian from Feynman Diagrams
+
+Application to the Light-Front Yukawa ModelAuthors: Yuki Yamamoto (Kyushu Univ.)
+
+Comments: 32 pages, 22 figures, PTPTeX
+
+Journal-ref: Prog.Theor.Phys. 106 (2001) 99-130
+
+We study a similarity transformation to construct an effective Hamiltoniansystematically, which does not contain particle-number-changing interactions,by means of Fukuda-Sawada-Taketani-Okubo's method. We show that suchHamiltonian can be constructed from Feynman diagrams and give rules forconstructing it in the Light-Front Yukawa model. We prove that it isrenormalized by the familiar covariant perturbative renormalization procedure.It is very advantageous that the effective Hamiltonian can be obtained from ourrules {\em immediately}. We also numerically diagonalize it to the second orderin the coupling constant as an exercise.

@@ -1,0 +1,13 @@
+Paper: hep-th/9707082
+
+Date: 1997-07-09
+
+Title: Dimension Theory of Graphs and Networks
+
+Authors: Thomas Nowotny, Manfred Requardt
+
+Comments: 20 pages, 7 figures, LaTex2e, uses amsmath, amsfonts, amssymb,
+
+latexsym, epsfigJournal-ref: J.Phys. A31 (1998) 2447-2463
+
+Starting from the working hypothesis that both physics and the correspondingmathematics have to be described by means of discrete concepts on thePlanck-scale, one of the many problems one has to face in this enterprise is tofind the discrete protoforms of the building blocks of continuum physics andmathematics. A core concept is the notion of dimension. In the following wedevelop such a notion for irregular structures like (large) graphs and networksand derive a number of its properties. Among other things we show its stabilityunder a wide class of perturbations which is important if one has 'dimensionalphase transitions' in mind. Furthermore we systematically construct graphs withalmost arbitrary 'fractal dimension' which may be of some use in the context of'dimensional renormalization' or statistical mechanics on irregular sets.

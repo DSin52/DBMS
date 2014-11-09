@@ -1,0 +1,13 @@
+Paper: hep-th/9408058
+
+Date: 1994-08-09
+
+Title: Exact, E=0, Solutions for General Power-Law Potentials. II. Quantum Wave
+
+FunctionsAuthors: Jamil Daboul and Michael Martin Nieto
+
+Comments: LaTeX, 19 pages, preprint LA-UR-94-2569
+
+Journal-ref: Int.J.Mod.Phys. A11 (1996) 180
+
+For zero energy, $E=0$, we derive exact, quantum solutions for {\it all}power-law potentials, $V(r) = -\gamma/r^{\nu}$, with $\gamma > 0$ and $-\infty< \nu < \infty$. The solutions are, in general, Bessel functions of powers of$r$. For $\nu > 2$ and $l \ge 1$ the solutions are normalizable; theycorrespond to states which are bound by the angular-momentum barrier.Surprisingly, the solutions for $\nu < -2$ are also normalizable, They arediscrete states but do not correspond to bound states. For $2> \nu \geq -2$ thestates are unnormalizable continuum states. The $\nu=2$ solutions are alsounnormalizable, but are exceptional solutions. Finally, we find that byincreasing the dimension of the \seq beyond 4 an effective centrifugal barrieris created, due solely to the extra dimensions, which is enough to causebinding. Thus, if $D>4$, there are $E=0$ bound states for $\nu > 2$ even for$l=0$. We discuss the physics of the above solutions are compare them to theclassical solutions of the preceding paper.

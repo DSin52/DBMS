@@ -1,0 +1,9 @@
+Paper: hep-th/9403168
+
+Date: 1994-03-28
+
+Title: On the affine analogue of Jack's and Macdonald's polynomials
+
+Comments: 27 pages. Revised version; minor corrections
+
+We define the analogue of Jack's (Jacobi) polynomials, which were defined forfinite-dimensional root system by Heckman and Opdam as eigenfunctions oftrigonometric Sutherland operator for the affine root system $\hat A_{n-1}$. Inthe affine case, we define the polynomials as eigenfunctions of "affineSutherland operator", which is Calogero-Sutherland operator with ellipticpotential plus the term involving derivative with respect to the modularparameter. We show that such polynomials can be constructed explicitly astraces of certain intertwiners for affine Lie algebra. Also, we define theq-analogue of this construction, which gives affine analogues of Macdonald'spolynomials, and show the (conjectured) relation between the Macdonald's innerproduct identities for affine case and scalar product of conformal blocks inthe WZW model.

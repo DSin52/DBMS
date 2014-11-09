@@ -1,0 +1,13 @@
+Paper: hep-th/9902009
+
+Date: 1999-01-31
+
+Title: Master equation in the general gauge
+
+reducibilityAuthors: G. A. Vilkovisky (Lebedev Institute)
+
+Comments: 9 pages, no figures. Latex 2.09
+
+Journal-ref: Lett. Math. Phys. 49 (1999) 123
+
+The master equation is quantized. This is an example of quantization of agauge theory with nilpotent generators. No ghosts are needed for a generationof the gauge algebra. The point about the nilpotent generators is that onecan't write down a single functional integral for this theory. One has to writedown a product of two coupled functional integrals and take a square root. Inthe special gauge where the gauge conditions are commuting, the functionalintegrals decouple, and one recovers the known result.

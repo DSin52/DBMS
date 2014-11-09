@@ -1,0 +1,11 @@
+Paper: hep-th/0303250
+
+Date: 2003-03-27
+
+Title: A Variational Calculation of Positronium in QED
+
+Authors: Andrei G. Terekidi and Jurij W. Darewych
+
+Comments: 21 pages
+
+We consider a reformulation of QED in which covariant Green functions areused to solve for the electromagnetic field in terms of the fermion fields. Theresulting modified Hamiltonian contains the photon propagator directly. Asimple Fock-state variational trial function is used to derive relativisticfermion-antifermion equations variationally from the expectation value of theHamiltonian of the field theory. The interaction kernel of the equations areshown to involve the lowest order invariant M-matrices. The two-bodyeigenenergies are shown to agree with known result for positronium-like systemsto order O(alpha ^4) in the coupling constant.

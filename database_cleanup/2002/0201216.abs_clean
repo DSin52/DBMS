@@ -1,0 +1,13 @@
+Paper: hep-th/0201216
+
+Date: 2002-01-28
+
+Title: Loop Variables and Gauge Invariance in (Open) Bosonic String Theory
+
+Authors: B. Sathiapalan
+
+Comments: 20 pages, Latex
+
+Journal-ref: Mod.Phys.Lett. A17 (2002) 1175-1190
+
+We give a simplified and more complete description of the loop variableapproach for writing down gauge invariant equations of motion for the fields ofthe open string. A simple proof of gauge invariance to all orders is given. Interms of loop variables, the interacting equations look exactly like the freeequations, but with a loop variable depending on an extra parameter, thusmaking it a band of finite width. The arguments for gauge invariance workexactly as in the free case. We show that these equations are Wilsonian RGequations with a finite world-sheet cutoff and that in the infrared limit,equivalence with the Callan-Symanzik $\beta$-functions should ensure that theyreproduce the on-shell scattering amplitudes in string theory. It is applied tothe tachyon-photon system and the general arguments for gauge invariance can beeasily checked to the order calculated. One can see that when there is a finiteworld sheet cutoff in place, even the U(1) invariance of the equations for thephoton, involves massive mode contributions. A field redefinition involving thetachyon is required to get the gauge transformations of the photon intostandard form.

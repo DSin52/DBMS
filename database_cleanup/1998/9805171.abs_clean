@@ -1,0 +1,13 @@
+Paper: hep-th/9805171
+
+Date: 1998-05-26
+
+Title: Bulk vs. Boundary Dynamics in Anti-de Sitter Spacetime
+
+Authors: Vijay Balasubramanian, Per Kraus, Albion Lawrence
+
+Comments: Standard LaTeX, 28 pages, 2 postscript figures. v2
+
+Substantial revision in section 3 of treatment of global modes;non-normalizable modes have arbitrary time dependence. Revised discussion ofJournal-ref: Phys.Rev. D59 (1999) 046003
+
+We investigate the details of the bulk-boundary correspondence in Lorentziansignature anti-de Sitter space. Operators in the boundary theory couple tosources identified with the boundary values of non-normalizable bulk modes.Such modes do not fluctuate and provide classical backgrounds on which bulkexcitations propagate. Normalizable modes in the bulk arise as a set ofsaddlepoints of the action for a fixed boundary condition. They fluctuate anddescribe the Hilbert space of physical states. We provide an explicit, completeset of both types of modes for free scalar fields in global and Poincar\'ecoordinates. For $\ads{3}$, the normalizable and non-normalizable modesoriginate in the possible representations of the isometry group$\SL_L\times\SL_R$ for a field of given mass. We discuss the group propertiesof mode solutions in both global and Poincar\'e coordinates and their relationto different expansions of operators on the cylinder and on the plane. Finally,we discuss the extent to which the boundary theory is a useful description ofthe bulk spacetime.

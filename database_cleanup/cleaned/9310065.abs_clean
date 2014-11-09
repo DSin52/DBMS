@@ -1,0 +1,11 @@
+Paper: hep-th/9310065
+
+Date: 1993-10-12
+
+Title: Wigner distribution function for the harmonic oscillator with
+
+dissipation within the theory of open quantum systemsAuthors: Aurelian Isar
+
+Comments: 17 pages,plain TEX, FT-389-1993
+
+Time evolution of the expectation values of various dynamical operators ofthe harmonic oscillator with dissipation is analitically obtained within theframework of the Lindblad's theory for open quantum systems. We deduce thedensity matrix of the damped harmonic oscillator from the solution of theFokker-Planck equation for the coherent state representation, obtained from themaster equation for the density operator. The Fokker-Planck equation for theWigner distribution function is also solved by using the Wang-Uhlenbeck methodof transforming it into a linearized partial differential equation for theWigner function, subject to either the Gaussian type or the $\delta$-functiontype of initial conditions. The Wigner functions which we obtain aretwo-dimensional Gaussians with different widths.

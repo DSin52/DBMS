@@ -1,0 +1,11 @@
+Paper: hep-th/0210192
+
+Date: 2002-10-20
+
+Title: A Supersymmetric Quantum Field Theory Formulation of the Donaldson
+
+Polynomial InvariantsAuthors: Gregory Langmead
+
+Comments: 39 pages
+
+We construct a mathematical framework for twisted N=2 supersymmetrictopological quantum field theory on a 4-manifold. Supersymmetry in flat spaceis defined and the twist homomorphism is constructed, giving us a supermanifoldthat is the total space of an odd vector bundle over the even 4-manifold. Aspecial category of connections on this space is defined and a decompositioninto so-called component fields is proved. The twisted supersymmetric action iscomputed, and the structure of the action, the decomposition, and the action ofa special odd vector field are all shown to have a rich geometrical structurethat was partially interpred by Atiyah and Jeffrey. In short, the action is aninfinite-dimensional analogue of the Euler class of the vector bundle ofself-dual 2-forms over the space of connections mod gauge. This geometricalconnections, intersection theory, and the action of the group of gaugetransformations, all of which appear by themselves after the twist. Secondly,it sets the stage for an eventual proof of Witten's Conjecture, relating theDonaldson and Seiberg-Witten invariants. What we build here amounts to amathematical treatment of a physical treatment of a mathematical constructionof Donaldson.

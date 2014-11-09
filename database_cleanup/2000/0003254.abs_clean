@@ -1,0 +1,13 @@
+Paper: hep-th/0003254
+
+Date: 2000-03-28
+
+Title: Temperature Independent Renormalization of Finite Temperature Field
+
+TheoryAuthors: Christoph Kopper (Ecole Polytechnique), Volkhard F. M\"uller (U.
+
+Kaiserslautern), Thomas Reisz (U Heidelberg)Comments: 17 pages, typos and one footnote added, to appear in Ann.H.Poincare
+
+Journal-ref: Annales Henri Poincare 2 (2001) 387-402
+
+We analyse 4-dimensional massive $\vp^4$ theory at finite temperature T inthe imaginary-time formalism. We present a rigorous proof that this quantumfield theory is renormalizable, to all orders of the loop expansion. Our mainpoint is to show that the counterterms can be chosen temperature independent,so that the temperature flow of the relevant parameters as a function of $T$can be followed. Our result confirms the experience from explicit calculationsto the leading orders. The proof is based on flow equations, i.e. on the(perturbative) Wilson renormalization group. In fact we will show that thedifference between the theories at T>0 and at T=0 contains no relevant terms.Contrary to BPHZ type formalisms our approach permits to lay hand onrenormalization conditions and counterterms at the same time, since both appearas boundary terms of the renormalization group flow. This is crucial for theproof.

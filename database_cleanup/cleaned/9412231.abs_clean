@@ -1,0 +1,9 @@
+Paper: hep-th/9412231
+
+Date: 1994-12-29
+
+Title: Vertex--Operatoren, Darstellungen der Virasoro--Algebra und konforme
+
+QuantenfeldtheorieComments: 118 pages (german) latex
+
+In this work we describe the mathematical foundations used in theconstruction of primary fields of minimal models of conformal field theory. TheFock modules for the Virasoro algebra and develop their imbedding patterns.This part is a simplification of the work of Feigin and Fuks (we correct amistake in their patterns in the case III_+), Rocha-Charidi and some new ideaswhich yield a simplification of the original papers. In the second part wedefine (free) vertex operators as unbounded Hilbert space operators, acting onFock spaces, which are Virasoro modules. We prove several properties of thesenot closable operators. Radially ordered products of vertex operators exists ona dense subset. We prove commutation relations between vertex operators andelements of the Virasoro algebra. Next we define, following the (non rigouros)work of G. Felder, integrated vertex operators and prove that these operatorsresemble the properties of the not integrated vertex operators. Specialintegrated vertex operators can be identified with conformal fields and aVirasoro invariant subspace of Fock space can be identified with the physicalHilbert space for the conformal theory.

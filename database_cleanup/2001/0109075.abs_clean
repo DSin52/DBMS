@@ -1,0 +1,11 @@
+Paper: hep-th/0109075
+
+Date: 2001-09-09
+
+Title: Open-String Gromov-Witten Invariants
+
+"Theorem"Authors: Tom Graber and Eric Zaslow
+
+Comments: 20 pages
+
+GeometryWe propose localization techniques for computing Gromov-Witten invariants ofmaps from Riemann surfaces with boundaries into a Calabi-Yau, with theboundaries mapped to a Lagrangian submanifold. The computations can beexpressed in terms of Gromov-Witten invariants of one-pointed maps. In genuszero, an equivariant version of the mirror theorem allows us to write down ahypergeometric series, which together with a mirror map allows one to computethe invariants to all orders, similar to the closed string model or the physicsapproach via mirror symmetry. In the noncompact example where the Calabi-Yau is$K_{\PP^2},$ our results agree with physics predictions at genus zero obtainedusing mirror symmetry for open strings. At higher genera, our results satisfystrong integrality checks conjectured from physics.

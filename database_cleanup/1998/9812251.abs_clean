@@ -1,0 +1,13 @@
+Paper: hep-th/9812251
+
+Date: 1998-12-31
+
+Title: Modular Constructions of Quantum Field Theories with Interactions
+
+Authors: B. Schroer and H.-W. Wiesbrock (FU-Berlin, Germany)
+
+Comments: 25 pages tcilatex, errors corrected and the relation of light ray
+
+reductions of factorizable models explained in more detailsJournal-ref: Rev.Math.Phys. 12 (2000) 301-326
+
+We extend the previously introduced constructive modular method tononperturbative QFT. In particular the relevance of the concept of ``quantumlocalization'' (via intersection of algebras) versus classical locality (viasupport properties of test functions) is explained in detail, the wedgealgebras are constructed rigorously and the formal aspects of double conealgebras for d=1+1 factorizing theories are determined. The well-known on-shellcrossing symmetry of the S-Matrix and of formfactors (cyclicity relation) insuch theories is intimately related to the KMS properties of new quantum-localPFG (one-particle polarization-free generators) of these wedge algebras. Thesegenerators are ``on-shell'' and their Fourier transforms turn out to fulfillthe Zamolodchikov-Faddeev algebra. As the wedge algebras contain the crossingsymmetry informations, the double cone algebras reveal the particle content offields. Modular theory associates with this double cone algebra two very usefulchiral conformal quantum field theories which are the algebraic versions of thelight ray algebras.

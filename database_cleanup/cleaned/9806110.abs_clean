@@ -1,0 +1,11 @@
+Paper: hep-th/9806110
+
+Date: 1998-06-14
+
+Title: From chiral Random Matrix Theory to chiral Perturbation Theory
+
+Comments: 32 pages, Latex and 4 postscript figures; Clarified discussion of
+
+choice of integration measure and corrected typosJournal-ref: Nucl.Phys. B540 (1999) 317-344
+
+We study the spectrum of the QCD Dirac operator by means of the valence quarkmass dependence of the chiral condensate in partially quenched ChiralPerturbation Theory (pqChPT) in the supersymmetric formulation of Bernard andGolterman. We consider valence quark masses both in the ergodic domain ($m_v\ll E_c$) and the diffusive domain ($m_v \gg E_c$). These domains are separatedby a mass scale $E_c \sim F^2/\Sigma_0 L^2$ (with $F$ the pion decay constant,$\Sigma_0$ the chiral condensate and $L$ the size of the box). In the ergodicdomain the effective super-Lagrangian reproduces the microscopic spectraldensity of chiral Random Matrix Theory (chRMT). We obtain a natural explanationof Damgaard's relation between the spectral density and the finite volumepartition function with two additional flavors. We argue that in the ergodicdomain the natural measure for the superunitary integration in the pqChPTpartition function is noncompact. We find that the tail of the two-pointspectral correlation function derived from pqChPT agrees with the chRMT resultin the ergodic domain. In the diffusive domain we extend the results for theslope of the Dirac spectrum first obtained by Smilga and Stern. We find thatthe spectral density diverges logarithmically for nonzero topologicalsusceptibility. We study the transition between the ergodic and the diffusivedomain and identify a range where chRMT and pqChPT coincide.

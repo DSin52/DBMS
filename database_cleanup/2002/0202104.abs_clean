@@ -1,0 +1,11 @@
+Paper: hep-th/0202104
+
+Date: 2002-02-17
+
+Title: NC Geometry and Discrete Torsion Fractional Branes
+
+Authors: E.H Saidi
+
+Comments: 63 pages 4 figures
+
+Considering the complex n-dimension Calabi-Yau homogeneous hyper-surfaces${\cal H}_{n}$ and using algebraic geometry methods, we develop the crossedproduct algebra method, introduced by Berenstein et Leigh in hep-th/0105229,and build the non commutative (NC) geometries for orbifolds ${\cal O}={\calH}_{n}/{\bf Z}_{n+2}^{n}$ with a discrete torsion matrix$t_{ab}=exp[{\frac{i2\pi}{n+2}}{(\eta_{ab}-\eta_{ba})}]$, $\eta_{ab} \inSL(n,{\bf Z})$. We show that the NC manifolds ${\cal O}^{(nc)}$ are given bythe algebra of functions on the real $(2n+4)$ Fuzzy torus ${\calT}^{2(n+2)}_{\beta_{ij}}$ with deformation parameters$\beta_{ij}=exp{\frac{i2\pi}{n+2}}{[(\eta^{-1}_{ab}-\eta^{-1}_{ba})} q_{i}^{a}q_{j}^{b}]$, $q_{i}^{a}$'s being Calabi-Yau charges of ${\bf Z}_{n+2}^{n}$. Wedevelop graph rules to represent ${\cal O}^{(nc)}$ by quiver diagrams whichbecome completely reducible at singularities. Generic points in these NCgeometries are be represented by polygons with $(n+2)$ vertices linked by$(n+2)$ edges while singular ones are given by $(n+2)$ non connected loops. Westudy the various singular spaces of quintic orbifolds and analyze thevarieties of fractional $D$ branes at singularities as well as the spectrum ofmassless fields. Explicit solutions for the NC quintic ${\cal Q}^{(nc)}$ arederived with details and general results for complex $n$ dimension orbifoldswith discrete torsion are presented.

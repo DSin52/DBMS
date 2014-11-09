@@ -1,0 +1,13 @@
+Paper: hep-th/9908172
+
+Date: 1999-08-26
+
+Title: Recursive Graphical Construction of Feynman Diagrams in phi^4 Theory
+
+Asymmetric Case and Effective EnergyAuthors: Boris Kastening (Universitaet Heidelberg)
+
+Comments: 34 pages; abstract expanded; section IV.E about absorption of
+
+tadpoles and one related reference added; eqs. (20) and (23) corrected;further references added; some minor beautifications; to be published byPhys.Rev.EJournal-ref: Phys.Rev. E61 (2000) 3501-3528
+
+The free energy of a multi-component scalar field theory is considered as afunctional W[G,J] of the free correlation function G and an external current J.It obeys non-linear functional differential equations which are turned intorecursion relations for the connected Greens functions in a loop expansion.These relations amount to a simple proof that W[G,J] generates only connectedgraphs and can be used to find all such graphs with their combinatoric weights.A Legendre transformation with respect to the external current converts thefunctional differential equations for the free energy into those for theeffective energy Gamma[G,Phi], which is considered as a functional of the freecorrelation function G and the field expectation Phi. These equations areturned into recursion relations for the one-particle irreducible Greensfunctions. These relations amount to a simple proof that Gamma[G,J] generatesonly one-particle irreducible graphs and can be used to find all such graphswith their combinatoric weights. The techniques used also allow for asystematic investigation into resummations of classes of graphs. Examples aregiven for resumming one-loop and multi-loop tadpoles, both through all ordersof perturbation theory. Since the functional differential equations derived arenon-perturbative, they constitute also a convenient starting point for otherexpansions than those in numbers of loops or powers of coupling constants. Wework with general interactions through four powers in the field.

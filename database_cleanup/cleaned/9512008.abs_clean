@@ -1,0 +1,13 @@
+Paper: hep-th/9512008
+
+Date: 1995-12-03
+
+Title: A Chiral Spin Theory in the Framework of an Invariant Evolution
+
+Parameter FormalismAuthors: B.Sarel and L.P.Horwitz
+
+Comments: Latex, 61 pages. Minor revisions. To be published in J. Math. Phys
+
+Journal-ref: J.Math.Phys. 38 (1997) 2963-2995
+
+We present a formulation for the construction of first order equations whichdescribe particles with spin, in the context of a manifestly covariantrelativistic theory governed by an invariant evolution parameter; one obtains aconsistent quantized formalism dealing with off-shell particles with spin. Ourbasic requirement is that the second order equation in the theory is of theSchr\"{o}dinger-Stueckelberg type, which exhibits features of both theKlein-Gordon and Schr\"{o}dinger equations. This requirement restricts thestructure of the first order equation, in particular, to a chiral form. Onethus obtains, in a natural way, a theory of chiral form for massive particles,which may contain both left and right chiralities, or just one of them. Weobserve that by iterating the first order system, we are able to obtain secondorder forms containing the transverse and longitudinal momentum relative to atime-like vector $t_{\mu}t^{\mu}=-1$ used to maintain covariance of the theory.This time-like vector coincides with the one used by Horwitz, Piron, and Reuseto obtain an invariant positive definite space-time scalar product, whichpermits the construction of an induced representation for states of a particlewith spin. We discuss the currents and continuity equations, and show thatthese equations of motion and their currents are closely related to the spinand convection parts of the Gordon decomposition of the Dirac current. Thetransverse and longitudinal aspects of the particle are complementary, and canbe treated in a unified manner using a tensor product Hilbert space.Introducing the electromagnetic field we find an equation which gives rise tothe correct gyromagnetic ratio, and is fully Hermitian under the proposedscalar product. Finally, we show that the original structure of Dirac's

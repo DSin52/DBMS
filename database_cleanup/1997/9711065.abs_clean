@@ -1,0 +1,13 @@
+Paper: hep-th/9711065
+
+Date: 1997-11-10
+
+Title: Dimensional reduction of the chiral-continous Gross-Neveu model
+
+Authors: G.N.J.Ananos, A.P.C.Malbouisson, M.B.Silva Neto and N.F.Svaiter
+
+Comments: Latex, 25 pages, 4 eps fig., uses epsf.sty and epsf.tex
+
+Journal-ref: Physica A260 (1998) 157-172
+
+We study the finite-temperature phase transition of the generalizedGross-Neveu model with continous chiral symmetry in $2 < d \leq 4$ euclideandimensions. The critical exponents are computed to the leading order in the$1/N$ expansion at both zero and finite temperatures. A dimensionally reducedtheory is obtained after the introduction of thermal counterterms necessary tocancel thermal divergences that arise in the limit of high temperature.Although at zero temperature we have an infinitely and continously degeneratevacuum state, we show that at finite temperature this degeneracy is discreteand, depending on the values of the bare parameters, we may have either totalor partial restoration of symmetry. Finally we determine the universality classof the reduced theory by a simple analysis of the infrared structure ofthermodynamic quantities computed using the reduced action as starting point.

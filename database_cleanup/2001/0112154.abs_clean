@@ -1,0 +1,13 @@
+Paper: hep-th/0112154
+
+Date: 2001-12-18
+
+Title: An Exact Holographic RG Flow Between 2d Conformal Fixed Points
+
+Authors: Marcus Berg, Henning Samtleben
+
+Comments: 37 pages, 5 figures, LaTeX2e, references added
+
+Journal-ref: JHEP 0205 (2002) 006
+
+We describe a supersymmetric RG flow between conformal fixed points of atwo-dimensional quantum field theory as an analytic domain wall solution of thethree-dimensional SO(4) x SO(4) gauged supergravity. Its ultraviolet fixedpoint is an N=(4,4) superconformal field theory related, through the doubleD1-D5 system, to theories modeling the statistical mechanics of black holes.The flow is driven by a relevant operator of conformal dimension \Delta=3/2which breaks conformal symmetry and breaks supersymmetry down to N=(1,1), andsends the theory to an infrared conformal fixed point with half the centralcharge.Using the supergravity description, we compute counterterms, one-pointfunctions and fluctuation equations for inert scalars and vector fields,providing the complete framework to compute two-point correlation functions ofthe corresponding operators throughout the flow in the two-dimensional quantumfield theory. This produces a toy model for flows of N=4 super Yang-Millstheory in 3+1 dimensions, where conformal-to-conformal flows have resistedanalytical solution.

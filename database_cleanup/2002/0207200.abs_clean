@@ -1,0 +1,11 @@
+Paper: hep-th/0207200
+
+Date: 2002-07-22
+
+Title: Collective potential for large N hamiltonian matrix models and free
+
+Fisher informationAuthors: A.Agarwal, L.Akant, G.S.Krishnaswami, S.G.Rajeev
+
+Comments: 25 pages, latex
+
+We formulate the planar `large N limit' of matrix models with a continuouslyinfinite number of matrices directly in terms of U(N) invariant variables.Non-commutative probability theory, is found to be a good language to describethis formulation. The change of variables from matrix elements to invariantsinduces an extra term in the hamiltonian,which is crucual in determining theground state. We find that this collective potential has a natural meaning indiscovered by Voiculescu. This formulation allows us to find a variationalprinciple for the classical theory described by such large N limits. We thenuse the variational principle to study models more complex than the onedescribing the quantum mechanics of a single hermitian matrix (i.e., go beyondthe so called D=1 barrier). We carry out approximate variational calculationsfor a few models and find excellent agreement with known results where suchcomparisons are possible. We also discover a lower bound for the ground stateby using the non-commutative analogue of the Cramer-Rao inequality.

@@ -1,0 +1,11 @@
+Paper: hep-th/9503152
+
+Date: 1995-03-23
+
+Title: A generalized Lichnerowicz formula, the Wodzicki Residue and Gravity
+
+Authors: T.Ackermann, J.Tolksdorf
+
+Comments: 10 pages, plain tex
+
+We prove a generalized version of the well-known Lichnerowicz formula for thesquare of the most general Dirac operator $\widetilde{D}$\ on aneven-dimensional spin manifold associated to a metric connection$\widetilde{\nabla}$. We use this formula to compute the subleading term$\Phi_1(x,x, \widetilde{D}^2)$\ of the heat-kernel expansion of$\widetilde{D}^2$. The trace of this term plays a key-r$\hat {\petit\rm o}$lein the definition of a (euclidian) gravity action in the context ofnon-commutative geometry. We show that this gravity action can be interpretedas defining a modified euclidian Einstein-Cartan theory.

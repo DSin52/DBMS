@@ -1,0 +1,13 @@
+Paper: hep-th/0005213
+
+Date: 2000-05-23
+
+Title: Confinement, asymptotic freedom and renormalons in type 0 string duals
+
+Authors: Roberto Grena, Simone Lelli, Michele Maggiore and Anna Rissone
+
+Comments: 29 pages, 10 figures, Latex (uses JHEP.cls); v2
+
+Journal-ref: JHEP 0007 (2000) 005
+
+Type 0B string theory has been proposed as the dual description ofnon-supersymmetric SU(N) Yang-Mills theory coupled to six scalars, in fourdimensions. We study numerically and analytically the equations of motion oftype 0B gravity and we find RG trajectories of the dual theory that flow froman asymptotically free UV regime to a confining IR regime. In the UV we find aone-parameter family of solutions that approach asymptotically $AdS_5\timesS^5$ with a logarithmic flow of the coupling plus non-perturbative terms thatcorrectly reproduce all UV and IR renormalon singularities. The first UVrenormalon gives a contribution $\sim F_1(E)/E^2$ and we are able to predictalso the form of the function $F_1(E)$, which, from the YM side, corresponds tosumming all multiple-chain bubble graphs. The fact that the positions of therenormalon singularities in the Borel plane come out correctly is a non-trivialtest of the conjectured duality.

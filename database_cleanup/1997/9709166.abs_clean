@@ -1,0 +1,13 @@
+Paper: hep-th/9709166
+
+Date: 1997-09-23
+
+Title: Lattice Black Holes
+
+Authors: Steven Corley and Ted Jacobson
+
+Comments: 26 pages, LaTeX, 2 figures included with psfig. Several improvements
+
+in the presentation. One figure added. Final version to appear in Phys.Rev.DJournal-ref: Phys.Rev. D57 (1998) 6269-6279
+
+We study the Hawking process on lattices falling into static black holes. Themotivation is to understand how the outgoing modes and Hawking radiation canarise in a setting with a strict short distance cutoff in the free-fall frame.We employ two-dimensional free scalar field theory. For a falling lattice witha discrete time-translation symmetry we use analytical methods to establishthat, for Killing frequency $\omega$ and surface gravity $\kappa$ satisfying$\kappa\ll\omega^{1/3}\ll 1$ in lattice units, the continuum Hawking spectrumis recovered. The low frequency outgoing modes arise from exotic ingoing modeswith large proper wavevectors that "refract" off the horizon. In this modelwith time translation symmetry the proper lattice spacing goes to zero atspatial infinity. We also consider instead falling lattices whose properlattice spacing is constant at infinity and therefore grows with time at anyfinite radius. This violation of time translation symmetry is visible only atwavelengths comparable to the lattice spacing, and it is responsible fortransmuting ingoing high Killing frequency modes into low frequency outgoingmodes.

@@ -1,0 +1,11 @@
+Paper: hep-th/0003234
+
+Date: 2000-03-26
+
+Title: Derivatives and the Role of the Drinfel'd Twist in Noncommutative String
+
+TheoryAuthors: Paul Watts
+
+Comments: 10 pages in LaTeX, no figures, uses `amssymb.sty', new references
+
+addedWe consider the derivatives which appear in the context of noncommutativestring theory. First, we identify the correct derivations to use when theunderlying structure of the theory is a quasitriangular Hopf algebra. Then weshow that this is a specific case of a more general structure utilising theDrinfel'd twist. We go on to present reasons as to why we feel that thelow-energy effective action, when written in terms of the original commutingcoordinates, should explicitly exhibit this twisting.

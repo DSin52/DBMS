@@ -1,0 +1,13 @@
+Paper: hep-th/9712090
+
+Date: 1997-12-09
+
+Title: Symmetry Algebras of Large-N Matrix Models for Open Strings
+
+Authors: C.-W. H. Lee and S. G. Rajeev
+
+Comments: 44 pages, 8 eps figures, 3 tables, LaTeX2.09; this is the published
+
+versionIntegrable SystemsJournal-ref: Nucl.Phys. B529 (1998) 656-688
+
+We have discovered that the gauge invariant observables of matrix modelsinvariant under U($N$) form a Lie algebra, in the planar large-N limit. Thesemodels include Quantum Chromodynamics and the M(atrix)-Theory of strings. Westudy here the gauge invariant states corresponding to open strings (`mesons').We find that the algebra is an extension of a remarkable new Lie algebra ${\calV}_{\Lambda}$ by a product of more well-known algebras such as $gl_{\infty}$and the Cuntz algebra. ${\cal V}_{\Lambda}$ appears to be a generalization ofthe Lie algebra of vector fields on the circle to non-commutative geometry. Wealso use a representation of our Lie algebra to establish an isomorphismbetween certain matrix models (those that preserve `gluon number') and openquantum spin chains. Using known results on quantum spin chains, we are able toidentify some exactly solvable matrix models. Finally, the Hamiltonian of adimensionally reduced QCD model is expressed explicitly as an element of ourLie algebra.

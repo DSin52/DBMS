@@ -1,0 +1,11 @@
+Paper: hep-th/9509015
+
+Date: 1995-09-05
+
+Title: Supersymmetric quantization of gauge theories
+
+Authors: Frederik G Schotlz and Sergei V. Shabanov
+
+Comments: The present version contains a major modification
+
+supersymmetric boundary conditions in the path integral is resolved and nolonger an obstacle to calculate Green's functionsWe develop a new operator quantization scheme for gauge theories in which thedynamics of the ghost sector is described by an N=2 supersymmetry. In thisscheme no gauge condition is imposed on the gauge fields. The correspondingpath integral is explicitly Lorentz invariant and, in contrast to the BRST-BFVpath integral in the Lorentz gauge, it is free of the Gribov ambiguity, i.e.,it is also valid in the non-perturbative domain. The formalism can therefore beused to study the non-perturbative properties of gauge theories in theinfra-red region (gluon confinement).

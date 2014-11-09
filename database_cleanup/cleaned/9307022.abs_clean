@@ -1,0 +1,13 @@
+Paper: hep-th/9307022
+
+Date: 1993-07-02
+
+Title: Jet Bundles in Quantum Field Theory
+
+Authors: Paul McCloud
+
+Comments: 26 pages
+
+Journal-ref: Class.Quant.Grav. 11 (1994) 567-588
+
+The geometric interpretation of the Batalin-Vilkovisky antibracket as theSchouten bracket of functional multivectors is examined in detail. Theidentification is achieved by the process of repeated contraction of evenfunctional multivectors with fermionic functional 1-forms. The classical masterequation may then be considered as a generalisation of the Jacobi identity forPoisson brackets, and the cohomology of a nilpotent even functional multivectoris identified with the BRST cohomology. As an example, the BRST-BV formulationof gauge fixing in theories with gauge symmetries is reformulated in the jetbundle formalism. (Hopefully this version will be TeXable)

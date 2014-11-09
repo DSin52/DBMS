@@ -1,0 +1,9 @@
+Paper: hep-th/0104074
+
+Date: 2001-04-09
+
+Title: Quantum correlations from incomplete classical statistics
+
+Comments: New formulation of introduction,conclusions and title,33 pages,LaTex
+
+We formulate incomplete classical statistics for situations where theknowledge about the probability distribution outside a local region is limited.The information needed to compute expectation values of local observables canbe collected in a quantum mechanical state vector, whereas further statisticalinformation about the probability distribution outside the local region becomesirrelevant. The translation of the available information between neighboringlocal regions is expressed by a Hamilton operator. A quantum mechanicaloperator can be associated to each local observable, such that expectationvalues of ``classical'' observables can be computed by the usual quantummechanical rules. The requirement that correlation functions should respectequivalence relations for local obeservables induces a non-commutative productin classical statistics, in complete correspondence to the quantum mechanicaloperator product. We also discuss the issue of interference and the complexstructure of quantum mechanics within our classical statistical setting.

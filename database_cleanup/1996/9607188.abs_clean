@@ -1,0 +1,13 @@
+Paper: hep-th/9607188
+
+Date: 1996-07-24
+
+Title: On the construction of renormalized gauge theories using renormalization
+
+group techniquesAuthors: Carlo Becchi
+
+Comments: 56 pages, LaTex
+
+Journal-ref: Elementary Particle, Field Theory and Statistical Mechanics, Eds.
+
+M. Bonini, G. Marchesini and E. Onofri, Parma University 1993 - revisedversionThe aim of these lectures is to describe a construction, as self-contained aspossible, of renormalized gauge theories. Following a suggestion of Polchinski,we base our analysis on the Wilson renormalization group method. After adiscussion of the infinite cut-off limit, we study the short distanceproperties of the Green functions verifying the validity of Wilson shortdistance expansion. We also consider the problem of the extension to thequantum level of the classical symmetries of the theory. With this purpose weanalyze in details the breakings induced by the cut-off in a $SU(2)$ gaugesymmetry and we prove the possibility of compensating these breakings by asuitable choice of non-gauge invariant counter terms.

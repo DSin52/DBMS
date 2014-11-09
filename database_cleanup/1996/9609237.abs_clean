@@ -1,0 +1,13 @@
+Paper: hep-th/9609237
+
+Date: 1996-09-30
+
+Title: Curvature Matrix Models for Dynamical Triangulations and the
+
+Itzykson-DiFrancesco FormulaAuthors: Richard J. Szabo and John F. Wheater
+
+Comments: 37 pages LaTeX; Some clarifying comments added, last Section
+
+rewrittenJournal-ref: Nucl.Phys. B491 (1997) 689-723
+
+We study the large-N limit of a class of matrix models for dually weightedtriangulated random surfaces using character expansion techniques. We show thatfor various choices of the weights of vertices of the dynamical triangulationthe model can be solved by resumming the Itzykson-Di Francesco formula overcongruence classes of Young tableau weights modulo three. From this we showthat the large-N limit implies a non-trivial correspondence with models ofrandom surfaces weighted with only even coordination number vertices. Weexamine the critical behaviour and evaluation of observables and discuss theirinterrelationships in all models. We obtain explicit solutions of the model forsimple choices of vertex weightings and use them to show how the matrix modelreproduces features of the random surface sum. We also discuss some generalproperties of the large-N character expansion approach as well as potentialphysical applications of our results.

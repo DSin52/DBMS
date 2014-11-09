@@ -1,0 +1,11 @@
+Paper: hep-th/9708054
+
+Date: 1997-08-10
+
+Title: Modified similarity renormalization of Hamiltonians. Positronium on the
+
+light frontAuthors: E.L.Gubankova, F.Wegner
+
+Comments: 61 pages, Latex, 8 Pictures,consisting of 36 eps-figures
+
+Modified similarity renormalization (MSR) of Hamiltonians is proposed, thatperformes by means of flow equations the similarity transformation ofHamiltonian in the particle number space. This enables to renormalize in theenergy space the field theoretical Hamiltonian and makes possible to work in asevere trancated Fock space for the renormalized Hamiltonian.Original works of Wegner in solid state physics has served us as the guidingprinciple in constructing the MSR scheme.The renormalized to the second order effective $QED_{3+1}$ Hamiltonian on thelight front is obtained. This Hamiltonian reproduces in $|e\bar{e}>$ sector thestandard singlet-triplet splitting of positronium and recorves rotationalsymmetry of the canonical theory. The lowest and next-to-lowest energy statesof positronium are almost independent on the cutoff when in both cases the'same' (state and sector independent) counterterms are included.The electron (photon) mass counterterms are IR (collinear) finite if alldiagrams to the second order, arising from the flow equations andnormal-ordering Hamiltonian, are taken into account, and vary with UV cutoff inaccordance with $1$-loop renormalization group equations.Both approximations of perturbation theory and Fock space trancation areunder the control and can be improved systematically within the proposedrenormalization scheme.

@@ -1,0 +1,13 @@
+Paper: hep-th/9801054
+
+Date: 1998-01-09
+
+Title: Exact solution for a quantum field with $\delta$-like interaction
+
+Authors: Sergey N. Solodukhin
+
+Comments: 18 pages, latex, no figures, new references added
+
+SystemsJournal-ref: Nucl.Phys. B541 (1999) 461-482
+
+A quantum field described by the field operator $\Delta_{a}=\Delta+a\delta_\Sigma$ involving a $\delta$-like potential is considered.Mathematically, the treatment of the $\delta$-potential is based on the theoryof self-adjoint extension of the unperturbed operator $\Delta$. We give thegeneral expressions for the resolvent and the heat kernel of the perturbedoperator $\Delta_{a}$. The main attention is payed to $d=2$ $\delta$-potentialthough $d=1$ and $d=3$ cases are considered in some detail. We calculateexactly the heat kernel, Green's functions and the effective action for theoperator $\Delta_{a}$ in diverse dimensions and for various spaces $\Sigma$.The renormalization phenomenon for the coupling constant $a$ of $d=2$ and $d=3$$\delta$-potentials is observed. We find the non-perturbative behavior of theeffective action with respect to the renormalized coupling $a_{ren}$.

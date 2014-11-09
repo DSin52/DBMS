@@ -1,0 +1,13 @@
+Paper: hep-th/0205104
+
+Date: 2002-05-12
+
+Title: On the Superconformal Flatness of AdS Superspaces
+
+Authors: Igor Bandos, Evgeny Ivanov, Jerzy Lukierski and Dmitri Sorokin
+
+Comments: LaTeX, 35 pages, version appeared in JHEP
+
+Journal-ref: JHEP 0206 (2002) 040
+
+The superconformal structure of coset superspaces with AdS_m x S^n geometryof bosonic subspaces is studied. It is shown, in particular, that theconventional superspace extensions of the coset manifolds AdS_2 x S^2, AdS_3 xS^3 and AdS_5 x S^5, which arise as solutions of corresponding D=4,6, 10supergravities and have been extensively studied in connection with AdS/CFTcorrespondence, are not superconformally flat, though their bosonicsubmanifolds are conformally flat. We give a group-theoretical reasoning forthis fact. We find that in the AdS_2 x S^2 and AdS_3 x S^3 cases there existdifferent supercosets based on the supergroup OSp(4^*|2) which aresuperconformally flat. We also argue that in D=2,3,4 and 5 there existsuperconformally flat `pure' AdS_D supercosets. Two methods of checking thesuperconformal flatness are proposed. One of them consists in solving theMaurer-Cartan structure equations and the other is based on embedding theisometry supergroup of the AdS_m x S^n superspace into a superconformal groupin (m+n)-dimensional Minkowski space. Finally, we discuss some applications ofthe above results to the description of supersymmetric dynamical systems.

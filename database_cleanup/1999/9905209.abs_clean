@@ -1,0 +1,13 @@
+Paper: hep-th/9905209
+
+Date: 1999-05-27
+
+Title: Summing the Instanton Series in N=2 Superconformal Large-N QCD
+
+Authors: Timothy J. Hollowood, Valentin V. Khoze and Michael P. Mattis
+
+Comments: 12 pages, amslatex
+
+Journal-ref: JHEP 9910 (1999) 019
+
+We consider the multi-instanton collective coordinate integration measure inN=2 supersymmetric SU(N) gauge theory with N_F fundamental hypermultiplets. Inthe large-N limit, at the superconformal point where N_F=2N and all VEVs areturned off, the k-instanton moduli space collapses to a single copy ofAdS_5*S^1. The resulting k-instanton effective measure is proportional toN^{1/2} g^4 Z_k^(6), where Z_k^(6) is the partition function of N=(1,0) SYMtheory in six dimensions reduced to zero dimensions. The multi-instanton can infact be summed in closed form. As a hint of an AdS/CFT duality, with the usualrelation between the gauge theory and string theory parameters, this preciselymatches the normalization of the charge-k D-instanton measure in type IIBstring theory compactified to six dimensions on K3 with a vanishing two-cycle.

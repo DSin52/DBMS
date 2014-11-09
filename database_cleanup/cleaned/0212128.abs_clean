@@ -1,0 +1,11 @@
+Paper: hep-th/0212128
+
+Date: 2002-12-11
+
+Title: Soft matrix models and Chern-Simons partition functions
+
+Authors: Miguel Tierz
+
+Comments: 20 pages, 4 figures
+
+We study the properties of matrix models with soft confining potentials.Their precise mathematical characterization is that their weight function isnot determined by its moments. Relying on simple considerations from the momentproblem and orthogonal polynomials, we show general features of their densityof states, correlation functions and loop averages. Some examples are workedout in detail. In addition, some of these models are equivalent, by a simplemapping, to matrix models that have appeared recently in connection withChern-Simons theory. The models can be solved with q deformed orthogonalpolynomials (Stieltjes-Wigert polynomials), and the deformation parameter turnsout to be the usual $q$ parameter in Chern-Simons theory. In this way, we givea matrix model computation of the Chern-Simons partition function on $S^{3}$and show that there are an infinite number of matrix models with this partitionfunction.

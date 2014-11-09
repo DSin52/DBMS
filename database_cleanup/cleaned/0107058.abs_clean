@@ -1,0 +1,13 @@
+Paper: hep-th/0107058
+
+Date: 2001-07-06
+
+Title: Construction of bosons and fermions out of quons
+
+Authors: O.W. Greenberg and J.D. Delgado
+
+Comments: Latex, 11 pages, no figures; minor editorial change
+
+Journal-ref: Phys. Lett. A 288, 139 (2001)
+
+The quon algebra describes particles, ``quons,'' that are neither fermionsnor bosons, using a label $q$ that parametrizes a smooth interpolation betweenbosons ($q = 1$) and fermions ($q = -1$). Understanding the relation of quonson the one side and bosons or fermions on the other can shed light on thedifferent properties of these two kinds of operators and the statistics whichthey carry. In particular, local bilinear observables can be constructed frombosons and fermions, but not from quons. In this paper we construct bosons andfermions from quon operators. For bosons, our construction works for $-1 \leq q\leq 1$. The case $q=-1$ is paradoxical, since that case makes a boson out offermions, which would seem to be impossible. None the less, when the limit $q\to -1$ is taken from above, the construction works. For fermions, theanalogous construction works for $-1 \leq q \leq 1$, which includes theparadoxical case $q=1$.

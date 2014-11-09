@@ -1,0 +1,13 @@
+Paper: hep-th/9208009
+
+Date: 1992-08-03
+
+Title: A Geometrical Approach to Time-Dependent Gauge-Fixing
+
+Authors: Jonathan M. Evans and Philip A. Tuckey
+
+Comments: 15 pages, OUTP-92-11P
+
+Journal-ref: Int.J.Mod.Phys. A8 (1993) 4055-4069
+
+When a Hamiltonian system is subject to constraints which depend explicitlyon time, difficulties can arise in attempting to reduce the system to itsphysical phase space. Specifically, it is non-trivial to restrict the system insuch a way that one can find a Hamiltonian time-evolution equation involvingthe Dirac bracket. Using a geometrical formulation, we derive an explicitcondition which is both necessary and sufficient for this to be possible, andwe give a formula defining the resulting Hamiltonian function. Some previousresults are recovered as special cases.

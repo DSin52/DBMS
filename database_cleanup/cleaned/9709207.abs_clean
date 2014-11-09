@@ -1,0 +1,11 @@
+Paper: hep-th/9709207
+
+Date: 1997-09-29
+
+Title: Classical limit of the Knizhnik-Zamolodchikov-Bernard equations as
+
+hierarchy of isomonodromic deformations. Free fields approachAuthors: A.M.Levin, M.A.Olshanetsky
+
+Comments: 43 pages, Latex, solution to the Schlesinger equations by the
+
+projection method is added, typos correctedSystemsWe investigate the classical limit of the Knizhnik-Zamolodchikov-Bernardequations, considered as a system of non-stationar Schr\"{o}odinger equationson singular curves, where times are the moduli of curves. It has a form ofreduced non-autonomous hamiltonian systems which include as particular examplesthe Schlesinger equations, Painlev\'{e} VI equation and their generalizations.In general case, they are defined as hierarchies of isomonodromic deformations(HID) with respect to changing the moduli of underling curves. HID areaccompanying with the Whitham hierarchies. The phase space of HID is the spaceof flat connections of $G$ bundles with some additional data in the markedpoints. HID can be derived from some free field theory by the hamiltonianreduction under the action of the gauge symmetries and subsequent factorizationwith respect to diffeomorphisms of curve. This approach allows to define theLax equations associated with HID and the linear system whose isomonodromicdeformations are provided by HID. In addition, it leads to description ofsolutions of HID by the projection method.In some special limit HID convert into the Hitchin systems. In particular,for $\SL$ bundles over elliptic curves with a marked point we obtain in thislimit the elliptic Calogero $N$-body system

@@ -1,0 +1,13 @@
+Paper: hep-th/9412161
+
+Date: 1994-12-19
+
+Title: Temperature and Entropy of a Quantum Black Hole and Conformal Anomaly
+
+Authors: D.V. Fursaev
+
+Comments: 10 pages, Latex file
+
+Journal-ref: Phys.Rev. D51 (1995) 5352-5355
+
+Attention is paid to the fact that temperature of a classical black hole canbe derived from the extremality condition of its free energy with respect tovariation of the mass of a hole. For a quantum Schwarzschild black holeevaporating massless particles the same condition is shown to result in thefollowing one-loop temperature $T=(8\pi M)^{-1} (1+\sigma (8\pi M^2)^{-1})$ andentropy $S = 4\pi M^2 - \sigma\log M$ expressed in terms of the effective mass$M$ of a hole together with its radiation and the integral of the conformalanomaly $\sigma$ that depends on the field species. Thus, in the given casequantum corrections to $T$ and $S$ turn out to be completely provided by theanomaly. When it is absent ($\sigma=0$), which happens in a number ofsupersymmetric models, the one-loop expressions of $T$ and $S$ preserve theclassical form. On the other hand, if the anomaly is negative ($\sigma<0$) anevaporating quantum hole seems to cease to heat up when its mass reaches thePlanck scales.

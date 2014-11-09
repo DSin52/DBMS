@@ -1,0 +1,13 @@
+Paper: hep-th/0010211
+
+Date: 2000-10-24
+
+Title: Magnetic catalysis in QED_3 at finite temperature
+
+mass approximationAuthors: J.Alexandre, K.Farakos, G.Koutsoumbas
+
+Comments: 21 pages, 10 figures, published version
+
+Journal-ref: Phys.Rev. D63 (2001) 065015
+
+We solve the Schwinger-Dyson equations for (2+1)-dimensional QED in thepresence of a strong external magnetic field. The calculation is done at finitetemperature and the fermionic self energy is not supposed to bemomentum-independent, which is the usual simplification in such calculations.The phase diagram in the temperature-magnetic field plane is determined. Forintermediate magnetic fields the critical temperature turns out to have asquare root dependence on the magnetic field, but for very strong magneticfields it approaches a B-independent limiting value.

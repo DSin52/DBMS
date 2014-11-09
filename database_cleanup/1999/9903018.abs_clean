@@ -1,0 +1,13 @@
+Paper: hep-th/9903018
+
+Date: 1999-03-01
+
+Title: The Indispensability of Ghost Fields in the Light-Cone Gauge
+
+Quantization of Gauge FieldsAuthors: Yuji Nakawaki and Gary McCartor
+
+Comments: 21 pages, uses ptptex.sty
+
+Journal-ref: Prog.Theor.Phys. 102 (1999) 149-167
+
+We continue McCartor and Robertson's recent demonstration of theindispensability of ghost fields in the light-cone gauge quantization of gaugefields. It is shown that the ghost fields are indispensable in derivingwell-defined antiderivatives and in regularizing the most singular component ofgauge field propagator. To this end it is sufficient to confine ourselves tononinteracting abelian fields. Furthermore to circumvent dealing withconstrained systems, we construct the temporal gauge canonical formulation ofthe free electromagnetic field in auxiliary coordinates$x^{\mu}=(x^-,x^+,x^1,x^2)$ where $x^-=x^0 cos{\theta}-x^3 sin{\theta}, x^+=x^0sin{\theta}+x^3 cos{\theta}$ and $x^-$ plays the role of time. In so doing wecan quantize the fields canonically without any constraints, unambiguouslyintroduce "static ghost fields" as residual gauge degrees of freedom andconstruct the light-cone gauge solution in the light-cone representation bysimply taking the light-cone limit (${\theta}\to \pi/4$). As a by product wefind that, with a suitable choice of vacuum the Mandelstam-Leibbrandt form ofthe propagator can be derived in the ${\theta}=0$ case (the temporal gaugeformulation in the equal-time representation).

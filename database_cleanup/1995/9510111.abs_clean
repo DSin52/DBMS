@@ -1,0 +1,11 @@
+Paper: hep-th/9510111
+
+Date: 1995-10-17
+
+Title: BRST Symmetric Formulation of a Theory with Gribov-type Copies
+
+Comments: 30 pages plus 1 figure
+
+Journal-ref: Nucl.Phys. B468 (1996) 355-379
+
+A path integral with BRST symmetry can be formulated by summing theGribov-type copies in a very specific way if the functional correspondencebetween $\tau$ and the gauge parameter $\omega$ defined by $\tau (x) = f(A_{\mu}^{\omega})$ is ``globally single valued'', where $f( A_{\mu}^{\omega}) =0 $ specifies the gauge condition. A soluble gauge model with Gribov-typecopies recently analyzed by Friedberg, Lee, Pang and Ren satisfies thiscriterion. A detailed BRST analysis of the soluble model proposed by the aboveauthors is presented. The BRST symmetry, if it is consistently implemented,ensures the gauge independence of physical quantities. In particular, thevacuum (ground) state and the perturbative corrections to the ground stateenergy in the above model are analysed from a view point of BRST symmetry and$R_{\xi}$-gauge. Implications of the present analysis on some aspects of theGribov problem in non-Abelian gauge theory, such as the $1/N$ expansion in QCDand also the dynamical instability of BRST symmetry, are briefly discussed.

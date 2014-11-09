@@ -1,0 +1,9 @@
+Paper: hep-th/0109215
+
+Date: 2001-09-28
+
+Title: Geometry of Generalized Coherent States
+
+CharactersComments: Latex File, 1+22 pages
+
+This is a continuation of the preceding paper (hep-ph/0108219).First of all we make a brief review of generalized coherent states based onLie algebra su(1,1) and prove that the resolution of unity can be obtained bythe curvature form of some bundle. Next for a set of generalized coherentstates we define a universal bundle over the infinite-dimensional Grassmannmanifold and construct the pull-back bundle making use of a projector from theparameter space to this Grassmann one. We mainly study Chern characters ofthese bundles. Although the Chern characters in the infinite-dimensional caseare in general not easy to calculate, we can perform them for the specialcases. In this paper we report our calculations and propose some problems.

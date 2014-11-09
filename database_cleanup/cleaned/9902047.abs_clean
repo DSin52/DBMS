@@ -1,0 +1,9 @@
+Paper: hep-th/9902047
+
+Date: 1999-02-06
+
+Title: A perturbative re-analysis of N=4 supersymmetric Yang--Mills theory
+
+Comments: 41 pages, LaTeX2e, uses feynMP package to draw Feynman diagrams
+
+The finiteness properties of the N=4 supersymmetric Yang-Mills theory arereanalyzed both in the component formulation and using N=1 superfields, inorder to discuss some subtleties that emerge in the computation of gaugedependent quantities. The one-loop corrections to various Green functions ofelementary fields are calculated. In the component formulation it is shown thatthe choice of the Wess-Zumino gauge, that is standard in supersymmetric gaugetheories, introduces ultraviolet divergences in the propagators at the one-looplevel. Such divergences are exactly cancelled when the contributions of thefields that are put to zero in the Wess-Zumino gauge are taken into account. Inthe description in terms of N=1 superfields infrared divergences are found forevery choice of gauge different from the supersymmetric generalization of theFermi-Feynman gauge. Two-, three- and four-point functions of N=1 superfieldsare computed and some general features of the infrared problem are discussed.We also examine the effect of the introduction of mass terms for the (anti)chiral superfields in the theory, which break supersymmetry from N=4 to N=1. Itis shown that in the mass deformed model no ultraviolet divergences appear intwo-point functions. It argued that this result can be generalized to n-pointfunctions, supporting the proposal of a possible of use of this modified modelas a supersymmetry-preserving regularization scheme for N=1 theories.

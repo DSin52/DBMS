@@ -1,0 +1,11 @@
+Paper: hep-th/0304158
+
+Date: 2003-04-17
+
+Title: Star Products Made Easy
+
+Authors: D.M. Belov and C. Lovelace
+
+Comments: 38 pages, 2 figures, LaTex 2e; typos corrections, references added
+
+The infinite matrices in Witten's vertex are easy to diagonalize. It justrequires some SL(2,R) lore plus a Watson-Sommerfeld transformation. Wecalculate the eigenvalues of all Neumann matrices for all scale dimensions s,both for matter and ghosts, including fractional s which we use to regulate thedifficult s=0 limit. We find that s=1 eigenfunctions just acquire a p term, andx gets replaced by the midpoint position.

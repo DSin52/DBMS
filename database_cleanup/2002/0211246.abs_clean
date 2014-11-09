@@ -1,0 +1,11 @@
+Paper: hep-th/0211246
+
+Date: 2002-11-25
+
+Title: Three-Loop Yang-Mills beta-Function via the Covariant Background Field
+
+MethodAuthors: J.-P. Boernsen, Anton E. M. van de Ven
+
+Comments: 54 pages, 120 figures, some references added
+
+We demonstrate the effectivity of the covariant background field method bymeans of an explicit calculation of the 3-loop beta-function for a pureYang-Mills theory. To maintain manifest background invariance throughout ourcalculation, we stay in coordinate space and treat the background fieldnon-perturbatively. In this way the presence of a background field does notincrease the number of vertices and leads to a relatively small number ofvacuum graphs in the effective action. Restricting to a covariantly constantbackground field in Fock-Schwinger gauge permits explicit expansion of allquantum field propagators in powers of the field strength only. Hence, Feynmangraphs are at most logarithmically divergent. At 2-loop order only a singleFeynman graph without subdivergences needs to be calculated. At 3-loop order 24graphs remain. Insisting on manifest background gauge invariance at all stagesof a calculation is thus shown to be a major labor saving device. Allcalculations were performed with Mathematica in view of its superior patternmatching capabilities. Finally, we describe briefly the extension of suchcovariant methods to the case of supergravity theories.

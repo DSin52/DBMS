@@ -1,0 +1,13 @@
+Paper: hep-th/0003249
+
+Date: 2000-03-27
+
+Title: Towards a SDLCQ test of the Maldacena Conjecture
+
+Authors: J.R. Hiller, O. Lunin, S. Pinsky, U. Trittmann
+
+Comments: 10 pages, 1 figure
+
+Journal-ref: Phys.Lett. B482 (2000) 409-416
+
+We consider the Maldacena conjecture applied to the near horizon geometry ofa D1-brane in the supergravity approximation and present numerical results of atest of the conjecture against the boundary field theory calculation usingDLCQ. We previously calculated the two-point function of the stress-energytensor on the supergravity side; the methods of Gubser, Klebanov, Polyakov, andWitten were used. On the field theory side, we derived an explicit expressionfor the two-point function in terms of data that may be extracted from thesupersymmetric discrete light cone quantization (SDLCQ) calculation at a givenharmonic resolution. This yielded a well defined numerical algorithm forcomputing the two-point function. For the supersymmetric Yang-Mills theory with16 supercharges that arises in the Maldacena conjecture, the algorithm isperfectly well defined; however, the size of the numerical computationprevented us from obtaining a numerical check of the conjecture. We now presentnumerical results with approximately 1000 times as many states as we previouslyconsidered. These results support the Maldacena conjecture and are within$10-15%$ of the predicted numerical results in some regions. Our results arestill not sufficient to demonstrate convergence, and, therefore, cannot beconsidered to a numerical proof of the conjecture. We present a method forusing a ``flavor'' symmetry to greatly reduce the size of the basis and discussa numerical method that we use which is particularly well suited for this typeof matrix element calculation.

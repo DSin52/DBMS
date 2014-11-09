@@ -1,0 +1,11 @@
+Paper: hep-th/9812150
+
+Date: 1998-12-17
+
+Title: Complex Angular Momentum in General Quantum Field Theory
+
+Authors: J. Bros, G.A. Viano
+
+Comments: 86 pages, 9 figures, tcilatex
+
+It is proven that for each given two-field channel - called the``t-channel''- with (off-shell) ``scattering angle'' $\Theta_t$, the four-pointGreen's function of any scalar Quantum Fields satisfying the basic principlesof locality, spectral condition together with temperateness admits aLaplace-type transform in the corresponding complex angular momentum variable$\lambda_t$, dual to $\Theta_t$. This transform enjoys the followingm$, where m is a certain ``degree of temperateness'' of the fields considered,b) it is in one-to-one (invertible) correspondence with the (off-shell)``absorptive parts'' in the crossed two-field channels, c) it extrapolates in acanonical way to complex values of the angular momentum the coefficients of the(off-shell) t-channel partial-wave expansion of the Euclidean four-pointfunction of the fields. These properties are established for all space-timedimensions d+1 with $d \ge 2$.

@@ -1,0 +1,13 @@
+Paper: hep-th/0010048
+
+Date: 2000-10-06
+
+Title: Current correlators in the Coulomb branch of N=4 SYM
+
+Authors: Andreas Brandhuber, Konstadinos Sfetsos
+
+Comments: LaTeX2e, 26 pages; v2
+
+(in collaboration with D. Freedman and K. Skenderis) we demonstrate that thezero-mass poles found in the supergravity calculation are in agreement withfield theory, thus resolving a puzzle in earlier versions of the paperJournal-ref: JHEP 0012 (2000) 014
+
+We study correlators of R-symmetry currents in the Coulomb branch of N = 4supersymmetric gauge theory in the large-N limit, using the AdS/CFTcorrespondence. In particular, we consider gauge fields in the presence ofgravity and scalar fields parameterizing the coset SL(6,R)/SO(6) in the contextof five-dimensional gauged supergravity. From a ten-dimensional point of viewthese backgrounds correspond to continuous D3-brane distributions. We find thesurprising result that all 2-point functions of gauge currents fall into thesame universality class, irrespectively of whether they correspond to broken orunbroken symmetries. We show that the problem of finding the spectrum can bemapped into an equivalent Schroedinger problem for supersymmetric quantummechanics. The corresponding potential is the supersymmetric partner of thepotential arising in studies of the spectrum for massless scalars andtransverse graviton fluctuations in these backgrounds and the associatedspectra are also identical. We discuss in detail two examples where thesecomputations can be done explicitly as in the conformal case.

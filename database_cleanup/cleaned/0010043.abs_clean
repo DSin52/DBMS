@@ -1,0 +1,11 @@
+Paper: hep-th/0010043
+
+Date: 2000-10-06
+
+Title: Hamiltonian Algebroid Symmetries in W-gravity and Poisson sigma-model
+
+Authors: A. Levin, M. Olshanetsky
+
+Comments: Several changes, the definition of algebroid representation is
+
+modified, typos corrected, LateX, 28 pagesStarting from a Lie algebroid ${\cal A}$ over a space V we lift its actionto the canonical transformations on the principle affine bundle ${\cal R}$ overthe cotangent bundle $T^*V$. Such lifts are classified by the first cohomology$H^1({\cal A})$. The resulting object is the Hamiltonian algebroid ${\cal A}^H$over ${\cal R}$ with the anchor map from $\G({\cal A}^H)$ to Hamiltonians ofcanonical transformations. Hamiltonian algebroids generalize the Lie algebrasof canonical transformations. We prove that the BRST operator for ${\cal A}^H$is cubic in the ghost fields as in the Lie algebra case. To illustrate thisconstruction we analyze two topological field theories. First, we define a Liealgebroid over the space $V_3$ of $\SL$-opers on a Riemann curve $\Si_{g,n}$ ofgenus g with n marked points. The sections of this algebroid are the secondorder differential operators on $\Si_{g,n}$. The algebroid is lifted to theHamiltonian algebroid over the phase space of $W_3$-gravity. We describe theBRST operator leading to the moduli space of $W_3$-gravity. In accordance withthe general construction the BRST operator is cubic in the ghost fields. Wepresent the Chern-Simons explanation of our results. The second example is theHamiltonian algebroid structure in the Poisson sigma-model invoked by Cattaneoand Felder to describe the Kontsevich deformation quantization formula. Thehamiltonian description of the Poisson sigma-model leads to the Lie algebraicform of the BRST operator.

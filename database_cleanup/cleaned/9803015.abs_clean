@@ -1,0 +1,13 @@
+Paper: hep-th/9803015
+
+Date: 1998-03-02
+
+Title: On Conformal Theories in Four Dimensions
+
+Authors: A. Lawrence, N. Nekrasov and C. Vafa
+
+Comments: 13 pages, uses harvmac.tex. Substantial additions made
+
+vanishing of the 2-loop beta-functions for the N=1 models; discussion of themoduli space of couplings; discussion of S-duality for nonsupersymmetrictheories; and added referencesJournal-ref: Nucl.Phys. B533 (1998) 199-209
+
+Extending recent work of Kachru and Silverstein, we consider ``orbifolds'' of4-dimensional $\CN=4$ SU(n) super-Yang-Mills theories with respect to discretesubgroups of the SU(4) $R$-symmetry which act nontrivially on the gauge group.We show that for every discrete subgroup of SU(4) there is a canonical choiceof imbedding of the discrete group in the gauge group which leads to theorieswith a vanishing one-loop beta-function. We conjecture that these give rise to(generically non-supersymmetric) conformal theories. The gauge group is$\otimes_i SU(Nn_i)$ where $n_i$ denote the dimension of the irreduciblerepresentations of the corresponding discrete group; there is alsobifundamental matter, dictated by associated quiver diagrams. The interactionscan also be read off from the quiver diagram. For SU(3) and SU(2) subgroupsthis leads to superconformal theories with $\CN=1$ and $\CN=2$ respectively. Inthe $\CN=1$ case we prove the vanishing of the beta functions to two loops.

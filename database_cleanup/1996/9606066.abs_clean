@@ -1,0 +1,13 @@
+Paper: hep-th/9606066
+
+Date: 1996-06-12
+
+Title: Tau-functions and Dressing Transformations for Zero-Curvature Affine
+
+Integrable EquationsAuthors: L.A. Ferreira, J.L. Miramontes and J. Sanchez Guillen
+
+Comments: 27 pages, plain TeX
+
+SystemsJournal-ref: J.Math.Phys. 38 (1997) 882-901
+
+The solutions of a large class of hierarchies of zero-curvature equationsthat includes Toda and KdV type hierarchies are investigated. All thesehierarchies are constructed from affine (twisted or untwisted) Kac-Moodyalgebras~$\ggg$. Their common feature is that they have some special ``vacuumsolutions'' corresponding to Lax operators lying in some abelian (up to thecentral term) subalgebra of~$\ggg$; in some interesting cases such subalgebrasare of the Heisenberg type. Using the dressing transformation method, thesolutions in the orbit of those vacuum solutions are constructed in a uniformway. Then, the generalized tau-functions for those hierarchies are defined asan alternative set of variables corresponding to certain matrix elementsevaluated in the integrable highest-weight representations of~$\ggg$. Suchdefinition of tau-functions applies for any level of the representation, and itis independent of its realization (vertex operator or not). The particularimportant cases of generalized mKdV and KdV hierarchies as well as the abelianand non abelian affine Toda theories are discussed in detail.

@@ -1,0 +1,13 @@
+Paper: hep-th/9907122
+
+Date: 1999-07-15
+
+Title: A cluster-separable Born approximation for the 3D reduction of the
+
+three-fermion Bethe-Salpeter equationAuthors: J. Bijtebier
+
+Comments: 21 pages, 1 figure This article has been deeply modified after
+
+refereeing. The presentation has been improved and examples have been added.Three subsections have been added (transition matrix elements, two-bodylimits, covariant Salpeter's equation). submitted to Journal of Physics GJournal-ref: J.Phys. G26 (2000) 871-886
+
+We perform a 3D reduction of the two-fermion Bethe-Salpeter equation based onSazdjian's explicitly covariant propagator, combined with a covariantsubstitute of the projector on the positive-energy free states. We use thiscombination in the two fermions in an external potential and in thethree-fermion problems. The covariance of the two-fermion propagators insuresthe covariance of the two-body equations obtained by switching off the externalpotential, or by switching off all interactions between any pair of twofermions and the third one, even if the series giving the 3D potential islimited to the Born term or more generally truncated. The covariant substituteof the positive energy projector preserves the equations against continuumdissolution without breaking the covariance.

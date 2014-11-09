@@ -1,0 +1,13 @@
+Paper: hep-th/0010054
+
+Date: 2000-10-09
+
+Title: On the Holographic RG-flow and the Low-energy, Strong Coupling, Large N
+
+LimitAuthors: N. Hambli (U. of British Columbia)
+
+Comments: 27 pages, LateX, no figures, minor changes, typos corrected and added
+
+more referencesJournal-ref: Phys.Rev. D64 (2001) 024001
+
+From the AdS/CFT correspondence, we learn that the classical evolution ofsupergravity in the bulk can be reduced to a RG-flow equation for the duallow-energy, strongly coupled and large N gauge theory on the boundary. Thisresult has been used to obtain interesting relations between the various termsin the gravitational part of the boundary effective action, in particular theterm that affect the cosmological constant. It is found that once thecosmological constant is cancelled in the UV theory, the RG-flow symmetry ofthe boundary effective action automatically implies the existence of zerocosmological constant solutions that extend all the way into the IR. Given thestandard (and well founded) contradiction between the RG-flow idea and theobservational evidence of a small cosmological constant, this is considered tobe an important progress, albeit incomplete, towards the final solution.Motivated by this success, it would be interesting to see whether thisRG-stability extends outside the scope of strong 't Hooft coupling and large Nregime that are implicitly assumed in the de Boer-Verlinde-VerlindeHamilton-Jacobi formulation of the holographic RG-flow equations of theboundary theory. In this paper, we address this question. Taking into accountthe leading order corrections in the 1/N and $\alpha'/{R^2}$ parameters, wederive new bulk/boundary relations, from which one can read all the local termsin the boundary effective action. Next, we use the resulting constraints, toexamine whether the RG-stability of the cosmological constant extends to thenew coupling regime. It would be also interesting to use these constraints tostudy the Randall-Sundrum scenario in this case.

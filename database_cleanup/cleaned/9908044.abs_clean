@@ -1,0 +1,13 @@
+Paper: hep-th/9908044
+
+Date: 1999-08-05
+
+Title: Superconformal Multi-Black Hole Quantum Mechanics
+
+Authors: Jeremy Michelson and Andrew Strominger
+
+Comments: 17 pages AMSLaTeX with JHEP.cls, using epsf.tex for 3 eps figures.
+
+Typos corrected. References addedJournal-ref: JHEP 9909 (1999) 005
+
+The quantum mechanics of N slowly-moving charged BPS black holes infive-dimensional ${\cal N}=1$ supergravity is considered. The moduli spacemetric of the N black holes is derived and shown to admit 4 supersymmetries. Anear-horizon limit is found in which the dynamics of widely separated blackholes decouples from that of strongly-interacting, near-coincident black holes.This decoupling suggests that the quantum states supported in the near-horizonmoduli space can be interpreted as internal states of a single composite blackhole carrying all of the charge. The near-horizon theory is shown to have anenhanced D(2,1;0) superconformal symmetry. Eigenstates of the Hamiltonian H ofthe near-horizon theory are ill-defined due to noncompact regions of the modulispace corresponding to highly redshifted near-coincident black holes. It isargued that one should consider, instead of H eigenstates, eigenstates of $2L_0 = H+K$, where K is the generator of special conformal transformations. Theresult is a well-defined Hilbert space with a discrete spectrum describing theN-black hole dynamics.

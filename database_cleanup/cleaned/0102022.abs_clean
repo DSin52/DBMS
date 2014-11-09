@@ -1,0 +1,13 @@
+Paper: hep-th/0102022
+
+Date: 2001-02-05
+
+Title: Noncommutative Linear Sigma Models
+
+Authors: Bruce A. Campbell, Kirk Kaminsky
+
+Comments: 23 pages, Latex, uses feynmp
+
+Journal-ref: Nucl.Phys. B606 (2001) 613-635
+
+We examine noncommutative linear sigma models with U(N) global symmetrygroups at the one-loop quantum level, and contrast the results with ourprevious study of the noncommutative O(N) linear sigma models where we haveshown that Nambu-Goldstone symmetry realization is inconsistent with continuumrenormalization. Specifically we find no violation of Goldstone's theorem atone-loop for the U(N) models with the quartic term ordering consistent withpossible noncommutative gauging of the model. The difference is due to termsinvolving noncommutative commutator interactions, which vanish in thecommutative limit. We also examine the U(2), and O(4) linear sigma models withmatter in the adjoint representation, and find that the former is consistentwith Goldstone's theorem at one-loop if we include only trace invariantsconsistent with possible noncommutative gauging of the model, while the latterexhibits violations of Goldstone's theorem of the kind seen in the fundamentalof O(N) for N>2.

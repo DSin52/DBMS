@@ -1,0 +1,11 @@
+Paper: hep-th/9510013
+
+Date: 1995-10-04
+
+Title: Towards Solving QCD in Light-Cone Quantization -- On the Spectrum of the
+
+Transverse Zero Modes for SU(2)Kernphysik in Heidelberg)Comments: 1 Latex file & 9 Postscript files; tarred, compressed and uuencoded
+
+Journal-ref: Phys.Rev. D53 (1996) 939-951
+
+The formalism for a non-abelian pure gauge theory in (2+1) dimensions hasrecently been derived within Discretized Light-Cone Quantization, restrictingto the lowest {\it transverse} momentum gluons. It is argued why this model canbe a paradigm for full QCD. The physical vacuum becomes non-trivial even inlight-cone quantization. The approach is brought here to tractable form bysuppressing by hand both the dynamical gauge and the constraint zero mode, andby performing a Tamm-Dancoff type Fock-space truncation. Within that model theHamiltonian is diagonalized numerically, yielding mass spectra andwavefunctions of the glue-ball states. We find that only color singlets have astable and discrete bound state spectrum. The connection with confinement isdiscussed. The structure function of the gluons has a shape like $ [{x(1-x)}]^{1\over 3} $. The existence of the continuum limit is verified by deriving acoupled set of integral equations.

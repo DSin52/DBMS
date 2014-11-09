@@ -1,0 +1,13 @@
+Paper: hep-th/0012061
+
+Date: 2000-12-07
+
+Title: Noncommutative String Worldsheets from Matrix Models
+
+Authors: K.N. Anagnostopoulos, J. Nishimura and P. Olesen
+
+Comments: 19 pages, 9 figures, JHEP.cls, added computation of Hausdorff
+
+dimension, references and minor correctionsJournal-ref: JHEP 0104 (2001) 024
+
+We study dynamical effects of introducing noncommutativity on stringworldsheets by using a matrix model obtained from the zero-volume limit offour-dimensional SU($N$) Yang-Mills theory. Although the dimensionlessnoncommutativity parameter is of order 1/N, its effect is found to benon-negligible even in the large $N$ limit due to the existence of higherFourier modes. We find that the Poisson bracket grows much faster than theMoyal bracket as we increase $N$, which means in particular that the twoquantities do not coincide in the large $N$ limit. The well-known instabilityof bosonic worldsheets due to long spikes is shown to be cured by thenoncommutativity. The extrinsic geometry of the worldsheet is described by acrumpled surface with a large Hausdorff dimension.

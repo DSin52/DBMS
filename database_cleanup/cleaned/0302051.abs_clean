@@ -1,0 +1,11 @@
+Paper: hep-th/0302051
+
+Date: 2003-02-07
+
+Title: Anthropic Estimates of the Charge and Mass of the Proton
+
+Authors: Don N. Page
+
+Comments: 12 pages, LaTeX
+
+By combining a renormalization group argument relating the charge e and massm of the proton by e^2 ln m ~ 0.1 pi (in Planck units) with theCarter-Carr-Rees anthropic argument that gives an independent approximaterelation m ~ e^20 between these two constants, both can be crudely estimated.These equations have the factor of 0.1 pi and the exponent of 20 which dependupon known discrete parameters (e.g., the number of generations of quarks andleptons, and the number of spatial dimensions), but they contain NO continuousobserved parameters. Their solution gives the charge of the proton correct towithin about 8%, though the mass estimate is off by a factor of about 1000 (16%error on a logarithmic scale). When one adds a fudge factor of 10 previouslygiven by Carr and Rees, the agreement for the charge is within about 2%, andthe mass is off by a factor of about 3 (2.4% error on a logarithmic scale). Ifthis 10 were replaced by 15, the charge agrees within 1.1% and the mass itselfagrees within 0.7%.

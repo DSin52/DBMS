@@ -1,0 +1,13 @@
+Paper: hep-th/9804002
+
+Date: 1998-04-01
+
+Title: Deconstructing the vertex Ansatz in three dimensional quantum
+
+electrodynamicsAuthors: C.J.Burden and P.C.Tjiang
+
+Comments: 14 pages, 2 postscript figures, uses epsfig.sty
+
+Journal-ref: Phys.Rev. D58 (1998) 085019
+
+We consider the problem of designing an Ansatz for the fermion-photon vertexfunction, using three-dimensional quantum electrodynamics as a test case. Inmany existing studies, restrictions have been placed on the form of the vertexAnsatz by making the unsubstantiated assumption that in the quenched, masslesslimit the Landau gauge Dyson-Schwinger equations admit a trivial solution. Wedemonstrate, without recourse to this assumption, the existence of a non-localgauge in which the fermion propagator is the bare propagator. This result isused to provide a viable Ansatz for part of the vertex function.

@@ -1,0 +1,13 @@
+Paper: hep-th/9704056
+
+Date: 1997-04-07
+
+Title: Universality of Correlation Functions in Random Matrix Models of QCD
+
+Authors: A.D. Jackson, M.K. Sener and J.J.M. Verbaarschot
+
+Comments: 25 pages, 1 figure, Latex
+
+Journal-ref: Nucl.Phys. B506 (1997) 612-632
+
+We demonstrate the universality of the spectral correlation functions of aQCD inspired random matrix model that consists of a random part having thechiral structure of the QCD Dirac operator and a deterministic part whichdescribes a schematic temperature dependence. We calculate the correlationfunctions analytically using the technique of Itzykson-Zuber integrals forarbitrary complex super-matrices. An alternative exact calculation forarbitrary matrix size is given for the special case of zero temperature, and wereproduce the well-known Laguerre kernel. At finite temperature, themicroscopic limit of the correlation functions are calculated in the saddlepoint approximation. The main result of this paper is that the microscopicuniversality of correlation functions is maintained even though unitaryinvariance is broken by the addition of a deterministic matrix to the ensemble.

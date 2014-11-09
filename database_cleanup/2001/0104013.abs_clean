@@ -1,0 +1,11 @@
+Paper: hep-th/0104013
+
+Date: 2001-04-02
+
+Title: Basis Optimization Renormalization Group for Quantum Hamiltonian
+
+Authors: Takanori Sugihara
+
+Journal-ref: Nucl.Phys.Proc.Suppl. 108 (2002) 267-269
+
+We propose a renormalization group algorithm for quantum Hamiltonian tocalculate energy and wavefunctions of a small arbitrary number of low-lyingstates in finite dimensional Hilbert space with high accuracy. This algorithmis free from limitations associated with dimensionality and interaction typesof models. We also find analytic forms of renormalization group equations forthe ground state that provide convergence to the exact solution.

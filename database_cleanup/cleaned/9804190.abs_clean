@@ -1,0 +1,11 @@
+Paper: hep-th/9804190
+
+Date: 1998-04-29
+
+Title: On the Computation of Mass Spectra and Structure Functions in a
+
+Authors: Norbert Scheu
+
+Comments: LaTeX2e. Macros
+
+tabularx,cite,floatflt,multirow, Abstract modifiedlarge momentum frame (LMF). This technique combines several advantages oflattice gauge theory with the simplicity of front form quantisation. We applythe LMF on QED(1+1) and on the $\phi^4(3+1)$ theory. We demonstrate bothanalytically and in practical examples (1) that the LMF does neither correspondto the infinite momentum frame (IMF) nor to the front-form (FF) (2) that theLMF is not equivalent to the IMF (3) that the IMF is unphysical since itviolates the lattice scaling window and (4) that the FF is even more unphysicalbecause FF propagators violate micro-causality, causality and the finiteness ofthe speed of light. We argue that distribution functions measured in deepinelastic scattering should be interpreted in the LMF (preferably in the Breitframe) rather than in the FF formalism. In particular, we argue that deepinelastic scattering probes space-like distribution functions.

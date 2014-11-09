@@ -1,0 +1,11 @@
+Paper: hep-th/9809211
+
+Date: 1998-09-30
+
+Title: Heat Kernel Coefficients for Chern-Simons Boundary Conditions in QED
+
+Authors: E. Elizalde and D.V. Vassilevich
+
+Comments: Several changes (including the title). Version to appear in Class Q.
+
+Grav. LaTeX, 12 pagesWe consider the four dimensional Euclidean Maxwell theory with a Chern-Simonsterm on the boundary. The corresponding gauge invariant boundary conditionsbecome dependent on tangential derivatives. Taking the four-sphere as aparticular example, we calculate explicitly a number of the first heat kernelcoefficients and obtain the general formulas that yields any desiredcoefficient. A remarkable observation is that the coefficient $a_2$, whichdefines the one-loop counterterm and the conformal anomaly, does not depend onthe Chern-Simons coupling constant, while the heat kernel itself becomessingular at a certain (critical) value of the coupling. This could be areflection of a general property of Chern-Simons theories.

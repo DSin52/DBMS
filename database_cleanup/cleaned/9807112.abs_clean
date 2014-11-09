@@ -1,0 +1,11 @@
+Paper: hep-th/9807112
+
+Date: 1998-07-16
+
+Title: Quantum Corrections and Effective Action in Field Theory
+
+Authors: Diego A. R. Dalvit
+
+Comments: LateX file, 119 pages, 5 figures. PhD Thesis (in Spanish)
+
+In this Thesis we study quantum corrections to the classical dynamics formean values in field theory. To that end we make use of the formalism of theclosed time path effective action to get real and causal equations of motion.We introduce a coarse grained effective action, which is useful in the studyof phase transitions in field theory. We derive an exact renormalization groupequation that describes how this action varies with the coarse graining scale.We develop different approximation methods to solve that equation, and weobtain non perturbative improvements to the effective potential for a selfinteracting scalar field theory. We also discuss the stochastic aspectscontained in this action.On the other hand, using the effective action, we find low energy and largedistance quantum corrections for the gravitational potential, treatingrelativity as an effective low energy theory. We include the effect of scalarfields, fermions and gravitons. The inclusion of metric fluctuations causesEinstein semiclassical equations to depend on the gauge fixing parameters, andthey are therefore non physical. We solve this problem identifying as aphysical observable the trayectory of a test particle. We explicitly show thatthe geodesic equation for such particle is independent of the arbitraryparameters of the gauge fixing.

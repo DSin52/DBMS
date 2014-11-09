@@ -1,0 +1,13 @@
+Paper: hep-th/0002188
+
+Date: 2000-02-22
+
+Title: Constructing Classical and Quantum Superconformal Algebras on the
+
+Boundary of AdS_3Authors: Jorgen Rasmussen
+
+Comments: 29 pages, LaTeX, extends hep-th/9905181
+
+Journal-ref: Nucl.Phys. B582 (2000) 649-676
+
+Motivated by recent progress on the correspondence between string theory onanti-de Sitter space and conformal field theory, we address the question ofconstructing space-time N extended superconformal algebras on the boundary ofAdS_3. Based on a free field realization of an affine SL(2|N/2) currentsuperalgebra residing on the world sheet, we construct explicitly the Virasorogenerators and the N supercurrents. N is even. The resulting superconformalalgebra has an affine SL(N/2) \otimes U(1) current algebra as an internalsubalgebra. Though we do not complete the general superalgebra, we outline theunderlying construction and present supporting evidence for its validity.Particular attention is paid to its BRST invariance. In the classical limitwhere the free field realization may be substituted by a differential operatorrealization, we discuss further classes of generators needed in the closure ofthe algebra. We find sets of half-integer spin fields, and for N>4 theseinclude generators of negative weights. An interesting property of theconstruction is that for N>2 it treats the supercurrents in an asymmetric way.Thus, we are witnessing a new class of superconformal algebras not obtainableby conventional Hamiltonian reduction. The complete classical algebra isprovided in the case N=4 and is of a new and asymmetric form.

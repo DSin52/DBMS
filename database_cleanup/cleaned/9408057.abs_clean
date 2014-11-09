@@ -1,0 +1,13 @@
+Paper: hep-th/9408057
+
+Date: 1994-08-09
+
+Title: Exact, E=0, Solutions for General Power-Law Potentials. I. Classical
+
+OrbitsAuthors: Jamil Daboul and Michael Martin Nieto
+
+Comments: LaTeX, 27 pages with 12 figures available from the authors or can be
+
+generated from Mathematica instructions at end of the fileJournal-ref: Phys.Rev. E52 (1995) 4430
+
+For zero energy, $E=0$, we derive exact, classical solutions for {\em all}power-law potentials, $V(r)=-\gamma/r^\nu$, with $\gamma>0$ and $-\infty<\nu<\infty$. When the angular momentum is non-zero, these solutions lead tothe orbits $\r(t)= [\cos \mu (\th(t)-\th_0(t))]^{1/\mu}$, for all $\mu \equiv\nu/2-1 \ne 0$. When $\nu>2$, the orbits are bound and go through the origin.This leads to discrete discontinuities in the functional dependence of $\th(t)$and $\th_0(t)$, as functions of $t$, as the orbits pass through the origin. Wedescribe a procedure to connect different analytic solutions for successiveorbits at the origin. We calculate the periods and precessions of these boundorbits, and graph a number of specific examples. Also, we explain why they allmust violate the virial theorem. The unbound orbits are also discussed indetail. This includes the unusual orbits which have finite travel times toinfinity and also the special $\nu = 2$ case.

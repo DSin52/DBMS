@@ -1,0 +1,11 @@
+Paper: hep-th/0208149
+
+Date: 2002-08-20
+
+Title: A perturbative analysis of tachyon condensation
+
+Authors: Washington Taylor (MIT)
+
+Comments: 8 pages, 3 eps figures, Latex; v2
+
+Tachyon condensation in the open bosonic string is analyzed using aperturbative expansion of the tachyon potential around the unstable D25-branevacuum. Using the leading terms in the tachyon potential, Pad\'e approximantscan apparently give the energy of the stable vacuum to arbitrarily goodaccuracy. Level-truncation approximations up to level 10 for the coefficientsin the tachyon potential are extrapolated to higher levels and used to findapproximants for the full potential. At level 14 and above, the resultingapproximants give an energy less than -1 in units of the D25-brane tension, inagreement with recent level-truncation results by Gaiotto and Rastelli. Theextrapolated energy continues to decrease below -1 until reaching a minimumnear level 26, after which the energy turns around and begins to approach -1from below. Within the accuracy of this method, these results are completelyconsistent with an energy which approaches -1 as the level of truncation istaken to be arbitrarily large.

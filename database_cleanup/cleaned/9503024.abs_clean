@@ -1,0 +1,13 @@
+Paper: hep-th/9503024
+
+Date: 1995-03-03
+
+Title: On Evolution Laws Taking Pure States to Mixed States in Quantum Field
+
+TheoryAuthors: William G. Unruh and Robert M. Wald
+
+Comments: 19pages, RevTeX3, We have added a number of references and clarified
+
+the role of the Markovian approximation in the loss of energy conservationJournal-ref: Phys.Rev. D52 (1995) 2176-2182
+
+It has been argued that any evolution law taking pure states to mixed statesin quantum field theory necessarily gives rise to violations of eithercausality or energy-momentum conservation, in such a way as to haveunacceptable consequences for ordinary laboratory physics. We show here thatthis is not the case by giving a simple class of examples of Markovianevolution laws where rapid evolution from pure states to mixed states occursfor a wide class of states with appropriate properties at the ``Planck scale",suitable locality and causality properties hold for all states, and thedeviations from ordinary dynamics (and, in particular, violations ofenergy-momentum conservation) are unobservably small for all states which onecould expect to produce in a laboratory. In addition, we argue (viaconsideration of other, non-Markovian models) that conservation of energy andmomentum for all states is not fundamentally incompatible with causality indynamical models in which pure states evolve to mixed states.

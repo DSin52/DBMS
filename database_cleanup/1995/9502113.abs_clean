@@ -1,0 +1,11 @@
+Paper: hep-th/9502113
+
+Date: 1995-02-17
+
+Title: The Massive Multi-flavor Schwinger Model
+
+Tokyo)Comments: 16 pages, latex, uses epsf.sty; replaced with latex src.
+
+Journal-ref: Phys. Lett. B350 (1995) 92
+
+QED with N species of massive fermions on a circle of circumference L isanalyzed by bosonization. The problem is reduced to the quantum mechanics ofthe 2N fermionic and one gauge field zero modes on the circle, with nontrivialinteractions induced by the chiral anomaly and fermions masses. The solution isgiven for N=2 and fermion masses (m) much smaller than the mass of the U(1)boson with mass \mu=\sqrt{2e^2/\pi} when all fermions satisfy the same boundaryconditions. We show that the two limits m \go 0 and L \go \infty fail tocommute and that the behavior of the theory critically depends on the value ofmL|\cos\onehalf\theta| where \theta is the vacuum angle parameter. When thevolume is large \mu L \gg 1, the fermion condensate <\psibar \psi> is\cos^2 \onehalf\theta /\pi^2 for mL(\mu L)^{1/2} |\cos\onehalf\theta| \gg 1 or\ll 1, respectively. Its correlation function decays algebraically with acritical exponent \eta=1 when m\cos\onehalf\theta=0.

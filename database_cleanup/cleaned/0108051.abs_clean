@@ -1,0 +1,11 @@
+Paper: hep-th/0108051
+
+Date: 2001-08-08
+
+Title: Derivative Expansions of the Exact Renormalisation Group and SU(N|N)
+
+Gauge TheoryAuthors: John F. Tighe
+
+Comments: Thesis,LaTex,128 pages,14 eps figures
+
+We investigate the convergence of the derivative expansion of the exactrenormalisation group, by using it to compute the beta function of scalartheory. We demonstrate that the derivative expansion of the Polchinski flowequation converges at one loop for certain fast falling smooth cutoffs. Thederivative expansion of the Legendre flow equation trivially converges at oneexpansion), and rapidly in the case of a smooth exponential cutoff. We alsoshow that the two loop contributions to certain higher derivative operators(not involved in beta) have divergent momentum-scale expansions for sharpcutoff, but the smooth exponential cutoff gives convergent derivativeexpansions for all such operators with any number of derivatives. In the latterpart of the thesis, we address the problems of applying the exactrenormalisation group to gauge theories. A regularisation scheme utilisinghigher covariant derivatives and the spontaneous symmetry breaking of the gaugesupergroup SU(N|N) is introduced and it is demonstrated to be finite to allorders of perturbation theory.

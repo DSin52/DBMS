@@ -1,0 +1,13 @@
+Paper: hep-th/9703169
+
+Date: 1997-03-24
+
+Title: Convergence of the Schwinger - DeWitt Expansion for Some Potentials
+
+Authors: V. A. Slobodenyuk (Ulyanovsk State Univ., Ulyanovsk, Russia)
+
+Comments: 9 pages, LaTeX-file, to be published in Int. Jour. of Theor. Phys. as
+
+Proc. of Conf. "Quantum Structures' 96, Berlin"Journal-ref: Int.J.Theor.Phys. 37 (1998) 563-569
+
+It is studied time dependence of the evolution operator kernel for theSchr\"odinger equation with a help of the Schwinger -- DeWitt expansion. Formany of potentials this expansion is divergent. But there were establishednontrivial potentials for which the Schwinger -- DeWitt expansion isconvergent. These are, e.g., V=g/x^2, V=-g/cosh^2 x, V=g/sinh^2 x, V=g/sin^2x. For all of them the expansion is convergent when $g=\lambda (\lambda -1)/2$and $\lambda$ is integer. The theories with these potentials have nodivergences and in this meaning they are "good" potentials contrary to otherones. So, it seems natural to pay special attention namely to these "good"convergence takes place only for discrete values of the charge $g$. Hence, inthe theories of this class the charge is quantized.

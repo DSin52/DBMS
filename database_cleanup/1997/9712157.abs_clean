@@ -1,0 +1,11 @@
+Paper: hep-th/9712157
+
+Date: 1997-12-16
+
+Title: The (secret?) homological algebra of the Batalin-Vilkovisky approach
+
+Authors: Jim Stasheff
+
+Comments: 16 pages, 1 figure, to appear in Proceedings of the Conference
+
+Secondary Calculus and Cohomological Physics, Moscow, August 24--31, 1997This is a survey of `Cohomological Physics', a phrase that first appeared inthe context of anomalies in gauge theory. Differential forms were implicit inphysics at least as far back as Gauss (1833) (cf. his electro-magneticdefinition of the linking number), and more visibly in Dirac's magneticmonopole (1931). The magnetic charge was given by the first Chern number. Thuswere characteristic classes (and by implication the cohomology of Lie algebrasand of Lie groups) introduced into physics. The `ghosts' introduced by Fade'evand Popov were incorporated into what came to be known as BRST cohomology.Later the ghosts were reinterpreted as generators of the Chevalley-Eilenbergcomplex for Lie algebra cohomology. Cohomological physics also makes use ofgroup theoretic cohomology, algebraic deformation theory and especially a novelextension of homological algebra, combining Lie algebra cohomology with theKoszul-Tate resolution, the major emphasis of the talk. This synergisticcombination of both kinds of cohomology appeared in theBatalin-Fradkin-Vilkovisky approach to the cohomological reduction ofconstrained Poisson algebras. An analogous `odd' version was developed in theBatalin-Vilkovisky approach to quantizing particle Lagrangians and Lagrangiansof string field theory. A revisionist view of the Batalin- Vilkovisky machineryrecognizes parts of it as a reconstruction of homological algebra with somepowerful new ideas undreamt of in that discipline.

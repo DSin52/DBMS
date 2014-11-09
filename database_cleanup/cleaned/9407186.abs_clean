@@ -1,0 +1,11 @@
+Paper: hep-th/9407186
+
+Date: 1994-07-28
+
+Title: An explicit construction of the quantum group in chiral WZW-models
+
+Comments: 28 pages, LATEX; a remark about other possible symmetry algebras and
+
+some references are addedJournal-ref: Commun.Math.Phys. 173 (1995) 357-378
+
+It is shown how a chiral Wess-Zumino-Witten theory with globally definedvertex operators and a one-to-one correspondence between fields and states canbe constructed. The Hilbert space of this theory is the direct sum of tensorproducts of representations of the chiral algebra and finite dimensionalinternal parameter spaces. On this enlarged space there exists a natural actionof Drinfeld's quasi quantum group $A_{g,t}$, which commutes with the action ofthe chiral algebra and plays the r\^{o}le of an internal symmetry algebra. The$R$ matrix describes the braiding of the chiral vertex operators and thecoassociator $\Phi$ gives rise to a modification of the duality property.For generic $q$ the quasi quantum group is isomorphic to the coassociativequantum group $U_{q}(g)$ and thus the duality property of the chiral theory canbe restored. This construction has to be modified for the physically relevantcase of integer level. The quantum group has to be replaced by thecorresponding truncated quasi quantum group, which is not coassociative becauseof the truncation. This exhibits the truncated quantum group as the internalsymmetry algebra of the chiral WZW model, which therefore has only a modifiedduality property. The case of $g=su(2)$ is worked out in detail.

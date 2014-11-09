@@ -1,0 +1,11 @@
+Paper: hep-th/9212115
+
+Date: 1992-12-18
+
+Title: Higher Algebraic Structures and Quantization
+
+Comments: 62 pages + 16 figures (revised version). In this revision we make
+
+some small corrections and clarificationsJournal-ref: Commun.Math.Phys. 159 (1994) 343-398
+
+We derive (quasi-)quantum groups in 2+1 dimensional topological field theorydirectly from the classical action and the path integral. Detailedcomputations are carried out for the Chern-Simons theory with finite gaugegroup. The principles behind our computations are presumably more general. Weextend the classical action in a d+1 dimensional topological theory tomanifolds of dimension less than d+1. We then ``construct'' a generalized pathintegral which in d+1 dimensions reduces to the standard one and in ddimensions reproduces the quantum Hilbert space. In a 2+1 dimensionaltopological theory the path integral over the circle is the category ofrepresentations of a quasi-quantum group. In this paper we only considerfinite theories, in which the generalized path integral reduces to a finitesum. New ideas are needed to extend beyond the finite theories treated here.

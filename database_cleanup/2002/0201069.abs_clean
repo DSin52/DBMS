@@ -1,0 +1,11 @@
+Paper: hep-th/0201069
+
+Date: 2002-01-10
+
+Title: What can we learn about Gribov copies from a formulation of QCD in terms
+
+of gauge-invariant fields?Authors: Kurt Haller
+
+Comments: To appear in Proceedings of the 6th Workshop on Non-Perturbative QCD,
+
+Paris, France, June 5-9, 2001We review the procedure by which we implemented the non-Abelian Gauss's lawand constructed gauge-invariant fields for QCD in the temporal (Weyl) gauge. Wepoint out that the operator-valued transformation that transformsgauge-dependent temporal-gauge fields into gauge-invariant ones has the formalstructure of a gauge transformation. We express the ``standard'' Hamiltonianfor temporal-gauge QCD entirely in terms of gauge-invariant fields, calculatethe commutation rules for these fields, and compare them to earlier work onCoulomb-gauge QCD. We also discuss multiplicities of gauge-invarianttemporal-gauge fields that belong to different topological sectors and that, inprevious work, were shown to be based on the same underlying gauge-dependenttemporal-gauge fields. We relate these multiplicities of gauge-invariant fieldsto Gribov copies. We argue that Gribov copies appear in the temporal gauge, butnot when the theory is represented in terms of gauge-dependent fields andGauss's law is left unimplemented. There are Gribov copies of thegauge-invariant gauge field, which can be constructed when Gauss's law isimplemented.

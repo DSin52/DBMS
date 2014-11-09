@@ -1,0 +1,11 @@
+Paper: hep-th/0205250
+
+Date: 2002-05-23
+
+Title: Riemannian Gauge Theory and Charge Quantization
+
+Authors: Mario Serna and Kevin Cahill
+
+Comments: 15 pages
+
+Particle theorists build gauge theories around an action with a symmetrygroup. The gauge field of the action is similar to the connection coefficientin the Riemannian covariant derivative. The field strength tensor is similar tothe curvature tensor. Inspired by these parallels with Riemannian geometry, wepropose a different construction. Instead of defining a gauge theory by agroup, we define a gauge theory by a vector bundle with fiber F = R^n or F =C^n. Matter fields are Lorentz-invariant n-vectors on the vector-space fiber.We set up orthonormal gauge basis vectors that span the vector bundle. Byexpressing gauge-covariant fields in terms of orthonormal gauge basis vectors,we obtain an SO(n) or U(n) gauge-covariant derivative. All matter fields on aparticular fiber couple with the same coupling constant. Even the matter fieldson a C^1 fiber, which have a U(1) symmetry group, couple with the same charge.In this geometrical gauge theory, the multiple standard-model U(1) hyperchargesrequire unnatural constraints among the curvatures of independent vectorbundles. These constraints are naturally supplied by theories with grandunification. Because our action is independent of the choice of basis, itsnatural invariance group is GL(n,R) or GL(n,C).

@@ -1,0 +1,13 @@
+Paper: hep-th/0103241
+
+Date: 2001-03-29
+
+Title: Standard cosmology from the brane cosmology with a localized matter
+
+Authors: Y. S. Myung (Inje Univ)
+
+Comments: 8 pages, Latex, version to appear in MPLA
+
+Journal-ref: Mod.Phys.Lett. A17 (2002) 1915-1922
+
+We discuss the brane cosmology in the 5D anti de Sitter Reissner-Nordstrom(AdSRN$_5$) spacetime. A brane with the tension $\sigma$ is defined as the edgeof an AdSRN$_5$ space with mass $M$ and charge $Q$. In this case we get theCFT-radiation term $(\rho_{CFT})$ from $M$ and the charged dust$(-\rho^2_{cd})$ from $Q^2$ in the Friedmann-like equation.However, this equation is not justified because it contains $\rho_{cd}^2$-termwith the negative sign. This is unconventional in view of the standardcosmology. In order to resolve this problem, we introduce a localized dustmatter which satisfies $P_{dm}=0$. If $\rho_{dm}=\fr{\sqrt 3}{2}\rho_{cd}$, theunwanted $-\rho_{cd}^2$ is cancelled against $\rho_{dm}^2$ and thus onerecovers a standard Friedmann-Robertson-Walker universe with CFT-radiation anddust matter. For the stiff matter consideration, we can set $\rho_{csti}\simQ^2$ with the negative sign. Here we introduce a massless scalar which playsthe role of a stiff matter with $P_{sca}=\rho_{sca}$ to cancel $-\rho_{csti}$.In this case, however, we find a mixed version of the standard and branecosmologies.

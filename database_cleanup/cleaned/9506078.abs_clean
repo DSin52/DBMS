@@ -1,0 +1,13 @@
+Paper: hep-th/9506078
+
+Date: 1995-06-12
+
+Title: Motions of the String Solutions in the XXZ Spin Chain under a Varying
+
+TwistAuthors: N. Fumita, H. Itoyama and T. Oota
+
+Comments: An important reference is added and mentioned at the end of the text
+
+Journal-ref: Int.J.Mod.Phys. A12 (1997) 801-838
+
+We determine the motions of the roots of the Bethe ansatz equation for theground state in the XXZ spin chain under a varying twist angle. This is done byanalytic as well as numerical study at a finite size system. In the attractivecritical regime $ 0< \Delta <1 $, we reveal intriguing motions of strings duetwo-strings, the roots collide into the branch points perpendicularly to theimaginary axis, while in the case of three-strings, they fluctuate around thecenter of the string. These are successfully generalized to the case of$n$-string. These results are used to determine the final configuration of themomenta as well as that of the phase shift functions. We obtain these as wellas the period and the Berry phase also in the regime $ \Delta \leq -1$,establishing the continuity of the previous results at $ -1 < \Delta < 0 $ tothis regime. We argue that the Berry phase can be used as a measure of thestatistics of the quasiparticle ( or the bound state) involved in the process.

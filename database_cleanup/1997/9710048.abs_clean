@@ -1,0 +1,11 @@
+Paper: hep-th/9710048
+
+Date: 1997-10-06
+
+Title: Gauge theories on manifolds with boundary
+
+University of Naples)Comments: 50 pages, LaTeX, 127 KB, no figures, Sections 3 and 7 completely
+
+revisedJournal-ref: Commun.Math.Phys. 200 (1999) 495-543
+
+The boundary-value problem for Laplace-type operators acting on smoothsections of a vector bundle over a compact Riemannian manifold with generalizedlocal boundary conditions including both normal and tangential derivatives isstudied. The condition of strong ellipticity of this boundary-value problem isformulated. The resolvent kernel and the heat kernel in the leadingapproximation are explicitly constructed. As a result, the previous work in theliterature on heat-kernel asymptotics is shown to be a particular case of amore general structure. For a bosonic gauge theory on a compact Riemannianmanifold with smooth boundary, the problem is studied of obtaining agauge-field operator of Laplace type, jointly with local and gauge-invariantboundary conditions, which should lead to a strongly elliptic boundary-valueproblem. The scheme is extended to fermionic gauge theories by means of localand gauge-invariant projectors. After deriving a general condition for thevalidity of strong ellipticity for gauge theories, it is proved that forEuclidean Yang--Mills theory and Rarita--Schwinger fields all the aboveconditions can be satisfied. For Euclidean quantum gravity, however, thisproperty no longer holds, i.e. the corresponding boundary-value problem is notstrongly elliptic. Some non-standard local formulae for the leading asymptoticsof the heat-kernel diagonal are also obtained. It is shown that, due to theabsence of strong ellipticity, the heat-kernel diagonal is non-integrable nearthe boundary.

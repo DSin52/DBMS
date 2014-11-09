@@ -1,0 +1,13 @@
+Paper: hep-th/9607003
+
+Date: 1996-07-01
+
+Title: Reducibility and Gribov Problem in Topological Quantum Field Theory
+
+Authors: Roberto Zucchini
+
+Comments: 37 pages, Plain TeX, no figures, requires AMS font files AMSSYM.DEF
+
+and AMSSYM.TEX, final version to appear in CMP, minor changesJournal-ref: Commun.Math.Phys. 185 (1997) 723-751
+
+In spite of its simplicity and beauty, the Mathai-Quillen formulation ofcohomological topological quantum field theory with gauge symmetry suffers twothe action of the gauge group is not free and $ii$) the Gribov ambiguityassociated with gauge fixing, i. e. the lack of global definition on the spaceof gauge orbits of gauge fixed functional integrals. In this paper, we showthat such problems are in fact related and we propose a general completelygeometrical recipe for their treatment. The space of field configurations isaugmented in such a way to render the action of the gauge group free andlocalization is suitably modified. In this way, the standard Mathai--Quillenformalism can be rigorously applied. The resulting topological action containsthe ordinary action as a subsector and can be shown to yield a local quantumfield theory, which is argued to be renormalizable as well. The salient featureof our method is that the Gribov problem is inherent in localization, and thuscan be dealt with in a completely equivariant setting, whereas gauge fixing isfree of Gribov ambiguities. For the stratum of irreducible gauge orbits, thecase of main interest in applications, the Gribov problem is solvable.Conversely, for the the strata of reducible gauge orbits, the Gribov problemcannot be solved in general and the obstruction may be described in thelanguage of sheaf theory. The formalism is applied to the Donaldson--Wittenmodel.

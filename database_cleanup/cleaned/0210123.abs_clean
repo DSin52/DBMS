@@ -1,0 +1,11 @@
+Paper: hep-th/0210123
+
+Date: 2002-10-13
+
+Title: "Integrability" of RG flows and duality in three dimensions in the 1/N
+
+expansionAuthors: D. Anselmi
+
+Comments: 21 pages, 4 figures
+
+I study some classes of RG flows in three dimensions that are classicallyconformal and have manifest g -> 1/g dualities. The RG flow interpolatesbetween known (four-fermion, Wilson-Fischer, phi_3^6) and new interacting fixedintegrated for arbitrarily large values of the couplings g at each order of the1/N expansion; ii) the duality symmetries are exact at each order of the 1/Nexpansion. I integrate the RG flow explicitly to the order O(1/N), writecorrelators at the leading-log level and study the interpolation between thefixed points. I examine how duality is implemented in the regularized theoryand verified in the results of this paper.

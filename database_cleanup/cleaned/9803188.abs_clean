@@ -1,0 +1,13 @@
+Paper: hep-th/9803188
+
+Date: 1998-03-23
+
+Title: Gauged Duality, Conformal Symmetry, and Spacetime with Two Times
+
+Authors: I. Bars, C. Deliduman, O. Andreev
+
+Comments: Latex, 23 pages
+
+Journal-ref: Phys.Rev. D58 (1998) 066004
+
+We construct a duality between several simple physical systems by showingthat they are different aspects of the same quantum theory. Examples includethe free relativistic massless particle and the hydrogen atom in any number ofdimensions. The key is the gauging of the Sp(2) duality symmetry that treatsposition and momentum (x,p) as a doublet in phase space. As a consequence ofthe gauging, the Minkowski space-time vectors (x^\mu, p^\mu) get enlarged byone additional space-like and one additional time-like dimensions to (x^M,p^M).A manifest global symmetry SO(d,2) rotates (x^M,p^M) like d+2 dimensionalvectors. The SO(d,2) symmetry of the parent theory may be interpreted as thefamiliar conformal symmetry of quantum field theory in Minkowski spacetime inone gauge, or as the dynamical symmetry of a totally different physical systemin another gauge. Thanks to the gauge symmetry, the theory permits variouschoices of ``time'' which correspond to different looking Hamiltonians, whileavoiding ghosts. Thus we demonstrate that there is a physical role for aspacetime with two times when taken together with a gauged duality symmetrythat produces appropriate constraints.

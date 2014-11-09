@@ -1,0 +1,13 @@
+Paper: hep-th/9810019
+
+Date: 1998-10-02
+
+Title: Axiomatic Conformal Field Theory
+
+Authors: Matthias R Gaberdiel and Peter Goddard
+
+Comments: 51 pages, plain TEX
+
+Journal-ref: Commun.Math.Phys. 209 (2000) 549-594
+
+A new rigorous approach to conformal field theory is presented. The basicobjects are families of complex-valued amplitudes, which define a meromorphicconformal field theory (or chiral algebra) and which lead naturally to thedefinition of topological vector spaces, between which vertex operators act ascontinuous operators. In fact, in order to develop the theory, M\"obiusinvariance rather than full conformal invariance is required but it is shownthat every M\"obius theory can be extended to a conformal theory by theconstruction of a Virasoro field.In this approach, a representation of a conformal field theory is naturallydefined in terms of a family of amplitudes with appropriate analyticproperties. It is shown that these amplitudes can also be derived from asuitable collection of states in the meromorphic theory. Zhu's algebra thenappears naturally as the algebra of conditions which states defining highestweight representations must satisfy. The relationship of the representations ofZhu's algebra to the classification of highest weight representations isexplained.

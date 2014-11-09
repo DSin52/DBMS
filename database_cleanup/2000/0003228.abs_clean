@@ -1,0 +1,13 @@
+Paper: hep-th/0003228
+
+Date: 2000-03-24
+
+Title: Proof of a Symmetrized Trace Conjecture for the Abelian Born-Infeld
+
+LagrangianAuthors: Paolo Aschieri, Daniel Brace, Bogdan Morariu, Bruno Zumino
+
+Comments: 9 pages, LaTeX, no figures, theorem generalized and a new method of
+
+proof includedJournal-ref: Nucl.Phys. B588 (2000) 521-527
+
+In this paper we prove a conjecture regarding the form of the Born-InfeldLagrangian with a U(1)^2n gauge group after the elimination of the auxiliaryfields. We show that the Lagrangian can be written as a symmetrized trace ofLorentz invariant bilinears in the field strength. More generally we prove atheorem regarding certain solutions of unilateral matrix equations of arbitraryorder. For solutions which have perturbative expansions in the matrixcoefficients, the solution and all its positive powers are sums of terms whichare symmetrized in all the matrix coefficients and of terms which arecommutators.

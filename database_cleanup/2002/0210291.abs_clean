@@ -1,0 +1,11 @@
+Paper: hep-th/0210291
+
+Date: 2002-10-30
+
+Title: Exact Superpotentials for Theories with Flavors via a Matrix Integral
+
+Authors: Riccardo Argurio, Vanicson L. Campos, Gabriele Ferretti, Rainer Heise
+
+Comments: 7 pages, v2
+
+Phys.Rev.DWe extend and test the method of Dijkgraaf and Vafa for computing thesuperpotential of N=1 theories to include flavors in the fundamentalrepresentation of the gauge group. This amounts to computing the contributionto the superpotential from surfaces with one boundary in the matrix integral.We compute exactly the effective superpotential for the case of gauge groupU(N_c), N_f massive flavor chiral multiplets in the fundamental and one massivechiral multiplet in the adjoint, together with a Yukawa coupling. We compare upto sixth-order with the result obtained by standard field theory techniques inthe already non trivial case of N_c=2 and N_f=1. The agreement is perfect.

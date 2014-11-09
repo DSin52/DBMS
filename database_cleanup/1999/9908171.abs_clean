@@ -1,0 +1,11 @@
+Paper: hep-th/9908171
+
+Date: 1999-08-26
+
+Title: N=4 supersymmetric Yang-Mills theory and the AdS/SCFT correspondence
+
+Authors: Stefano Kovacs (Universita` di Roma "Tor Vergata")
+
+Comments: 228 pages, Ph.D. thesis, LaTeX2e, uses the feynmp, fencyhdr, graphicx
+
+and AMS packagesThis dissertation reviews various aspects of the N=4 supersymmetricYang--Mills theory in particular in relation with the AdS/CFT correspondence.The first two chapters are introductory. The first one contains a descriptionof the general properties of rigid supersymmetric theories in four dimensionsboth at the classical and at the quantum level. The second chapter is a reviewof the main properties of the N=4 SYM theory under consideration. Originalresults are reported in chapters 3, 4 and 5. A systematic re-analysis of theperturbative properties of the theory is presented in the third chapter. Two-,three- and four-point Green functions of elementary fields are computed usingthe component formulation and/or the superfield approach and subtleties relatedto the gauge-fixing are pointed out. In the fourth chapter, after anintroduction to instanton calculus in supersymmetric gauge theories, thecomputation of the one-instanton contributions to Green functions of gaugeinvariant composite operators in the semiclassical approximation is reported.The calculations of four-, eight- and sixteen-point Green functions ofoperators in the supercurrent multiplet are reviewed in detail. The finalchapter is devoted to the AdS/SCFT correspondence. Some general aspects arediscussed. Then the attention is focused on the relation between instantons inN=4 SYM and D-instanton effects in type IIB string theory. The comparisonbetween instanton contributions to Green functions of composite operators inthe boundary field theory and D-instanton generated terms in the amplitudescomputed in type IIB string theory is performed and agreement between these twosources of non-perturbative effects is shown.

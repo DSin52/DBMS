@@ -1,0 +1,13 @@
+Paper: hep-th/0206229
+
+Date: 2002-06-25
+
+Title: Clash of discrete symmetries for the supersymmetric kink on a circle
+
+Authors: Alfred Scharff Goldhaber, Anton Rebhan, Peter van Nieuwenhuizen,
+
+Robert WimmerComments: REVTeX4, 15 pages, 1 figure; v3
+
+further referencesJournal-ref: Phys.Rev. D66 (2002) 085010
+
+We consider the N=1 supersymmetric kink on a circle, i.e., on a finiteinterval with boundary or transition conditions which are locally invisible.For Majorana fermions, the single-particle Dirac Hamiltonian as a differentialoperator obeys simultaneously the three discrete symmetries of chargeconjugation, parity, and time reversal. However, no single locally invisibletransition condition can satisfy all three. When calculating sums overzero-point energies by mode number regularization, this gives a new rationalefor a previous suggestion that one has to average over different choices ofboundary conditions, such that for the combined set all three symmetries areobeyed. In particular it is shown that for twisted periodic or twistedantiperiodic boundary conditions separately both parity and time reversal areviolated in the kink sector, as manifested by a delocalized momentum thatcancels only in the average.

@@ -1,0 +1,13 @@
+Paper: hep-th/9602094
+
+Date: 1996-02-17
+
+Title: $SU_q(2)$ Lattice Gauge Theory
+
+Authors: G. Bimonte, A. Stern and P. Vitale
+
+Comments: 26 pages, LATEX file
+
+Journal-ref: Phys.Rev. D54 (1996) 1054-1062
+
+We reformulate the Hamiltonian approach to lattice gauge theories such that,at the classical level, the gauge group does not act canonically, but insteadas a Poisson-Lie group. At the quantum level, it then gets promoted to aquantum group gauge symmetry. The theory depends on two parameters - thedeformation parameter $\lambda$ and the lattice spacing $a$. We show that thesystem of Kogut and Susskind is recovered when $\lambda \rightarrow 0$, whileQCD is recovered in the continuum limit (for any $\lambda$). We thus have thepossibility of having a two parameter regularization of QCD.

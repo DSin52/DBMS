@@ -1,0 +1,9 @@
+Paper: hep-th/9509084
+
+Date: 1995-09-14
+
+Title: Infrared regularization of non-Abelian gauge theories
+
+Comments: Plain TeX, 6 pages. Comment added to emphasize that the screening
+
+equation is in terms of bare parametersCurci and Ferrari found a unique BRS-invariant action for non-Abelian gaugetheories which includes a mass term for the gauge bosons. I analyze thisaction. While the BRS operator is not nilpotent, the Zinn-Justin equationgeneralizes in a simple way so that the renormalization of the theory isconsistent with the infrared regularization provided by the mass---infraredsingularities and ultraviolet infinities are therefore clearly separated.Relations between renormalization constants are derived in dimensionalregularization with minimal subtraction. Additional new symmetries allow asimple characterization of physical operators. A new formula is given for thegauge parameter dependence of physical operators.

@@ -1,0 +1,13 @@
+Paper: hep-th/9805211
+
+Date: 1998-05-29
+
+Title: T-Duality in Lattice Regularized Sigma Models
+
+Authors: Sebastian Jaimungal (N. B. I. and British Columbia U.)
+
+Comments: LaTeX, 11 pages, no figures
+
+Journal-ref: Phys.Lett. B441 (1998) 147-154
+
+It is shown that when the underlying sigma model of bosonic string theory iswritten in terms of single-valued fields, which live in the covering space ofthe target space, Abelian T-duality survives lattice regularization of theworld-sheet. The projection onto the target-space is implemented through a sumover cohomology, which bears resemblance to summing over topological sectors inYang-Mills theories. In particular, the case of string theory on a circle isshown to be explicitly self-dual in the lattice regulated model andautomatically forbids vortex excitations which would otherwise destroy theduality. For other target spaces a generalized notion of T-duality is observedin which the target space and the cohomology coefficient group are interchangedunder duality. Specific examples show that the fundamental group of the targetspace may not be preserved in the T-dual theory. Generalized models whichexhibit T-duality behaviour, with dynamical variables that live on thek-dimensional cells of (p+1)-dimensional world-volumes, are also constructed.These models correspond to gauge theories, and higher-dimensional analogues, inwhich one sums over various topological sectors of the theory.

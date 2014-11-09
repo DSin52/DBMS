@@ -1,0 +1,13 @@
+Paper: hep-th/9410138
+
+Date: 1994-10-19
+
+Title: BRS symmetry for Yang-Mills theory with exact renormalization group
+
+Authors: M. Bonini, M. D'Attanasio and G. Marchesini
+
+Comments: 22 pages, LaTeX style, University of Parma preprint UPRF 94-412
+
+Journal-ref: Nucl. Phys. B437 (1995) 163
+
+In the exact renormalization group (RG) flow in the infrared cutoff $\Lambda$one needs boundary conditions. In a previous paper on $SU(2)$ Yang-Mills theorywe proposed to use the nine physical relevant couplings of the effective actionas boundary conditions at the physical point $\Lambda=0$ (these couplings aredefined at some non-vanishing subtraction point $\mu \ne 0$). In this paper weshow perturbatively that it is possible to appropriately fix these couplings insuch a way that the full set of Slavnov-Taylor (ST) identities are satisfied.Three couplings are given by the vector and ghost wave function normalizationand the three vector coupling at the subtraction point; three of the remainingsix are vanishing (\eg the vector mass) and the others are expressed byirrelevant vertices evaluated at the subtraction point. We follow the methodused by Becchi to prove ST identities in the RG framework. There the boundaryconditions are given at a non-physical point $\Lambda=\Lambda' \ne 0$, so thatone avoids the need of a non-vanishing subtraction point.

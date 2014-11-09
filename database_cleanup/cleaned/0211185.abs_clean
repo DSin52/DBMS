@@ -1,0 +1,9 @@
+Paper: hep-th/0211185
+
+Date: 2002-11-20
+
+Title: Critical RSOS and Minimal Models I
+
+Virasoro ModulesAuthors: Giovanni Feverati and Paul A. Pearce
+
+We consider sl(2) minimal conformal field theories on a cylinder from alattice perspective. To each allowed one-dimensional configuration path of theA_L Restricted Solid-on-Solid (RSOS) models we associate a physical state |h>and a monomial in a finite fermionic algebra. The orthonormal states producedby the action of these monomials on the primary states generate finite Virasoromodules with dimensions given by the finitized Virasoro characters$\chi^{(N)}_h(q)$. These finitized characters are the generating functions forthe double row transfer matrix spectra of the critical RSOS models. We arguethat a general energy-preserving bijection exists between the one-dimensionalconfiguration paths and the eigenstates of these transfer matrices and exhibitthis bijection for the critical and tricritical Ising models in the vacuumsector. Our results extend to Z_{L-1} parafermion models by duality.

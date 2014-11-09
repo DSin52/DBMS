@@ -1,0 +1,11 @@
+Paper: hep-th/9407161
+
+Date: 1994-07-25
+
+Title: Anyons and Deformed Lie Algebras
+
+Authors: Marialuisa Frau, Alberto Lerda and Stefano Sciuto
+
+Comments: Lectures given at the Varenna School on ``Quantum Groups and Their
+
+Applications in Physics'' (June 1994), DFTT 33/94 and DFT-US 2/94, 31 pp. (5figures and 1 table on request) LaTex file (the macro subeqn.sty is appendedat the end the LaTex file)We discuss the connection between anyons (particles with fractionalstatistics) and deformed Lie algebras (quantum groups). After a brief review ofthe main properties of anyons, we present the details of the anyonicrealization of all deformed classical Lie algebras in terms of anyonicoscillators. The deformation parameter of the quantum groups is directlyrelated to the statistics parameter of the anyons. Such a realization is adirect generalization of the Schwinger construction in terms of fermions and isbased on a sort of bosonization formula which yields the generators of thedeformed algebra in terms of the undeformed ones. The entire procedure is welldefined on two-dimensional lattices, but it can be consistently reduced also toone-dimensional chains.

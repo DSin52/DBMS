@@ -1,0 +1,13 @@
+Paper: hep-th/0210082
+
+Date: 2002-10-09
+
+Title: Linear Sigma model in the Gaussian wave functional approximation II
+
+Analyticity of the S-matrix and the effective potential/actionAuthors: Issei Nakamura and V. Dmitrasinovic
+
+Comments: 14 pages, 4 ps figures, to appear in Nucl. Phys
+
+Journal-ref: Nucl.Phys. A713 (2003) 133-147
+
+We show an explicit connection between the solution to the equations ofmotion in the Gaussian functional approximation and the minimum of the(Gaussian) effective potential/action of the linear $\Sigma$ model, as well aswith the N/D method in dispersion theory. The resulting equations containanalytic functions with branch cuts in the complex mass squared plane.Therefore the minimum of the effective action may lie in the complex masssquared plane. Many solutions to these equations can be found on the second,third, etc. Riemann sheets of the equation, though their physicalinterpretation is not clear. Our results and the established properties of theS-matrix in general, and of the N/D solutions in particular, guide us to thecorrect choice of the Riemann sheet. We count the number of states and findonly one in each spin-parity and isospin channel with quantum numberscorresponding to the fields in the Lagrangian, i.e. to Castillejo-Dalitz-Dyson(CDD) poles. We examine the numerical solutions in both the strong and weakcoupling regimes and calculate the Kallen-Lehmann spectral densities and thenuse them for physical interpretation.

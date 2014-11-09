@@ -1,0 +1,13 @@
+Paper: hep-th/0009128
+
+Date: 2000-09-15
+
+Title: Quantization of maximally-charged slowly-moving black holes
+
+Authors: George Siopsis
+
+Comments: Corrected errors in the gauge-fixing procedure
+
+Journal-ref: Phys.Rev. D63 (2001) 104018
+
+We discuss the quantization of a system of slowly-moving extremeReissner-Nordstrom black holes. In the near-horizon limit, this system has beenshown to possess an SL(2,R) conformal symmetry. However, the Hamiltonianappears to have no well-defined ground state. This problem can be circumventedby a redefinition of the Hamiltonian due to de Alfaro, Fubini and Furlan (DFF).We apply the Faddeev-Popov quantization procedure to show that the Hamiltonianwith no ground state corresponds to a gauge in which there is an obstruction atthe singularities of moduli space requiring a modification of the quantizationrules. The redefinition of the Hamiltonian a la DFF corresponds to a differentchoice of gauge. The latter is a good gauge leading to standard quantizationrules. Thus, the DFF trick is a consequence of a standard gauge-fixingprocedure in the case of black hole scattering.

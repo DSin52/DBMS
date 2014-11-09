@@ -1,0 +1,13 @@
+Paper: hep-th/0002099
+
+Date: 2000-02-14
+
+Title: Geometry of The Embedding of Supergravity Scalar Manifolds in D=11 and
+
+D=10Authors: M. Cvetic and H. Lu and C.N. Pope
+
+Comments: Latex, 24 pages, typos corrected
+
+Journal-ref: Nucl.Phys. B584 (2000) 149-170
+
+Several recent papers have made considerable progress in proving theexistence of remarkable consistent Kaluza-Klein sphere reductions of D=10 andD=11 supergravities, to give gauged supergravities in lower dimensions. A proofof the consistency of the full gauged SO(8) reduction on S^7 from D=11 wasgiven many years ago, but from a practical viewpoint a reduction to a smallersubset of the fields can be more manageable, for the purposes of liftinglower-dimensional solutions back to the higher dimension. The major complexityof the spherical reduction Ansatze comes from the spin-0 fields, and of these,it is the pseudoscalars that are the most difficult to handle. In this paper weaddress this problem in two cases. One arises in a truncation of SO(8) gaugedsupergravity in four dimensions to U(1)^4, where there are three pairs ofdilatons and axions in the scalar sector. The other example involves thetruncation of SO(6) gauged supergravity in D=5 to a subsector containing ascalar and a pseudoscalar field, with a potential that admits a secondsupersymmetric vacuum aside from the maximally-supersymmetric one. We brieflydiscuss the use of these emdedding Ansatze for the lifting of solutions back tothe higher dimension.

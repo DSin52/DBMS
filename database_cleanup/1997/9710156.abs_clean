@@ -1,0 +1,11 @@
+Paper: hep-th/9710156
+
+Date: 1997-10-20
+
+Title: Inverse scattering and the symplectic form for sine-Gordon solitons
+
+Authors: E.J. Beggs (Swansea), P.R. Johnson (Saclay)
+
+Comments: 25 pages, latex
+
+We consider the canonical symplectic form for sine-Gordon evaluatedexplicitly on the solitons of the model. The integral over space in the form,which arises because the canonical argument uses the Lagrangian density, isdone explicitly in terms of functions arising in the group doublecrossproductformulation of the inverse scattering procedure, and we are left with a simpleexpression given by two boundary terms. The expression is then evaluatedexplicitly in terms of the changes in the positions and momenta of thesolitons, and we find agreement with a result of Babelon and Bernard who haveevaluated the form using a different argument, where it is diagonal in terms of`in' or `out' co-ordinates. Using the result, we also investigate the higherconserved charges within the inverse scattering framework, check that theyPoisson commute and evaluate them on the soliton solutions.

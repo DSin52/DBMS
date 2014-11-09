@@ -1,0 +1,11 @@
+Paper: hep-th/9504058
+
+Date: 1995-04-10
+
+Title: WBase
+
+representations. Description and new developmentsAuthors: Antonio Candiello
+
+Comments: 6 pages, latex. The paper is based on a talk held at the fourth
+
+AIHENP workshop, Pisa, 3-8 April 1995, and it is to appear in the relatedA non trivial application of a modern computer language ("C") in a highlystructured and object-oriented fashion is presented. The contest is that of Liealgebra representations (irreps), specifically the problem of reducing theproducts of irreps with the weight tree algorithm. The new WBase V2.0 versionwith table-generation and Young tableaux display capabilities is introduced.

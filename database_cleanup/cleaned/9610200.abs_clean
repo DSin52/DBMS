@@ -1,0 +1,13 @@
+Paper: hep-th/9610200
+
+Date: 1996-10-25
+
+Title: A class of nonlinear wave equations containing the continuous Toda case
+
+Authors: E. Alfinito, M.S. Causo, G. Profilo, G.Soliani
+
+Comments: Latex file + [equations.sty], 22 pp
+
+Journal-ref: J.Phys. A31 (1998) 2173-2189
+
+We consider a nonlinear field equation which can be derived from a binomiallattice as a continuous limit. This equation, containing a perturbativefriction-like term and a free parameter $\gamma$, reproduces the Toda case (inabsence of the friction-like term) and other equations of physical interest, bychoosing particular values of $\gamma$. We apply the symmetry and theapproximate symmetry approach, and the prolongation technique. Our main purposeis to check the limits of validity of different analytical methods in the studyof nonlinear field equations. We show that the equation under investigationwith the friction-like term is characterized by a finite-dimensional Liealgebra admitting a realization in terms of boson annhilation and creationoperators. In absence of the friction-like term, the equation is linearized andconnected with equations of the Bessel type. Examples of exact solutions aredisplayed, and the algebraic structure of the equation is discussed.

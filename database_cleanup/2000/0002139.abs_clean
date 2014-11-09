@@ -1,0 +1,11 @@
+Paper: hep-th/0002139
+
+Date: 2000-02-17
+
+Title: Loop Variables and Gauge Invariant Interactions - I
+
+Comments: 40 pages, Latex. Revised version
+
+to appear in Int. J. of Mod. Phys. AJournal-ref: Int.J.Mod.Phys. A15 (2000) 4761-4796
+
+We describe a method of writing down interacting equations for all the modesof the bosonic open string. It is a generalization of the loop variableapproach that was used earlier for the free, and lowest order interactingcases. The generalization involves, as before, the introduction of a parameterto label the different strings involved in an interaction. The interactingstring has thus becomes a ``band'' of finite width. The interaction equationsexpressed in terms of loop variables, has a simple invariance that is exacteven off shell. A consistent definition of space-time fields requires thefields to be functions of all the infinite number of gauge coordinates (inaddition to space time coordinates). The theory is formulated in one higherdimension, where the modes appear massless. The dimensional reduction that isneeded to make contact with string theory (which has been discussed earlier forthe free case) is not discussed here.

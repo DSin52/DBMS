@@ -1,0 +1,11 @@
+Paper: hep-th/0110101
+
+Date: 2001-10-10
+
+Title: Chern-Simons in the Seiberg-Witten map for non-commutative Abelian gauge
+
+theories in 4DAuthors: Marco Picariello (1), Andrea Quadri (1), Silvio P. Sorella (2) ((1)
+
+Universita` di Milano, (2) Universidade do Estado do Rio de Janeiro)Journal-ref: JHEP 0201 (2002) 045
+
+A cohomological BRST characterization of the Seiberg-Witten (SW) map isgiven. We prove that the coefficients of the SW map can be identified withelements of the cohomology of the BRST operator modulo a total derivative. Asan example, it will be illustrated how the first coefficients of the SW map canbe written in terms of the Chern-Simons three form. This suggests a deeptopological and geometrical origin of the SW map. The existence of the map forboth Abelian and non-Abelian case is discussed. By using a recursive argumentand the associativity of the $\star$-product, we shall be able to prove thatthe Wess-Zumino consistency condition for non-commutative BRST transformationsis fulfilled. The recipe of obtaining an explicit solution by use of thehomotopy operator is briefly reviewed in the Abelian case.

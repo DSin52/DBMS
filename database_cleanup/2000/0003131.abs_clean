@@ -1,0 +1,11 @@
+Paper: hep-th/0003131
+
+Date: 2000-03-15
+
+Title: Noncommutative Riemann Surfaces
+
+Authors: G. Bertoldi, J.M. Isidro, M. Matone and P. Pasti
+
+Comments: LaTeX, 1+14 pages. Contribution to the TMR meeting ``Quantum aspects
+
+of gauge theories, supersymmetry and unification'', Paris 1-7 September 1999We compactify M(atrix) theory on Riemann surfaces Sigma with genus g>1.Following [1], we construct a projective unitary representation of pi_1(Sigma)realized on L^2(H), with H the upper half-plane. As a first step we introduce asuitably gauged sl_2(R) algebra. Then a uniquely determined gauge connectionprovides the central extension which is a 2-cocycle of the 2nd Hochschildcohomology group. Our construction is the double-scaling limit N\to\infty,k\to-\infty of the representation considered in the Narasimhan-Seshadritheorem, which represents the higher-genus analog of 't Hooft's clock and shiftmatrices of QCD. The concept of a noncommutative Riemann surface Sigma_\thetais introduced as a certain C^\star-algebra. Finally we investigate the Moritaequivalence.

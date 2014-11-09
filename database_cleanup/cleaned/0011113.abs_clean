@@ -1,0 +1,13 @@
+Paper: hep-th/0011113
+
+Date: 2000-11-13
+
+Title: Domain walls in supersymmetric QCD
+
+Authors: Daniele Binosi, Tonnis ter Veldhuis
+
+Comments: LaTeX2e,13 pages, 6 (.eps) figures, 2 tables
+
+Journal-ref: Phys.Rev. D63 (2001) 085016
+
+We provide a unified picture of the domain wall spectrum in supersymmetricQCD with Nc colors and Nf flavors of quarks in the (anti-) fundamentalrepresentation. Within the framework of the Veneziano-Yankielowicz-Tayloreffective Lagrangian, we consider domain walls connecting chiral symmetrybreaking vacua, and we take the quark masses to be degenerate. For Nf/Nc<1/2,there is one BPS saturated domain wall for any value of the quark mass m. For1/2=<Nf/Nc<1 there are two critical masses, m* and m**, which depend on thenumber of colors and flavors only through the ratio Nf/Nc; if m<m*, there aretwo BPS walls, if m*<m<m** there is one non-BPS wall, and if m>m** there is nodomain wall. We numerically determine m* and m** as a function of Nf/Nc, and wefind that m** approaches a constant value in the limit that this ratio goes toone.

@@ -1,0 +1,13 @@
+Paper: hep-th/0004205
+
+Date: 2000-04-28
+
+Title: Gauge-invariant fields in the temporal gauge, Coulomb-gauge fields, and
+
+the Gribov ambiguityAuthors: Kurt Haller
+
+Comments: 27 pages, 1 figure; text has been revised and references added
+
+Journal-ref: Int.J.Mod.Phys. A16 (2001) 2789
+
+We examine the relation between Coulomb-gauge fields and the gauge-invariantfields constructed in the temporal gauge for two-color QCD by comparing avariety of properties, including their equal-time commutation rules and thoseof their conjugate chromoelectric fields. We also express the temporal-gaugeHamiltonian in terms of gauge-invariant fields and show that it can beinterpreted as a sum of the Coulomb-gauge Hamiltonian and another part that isimportant for determining the equations of motion of temporal-gauge fields, butthat can never affect the time evolution of ``physical'' state vectors. We alsodiscuss multiplicities of gauge-invariant temporal-gauge fields that belong todifferent topological sectors and that, in previous work, were shown to bebased on the same underlying gauge-dependent temporal-gauge fields. We arguethat these multiplicities of gauge-invariant fields are manifestations of theGribov ambiguity. We show that the differential equation that bases themultiplicities of gauge-invariant fields on their underlying gauge-dependenttemporal-gauge fields has nonlinearities identical to those of the ``Gribov''equation, which demonstrates the non-uniqueness of Coulomb-gauge fields. Thesemultiplicities of gauge-invariant fields --- and, hence, Gribov copies ---appear in the temporal gauge, but only with the imposition of Gauss's law andthe implementation of gauge invariance; they do not arise when the theory isrepresented in terms of gauge-dependent fields and Gauss's law is leftunimplemented.

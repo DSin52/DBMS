@@ -1,0 +1,13 @@
+Paper: hep-th/9710071
+
+Date: 1997-10-08
+
+Title: Solving the Frustrated Spherical Model with q-Polynomials
+
+Authors: Andrea Cappelli and Filippo Colomo
+
+Comments: Latex, 14 pages, 2 eps figures
+
+Journal-ref: J.Phys. A31 (1998) 3141-3151
+
+We analyse the Spherical Model with frustration induced by an external gaugefield. In infinite dimensions, this has been recently mapped onto a problem ofq-deformed oscillators, whose real parameter q measures the frustration. Wefind the analytic solution of this model by suitably representing theq-oscillator algebra with q-Hermite polynomials. We also present a relatedMatrix Model which possesses the same diagrammatic expansion in the planarapproximation. Its interaction potential is oscillating at infinity with periodlog(q), and may lead to interesting metastability phenomena beyond the planarapproximation. The Spherical Model is similarly q-periodic, but does notdepends smoothly on q.

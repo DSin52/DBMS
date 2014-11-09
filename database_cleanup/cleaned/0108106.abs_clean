@@ -1,0 +1,13 @@
+Paper: hep-th/0108106
+
+Date: 2001-08-14
+
+Title: String Corrections to the Holographic RG Flow of Supersymmetric SU(N) x
+
+SU(N+M) Gauge TheoryAuthors: Sergey Frolov, Igor R. Klebanov and Arkady A. Tseytlin
+
+Comments: harvmac, 29 p. v4
+
+Journal-ref: Nucl.Phys. B620 (2002) 84-108
+
+We study leading string corrections to the type IIB supergravity solutiondual to the ${\cal N}=1$ supersymmetric $SU(N+M)\times SU(N)$ gauge theorycoupled to bifundamental chiral superfields $A_i, B_j$, $i,j=1,2$. Thissolution was found in hep-th/0007191, and its asymptotic form describinglogarithmic RG flow was constructed in hep-th/0002159. The leading tree-levelstring correction to the type IIB string effective action is represented by theinvariant of the form $\a'{}^3 (R^4 + ...)$. Since the background contains3-form field strengths, we need to know parts of this invariant that depend onthem. By analyzing the 5-point superstring scattering amplitudes we show thatonly a few specific $R^3 (H_3)^2$ and $R^3 (F_3)^2$ terms are present in theeffective action.Their contribution to the holographic RG flow turns out to be of the sameorder as of the $R^4$ terms. Using this fact we show that it is possible tohave agreement between the $\alpha'$-corrected radial dependence of thesupergravity fields and the RG flow dictated by the NSVZ beta functions infield theory. The agreement with field theory requires that the anomalousdimension of the operators $\Tr (A_i B_j)$ is corrected by a term of order$(M/N)^4 \lambda^{-1/2}$ from its value $-{1 \over 2} $ found for M=0($\lambda$ is the appropriate 't Hooft coupling which is assumed to be strong).

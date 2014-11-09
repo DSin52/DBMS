@@ -1,0 +1,13 @@
+Paper: hep-th/9710162
+
+Date: 1997-10-21
+
+Title: Higher order cohomological restrictions on anomalies and counterterms
+
+Authors: Glenn Barnich
+
+Comments: 11 pages Latex file, mistake in assumption 2 forces a version limited
+
+to one loop considerations with a different derivation of main resultsJournal-ref: Phys.Lett. B419 (1998) 211-216
+
+Using a regularization with the properties of dimensional regularization,higher order local consistency conditions on one loop anomalies and divergentcounterterms are given. They are derived without any a priori assumption on theform of the BRST cohomology and can be summarized by the statements that (i)the antibracket involving the first order divergent counterterms, respectivelythe first order anomaly, with any BRST cocycle is BRST exact, (ii) the firstorder divergent counterterms can be completed into a local deformation of thesolution of the master equation and (iii) the first order anomaly can bedeformed into a local cocycle of the deformed solution.

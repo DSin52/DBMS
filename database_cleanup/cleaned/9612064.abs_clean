@@ -1,0 +1,13 @@
+Paper: hep-th/9612064
+
+Date: 1996-12-06
+
+Title: Scattering of Closed String States from a Quantized D-Particle
+
+Authors: Shinji Hirano and Yoichi Kazama
+
+Comments: 24 pages, LaTeX, no figures. Improvements are made on explanations of
+
+the approximation scheme and the handling of the divergenceJournal-ref: Nucl.Phys. B499 (1997) 495-515
+
+By developing an appropriate path-integral formalism, we compute, in bosonicstring theory, the disk amplitude for the scattering of closed string statesfrom a D-particle, in which the collective coordinate of the D-particle isfully quantized. As a consequence, the recoil of the D-particle is naturallytaken into account. Our result can be readily factorized in the closed stringchannel to yield the boundary state describing the recoiling D-particle. Thisturned out to agree with the BRST invariant vertex recently proposed byIshibashi to the leading order in the derivative expansion, but it will receivecorrections in subsequent orders. The advantage of our formalism is that it isextendable to deal with more general processes involving multiple D-particles.A viewpoint regarding our work as describing a dynamical transition of CFT's isalso discussed.

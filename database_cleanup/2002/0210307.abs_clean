@@ -1,0 +1,11 @@
+Paper: hep-th/0210307
+
+Date: 2002-10-31
+
+Title: Fermionic functionals without Grassmann numbers
+
+Authors: H. Nikolic
+
+Comments: 4 pages
+
+Since any fermionic operator \psi can be written as \psi=q+ip, where q and pare hermitian operators, we use the eigenvalues of q and p to construct afunctional formalism for calculating matrix elements that involve fermionicfields. The formalism is similar to that for bosonic fields and does notinvolve Grassmann numbers. This makes possible to perform numerical fermioniclattice computations that are much faster than not only other algorithms forfermions, but also algorithms for bosons.

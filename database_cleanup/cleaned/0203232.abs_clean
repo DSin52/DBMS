@@ -1,0 +1,13 @@
+Paper: hep-th/0203232
+
+Date: 2002-03-26
+
+Title: One Loop Calculations in Gauge Theories Regulated on an $x^+$-$p^+$
+
+LatticeAuthors: Skuli Gudmundsson, Charles B. Thorn
+
+Comments: 26 pages, 36 figures
+
+Journal-ref: Phys.Rev. D66 (2002) 076001
+
+In earlier work, the planar diagrams of $SU(N_c)$ gauge theory have beenregulated on the light-cone by a scheme involving both discrete $p^+$ and$\tau=ix^+$. The transverse coordinates remain continuous, but even so alldiagrams are rendered finite by this procedure. In this scheme quarticinteractions are represented as two cubics mediated by short lived fictitiousparticles whose detailed behavior could be adjusted to retain properties of thecontinuum theory, at least at one loop. Here we use this setup to calculate theone loop three gauge boson triangle diagram, and so complete the calculation ofdiagrams renormalizing the coupling to one loop. In particular, we find thatthe cubic vertex is correctly renormalized once the couplings to the fictitiousparticles are chosen to keep the gauge bosons massless.

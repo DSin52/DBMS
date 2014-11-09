@@ -1,0 +1,11 @@
+Paper: hep-th/0105086
+
+Date: 2001-05-10
+
+Title: GAMMA
+
+Fierz transformations in arbitrary dimensionsAuthors: Ulf Gran
+
+Comments: 12 pages, LaTeX, v2
+
+availableWe have developed a Mathematica package capable of performing gamma-matrixalgebra in arbitrary (integer) dimensions. As an application we can computeFierz transformations.

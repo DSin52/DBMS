@@ -1,0 +1,13 @@
+Paper: hep-th/9407042
+
+Date: 1994-07-07
+
+Title: Equivariant Kaehler Geometry and Localization in the G/G Model
+
+Authors: Matthias Blau and George Thompson
+
+Comments: LaTex file, 40 A4 pages, IC/94/108 and ENSLAPP-L-469/94
+
+Journal-ref: Nucl.Phys. B439 (1995) 367-394
+
+We analyze in detail the equivariant supersymmetry of the $G/G$ model. Inspite of the fact that this supersymmetry does not model the infinitesimalaction of the group of gauge transformations, localization can be establishedby standard arguments. The theory localizes onto reducible connections and acareful evaluation of the fixed point contributions leads to an alternativederivation of the Verlinde formula for the $G_{k}$ WZW model. We show that thesupersymmetry of the $G/G$ model can be regarded as an infinite dimensionalrealization of Bismut's theory of equivariant Bott-Chern currents on K\"ahlermanifolds, thus providing a convenient cohomological setting for understandingthe Verlinde formula. We also show that the supersymmetry is related to anon-linear generalization (q-deformation) of the ordinary moment map ofsymplectic geometry in which a representation of the Lie algebra of a group $G$is replaced by a representation of its group algebra with commutator $[g,h] =gh-hg$. In the large $k$ limit it reduces to the ordinary moment map oftwo-dimensional gauge theories.

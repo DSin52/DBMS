@@ -1,0 +1,13 @@
+Paper: hep-th/0004201
+
+Date: 2000-04-27
+
+Title: Consistent Sphere Reductions and Universality of the Coulomb Branch in
+
+the Domain-Wall/QFT CorrespondenceAuthors: M. Cvetic, H. Lu and C.N. Pope
+
+Comments: latex file, 21 pages, 1 figure, minor typo corrections
+
+Journal-ref: Nucl.Phys. B590 (2000) 213-232
+
+We prove that any D-dimensional theory comprising gravity, an antisymmetricn-index field strength and a dilaton can be consistently reduced on S^n in atruncation in which just $n$ scalar fields and the metric are retained in(D-n)-dimensions, provided only that the strength of the couping of the dilatonto the field strength is appropriately chosen. A consistent reduction can thenbe performed for n\le 5; with D being arbitrary when n\le 3, whilst D\le 11 forn=4 and D\le 10 for n=5. (Or, by Hodge dualisation, $n$ can be replaced by(D-n) in these conditions.) We obtain the lower dimensional scalar potentialsand construct associated domain wall solutions. We use the consistent reductionAnsatz to lift domain-wall solutions in the (D-n)-dimensional theory back to Ddimensions, where we show that they become certain continuous distributions of(D-n-2)-branes. We also examine the spectrum for a minimally-coupled scalarfield in the domain-wall background, showing that it has a universal structurecharacterised completely by the dimension n of the compactifying sphere.

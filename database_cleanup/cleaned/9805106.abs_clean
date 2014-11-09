@@ -1,0 +1,13 @@
+Paper: hep-th/9805106
+
+Date: 1998-05-18
+
+Title: Calogero-Moser Models
+
+Authors: A.J. Bordner, E. Corrigan and R. Sasaki
+
+Comments: 28 pages LaTeX2e, no figure; Root type Lax pair is constructed for
+
+all four choices of potentials. Two references addedSystemsJournal-ref: Prog.Theor.Phys. 100 (1998) 1107-1129
+
+A new formulation of Calogero-Moser models based on root systems and theirWeyl group is presented. The general construction of the Lax pairs applicableto all models based on the simply-laced algebras (ADE) are given for two typeswhich we call `root' and `minimal'. The root type Lax pair is new; the matricesused in its construction bear a resemblance to the adjoint representation ofthe associated Lie algebra, and exist for all models, but they do not containelements associated with the zero weights corresponding to the Cartansubalgebra. The root type provides a simple method of constructing sufficientlymany number of conserved quantities for all models, including the one based on$E_{8}$, whose integrability had been an unsolved problem for more than twentyyears. The minimal types provide a unified description of all known examples ofCalogero-Moser Lax pairs and add some more. In both cases, the root type andthe minimal type, the formulation works for all of the four choices of

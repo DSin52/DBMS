@@ -1,0 +1,11 @@
+Paper: hep-th/9903247
+
+Date: 1999-03-29
+
+Title: Fermion Determinant Calculus
+
+Authors: H. Kikuchi (Ohu University)
+
+Comments: 14 pages, no figure; explanations are added, the context is improved,
+
+the conclusion is unchangedThe path-integral of the fermionic oscillator with a time-dependent frequencyis analyzed. We give the exact relation between the boundary condition todefine the domain in which the path-integral is performed and the transitionamplitude that the path-integral calculates. According to this relation, theamplitude suppressed by a zero mode does not indicate any special dynamics,unlike the analogous situation in field theories. It simply says thepath-integral picks up a combination of the amplitudes that vanishes. The zeromode that is often neglected in the reason of not being normalizable isnecessary to obtain the correct answer for the propagator and to avoid ananomaly on the fermion number. We give a method to obtain the fermionicdeterminant by the determinant of a simple (2\times 2) matrix, which enables usto calculate it for a variety of boundary conditions.

@@ -1,0 +1,13 @@
+Paper: hep-th/0111061
+
+Date: 2001-11-07
+
+Title: Reduction of open membrane moduli
+
+Authors: Eric Bergshoeff (RUG) and Jan Pieter van der Schaar (UM)
+
+Comments: 15 pages, LaTeX, uses JHEP.cls and JHEP.bst style files
+
+Journal-ref: JHEP 0202 (2002) 019
+
+We perform a general reduction of the open membrane metric in a worldvolumedirection of the M5-brane. Using reduction rules analogous to the bulk, we showthat the open membrane metric leads to the standard open string metric and openstring coupling constant on the D4-brane only for an ``electric'' reduction inwhich case the open membrane metric has no off-diagonal components and theBorn-Infeld curvature tensor is a matrix of rank 2. Instead, if we perform ageneral reduction, with nonzero off-diagonal components of the open membranemetric, we obtain a rank 4 Born-Infeld tensor corresponding to a bound state ofan open string with an open D2--brane. Next, we identify and reduce a 3-formopen membrane ``noncommutativity'' tensor on the M5-brane. This open membraneparameter only reduces to the open string noncommutativity tensor on theD4-brane provided we constrain ourselves to an ``electric'' or a ``magnetic''reduction.

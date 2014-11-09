@@ -1,0 +1,13 @@
+Paper: hep-th/9205090
+
+Date: 1992-05-26
+
+Title: Topological Lattice Models in Four Dimensions
+
+Authors: Hirosi Ooguri
+
+Comments: 14 pages
+
+Journal-ref: Mod.Phys.Lett. A7 (1992) 2799-2810
+
+We define a lattice statistical model on a triangulated manifold in fourdimensions associated to a group $G$. When $G=SU(2)$, the statistical weight isconstructed from the $15j$-symbol as well as the $6j$-symbol for recombinationof angular momenta, and the model may be regarded as the four-dimensionalversion of the Ponzano-Regge model. We show that the partition function of themodel is invariant under the Alexander moves of the simplicial complex, thus itdepends only on the piecewise linear topology of the manifold. For anorientable manifold, the model is related to the so-called $BF$ model. The$q$-analogue of the model is also constructed, and it is argued that itspartition function is invariant under the Alexander moves. It is discussed howto realize the 't Hooft operator in these models associated to a closed surfacein four dimensions as well as the Wilson operator associated to a closed loop.Correlation functions of these operators in the $q$-deformed version of themodel would define a new type of invariants of knots and links in fourdimensions.

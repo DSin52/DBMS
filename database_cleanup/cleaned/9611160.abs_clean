@@ -1,0 +1,9 @@
+Paper: hep-th/9611160
+
+Date: 1996-11-21
+
+Title: On Reducible but Indecomposable Representations of the Virasoro Algebra
+
+Comments: 36 pages, LaTeX2e
+
+Motivated by the necessity to include so-called logarithmic operators inconformal field theories (Gurarie, 1993) at values of the central chargebelonging to the logarithmic series c_{1,p}=1-6(p-1)^2/p, reducible butindecomposable representations of the Virasoro algebra are investigated, whereL_0 possesses a nontrivial Jordan decomposition. After studying `Jordan lowestweight modules', where L_0 acts as a Jordan block on the lowest weight space(we focus on the rank two case), we turn to the more general case of extensionsof a lowest weight module by another one, where again L_0 cannot bediagonalized. The moduli space of such `staggered' modules is determined. Usingthe structure of the moduli space, very restrictive conditions on submodules of`Jordan Verma modules' (the generalization of the usual Verma modules) arederived. Furthermore, for any given lowest weight of a Jordan Verma module its`maximal preserving submodule' (the maximal submodule, such that the quotientmodule still is a Jordan lowest weight module) is determined. Finally, therepresentations of the W-algebra W(2,3^3) at central charge c=-2 areinvestigated yielding a rational logarithmic model.

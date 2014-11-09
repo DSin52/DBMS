@@ -1,0 +1,13 @@
+Paper: hep-th/9403073
+
+Date: 1994-03-14
+
+Title: Fermionic counting of RSOS-states and Virasoro character formulas for
+
+the unitary minimal series M(\nu,\nu+1). Exact resultsAuthors: A. Berkovich
+
+Comments: 33pp, LaTex, BONN-HE-94-04, spelling errors and typos corrected,
+
+references added, to appear in Nucl. Phys. B431 (1994)Journal-ref: Nucl.Phys. B431 (1994) 315-348
+
+The Hilbert space of an RSOS-model, introduced by Andrews, Baxter, andForrester, can be viewed as a space of sequences (paths) {a_0,a_1,...,a_L},with a_j-integers restricted by 1<=a_j<=\nu, |a_j-a_{j+1}|=1, a_0=s, a_L=r. Inthis paper we introduce different basis which, as shown here, has the samedimension as that of an RSOS-model. Following McCoy et al, we call this basisexpressed in terms of some identities for binomial coefficients. Remarkably,these binomial identities can be q-deformed. Here, we give a simple proof ofthese q-binomial identities in the spirit of Schur's proof of theRogers-Ramanujan identities. Notably, the proof involves only the elementaryrecurrences for the q-binomial coefficients and a few creative observations.Finally, taking the limit L --> \infty in these q-identities, we derive anexpression for the character formulas of the unitary minimal seriesM(\nu,\nu+1) "Bosonic Sum = Fermionic Sum". Here, Bosonic Sum denotesRocha-Caridi representation (\chi_{r,s=1}^{\nu,\nu+1}(q)) and Fermionic Sumstands for the companion representation recently conjectured by the Stony Brookgroup.

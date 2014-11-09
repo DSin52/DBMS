@@ -1,0 +1,9 @@
+Paper: hep-th/9503233
+
+Date: 1995-04-01
+
+Title: Fractional dimensional Hilbert spaces and Haldane's exclusion statistics
+
+Comments: Revtex v 3.0 5 pages.
+
+We examine the notion of Haldane's dimension and the corresponding statisticsin a probabilistic spirit. Motivated by the example ofdimensional-regularization we define the dimension of a space as the trace of adiagonal `unit operator', where the diagonal matrix elements are not, ingeneral, unity but are probabilities to place the system into a given state.These probabilities are uniquely defined by the rules of Haldane's statistics.We calculate the second virial coefficient for our system and demonstrateagreement with Murthy and Shankar's calculation. The partition function for anideal gas of the particles, a state-counting procedure, the entropy and adistribution function for the particles are investigated using ourprobabilistic definition. We compare our results with previous calculations ofexclusion statistics.

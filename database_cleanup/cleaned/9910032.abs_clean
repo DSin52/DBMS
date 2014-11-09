@@ -1,0 +1,13 @@
+Paper: hep-th/9910032
+
+Date: 1999-10-05
+
+Title: Stochastic Quantization of Bottomless Systems
+
+a diffusive processAuthors: Kazuya Yuasa and Hiromichi Nakazato (Waseda Univ.)
+
+Comments: LaTeX2e, 10 pages with 4 eps figures, to be published in Prog. Theor.
+
+Phys. 102; revised page layoutJournal-ref: Prog.Theor.Phys. 102 (1999) 719
+
+By making use of the Langevin equation with a kernel, it was shown that theFeynman measure exp(-S) can be realized in a restricted sense in a diffusivestochastic process, which diverges and has no equilibrium, for bottomlesssystems. In this paper, the dependence on the initial conditions and thetemporal behavior are analyzed for 0-dim bottomless systems. Furthermore, it isshown that it is possible to find stationary quantities.

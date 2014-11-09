@@ -1,0 +1,11 @@
+Paper: hep-th/9906166
+
+Date: 1999-06-21
+
+Title: Convergence of derivative expansions of the renormalization group
+
+Comments: Latex inc axodraw. 20 pages
+
+Journal-ref: JHEP 9908 (1999) 007
+
+We investigate the convergence of the derivative expansion of the exactrenormalization group, by using it to compute the beta function of scalar fieldtheory. We show that the derivative expansion of the Polchinski flow equationconverges at one loop for certain fast falling smooth cutoffs. The derivativeexpansion of the Legendre flow equation trivially converges at one loop, butand rapidly in the case of a smooth exponential cutoff. Finally, we show thatthe two loop contributions to certain higher derivative operators (not involvedin beta) have divergent momentum-scale expansions for sharp cutoff, but thesmooth exponential cutoff gives convergent derivative expansions for all suchoperators with any number of derivatives.

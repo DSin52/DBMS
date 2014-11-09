@@ -1,0 +1,13 @@
+Paper: hep-th/9603053
+
+Date: 1996-03-08
+
+Title: Gravity coupled with matter and foundation of non-commutative geometry
+
+Authors: A. Connes
+
+Comments: 30 pages, Plain TeX
+
+Journal-ref: Commun.Math.Phys. 182 (1996) 155-176
+
+We first exhibit in the commutative case the simple algebraic relationsbetween the algebra of functions on a manifold and its infinitesimal lengthelement $ds$. Its unitary representations correspond to Riemannian metrics andSpin structure while $ds$ is the Dirac propagator $ds = \ts \!\!$---$\!\! \ts =D^{-1}$ where $D$ is the Dirac operator. We extend these simple relations tothe non commutative case using Tomita's involution $J$. We then write aspectral action, the trace of a function of the length element in Planck units,which when applied to the non commutative geometry of the Standard Model willbe shown (in a joint work with Ali Chamseddine) to give the SM Lagrangiancoupled to gravity. The internal fluctuations of the non commutative geometryare trivial in the commutative case but yield the full bosonic sector of SMwith all correct quantum numbers in the slightly non commutative case. Thegroup of local gauge transformations appears spontaneously as a normal subgroupof the diffeomorphism group.

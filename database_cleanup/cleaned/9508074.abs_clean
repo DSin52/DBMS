@@ -1,0 +1,13 @@
+Paper: hep-th/9508074
+
+Date: 1995-08-16
+
+Title: Symbolic Algebra and Renormalization of Gauge Theories
+
+Authors: M. Rossi and A. P. Flitney
+
+Comments: 16 pages, LaTex, 2 diagrams drawn with FEYNMAN, uses cite.sty Entire
+
+manuscript available as a ps file atAccepted for publication in Computer Physics CommunicationJournal-ref: Comput.Phys.Commun. 90 (1995) 189
+
+Symbolic algebra relevant to the renormalization of gauge theories can beefficiently performed by machine using modern packages. We devise a scheme forrepresenting and manipulating the objects involved in perturbative calculationsof gauge theories. This scheme is readily implemented using the general purposepackage, Mathematica. The techniques discussed are used to calculaterenormalization group functions for a non-abelian $SU(m)$ gauge theory withmassless fermions in a representation R, in the two-loop approximation, and tosimplify some expressions arising in electroweak calculations at the two looplevel.

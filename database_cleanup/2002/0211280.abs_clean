@@ -1,0 +1,11 @@
+Paper: hep-th/0211280
+
+Date: 2002-11-28
+
+Title: Exterior Differentials in Superspace and Poisson Brackets
+
+Authors: Dmitrij V. Soroka and Vyacheslav A. Soroka
+
+Comments: 12 pages, LATEX 2e, JHEP format. Correction of misprints
+
+Symplectic Geometry; Mathematical PhysicsIt is shown that two definitions for an exterior differential in superspace,giving the same exterior calculus, yet lead to different results when appliedto the Poisson bracket. A prescription for the transition with the help ofthese exterior differentials from the given Poisson bracket of definiteGrassmann parity to another bracket is introduced. It is also indicated thatthe resulting bracket leads to generalization of the Schouten-Nijenhuis bracketfor the cases of superspace and brackets of diverse Grassmann parities. It isshown that in the case of the Grassmann-odd exterior differential the resultingbracket is the bracket given on exterior forms. The above-mentioned transitionwith the use of the odd exterior differential applied to the linear even/oddPoisson brackets, that correspond to semi-simple Lie groups, results,respectively, in also linear odd/even brackets which are naturally connectedwith the Lie superalgebra. The latter contains the BRST and anti-BRST chargesand can be used for calculation of the BRST operator cogomology.

@@ -1,0 +1,13 @@
+Paper: hep-th/9812022
+
+Date: 1998-12-02
+
+Title: Exact renormalization group equation in presence of rescaling anomaly
+
+Authors: S. Arnone, C. Fusi and K. Yoshida
+
+Comments: 19 pages, no figures; an appendix and reference added; typos
+
+correctedJournal-ref: JHEP 9902 (1999) 022
+
+Wilson's approach to renormalization group is reanalyzed for supersymmetricYang-Mills theory. Usual demonstration of exact renormalization group equationmust be modified due to the presence of the so called Konishi anomaly under therescaling of superfields. We carry out the explicit computation for N=1 SUSYYang-Mills theory with the simpler, gauge invariant regularization method,recently proposed by Arkani-Hamed and Murayama. The result is that theWilsonian action S_M consists of two terms, i.e. the non anomalous term, whichobeys Polchinski's flow equation and Fujikawa-Konishi determinant contribution.This latter is responsible for Shifman-Vainshtein relation of exactbeta-function.

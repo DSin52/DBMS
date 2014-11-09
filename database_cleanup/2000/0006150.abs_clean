@@ -1,0 +1,13 @@
+Paper: hep-th/0006150
+
+Date: 2000-06-20
+
+Title: Path Integrals on Riemannian Manifolds with Symmetry and Induced Gauge
+
+StructureAuthors: Shogo Tanimura
+
+Comments: 20 pages, no figure
+
+Journal-ref: Int.J.Mod.Phys. A16 (2001) 1443-1462
+
+We formulate path integrals on any Riemannian manifold which admits theaction of a compact Lie group by isometric transformations. We consider a pathintegral on a Riemannian manifold M on which a Lie group G acts isometrically.Then we show that the path integral on M is reduced to a family of pathintegrals on a quotient space Q=M/G and that the reduced path integrals arecompletely classified by irreducible unitary representations of G. It is notnecessary to assume that the action of G on M is either free or transitive.Hence our formulation is applicable to a wide class of manifolds, whichincludes inhomogeneous spaces, and it covers all the inequivalentquantizations. To describe the path integral on inhomogeneous space,stratification geometry, which is a generalization of the concept of principalfiber bundle, is necessarily introduced. Using it we show that the pathintegral is expressed as a product of three factors; the rotational energyamplitude, the vibrational energy amplitude, and the holonomy factor. When asingular point arises in $ Q $, we determine the boundary condition of the pathintegral kernel for a path which runs through the singularity.

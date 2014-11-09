@@ -1,0 +1,11 @@
+Paper: hep-th/9403119
+
+Date: 1994-03-21
+
+Title: Chern-Simons-Witten Theory as a Topological Fermi Liquid
+
+Authors: Michael R. Douglas
+
+Comments: RU-94-29, 30 pp, 1 figure, harvmac
+
+We reinterpret U(N) Chern-Simons-Witten theory quantized on a torus as a freefermion system. Its Hilbert space and some observables are simply related tothose of group quantum mechanics, even at finite N and k. Its large N limit canbe described using techniques developed for matrix quantum mechanics andtwo-dimensional Yang-Mills theory. We discuss the bosonization of this theory,which for YM_2 gave a precise interpretation of Wilson loop operators in termsof string creation and annihilation operators, and examine its consequences fora string interpretation here. The formalism seems entirely adequate for theleading large N results and in a sense can be thought of as a `classical stringfield theory'. In considering subleading orders in 1/N, we identify some majordifferences between CSW and YM_2, which must be dealt with to find a CSW gaugestring interpretation. Although these particular differences are probably notrelevant for `QCD string,' they do illustrate some of the issues there, and wecomment on this. We also propose an approach to dealing with large Ntransitions.

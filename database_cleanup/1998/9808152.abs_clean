@@ -1,0 +1,13 @@
+Paper: hep-th/9808152
+
+Date: 1998-08-25
+
+Title: Extended Iterative Scheme for QCD
+
+Authors: L.Driesen, J.Fromm, J.Kuhrs, and M.Stingl
+
+Comments: 28 pages, 7 figures
+
+Journal-ref: Eur.Phys.J. A4 (1999) 381-400
+
+In the framework of a generalized iterative scheme introduced previously toaccount for the non-analytic coupling dependence associated with therenormalization-group invariant mass scale Lambda, we establish theself-consistency equations of the extended Feynman rules (Lambda-modifiedvertices of zeroth perturbative order) for the three-gluon vertex, the twoghost vertices, and the two vertices of massless quarks. Calculations areperformed to one-loop-order, in Landau gauge, and at the lowest approximationlevel (r=1) of interest for QCD. We discuss the phenomenon of compensatingpoles inherent in these equations, by which the formalism automatically cancelsunphysical poles on internal lines, and the role of composite-operatorinformation in the form of equation-of-motion condensate conditions. Theobserved near decoupling of the four-gluon conditions permits a solution to the2-and-3-point conditions within an effective one-parameter freedom. Thereexists a parameter range in which one solution has all vertex coefficientsreal, as required for a physical solution, and a narrower range in which thetransverse-gluon and massless-quark propagators both exhibit complex-conjugatepole pairs.

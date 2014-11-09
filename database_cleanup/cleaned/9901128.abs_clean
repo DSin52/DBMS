@@ -1,0 +1,13 @@
+Paper: hep-th/9901128
+
+Date: 1999-01-26
+
+Title: Multi-Instanton Calculus and the AdS/CFT Correspondence in N=4
+
+Superconformal Field TheoryAuthors: N. Dorey (Washington, Swansea), T.J. Hollowood (Los Alamos, Swansea),
+
+V.V. Khoze (Durham), M.P. Mattis (Los Alamos), S. Vandoren (Swansea)Comments: 87 pages, uses an avant-garde version of Latex. Version 3 has an
+
+improved discussion of the expansion around the saddle-point solutionJournal-ref: Nucl.Phys. B552 (1999) 88-168
+
+We present a self-contained study of ADHM multi-instantons in SU(N) gaugetheory, especially the novel interplay with supersymmetry and the large-Nlimit. We give both field- and string-theoretic derivations of the N=4supersymmetric multi-instanton action and collective coordinate integrationmeasure. As a central application, we focus on certain n-point functions G_n,n=16, 8 or 4, in N=4 SU(N) gauge theory at the conformal point (as well as onrelated higher-partial-wave correlators); these are correlators in which the 16exact supersymmetric and superconformal fermion zero modes are saturated. Inthe large-N limit, for the first time in any 4-dimensional theory, we are ableto evaluate all leading-order multi-instanton contributions exactly. We findcollective coordinate space has the geometry of a single copy of AdS_5 x S^5.(2) The integration measure on this space includes the partition function of10-dimensional N=1 SU(k) gauge theory dimensionally reduced to 0 dimensions,matching the description of D-instantons in Type IIB string theory. (3) Inexact agreement with Type IIB string calculations, at the k-instanton level,G_n = \sqrt{N} g^8 k^{n-7/2} e^{2\pi ik\tau} \sum_{d|k} d^{-2}F_n(x_1,...,x_n), where F_n is identical to a convolution of n bulk-to-boundarysupergravity propagators.

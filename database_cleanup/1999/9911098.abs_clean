@@ -1,0 +1,13 @@
+Paper: hep-th/9911098
+
+Date: 1999-11-15
+
+Title: Renormalization of Quantum Field Theories on Noncommutative R^d, I.
+
+ScalarsAuthors: Iouri Chepelev and Radu Roiban
+
+Comments: Latex, 31 pages, many postscript figures; v2
+
+scalar NQFT is not renormalizable. An argument about renormalizability ofdefinition of index j and some clarifying comments. Added references.Statements on non-renormalizability softened at the referee's requestJournal-ref: JHEP 0005 (2000) 037
+
+A noncommutative Feynman graph is a ribbon graph and can be drawn on a genus$g$ 2-surface with a boundary. We formulate a general convergence theorem forthe noncommutative Feynman graphs in topological terms and prove it for someclasses of diagrams in the scalar field theories. We propose a noncommutativeanalog of Bogoliubov-Parasiuk's recursive subtraction formula and show that thesubtracted graphs from a class $\Omega_d$ satisfy the conditions of theconvergence theorem. For a generic scalar noncommutative quantum field theoryon $\re^d$, the class $\Omega_d$ is smaller than the class of all diagrams inthe theory. This leaves open the question of perturbative renormalizability ofnoncommutative field theories. We comment on how the supersymmetry can improvethe situation and suggest that a noncommutative analog of Wess-Zumino model isrenormalizable.

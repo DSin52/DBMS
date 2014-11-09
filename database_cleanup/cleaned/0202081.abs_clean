@@ -1,0 +1,13 @@
+Paper: hep-th/0202081
+
+Date: 2002-02-13
+
+Title: Critical properties of $\Phi^4_{1+1}$-theory in Light-Cone Quantization
+
+Authors: St\'ephane Salmons, Pierre Grang\'E, Ernst Werner
+
+Comments: Latex, 22 pages, 8 Postscript figures,Appendix
+
+Journal-ref: Phys.Rev. D65 (2002) 125014
+
+The dynamics of the phase transition of the continuum $\Phi^{4}_{1+1}$-theory in Light Cone Quantization is reexamined taking into accountfluctuations of the order parameter $< \Phi >$ in the form of dynamical zeromode operators (DZMO) which appear in a natural way via the Haag expansion ofthe field $\Phi (x)$ of the interacting theory. The inclusion of the DZM-sectorchanges significantly the value of the critical coupling, bringing it inagreement within 2% with the most recent Monte-Carlo and hightemperature/strong coupling estimates. The critical slowing down of the DZMOgoverns the low momentum behavior of the dispersion relation through invarianceof this DZMO under conformal transformations preserving the local light conestructure. The critical exponent $\eta$ characterising the scaling behaviour at$k^2 \to 0$ comes out in agreement with the known value 0.25 of the Isingand another (25%) which can be evaluated only numerically with an estimatederror of 3%. The $\beta$-function is then found from the non-perturbativeexpression of the physical mass. It is non-analytic in the coupling constantwith a critical exponent $\omega=2$. However, at D=2, $\omega$ is notparametrisation independent with respect to the space of coupling constants dueto this strong non-analytic behaviour.

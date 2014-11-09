@@ -1,0 +1,11 @@
+Paper: hep-th/0012012
+
+Date: 2000-12-02
+
+Title: Dynamics of Effective Gluons
+
+Authors: Stanislaw D. Glazek (Warsaw University)
+
+Comments: 29 pages, plain LaTeX, 1 Postscript figure
+
+Renormalized Hamiltonians for gluons are constructed using a perturbativeboost-invariant renormalization group procedure for effective particles inlight-front QCD, including terms up to third order. The effective gluons andtheir Hamiltonians depend on the renormalization group parameter lambda, whichdefines the width of momentum space form factors that appear in therenormalized Hamiltonian vertices. Third-order corrections to the three-gluonvertex exhibit asymptotic freedom, but the rate of change of the vertex withlambda depends in a finite way on regularization of small-x singularities. Thisdependence is shown in some examples, and a class of regularizations with twodistinct scales in x is found to lead to the Hamiltonian running couplingconstant whose dependence on lambda matches the known perturbative result fromLagrangian calculus for the dependence of gluon three-point Green's function onthe running momentum scale at large scales. In the Fock space basis ofeffective gluons with small lambda, the vertex form factors suppressinteractions with large kinetic energy changes and thus remove direct couplingsof low energy constituents to high energy components in the effective boundstate dynamics. This structure is reminiscent of parton and constituent modelsof hadrons.

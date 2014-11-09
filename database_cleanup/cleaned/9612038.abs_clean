@@ -1,0 +1,11 @@
+Paper: hep-th/9612038
+
+Date: 1996-12-03
+
+Title: Techniques of Distributions in Perturbative Quantum Field Theory (II)
+
+Applications to Theory of Multiloop DiagramsAuthors: A.N.Kuznetsov, F.V.Tkachov
+
+Comments: 41 pages, Latex-2.09
+
+The results of the mathematical theory of asymptotic operation developed inhep-th/9612037 are applied to problems of immediate physical interest. First,the problem of UV renormalizationis analyzed from the viewpoint of asymptoticbehaviour of integrands in momentum representation. A new prescription for UVrenormalization in momentum space representation is presented (generalizedminimal subtraction scheme); it ensures UV convergence of renormalized diagramsby construction, makes no use of special (e.g. dimensional) regularizations,and comprizes massless renormalization schemes (including the MS scheme). Thenwe present formal regularization-independent proofs of general formulae forEuclidean asymptotic expansions of renormalized Feynman diagrams (inlcudingshort-distance OPE, heavy mass expansions and mixed asymptotic regimes etc.)derived earlier in the context of dimensional regularization. This result,together with the new variant of UV renormalization, demonstrates the power ofthe new techniques based on a systematic use of the theory of distributions andestablishes the method of As-operation as a comprehensive full-fledged---andinherently more powerful---alternative to the BPHZ approach.

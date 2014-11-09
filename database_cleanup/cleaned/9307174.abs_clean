@@ -1,0 +1,13 @@
+Paper: hep-th/9307174
+
+Date: 1993-07-28
+
+Title: Ward identities and Wilson renormalization group for QED
+
+Authors: M. Bonini, M. D'Attanasio and G. Marchesini
+
+Comments: LaTex file, 26 pages. Figures available upon request. Parma preprint
+
+UPRF 93-382Journal-ref: Nucl. Phys. B418 (1994) 81
+
+We analyze a formulation of QED based on the Wilson renormalization group.Although the ``effective Lagrangian'' used at any given scale does not havesimple gauge symmetry, we show that the resulting renormalized Green'sfunctions correctly satisfies Ward identities to all orders in perturbationtheory. The loop expansion is obtained by solving iteratively the Polchinski'srenormalization group equation. We also give a new simple proof of perturbativerenormalizability. The subtractions in the Feynman graphs and the correspondingcounterterms are generated in the process of fixing the physical conditions.

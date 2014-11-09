@@ -1,0 +1,13 @@
+Paper: hep-th/0201195
+
+Date: 2002-01-24
+
+Title: Onsager's algebra and partially orthogonal polynomials
+
+Authors: G. von Gehlen
+
+Comments: 8 pages, no figures
+
+SystemsJournal-ref: Int.J.Mod.Phys. B16 (2002) 2129-2136
+
+The energy eigenvalues of the superintegrable chiral Potts model aredetermined by the zeros of special polynomials which define finiterepresentations of Onsager's algebra. The polynomials determining thelow-sector eigenvalues have been given by Baxter in 1988. In the Z_3-case theysatisfy 4-term recursion relations and so cannot form orthogonal sequences.However, we show that they are closely related to Jacobi polynomials andsatisfy a special "partial orthogonality" with respect to a Jacobi weightfunction.

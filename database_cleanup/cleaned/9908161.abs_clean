@@ -1,0 +1,11 @@
+Paper: hep-th/9908161
+
+Date: 1999-08-25
+
+Title: A Hamiltonian Light-Front Approach to the Calculation of the Physical
+
+Spectrum in Quantum Field TheoryAuthors: Brent H. Allen
+
+Comments: Ph.D. Dissertation at The Ohio State University; 186 pages, 27
+
+figures, 1 tableWe develop a new systematic approach to quantum field theory that is designedto lead to physical states that rapidly converge in an expansion infree-particle Fock-space sectors. To make this possible, we use light-frontfield theory to isolate vacuum effects, and we place a smooth cutoff on theHamiltonian to force its free-state matrix elements to quickly decrease as thedifference of the free masses of the states increases. The cutoff violates anumber of physical principles of light-front field theory, including Lorentzcovariance and gauge covariance. This means that the operators in theHamiltonian are not required to respect these physical principles. However, byrequiring the Hamiltonian to produce cutoff-independent physical quantities andby requiring it to respect the unviolated physical principles of the theory, weare able to derive recursion relations that define the Hamiltonian to allorders in perturbation theory in terms of the fundamental parameters of thefield theory. We present two applications of this method. First we work inmassless phi-cubed theory in six dimensions. We derive the recursion relationsthat determine the Hamiltonian and demonstrate how they are used by computingand analyzing some of its second- and third-order matrix elements. Then weapply our method to pure-glue quantum chromodynamics. After deriving therecursion relations for this theory, we use them to calculate to second orderthe part of the Hamiltonian that is required to compute the spectrum. Wediagonalize the Hamiltonian using basis-function expansions for the gluons'color, spin, and momentum degrees of freedom. We analyze our results for thespectrum, compare them to recent lattice results, and discuss the varioussources of error in our calculation.

@@ -1,0 +1,9 @@
+Paper: hep-th/0301008
+
+Date: 2003-01-03
+
+Title: Finite Volume Chiral Partition Functions and the Replica Method
+
+Comments: RevTeX, 17 pages
+
+In the framework of chiral perturbation theory we demonstrate the equivalenceof the supersymmetric and the replica methods in the symmetry breaking classesof Dyson index \beta=1 and \beta=4. Schwinger-Dyson equations are used toderive a universal differential equation for the finite volume partitionfunction in sectors of fixed topological charge, \nu. All dependence on thesymmetry breaking class enters through the Dyson index, \beta. We utilize thisdifferential equation to obtain Virasoro constraints in the small massexpansion for all \beta and in the large mass expansion for \beta=2 witharbitrary \nu. Using quenched chiral perturbation theory we calculate the firstfinite volume correction to the chiral condensate demonstrating how, for all\beta,there exists a region in which the two expansion schemes of finite volumechiral perturbation theory overlap.

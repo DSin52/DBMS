@@ -1,0 +1,13 @@
+Paper: hep-th/0206047
+
+Date: 2002-06-06
+
+Title: One loop renormalization of soliton quantum mass corrections in
+
+(1+1)-dimensional scalar field theory modelsAuthors: G. Flores-Hidalgo
+
+Comments: 6 pages, 3 figures, comments added
+
+Journal-ref: Phys.Lett. B542 (2002) 282-288
+
+The bare one loop soliton quantum mass corrections can be expressed in twoclassical configuration, or equivalently as the (Euclidean) effective actionper unit time. In order to regularize the bare one loop quantum corrections(expressed as the sum over the zero-point energies) we subtract and add from itthe tadpole graph that appear in the expansion of the effective action per unittime. The subtraction renders the one loop quantum corrections finite. Next, weuse the renormalization prescription that the added tadpole graph cancels withadequate counterterms, obtaining in this way a finite unambiguous expressionfor the one loop soliton quantum mass corrections. When we apply the method tothe solitons of the sine-Gordon and phi^4 kink models we obtain results thatagree with known results. Finally we apply the method to compute the solitonquantum mass corrections in the recently introduced phi^2 cos^2 ln(phi^2)model.

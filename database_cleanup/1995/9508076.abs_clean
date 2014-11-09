@@ -1,0 +1,11 @@
+Paper: hep-th/9508076
+
+Date: 1995-08-16
+
+Title: Generalized Quantum Dynamics as Pre-Quantum Mechanics
+
+Comments: 79 pages, no figures, plain tex
+
+Journal-ref: Nucl.Phys. B473 (1996) 199-244
+
+We address the issue of when generalized quantum dynamics, which is aclassical symplectic dynamics for noncommuting operator phase space variablesbased on a graded total trace Hamiltonian ${\bf H}$, reduces to Heisenbergpicture complex quantum mechanics. We begin by showing that when ${\bf H}={\bfTr} H$, with $H$ a Weyl ordered operator Hamiltonian, then the generalizedquantum dynamics operator equations of motion agree with those obtained from$H$ in the Heisenberg picture by using canonical commutation relations. Theremainder of the paper is devoted to a study of how an effective canonicalalgebra can arise, without this condition simply being imposed by fiat on theoperator initial values. We first show that for any total trace Hamiltonianwhich involves no noncommutative constants, there is a conservedanti--self--adjoint operator $\tilde C$ with a structure which is closelyrelated to the canonical commutator algebra. We study the canonicaltransformations of generalized quantum dynamics, and show that $\tilde C$ is acanonical invariant, as is the operator phase space volume element. The latterresult is a generalization of Liouville's theorem, and permits the applicationof statistical mechanical methods to determine the canonical ensemble governingthe equilibrium distribution of operator initial values. We give argumentsbased on a Ward identity analogous to the equipartition theorem of classicalstatistical mechanics, suggesting that statistical ensemble averages of Weylordered polynomials in the operator phase space variables correspond to theWightman functions of a unitary complex quantum mechanics, with a conservedoperator Hamiltonian and with the standard canonical commutation relationsobeyed by Weyl ordered operator strings. Thus there is a well--defined sense in

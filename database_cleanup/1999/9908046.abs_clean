@@ -1,0 +1,13 @@
+Paper: hep-th/9908046
+
+Date: 1999-08-05
+
+Title: Structure constants for the D-series Virasoro minimal models
+
+Authors: Ingo Runkel
+
+Comments: 26 pages, LaTeX2e, uses amsmath,amsfonts,cite. Refs added, some
+
+points clarified, typos corrected, version as appeared in NPB (up to a typoin NPB eqn.(57))Journal-ref: Nucl.Phys. B579 (2000) 561-589
+
+In this paper expressions are given for the bulk and boundary structureconstants of D-series Virasoro minimal models on the upper half plane. It isthe continuation of an earlier work on the A-series. The solution for theboundary theory is found first and then extended to the bulk. The modularinvariant bulk field content is recovered as the maximal set of bulk fieldsconsistent with the boundary theory. It is found that the structure constantsare unique up to redefinition of the fields and in the chosen normalisationexhibit a manifest Z_2-symmetry associated to the D-diagram. The solution hasbeen subjected to random numerical tests against the constraints it has tofulfill.

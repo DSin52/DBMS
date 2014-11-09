@@ -1,0 +1,11 @@
+Paper: hep-th/0208136
+
+Date: 2002-08-20
+
+Title: Two-Point Green's Function in PT-Symmetric Theories
+
+Authors: Carl M. Bender, Stefan Boettcher, Peter N. Meisinger, and Qinghai Wang
+
+Journal-ref: Phys.Lett. A302 (2002) 286-290
+
+The Hamiltonian $H={1\over2} p^2+{1\over2}m^2x^2+gx^2(ix)^\delta$ with$\delta,g\geq0$ is non-Hermitian, but the energy levels are real and positiveas a consequence of ${\cal PT}$ symmetry. The quantum mechanical theorydescribed by $H$ is treated as a one-dimensional Euclidean quantum fieldtheory. The two-point Green's function for this theory is investigated usingperturbative and numerical techniques. The K\"allen-Lehmann representation forthe Green's function is constructed, and it is shown that by virtue of ${\calPT}$ symmetry the Green's function is entirely real. While the wave-functionrenormalization constant $Z$ cannot be interpreted as a conventionalprobability, it still obeys a normalization determined by the commutationrelations of the field. This provides strong evidence that the eigenfunctionsof the Hamiltonian are complete.

@@ -1,0 +1,11 @@
+Paper: hep-th/0303032
+
+Date: 2003-03-04
+
+Title: Constructing Gauge Theory Geometries from Matrix Models
+
+Authors: A. Klemm, K. Landsteiner, C. I. Lazaroiu, I. Runkel
+
+Comments: 52 pages
+
+We use the matrix model -- gauge theory correspondence of Dijkgraaf and Vafain order to construct the geometry encoding the exact gaugino condensatesuperpotential for the N=1 U(N) gauge theory with adjoint and symmetric oranti-symmetric matter, broken by a tree level superpotential to a productsubgroup involving U(N_i) and SO(N_i) or Sp(N_i/2) factors. The relevantgeometry is encoded by a non-hyperelliptic Riemann surface, which we extractfrom the exact loop equations. We also show that O(1/N) corrections can beextracted from a logarithmic deformation of this surface. The loop equationscontain explicitly subleading terms of order 1/N, which encode information ofstring theory on an orientifolded local quiver geometry.

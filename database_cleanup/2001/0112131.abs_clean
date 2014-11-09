@@ -1,0 +1,13 @@
+Paper: hep-th/0112131
+
+Date: 2001-12-14
+
+Title: Note on Gauge Theories on M/G and the AdS/CFT Correspondence
+
+Authors: Gary T. Horowitz and Ted Jacobson
+
+Comments: 16 pages; references added
+
+Journal-ref: JHEP 0201 (2002) 013
+
+It is well known that a weakly coupled U(N) gauge theory on a torus withsides of length L has extra light states with energies of order 1/NL. We showthat a similar result holds for gauge theories on M/G where M is any compactRiemannian manifold and G is any freely acting discrete isometry group. As inthe toroidal case, this is achieved by adding a suitable nontrivial flatconnection. As one application, we consider the AdS/CFT correspondence onspacetimes asymptotic to AdS_5/G. By considering finite size effects at nonzerotemperature, we show that consistency requires these extra light states of thegauge theory on S^3/G.

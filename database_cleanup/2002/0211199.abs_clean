@@ -1,0 +1,11 @@
+Paper: hep-th/0211199
+
+Date: 2002-11-21
+
+Title: Moyal Representation of the String Field Star Product in the Presence of
+
+a B-backgroundAuthors: Yong-shi Wu and Ting-liang Zhuang
+
+Comments: minor notation change
+
+In this paper we show that in the presence of an anti-symmetric tensor$B$-background, Witten's star algebra for open string fields persists topossess the structure of a direct product of commuting Moyal pairs. Theinterplay between the noncommutativity due to three-string overlap and that dueto the $B$-background is our main concern. In each pair of noncommutativedirections parallel to the $B$-background, the Moyal pairs mix string modes inthe two directions and are labeled, in addition to a continuous parameter, by{\it two} discrete values as well. However, the Moyal parameters are$B$-dependent only for discrete pairs. We have also demonstrated the large-$B$contraction of the star algebra, with one of the discrete Moyal pairs droppingout while the other giving rise to the center-of-mass noncommutative functionalgebra.

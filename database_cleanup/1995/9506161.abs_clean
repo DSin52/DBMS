@@ -1,0 +1,9 @@
+Paper: hep-th/9506161
+
+Date: 1995-06-23
+
+Title: The Renormalization Group and Singular Perturbations
+
+Boundary Layers and Reductive Perturbation TheoryComments: 44 pages, 2 Postscript figures, macro \uiucmac.tex available at macro
+
+Perturbative renormalization group theory is developed as a unified tool forglobal asymptotic analysis. With numerous examples, we illustrate itsapplication to ordinary differential equation problems involving multiplescales, boundary layers with technically difficult asymptotic matching, and WKBanalysis. In contrast to conventional methods, the renormalization groupapproach requires neither {\it ad hoc\/} assumptions about the structure ofperturbation series nor the use of asymptotic matching. Our renormalizationgroup approach provides approximate solutions which are practically superior tothose obtained conventionally, although the latter can be reproduced, ifdesired, by appropriate expansion of the renormalization group approximant. Weshow that the renormalization group equation may be interpreted as an amplitudeequation, and from this point of view develop reductive perturbation theory forpartial differential equations describing spatially-extended systems nearbifurcation points, deriving both amplitude equations and the center manifold.

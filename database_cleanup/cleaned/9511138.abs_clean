@@ -1,0 +1,13 @@
+Paper: hep-th/9511138
+
+Date: 1995-11-20
+
+Title: Quasi-Exactly Solvable Systems and Orthogonal Polynomials
+
+Authors: Carl M. Bender (Washington U.) and Gerald V. Dunne (U. Connecticut)
+
+Comments: 9pp, RevTeX, no figures; to appear in J. Math. Phys
+
+Journal-ref: J.Math.Phys. 37 (1996) 6-11
+
+This paper shows that there is a correspondence between quasi-exactlysolvable models in quantum mechanics and sets of orthogonal polynomials $\{P_n\}$. The quantum-mechanical wave function is the generating function for the$P_n (E)$, which are polynomials in the energy $E$. The condition ofquasi-exact solvability is reflected in the vanishing of the norm of allpolynomials whose index $n$ exceeds a critical value $J$. The zeros of thecritical polynomial $P_J(E)$ are the quasi-exact energy eigenvalues of thesystem.

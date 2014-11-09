@@ -1,0 +1,11 @@
+Paper: hep-th/9702134
+
+Date: 1997-02-18
+
+Title: Non-Abelian Proca model based on the improved BFT formalism
+
+Comments: Notable improvements in Sec. IV
+
+Journal-ref: Int.J.Mod.Phys. A13 (1998) 2179-2199
+
+We present the newly improved Batalin-Fradkin-Tyutin (BFT) Hamiltonianformalism and the generalization to the Lagrangian formulation, which providethe much more simple and transparent insight to the usual BFT method, withapplication to the non-Abelian Proca model which has been an difficult problemin the usual BFT method. The infinite terms of the effectively first classconstraints can be made to be the regular power series forms by ingeniouschoice of $X_{\alpha \beta}$ and $\omega^{\alpha \beta}$-matrices. In this newmethod, the first class Hamiltonian, which also needs infinite correction termsis obtained simply by replacing the original variables in the originalHamiltonian with the BFT physical variables. Remarkably all the infinitecorrection terms can be expressed in the compact exponential form. We also showthat in our model the Poisson brackets of the BFT physical variables in theextended phase space are the same structure as the Dirac brackets of theoriginal phase space variables. With the help of both our newly developedLagrangian formulation and Hamilton's equations of motion, we obtain thedesired classical Lagrangian corresponding to the first class Hamiltonian whichcan be reduced to the generalized St\"uckelberg Lagrangian which is non-trivialconjecture in our infinitely many terms involved in Hamiltonian and Lagrangian.

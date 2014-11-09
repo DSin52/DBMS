@@ -1,0 +1,13 @@
+Paper: hep-th/0208079
+
+Date: 2002-08-12
+
+Title: Open string - BMN operator correspondence in the weak coupling regime
+
+Authors: Yosuke Imamura
+
+Comments: 25 pages, 2 figures, PTPTeX, typos corrected
+
+Journal-ref: Prog.Theor.Phys. 108 (2003) 1077-1097
+
+We reproduce the correspondence between open string states |n> and BMNoperators O_n in N=2 supersymmetric gauge theory using a worldsheet computationwith the relation <B|n>=O_n, where <B| is a boundary state of D3-branes. Weregard the NS ground states and their excitations with respect to a bosonicoscillator as the states |n> and obtain a chiral operator and BMN operators,respectively, in correspondence to them. Because we take the coupling constantto be weak and the background spacetime to be flat Minkowski, not AdS, thestring states |n> are circular waves around the D3-branes, instead of KK modeson S^5. We also discuss the 1/J correction to the correspondence.

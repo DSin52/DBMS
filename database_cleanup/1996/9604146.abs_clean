@@ -1,0 +1,13 @@
+Paper: hep-th/9604146
+
+Date: 1996-04-23
+
+Title: Supersymmetry and Noncommutative Geometry
+
+Authors: W. Kalau, M. Walze
+
+Comments: 26pp., LaTeX
+
+Journal-ref: J.Geom.Phys. 22 (1997) 77-102
+
+The purpose of this article is to apply the concept of the spectral triple,the starting point for the analysis of noncommutative spaces in the sense ofA.~Connes, to the case where the algebra $\cA$ contains both bosonic andfermionic degrees of freedom. The operator $\cD$ of the spectral triple underconsideration is the square root of the Dirac operator und thus the forms ofthe generalized differential algebra constructed out of the spectral triple arein a representation of the Lorentz group with integer spin if the form degreeis even and they are in a representation with half-integer spin if the formdegree is odd. However, we find that the 2-forms, obtained by squaring theconnection, contains exactly the components of the vector multipletrepresentation of the supersymmetry algebra. This allows to construct an actionfor supersymmetric Yang-Mills theory in the framework of noncommutativegeometry.

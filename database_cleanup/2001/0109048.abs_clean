@@ -1,0 +1,13 @@
+Paper: hep-th/0109048
+
+Date: 2001-09-06
+
+Title: Integrable Structure of the Dirichlet Boundary Problem in Two Dimensions
+
+Authors: A.Marshakov, P.Wiegmann and A.Zabrodin
+
+Comments: 25 pages, 2 figures, LaTeX
+
+and Integrable SystemsJournal-ref: Commun.Math.Phys. 227 (2002) 131-153
+
+We study how the solution of the two-dimensional Dirichlet boundary problemfor smooth simply connected domains depends upon variations of the data of theproblem. We show that the Hadamard formula for the variation of the DirichletGreen function under deformations of the domain reveals an integrablestructure. The independent variables corresponding to the infinite set ofcommuting flows are identified with harmonic moments of the domain. Thesolution to the Dirichlet boundary problem is expressed through thetau-function of the dispersionless Toda hierarchy. We also discuss a degeneratecase of the Dirichlet problem on the plane with a gap. In this case thetau-function is identical to the partition function of the planar large $N$limit of the Hermitean one-matrix model.

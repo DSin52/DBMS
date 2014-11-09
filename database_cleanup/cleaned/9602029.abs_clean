@@ -1,0 +1,13 @@
+Paper: hep-th/9602029
+
+Date: 1996-02-06
+
+Title: Confinement and chiral condensates in 2-d QED with massive N-flavor
+
+fermionsAuthors: Ramon Rodriguez and Yutaka Hosotani (Univ of Minnesota)
+
+Comments: 14 pages. LaTex + 2 postscript figures, uses epsf.sty
+
+Journal-ref: Phys.Lett. B375 (1996) 273-284
+
+We evaluate Polyakov loops and string tension in two-dimensional QED withboth massless and massive $N$-flavor fermions at zero and finite temperature.External charges, or external electric fields, induce phases in fermion massesand shift the value of the vacuum angle parameter $\theta$, which in turnalters the chiral condensate. In particular, in the presence of two sources ofopposite charges, $q$ and $-q$, the shift in $\theta$ is $2\pi(q/e)$independent of $N$. The string tension has a cusp singularity at$\theta=\pm\pi$ for $N\ge 2$ and is proportional to $m^{2N/(N+1)}$ at $T=0$.

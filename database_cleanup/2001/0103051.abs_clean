@@ -1,0 +1,13 @@
+Paper: hep-th/0103051
+
+Date: 2001-03-07
+
+Title: Spectral equivalences, Bethe Ansatz equations, and reality properties in
+
+PT-symmetric quantum mechanicsAuthors: Patrick Dorey, Clare Dunning and Roberto Tateo
+
+Comments: 32 pages, 12 figures, Latex2e, amssymb, cite and graphicx. v2
+
+References, and a new section with two further dualities, added; typosSolvable and Integrable SystemsJournal-ref: J.Phys. A34 (2001) 5679-5704
+
+The one-dimensional Schrodinger equation for the potential $x^6+\alpha x^2+l(l+1)/x^2$ has many interesting properties. For certain values of theparameters l and alpha the equation is in turn supersymmetric (Witten),quasi-exactly solvable (Turbiner), and it also appears in Lipatov's approach tohigh energy QCD. In this paper we signal some further curious features of thesetheories, namely novel spectral equivalences with particular second- andthird-order differential equations. These relationships are obtained via arecently-observed connection between the theories of ordinary differentialequations and integrable models. Generalised supersymmetry transformationsacting at the quasi-exactly solvable points are also pointed out, and anefficient numerical procedure for the study of these and related problems isdescribed. Finally we generalise slightly and then prove a conjecture due toBessis, Zinn-Justin, Bender and Boettcher, concerning the reality of thespectra of certain PT-symmetric quantum-mechanical systems.

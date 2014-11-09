@@ -1,0 +1,11 @@
+Paper: hep-th/9507174
+
+Date: 1995-07-31
+
+Title: Quantum Chains of Hopf Algebras with Order-Disorder Fields and Quantum
+
+Double SymmetryAuthors: Florian Nill, Kornel Szlachanyi
+
+Comments: 40 pages, plain TEX
+
+Given a finite dimensional C-*-Hopf algebra H and its dual H^ we constructthe infinite crossed product A=... x H x H^ x H x ... and study itsrepresentations. A is the observable algebra of a generalized spin model withH-order and H^-disorder symmetries. By pointing out that A possesses a certaincompressibility property we can classify all DHR-sectors of A --- relative tosome Haag dual vacuum representation --- and prove that their symmetry isdescribed by the Drinfeld double D(H). Complete, irreducible, translationcovariant field algebra extensions F > A are shown to be in one-to-onecorrespondence with cohomology classes of 2-cocycles u in D(H) @ D(H).

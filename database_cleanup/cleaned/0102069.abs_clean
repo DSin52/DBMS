@@ -1,0 +1,13 @@
+Paper: hep-th/0102069
+
+Date: 2001-02-13
+
+Title: Integrable Many-Body Systems via Inozemtsev Limit
+
+Authors: Yu.Chernyakov, A.Zotov
+
+Comments: LaTeX, 16 pages, minor changes
+
+Journal-ref: Theor.Math.Phys. 129 (2001) 1526-1542; Teor.Mat.Fiz. 129 (2001)
+
+258-277The Inozemtsev limit (IL) or the scaling limit is known to be a procedureapplied to the elliptic Calogero Model. It is a combination of thetrigonometric limit, infinite shifts of particles coordinates and rescalings ofthe coupling constants. As a result, one obtains an exponential type ofinteraction. In the recent paper it is shown that the IL applied to the$sl(N,\bf C)$ elliptic Euler-Calogero Model and the elliptic Gaudin Modelproduces new Toda-like systems of $N$ interacting particles endowed withadditional degrees of freedom corresponding to a coadjoint orbit in $sl(n,\bfC)$. The limits corresponding to the complete degeneration of the orbitaldegrees provide only ordinary periodic and non periodic Toda systems. Weintroduce a classification of the systems appearing in the $sl(3,\bf C)$ casevia IL. The classification is represented on two-dimensional space ofparameters describing the infinite shifts of the coordinates. This space issubdivided into symmetric domains. The mixture of the Toda and thetrigonometric Calogero-Sutherland potentials emerges on the low dimensionaldomain walls of this picture. Due to obvious symmetries this classification canbe generalized to the arbitrary number of particles. We also apply IL to$sl(2,\bf C)$ elliptic Gaudin Model with two marked points on the ellipticcurve and discuss main features of its possible limits. The limits of Laxmatrices are also considered.

@@ -1,0 +1,11 @@
+Paper: hep-th/9404112
+
+Date: 1994-04-19
+
+Title: Discrete differential calculus, graphs, topologies and gauge theory
+
+Comments: 36 pages, revised version, appendix added
+
+Journal-ref: J.Math.Phys. 35 (1994) 6703-6735
+
+Differential calculus on discrete sets is developed in the spirit ofnoncommutative geometry. Any differential algebra on a discrete set can beregarded as a `reduction' of the `universal differential algebra' and thisallows a systematic exploration of differential algebras on a given set.Associated with a differential algebra is a (di)graph where two vertices areconnected by at most two (antiparallel) arrows. The interpretation of such agraph as a `Hasse diagram' determining a (locally finite) topology thenestablishes contact with recent work by other authors in which discretizationsof topological spaces and corresponding field theories were considered whichretain their global topological structure. It is shown that field theories, andin particular gauge theories, can be formulated on a discrete set in closeanalogy with the continuum case. The framework presented generalizes ordinarylattice theory which is recovered from an oriented (hypercubic) lattice graph.It also includes, e.g., the two-point space used by Connes and Lott (andothers) in models of elementary particle physics. The formalism suggests thatthe latter be regarded as an approximation of a manifold and thus opens a wayto relate models with an `internal' discrete space ({\`a} la Connes et al.) tomodels of dimensionally reduced gauge fields. Furthermore, also a `symmetriclattice' is studied which (in a certain continuum limit) turns out to berelated to a `noncommutative differential calculus' on manifolds.

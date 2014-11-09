@@ -1,0 +1,13 @@
+Paper: hep-th/9606029
+
+Date: 1996-06-06
+
+Title: Spontaneously broken abelian Chern-Simons theories
+
+Authors: Mark de Wild Propitius
+
+Comments: 72+2 pages, LaTeX, 10 eps figures uuencoded. Postscript version also
+
+Journal-ref: Nucl.Phys. B489 (1997) 297-359
+
+A detailed analysis of Chern-Simons (CS) theories in which a compact abeliandirect product gauge group U(1)^k is spontaneously broken down to a directproduct H of (finite) cyclic groups is presented. The spectrum features globalH charges, vortices carrying flux labeled by the elements of H and dyoniccombinations. Due to the Aharonov-Bohm effect these particles exhibittoplogical interactions. The remnant of the U(1)^k CS term in the discrete Hgauge theory describing the effective long distance physics of such a model isshown to be a 3-cocycle for H summarizing the nontrivial topologicalinteractions cast upon the magnetic vortices by the U(1)^k CS term. It is notedthat there are in general three types of 3-cocycles for a finite abelian gaugeflux w.r.t. the same cyclic group in the direct product H, another type givesrise to topological interactions between vortices carrying flux w.r.t. twodifferent cyclic factors of H and a third type leading to topologicalinteractions between vortices carrying flux w.r.t. three different cyclicfactors. Among other things, it is demonstrated that only the first two typescan be obtained from a spontaneously broken U(1)^k CS theory. The 3-cocyclesthat can not be reached in this way turn out to be the most interesting. Theyrender the theory nonabelian and in general lead to dualities with planartheories with a nonabelian finite gauge group. In particular, the CS theorywith finite gauge group H = Z_2 x Z_2 x Z_2 defined by such a 3-cocycle isshown to be dual to the planar discrete D_4 gauge theory with D_4 the dihedralgroup of order 8.

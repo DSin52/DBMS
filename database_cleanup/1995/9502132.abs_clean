@@ -1,0 +1,11 @@
+Paper: hep-th/9502132
+
+Date: 1995-02-22
+
+Title: Character Expansion Methods for Matrix Models of Dually Weighted Graphs
+
+de Physique Theorique de l'Ecole Normale Superieure)Comments: 22 pages, harvmac.tex, pictex.tex. All diagrams written directly into
+
+the text in Pictex commands. (Two minor math typos corrected.Acknowledgements added.)Journal-ref: Commun.Math.Phys. 177 (1996) 451-468
+
+We consider generalized one-matrix models in which external fields allowcontrol over the coordination numbers on both the original and dual lattices.We rederive in a simple fashion a character expansion formula for these modelsoriginally due to Itzykson and Di Francesco, and then demonstrate how to takethe large N limit of this expansion. The relationship to the usual matrix modelresolvent is elucidated. Our methods give as a by-product an extremely simplederivation of the Migdal integral equation describing the large $N$ limit ofthe Itzykson-Zuber formula. We illustrate and check our methods by analyzing anumber of models solvable by traditional means. We then proceed to solve a newthe original and the dual lattice. We conclude by formulating equations for thecase of arbitrary sets of even, self-dual coupling constants. This opens theway for studying the deep problem of phase transitions from random to flatlattices.

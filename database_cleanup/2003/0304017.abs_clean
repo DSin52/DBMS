@@ -1,0 +1,9 @@
+Paper: hep-th/0304017
+
+Date: 2003-04-02
+
+Title: Wigner's little group and Berry's phase for massless particles
+
+Comments: 4 pages revtex
+
+The ``little group'' for massless particles (namely, the Lorentztransformations $\Lambda$ that leave a null vector invariant) is isomorphic toobtain explicitly the rotation angle of E2 as a function of $\Lambda$ and werelate that angle to Berry's topological phase. Some particles admit both signsof helicity, and it is then possible to define a reduced density matrix fortheir polarization. However, that density matrix is physically meaningless,because it has no transformation law under the Lorentz group, even underordinary rotations.

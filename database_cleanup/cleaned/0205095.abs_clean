@@ -1,0 +1,11 @@
+Paper: hep-th/0205095
+
+Date: 2002-05-10
+
+Title: Supersymmetry on the lattice and the Leibniz rule
+
+Comments: 19 pages. References were up-dated, and a brief footnote on Wilson
+
+fermion was added. Nucl. Phys. B (in press)Journal-ref: Nucl.Phys. B636 (2002) 80-98
+
+The major obstacle to a supersymmetric theory on the lattice is the failureof the Leibniz rule. We analyze this issue by using the Wess-Zumino model and ageneral Ginsparg-Wilson operator, which is local and free of species doublers.We point out that the Leibniz rule could be maintained on the lattice if thegeneric momentum $k_{\mu}$ carried by any field variable satisfies$|ak_{\mu}|<\delta$ in the limit $a\to 0$ for arbitrarily small but finite$\delta$. This condition is expected to be satisfied generally if the theory isfinite perturbatively, provided that discretization does not induce furthersymmetry breaking. We thus first render the continuum Wess-Zumino model finiteby applying the higher derivative regularization which preserves supersymmetry.We then put this theory on the lattice, which preserves supersymmetry exceptfor a breaking in interaction terms by the failure of the Leibniz rule. By thisway, we define a lattice Wess-Zumino model which maintains the basic propertiessuch as $U(1)\times U(1)_{R}$ symmetry and holomorphicity. We show that thismodel reproduces continuum theory in the limit $a\to 0$ up to any finite orderin perturbation theory; in this sense all the supersymmetry breaking termsinduced by the failure of the Leibniz rule are irrelevant. We then suggest thatthis discretization may work to define a low energy effective theory in anon-perturbative way.

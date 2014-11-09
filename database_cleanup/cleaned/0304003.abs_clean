@@ -1,0 +1,11 @@
+Paper: hep-th/0304003
+
+Date: 2003-04-01
+
+Title: N=2 Sigma Model with Twisted Mass and Superpotential
+
+and SolitonsAuthors: A. Losev, M. Shifman
+
+Comments: 21 pages, Latex, 1 eps figure. Two important references added
+
+We consider supersymmetric sigma models on the Kahler target spaces, withtwisted mass. The Kahler spaces are assumed to have holomorphic Killingvectors. Introduction of a superpotential of a special type is known to beconsistent with N=2 superalgebra (Alvarez-Gaume and Freedman). We show that thealgebra acquires central charges in the anticommutators {Q_L, Q_L} and {Q_R,Q_R}. These central charges have no parallels, and they can exist only in twodimensions. The central extension of the N=2 superalgebra we found paves theway to a novel phenomenon -- spontaneous breaking of a part of supersymmetry.In the general case 1/2 of supersymmetry is spontaneously broken (the vacuumenergy density is positive), while the remaining 1/2 is realized linearly. Inthe model at hand the standard fermion number is not defined, so that theWitten index as well as the Cecotti-Fendley-Intriligator-Vafa index areuseless. We show how to construct an index for counting short multiplets ininternal algebraic terms which is well-defined in spite of the absence of thestandard fermion number. Finally, we outline derivation of the quantum anomalyin {\bar Q_L, Q_R}.

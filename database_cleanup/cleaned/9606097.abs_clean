@@ -1,0 +1,13 @@
+Paper: hep-th/9606097
+
+Date: 1996-06-17
+
+Title: Conformal and Nonconformal Symmetries in 2d Dilaton gravity
+
+Authors: J. Cruz, J. Navarro-Salas, M. Navarro and C.F. Talavera
+
+Comments: Latex, no figures. Revised version published in
+
+Journal-ref: Phys. Lett. B402 (1997) 270
+
+We study finite-dimensional extra symmetries of generic 2D dilaton gravitymodels. Using a non-linear sigma model formulation we show that the uniquetheories admitting an extra (conformal) symmetry are the models with anexponential potential $V \propto e^{\beta\phi}$ ($ S ={1\over2\pi} \int d^2 x\sqrt{-g} [ R \phi + 4 \lambda^2 e^{\beta\phi} ]$), which include the CGHSmodel as a particular though limiting ($\beta=0$) case. These models give riseto black hole solutions with a mass-dependent temperature. The underlying extrasymmetry can be maintained in a natural way in the one-loop effective action,thus implying the exact solubility of the semiclassical theory includingback-reaction. Moreover, we also introduce three different classes of(non-conformal) transformations which are extra symmetries for generic 2Ddilaton gravity models. Special linear combinations of these transformationsturn out to be the (conformal) symmetries of the CGHS and $V \proptoe^{\beta\phi}$ models. We show that one of the non-conformal extra symmetriescan be converted into a conformal one by means of adequate field redefinitionsinvolving the metric and the derivatives of the dilaton. Finally, by expressingthe Polyakov-Liouville effective action in terms of an invariant metric, we areable to provide semiclassical models which are also invariant. This generalizesthe solvable semiclassical model of Bose, Parker and Peleg (BPP) for a generic2D dilaton gravity model.

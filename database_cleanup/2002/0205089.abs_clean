@@ -1,0 +1,13 @@
+Paper: hep-th/0205089
+
+Date: 2002-05-10
+
+Title: PP-wave string interactions from perturbative Yang-Mills theory
+
+Authors: Neil R. Constable, Daniel Z. Freedman, Matthew Headrick, Shiraz
+
+Minwalla, Lubos Motl, Alexander Postnikov, Witold SkibaComments: JHEP3 LaTeX, 32 pages of main text, plus appendices (64 pages in
+
+restructuring of the text, missing figure included, typos corrected, resultsunchangedJournal-ref: JHEP 0207 (2002) 017
+
+Recently, Berenstein et al. have proposed a duality between a sector of N=4super-Yang-Mills theory with large R-charge J, and string theory in a pp-wavebackground. In the limit considered, the effective 't Hooft coupling has beenargued to be lambda'=g_{YM}^2 N/J^2=1/(mu p^+ alpha')^2. We study Yang-Millstheory at small lambda' (large mu) with a view to reproducing stringinteractions. We demonstrate that the effective genus counting parameter of theYang-Mills theory is g_2^2=J^4/N^2=(4 pi g_s)^2 (mu p^+ alpha')^4, theeffective two-dimensional Newton constant for strings propagating on thepp-wave background. We identify g_2 sqrt{lambda'} as the effective couplingbetween a wide class of excited string states on the pp-wave background. Wecompute the anomalous dimensions of BMN operators at first order in g_2^2 andlambda' and interpret our result as the genus one mass renormalization of thecorresponding string state. We postulate a relation between the three-stringvertex function and the gauge theory three-point function and compare ourproposal to string field theory. We utilize this proposal, together withquantum mechanical perturbation theory, to recompute the genus one energy shiftof string states, and find precise agreement with our earlier computation.

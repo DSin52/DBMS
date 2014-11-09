@@ -1,0 +1,11 @@
+Paper: hep-th/0111252
+
+Date: 2001-11-28
+
+Title: On interpretations and constructions of classical dynamical r-matrices
+
+Authors: L. Feher, A. Gabor
+
+Comments: 8 pages, LaTeX, based on a talk given by L.F. at the QTS2 symposium,
+
+18-21 July 2001, Krakow, Poland. References are updated, and a typo isremoved in v2; a misprint in equation (A.13) is corrected in v3In this note we complement recent results on the exchange $r$-matricesappearing in the chiral WZNW model by providing a direct, purelyfinite-dimensional description of the relationship between the monodromydependent 2-form that enters the chiral WZNW symplectic form and the exchange$r$-matrix that governs the corresponding Poisson brackets. We also develop thespecial case in which the exchange $r$-matrix becomes the `canonical' solutionof the classical dynamical Yang-Baxter equation on an arbitrary self-dual Liealgebra.

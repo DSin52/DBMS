@@ -1,0 +1,11 @@
+Paper: hep-th/9412166
+
+Date: 1994-12-19
+
+Title: An Algebraic Approach to Form Factors
+
+Comments: A simplified form of the algebra is used that allows one to dispense
+
+with the extra generator C. To appear in Nucl. Phys. BJournal-ref: Nucl.Phys. B440 (1995) 603-646; Erratum-ibid. B456 (1995) 755
+
+An associative $*$-algebra is introduced (containing a $TTR$-algebra as asubalgebra) that implements the form factor axioms, and hence indirectly theover the algebra automatically satisfies all the form factor axioms. It isargued that this answers the question (posed in the functional Bethe ansatz)how to select the dynamically correct representations of the $TTR$-algebra.Applied to the case of integrable QFTs with diagonal factorized scatteringtheory a universal formula for the eigenvalues of the conserved chargesemerges.

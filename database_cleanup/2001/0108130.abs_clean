@@ -1,0 +1,13 @@
+Paper: hep-th/0108130
+
+Date: 2001-08-17
+
+Title: Character Expansions for the Orthogonal and Symplectic Groups
+
+Authors: A.B. Balantekin (Heidelberg, Max Planck Inst. and Wisconsin U.,
+
+Madison) and P. Cassak (Wisconsin U., Madison)Comments: 20 pages, in REVTEX
+
+Journal-ref: J.Math.Phys. 43 (2002) 604-620
+
+Formulas for the expansion of arbitrary invariant group functions in terms ofthe characters for the Sp(2N), SO(2N+1), and SO(2N) groups are derived using acombinatorial method. The method is similar to one used by Balantekin to expandgroup functions over the characters of the U(N) group. All three expansionshave been checked for all N by using them to calculate the known expansions ofthe generating function of the homogeneous symmetric functions. An expansion ofthe exponential of the traces of group elements, appearing in the finite-volumegauge field partition functions, is worked out for the orthogonal andsymplectic groups.

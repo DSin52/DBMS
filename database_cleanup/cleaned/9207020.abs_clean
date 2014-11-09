@@ -1,0 +1,13 @@
+Paper: hep-th/9207020
+
+Date: 1992-07-08
+
+Title: Higher Genus Correlators for the Complex Matrix Model
+
+Authors: J. Ambjorn, C.F. Kristjansen and Y.M. Makeenko
+
+Comments: 17 pages
+
+Journal-ref: Mod.Phys.Lett. A7 (1992) 3187-3202
+
+We describe an iterative scheme which allows us to calculate any multi-loopcorrelator for the complex matrix model to any genus using only the first inthe chain of loop equations. The method works for a completely generalpotential and the results contain no explicit reference to the couplings. Thegenus $g$ contribution to the $m$--loop correlator depends on a finite numberof parameters, namely at most $4g-2+m$. We find the generating functionalexplicitly up to genus three. We show as well that the model is equivalent toan external field problem for the complex matrix model with a logarithmicpotential.

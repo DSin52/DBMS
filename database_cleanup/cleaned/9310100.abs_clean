@@ -1,0 +1,11 @@
+Paper: hep-th/9310100
+
+Date: 1993-10-15
+
+Title: The Role of the Canonical Element in the Quantized Algebra of
+
+Differential Operators $\A\rtimes\U$Authors: Chryssomalis Chryssomalakos, Peter Schupp and Paul Watts
+
+Comments: 13 pages, LBL-33274 and UCB-PTH-92/42
+
+We review the construction of the cross product algebra $\A\rtimes\U$ fromtwo dually paired Hopf algebras $\U$ and $\A$. The canonical element in $\U\otimes \A$ is then introduced, and its properties examined. We find that it isuseful for giving coactions on $\A\rtimes\U$, and it allows the construction ofobjects with specific invariance properties under these coactions. A ``vacuumoperator'' is found which projects elements of $\A\rtimes\U$ onto said objects.We then discuss bicovariant vector fields in the context of the canonicalelement.

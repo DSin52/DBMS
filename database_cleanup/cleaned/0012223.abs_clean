@@ -1,0 +1,13 @@
+Paper: hep-th/0012223
+
+Date: 2000-12-22
+
+Title: Excited TBA Equations I
+
+Authors: Paul A. Pearce, Leung Chim and Changrim Ahn
+
+Comments: 31 pages, 8 figures
+
+Journal-ref: Nucl.Phys. B601 (2001) 539-568
+
+We consider the massive tricritical Ising model M(4,5) perturbed by thethermal operator phi_{1,3} in a cylindrical geometry and apply integrableboundary conditions, labelled by the Kac labels (r,s), that are naturaloff-critical perturbations of known conformal boundary conditions. We derivemassive thermodynamic Bethe ansatz (TBA) equations for all excitations bysolving, in the continuum scaling limit, the TBA functional equation satisfiedby the double-row transfer matrices of the A_4 lattice model of Andrews, Baxterand Forrester (ABF) in Regime III. The complete classification of excitations,in terms of (m,n) systems, is precisely the same as at the conformaltricritical point. Our methods also apply on a torus but we first consider(r,s) boundaries on the cylinder because the classification of states is simplyrelated to fermionic representations of single Virasoro characterschi_{r,s}(q). We study the TBA equations analytically and numerically todetermine the conformal UV and free particle IR spectra and the connectingmassive flows. The TBA equations in Regime IV and massless RG flows are studiedin Part II.

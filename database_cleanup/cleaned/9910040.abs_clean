@@ -1,0 +1,13 @@
+Paper: hep-th/9910040
+
+Date: 1999-10-05
+
+Title: Holographic Stress Tensors for Kerr-AdS Black Holes
+
+Authors: Adel M. Awad and Clifford V. Johnson
+
+Comments: 9 pages, RevTeX; v5
+
+the new stress tensor not having same conserved quantities as old. i.e.,"improvement" fails. The fascinating reason will be reported on in a separatepublication.)Journal-ref: Phys.Rev. D61 (2000) 084025
+
+We use the counterterm subtraction method to calculate the action andstress-energy-momentum tensor for the (Kerr) rotating black holes in AdS_{n+1},for n=2, 3 and 4. We demonstrate that the expressions for the total energy forthe Kerr-AdS_3 and Kerr-AdS_5 spacetimes, in the limit of vanishing black holemass, are equal to the Casimir energies of the holographically dualn-dimensional conformal field theories. In particular, for Kerr-AdS_5, dual tothe case of four dimensional N=4 supersymmetric Yang-Mills theory on therotating Einstein universe, we explicitly verify the equality of the zero massstress tensor from the two sides of the correspondence, and present the resultfor general mass as a prediction from gravity. Amusingly, it is observed infour dimensions that while the trace of the stress tensor defined using thestandard counterterms does not vanish, its integral does, thereby keeping theaction free of ultraviolet divergences. Using a different regularisation schemeanother stress tensor can be defined, which is traceless.

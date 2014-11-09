@@ -1,0 +1,13 @@
+Paper: hep-th/9501102
+
+Date: 1995-01-23
+
+Title: The Effect of Spatial Curvature on the Classical and Quantum Strings
+
+Authors: A.L. Larsen (Obs. de Paris, DEMIRM), N. Sanchez (Obs. de Paris,
+
+DEMIRM)Comments: 30 pages Latex + three tables and five figures (not included)
+
+Journal-ref: Int.J.Mod.Phys. A11 (1996) 4005-4030
+
+We study the effects of the spatial curvature on the classical and quantumstring dynamics. We find the general solution of the circular string motion instatic Robertson-Walker spacetimes with closed or open sections. This is givenclosely and completely in terms of elliptic functions. The physical properties,string length, energy and pressure are computed and analyzed. We find the {\itsolution to the Einstein equations is a spatially closed $(K>0)$ spacetime witha selected value of the curvature index $K$ (the scale f* is normalized tounity). No self-consistent solutions with $K\leq 0$ exist. We semi-classicallyquantize the circular strings and find the mass $m$ in each case. For $K>0,$the very massive strings, oscillating on the full hypersphere, have $m^2\sim Kn^2\;\;(n\in N_0)$ {\it independent} of $\alpha'$ and the level spacing {\itgrows} with $n,$ while the strings oscillating on one hemisphere (withoutcrossing the equator) have $m^2\alpha'\sim n$ and a {\it finite} number ofstates $N\sim 1/(K\alpha').$ For $K<0,$ there are infinitely many string stateswith masses $m\log m\sim n,$ that is, the level spacing grows {\it slower} than$n.$ The stationary string solutions as well as the generic string fluctuationsaround the center of mass are also found and analyzed in closed form.

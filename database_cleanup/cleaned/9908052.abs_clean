@@ -1,0 +1,11 @@
+Paper: hep-th/9908052
+
+Date: 1999-08-08
+
+Title: Noncommutative Regularization for the Practical Man
+
+Authors: Eli Hawkins
+
+Comments: 30 pages. AMS-LaTeX using euler, palatino, graphics, psfrag, and 9
+
+EPS figures. Title explained in ref. [8]It has been proposed that the noncommutative geometry of the "fuzzy" 2-sphereprovides a nonperturbative regularization of scalar field theories. Thisgeneralizes to compact Kaehler manifolds where simple field theories areregularized by the geometric quantization of the manifold.In order to permit actual calculations and the comparison with otherregularizations, I describe the perturbation theory of these regularized modelsand propose an approximation technique for evaluation of the Feynman diagrams.I present example calculations of the simplest diagrams for the $\phi^4$ modelon the 2-sphere, a 2-sphere times a 2-sphere, and 2-dimensional complexprojective space.This regularization fails for noncompact spaces; I give a brief dimensionalanalysis argument as to why this is so. I also discuss the relevance of thetopology of Feynman diagrams to their ultra-violet and infra-red divergencebehavior in this model.

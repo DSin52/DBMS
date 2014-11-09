@@ -1,0 +1,9 @@
+Paper: hep-th/9507106
+
+Date: 1995-07-20
+
+Title: Factorization of Spanning Trees on Feynman Graphs
+
+Comments: 47 pages, Plain Tex, 3 PostScript figures
+
+In order to use the Gaussian representation for propagators in Feynmanamplitudes, a representation which is useful to relate string theory and fieldtheory, one has to prove first that each $\alpha$- parameter (where $\alpha$ isthe parameter associated to each propagator in the $\alpha$-representation ofthe Feynman amplitudes) can be replaced by a constant instead of beingintegrated over and second, prove that this constant can be taken equal for allpropagators of a given graph. The first proposition has been proven in onerecent letter when the number of propagators is infinite. Here we prove thesecond one. In order to achieve this, we demonstrate that the sum over theweighted spanning trees of a Feynman graph $G$ can be factorized for disjointparts of $G$. The same can also be done for cuts on $G$, resulting in arigorous derivation of the Gaussian representation for super-renormalizablescalar field theories. As a by-product spanning trees on Feynman graphs can beused to define a discretized functional space.

@@ -1,0 +1,13 @@
+Paper: hep-th/9911230
+
+Date: 1999-11-29
+
+Title: Asymptotically Anti-de Sitter Space-times
+
+Authors: Abhay Ashtekar and Saurya Das (CGPG, Penn State University)
+
+Comments: 17 pages, Revtex; to be published in Class. and Quant. Gravity
+
+Journal-ref: Class.Quant.Grav. 17 (2000) L17-L30
+
+Asymptotically anti-de Sitter space-times are considered in a generaldimension $d\ge 4$. As one might expect, the boundary conditions at infinityensure that the asymptotic symmetry group is the anti-de Sitter group (althoughthere is an interesting subtlety if d=4). Asymptotic field equations implythat, associated with each generator $\xi$ of this group, there is a quantity$Q_\xi$ which satisfies the expected `balance equation' if there is flux ofphysical matter fields across the boundary $\I$ at infinity and is absolutelyconserved in absence of this flux. Irrespective of the dimension d, all thesequantities vanish if the space-time under considerations is (globally) anti-deSitter. Furthermore, this result is required by a general covariance argument.However, it contradicts some of the recent findings based on the conjecturedADS/CFT duality. This and other features of our analysis suggest that, if aconsistent dictionary between gravity and conformal field theories does existin fully non-perturbative regimes, it would have to be more subtle than the oneused currently.

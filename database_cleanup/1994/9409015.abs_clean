@@ -1,0 +1,13 @@
+Paper: hep-th/9409015
+
+Date: 1994-09-02
+
+Title: Off-shell Closed String Amplitudes
+
+PotentialAuthors: Alexander Belopolsky, Barton Zwiebach
+
+Comments: 42 pages, phyzzx macropackage. A correction made that implies that
+
+the tachyon potential is unbounded below and unlikely to have a localminimum. An extra reference addedJournal-ref: Nucl.Phys. B442 (1995) 494-532
+
+We derive an explicit formula for the evaluation of the classical closedstring action for any off-shell string field, and for the calculation ofarbitrary off-shell amplitudes. The formulae require a parametrization, interms of some moduli space coordinates, of the family of local coordinatesneeded to insert the off-shell states on Riemann surfaces. We discuss in detailthe evaluation of the tachyon potential as a power series in the tachyon field.The expansion coefficients in this series are shown to be geometricalinvariants of Strebel quadratic differentials whose variational propertiesimply that closed string polyhedra, among all possible choices of stringvertices, yield a tachyon potential which is as small as possible order byorder in the string coupling constant. Our discussion emphasizes thegeometrical meaning of off-shell amplitudes.

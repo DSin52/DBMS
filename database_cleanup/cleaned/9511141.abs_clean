@@ -1,0 +1,11 @@
+Paper: hep-th/9511141
+
+Date: 1995-11-20
+
+Title: The equivalence between the operator approach and the path integral
+
+approach for quantum mechanical non-linear sigma modelsAuthors: Jan de Boer, Bas Peeters, Kostas Skenderis, and Peter van
+
+NieuwenhuizenComments: 17 pages, LaTeX, with one figure (needs psfig). To appear in
+
+proceedings of workshop on gauge theories, applied supersymmetry and quantumgravity, Leuven, Belgium, July 10-14, 1995, and strings'95, USC, March 13-18,1995We give background material and some details of calculations for two recentpapers [1,2] where we derived a path integral representation of the transitionelement for supersymmetric and nonsupersymmetric nonlinear sigma models in onedimension (quantum mechanics). Our approach starts from a Hamiltonian$H(\hat{x}, \hat{p}, \hat{\psi}, \hat{\psi}^\dagger)$ with a priori operatorordering. By inserting a finite number of complete sets of $x$ eigenstates, $p$eigenstates and fermionic coherent states, we obtain the discretized pathintegral and the discretized propagators and vertices in closed form. Takingthe continuum limit we read off the Feynman rules and measure of the continuumtheory which differ from those often assumed. In particular, moderegularization of the continuum theory is shown in an example to give incorrectresults. As a consequence of time-slicing, the action and Feynman rules,although without any ambiguities, are necessarily noncovariant, but the finalresults are covariant if $\hat{H}$ is covariant. All our derivations are exact.Two loop calculations confirm our results.

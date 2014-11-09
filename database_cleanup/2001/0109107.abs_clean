@@ -1,0 +1,13 @@
+Paper: hep-th/0109107
+
+Date: 2001-09-13
+
+Title: Deformation independent open brane metrics and generalized theta
+
+parametersAuthors: David S. Berman, Martin Cederwall, Ulf Gran, Henric Larsson, Mikkel
+
+Nielsen, Bengt E. W. Nilsson and Per SundellComments: 24 pages, LaTeX
+
+Journal-ref: JHEP 0202 (2002) 012
+
+We investigate the consequences of generalizing certain well establishedproperties of the open string metric to the conjectured open membrane and openDp-brane metrics. By imposing deformation independence on these metrics theirfunctional dependence on the background fields can be determined including thenotorious conformal factor. In analogy with the non-commutativity parameter$\Theta^{\mu\nu}$ in the string case, we also obtain `generalized' thetaparameters which are rank q+1 antisymmetric tensors (polyvectors) for openDq-branes and rank 3 for the open membrane case. The expressions we obtain forthe open membrane quantities are expected to be valid for general backgroundfield configurations, while the open D-brane quantities are only valid for oneparameter deformations. By reducing the open membrane data to five dimensions,we show that they, modulo a subtlety with implications for the relation betweenOM-theory and NCYM, correctly generate the open string and open D2-data.

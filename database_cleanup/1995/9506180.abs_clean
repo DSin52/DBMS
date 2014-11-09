@@ -1,0 +1,13 @@
+Paper: hep-th/9506180
+
+Date: 1995-06-27
+
+Title: Hamiltonian Reduction of $SL(2)$-theories at the Level of Correlators
+
+Authors: J.L. Petersen, J. Rasmussen, M. Yu
+
+Comments: 13 pages, LaTeX
+
+Journal-ref: Nucl. Phys. B457 (1995) 343
+
+Since the work of Bershadsky and Ooguri and Feigin and Frenkel it is wellknown that correlators of $SL(2)$ current algebra for admissiblerepresentations should reduce to correlators for conformal minimal models. AWhen $SL(2)$ primary fields are expressed as $\phi_j(z_n,x_n)$ with $x_n$ beinga variable to keep track of the $SL(2)$ representation multiplet (possiblyinfinitely dimensional for admissible representations), then the minimal modelcorrelator is supposed to be obtained simply by putting all $x_n=z_n$. Althoughstrong support for this has been presented, to the best of our understanding adirect, simple proof seems to be missing so in this paper we present one basedon the free field Wakimoto construction and our previous study of that in thepresent context. We further verify that the explicit $SL(2)$ correlators wehave published in a recent preprint reduce in the above way, up to a constantwhich we also calculate. We further discuss the relation to more standardformulations of hamiltonian reduction.

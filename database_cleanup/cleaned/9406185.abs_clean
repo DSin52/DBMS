@@ -1,0 +1,9 @@
+Paper: hep-th/9406185
+
+Date: 1994-06-28
+
+Title: Local Systems of Vertex Operators, Vertex Superalgebras and Modules
+
+Comments: 68 pages
+
+We give an analogue for vertex operator algebras and superalgebras of thenotion of endomorphism ring of a vector space by means of a notion of ``localsystem of vertex operators'' for a (super) vector space. We first prove thatany local system of vertex operators on a (super) vector space $M$ has anatural vertex (super)algebra structure with $M$ as a module. Then we provethat for a vertex (operator) superalgebra $V$, giving a $V$-module $M$ isequivalent to giving a vertex (operator) superalgebra homomorphism from $V$ tosome local system of vertex operators on $M$. As applications, we prove thatcertain lowest weight modules for some well-known infinite-dimensional Liealgebras or Lie superalgebras have natural vertex operator superalgebrastructures. We prove the rationality of vertex operator superalgebrasassociated to standard modules for an affine algebra. We also give an analogueof the notion of the space of linear homomorphisms from one module to anotherfor a Lie algebra by introducing a notion of ``generalized intertwiningoperators.'' We prove that $G(M^{1},M^{2})$, the space of generalizedintertwining operators from one module $M^{1}$ to another module $M^{2}$ for avertex operator superalgebra $V$, is a generalized $V$-module. Furthermore, weprove that for a fixed vertex operator superalgebra $V$ and

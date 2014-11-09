@@ -1,0 +1,13 @@
+Paper: hep-th/9811083
+
+Date: 1998-11-09
+
+Title: Super Yang-Mills at Weak, Intermediate and Strong Coupling
+
+Authors: Francesco Antonuccio, Oleg Lunin, and Stephen Pinsky
+
+Comments: 18 pages, Latex; 3 Figures (Encapsulated PostScript)
+
+Journal-ref: Phys.Rev. D59 (1999) 085001
+
+We consider three dimensional SU(N) N=1 super-Yang-Mills compactified on thespace-time R X S^1 X S^1. In particular, we compactify the light-conecoordinate x^- on a light-like circle via DLCQ, and wrap the remainingtransverse coordinate on a spatial circle. By retaining only the first fewexcited modes in the transverse direction, we are able to solve for bound statewave functions and masses numerically by diagonalizing the discretizedlight-cone supercharge. This regularization of the theory is shown to preservesupersymmetry. We plot bound state masses as a function of the coupling,showing the transition in particle masses as we move from a weakly to astrongly-coupled theory. We analyze both numerically and analytically masslessstates which exist only in the limit of strong or weak gauge coupling. Inaddition, we find massless states that persist for all values of the gaugecoupling. An analytical treatment of these massless states is provided.Interestingly, in the strong coupling limit, these massless states becomestring-like.

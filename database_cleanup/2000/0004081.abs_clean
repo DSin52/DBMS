@@ -1,0 +1,13 @@
+Paper: hep-th/0004081
+
+Date: 2000-04-11
+
+Title: The Microscopic Spectral Density of the Dirac Operator derived from
+
+Gaussian Orthogonal and Symplectic EnsemblesAuthors: Christian Hilmoine, Rune Niclasen
+
+Comments: 35 pages, 8 figures, Some equations simplified
+
+Journal-ref: Phys.Rev. D62 (2000) 096013
+
+The microscopic spectral correlations of the Dirac operator in Yang-Millstheories coupled to fermions in (2+1) dimensions can be related to threeuniversality classes of Random Matrix Theory. In the microscopic limit theOrthogonal Ensemble (OE) corresponds to a theory with 2 colors and fermions inthe fundamental representation and the Symplectic Ensemble (SE) corresponds toan arbitrary number of colors and fermions in the adjoint representation. Usinga new method of Widom, we derive an expression for the two scalar kernels whichthrough quaternion determinants give all spectral correlation functions in theGaussian Orthogonal Ensemble (GOE) and in the the Gaussian Symplectic Ensemble(GSE) with all fermion masses equal to zero. The result for the GOE is validfor an arbitrary number of fermions while for the GSE we have results for aneven number of fermions.

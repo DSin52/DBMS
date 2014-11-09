@@ -1,0 +1,11 @@
+Paper: hep-th/0110052
+
+Date: 2001-10-05
+
+Title: Temporal discretisation of the Skyrme Model
+
+Authors: George Jaroszkiewicz and Vladimir Nikolaev
+
+Comments: 12 pages
+
+Soliton models are used in elementary particle physics and nuclear physics tomodel extended objects such as nucleons, using effective field theories derivedfrom more fundamental theories such as QCD. Computer simulation requires somesort of discretisation procedure, a notable example being lattice gauge theoryapplied in the imaginary time formulation.In this lecture we focus on simulation in real time and the problems whicharise when invariants of the motion are monitored in a simulation.Ad hoc discretisations invariably introduce drift in numerically computedinvariants, due not only to numerical accuracy (which can be negligible), butwith the fact that the discretisation may not necessarily imply conservation.We discuss an approach developed which gives principles for the discretisationof such systems and for the construction of exact discrete invariants of themotion. This approach is applied to the Skyrme model.Talk at the International Workshop on Nuclear Theory, Rila, June 2001, to bepublished in the Proceedings.

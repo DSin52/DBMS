@@ -1,0 +1,13 @@
+Paper: hep-th/0104240
+
+Date: 2001-04-26
+
+Title: Fusion multiplicities as polytope volumes
+
+su(2) fusionAuthors: Jorgen Rasmussen and Mark A. Walton
+
+Comments: 14 pages, LaTeX, version to be published
+
+TheoryJournal-ref: Nucl.Phys. B620 (2002) 537-550
+
+We present the first polytope volume formulas for the multiplicities ofaffine fusion, the fusion in Wess-Zumino-Witten conformal field theories, forexample. Thus, we characterise fusion multiplicities as discretised volumes ofcertain convex polytopes, and write them explicitly as multiple sums measuringthose volumes. We focus on su(2), but discuss higher-point (N>3) andhigher-genus fusion in a general way. The method follows that of our previouswork on tensor product multiplicities, and so is based on the concepts ofgeneralised Berenstein-Zelevinsky diagrams, and virtual couplings. As aby-product, we also determine necessary and sufficient conditions fornon-vanishing higher-point fusion multiplicities. In the limit of large level,these inequalities reduce to very simple non-vanishing conditions for thecorresponding tensor product multiplicities. Finally, we find the minimum levelat which the higher-point fusion and tensor product multiplicities coincide.

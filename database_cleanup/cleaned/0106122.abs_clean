@@ -1,0 +1,13 @@
+Paper: hep-th/0106122
+
+Date: 2001-06-14
+
+Title: The Quantum Geometry of Supersymmetry and the Generalized Group
+
+Extension ProblemAuthors: Robert Oeckl
+
+Comments: 36 pages, LaTeX with AMS and XY-Pic macros; minor modifications to
+
+improve clarity, referce updated; typos correctedJournal-ref: J.Geom.Phys. 44 (2002) 299-330
+
+We examine the notion of symmetry in quantum field theory from a fundamentalrepresentation theoretic point of view. This leads us to a generalizationexpressed in terms of quantum groups and braided categories. It also unifiesthe conventional concept of symmetry with that of exchange statistics and thespin-statistics relation. We show how this quantum group symmetry isreconstructed from the traditional (super) group symmetry, statistics andspin-statistics relation.The old question of extending the Poincare group to unify external andinternal symmetries (solved by supersymmetry) is reexamined in the newframework. The reason why we should allow supergroups in this case becomescompletely transparent. However, the true symmetries are not expressed bygroups or supergroups here but by ordinary (not super) quantum groups. We showin this generalized framework that supersymmetry remains the most generalunification of internal and space-time symmetries provided that all particlesare either bosons or fermions.Finally, we demonstrate with some examples how quantum geometry provides anatural setting for the construction of super-extensions, super-spaces,super-derivatives etc.

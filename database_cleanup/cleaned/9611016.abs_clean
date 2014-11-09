@@ -1,0 +1,13 @@
+Paper: hep-th/9611016
+
+Date: 1996-11-04
+
+Title: On N=2 Supersymmetric QCD with 4 Flavors
+
+Authors: N. Dorey (Swansea), V.V. Khoze (Durham), M.P. Mattis (Los Alamos)
+
+Comments: 20 pp, uses harvmac.tex, reference added
+
+Journal-ref: Nucl.Phys. B492 (1997) 607-622
+
+Seiberg and Witten's proposed solution of N=2 SQCD with N_c=2 and N_F=4 isknown to conflict with instanton calculations in three distinct ways. Here weshow how to resolve all three discrepancies, simply by reparametrizing theelliptic curve in terms of quantities $\tau^0_{eff}$ and $\tilde{u}$ ratherthan $\tau$ and $u = < Tr A^2 > $. SL(2,Z) invariance of the curve ispreserved. However, there is now an infinite ambiguity in the relation between$\tau^0_{eff}$ and $\tau$ and between $\tilde{u}$ and $u$, corresponding to aninfinite number of unknown coefficients in the instanton expansion. Thus thereinterpreted curve (unlike the cases N_F<4) no longer determines the quantummodulus u as a function of the classical VEV a.

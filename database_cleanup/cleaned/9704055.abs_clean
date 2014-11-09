@@ -1,0 +1,13 @@
+Paper: hep-th/9704055
+
+Date: 1997-04-07
+
+Title: Universal spectral correlations of the Dirac operator at finite
+
+temperatureAuthors: Thomas Guhr and Tilo Wettig
+
+Comments: 27 pages, no figures, uses elsart.sty
+
+Journal-ref: Nucl.Phys. B506 (1997) 589-611
+
+Using the graded eigenvalue method and a recently computed extension of theItzykson-Zuber integral to complex matrices, we compute the $k$-point spectralcorrelation functions of the Dirac operator in a chiral random matrix modelwith a deterministic diagonal matrix added. We obtain results both on the scaleof the mean level spacing and on the microscopic scale. We find that themicroscopic spectral correlations have the same functional form as at zerotemperature, provided that the microscopic variables are rescaled by thetemperature-dependent chiral condensate.

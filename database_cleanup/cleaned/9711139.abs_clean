@@ -1,0 +1,13 @@
+Paper: hep-th/9711139
+
+Date: 1997-11-18
+
+Title: Physical Properties of Quantum Field Theory Measures
+
+Authors: J.M. Mourao, T. Thiemann, J.M. Velhinho
+
+Comments: 24 pages, LaTeX, added proof for section 4.2, added references
+
+Journal-ref: J.Math.Phys. 40 (1999) 2337-2353
+
+Well known methods of measure theory on infinite dimensional spaces are usedto study physical properties of measures relevant to quantum field theory. Thedifference of typical configurations of free massive scalar field theories withdifferent masses is studied. We apply the same methods to study theAshtekar-Lewandowski (AL) measure on spaces of connections. We prove that thediffeomorphism group acts ergodically, with respect to the AL measure, on theAshtekar-Isham space of quantum connections modulo gauge transformations. Wealso prove that a typical, with respect to the AL measure, quantum connectionrestricted to a (piecewise analytic) curve leads to a parallel transportdiscontinuous at every point of the curve.

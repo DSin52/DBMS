@@ -1,0 +1,11 @@
+Paper: hep-th/9610137
+
+Date: 1996-10-17
+
+Title: A Matrix Integral Solution to [P,Q]=P and Matrix Laplace Transforms
+
+Authors: M. Adler, A. Morozov, T. Shiota and P. van Moerbeke
+
+Comments: 27 pages, LaTeX, 1 figure in PostScript
+
+operators P and Q satisfying [P,Q]=P, where P flows according to the KP(ii) find a matrix integral representation for the associated $\tau$-function. First we construct an infinite dimensional space {\calW}=\Span_\BC \{\psi_0(z),\psi_1(z),... \} of functions of z\in\BC invariant\partial/\partial z - z + c. This requirement is satisfied, for arbitrary p,if \psi_0 is a certain function generalizing the classical H\"ankel function(for p=2); our representation of the generalized H\"ankel function as adouble Laplace transform of a simple function, which was unknown even for thep=2 case, enables us to represent the \tau-function associated with the KPtime evolution of the space \cal W as a ``double matrix Laplace transform''in two different ways. One representation involves an integration over the\gamma^+ + \gamma^- \subset\BC defined by \gamma^\pm=\BR_+\E^{\pm\pi\I/p}.The new integrals above relate to the matrix Laplace transforms, in contrastwith the matrix Fourier transforms, which generalize the Kontsevich integralsand solve the operator equation [P,Q]=1.

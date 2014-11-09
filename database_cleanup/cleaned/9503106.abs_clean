@@ -1,0 +1,13 @@
+Paper: hep-th/9503106
+
+Date: 1995-03-16
+
+Title: A Nonabelian Yang-Mills Analogue of Classical Electromagnetic Duality
+
+Authors: Chan Hong-Mo, J. Faridani, Tsou Sheung Tsun
+
+Comments: We regret that, due to a technical hitch, parts of the reference list
+
+were mixed up. This is the corrected version. We apologize to the authorswhose papers were misquotedJournal-ref: Phys.Rev. D52 (1995) 6134-6156
+
+The classic question of a nonabelian Yang-Mills analogue to electromagneticduality is here examined in a minimalist fashion at the strictly 4-dimensional,classical field and point charge level. A generalisation of the abelian Hodgestar duality is found which, though not yet known to give dual symmetry,reproduces analogues to many dual properties of the abelian theory. Forexample, there is a dual potential, but it is a 2-indexed tensor $T_{\mu\nu}$of the Freedman-Townsend type. Though not itself functioning as such,$T_{\mu\nu}$ gives rise to a dual parallel transport, $\tilde{A}_\mu$, for thephase of the wave function of the colour magnetic charge, this last being amonopole of the Yang-Mills field but a source of the dual field. The standardcolour (electric) charge itself is found to be a monopole of $\tilde{A}_\mu$.At the same time, the gauge symmetry is found doubled from say $SU(N)$ to$SU(N) \times SU(N)$. A novel feature is that all equations of motion,including the standard Yang-Mills and Wong equations, are here derived from a`universal' principle, namely the Wu-Yang (1976) criterion for monopoles, whereinteractions arise purely as a consequence of the topological definition of themonopole charge. The technique used is the loop space formulation of Polyakov(1980).

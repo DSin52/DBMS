@@ -1,0 +1,11 @@
+Paper: hep-th/0201125
+
+Date: 2002-01-16
+
+Title: Effective Action for QED with Fermion Self-Interaction in D=2 and D=3
+
+DimensionsComments: Latex, 13 pages, 3 figures
+
+Journal-ref: Phys.Rev. D65 (2002) 125030
+
+In this work we discuss the effect of the quartic fermion self-interaction ofThirring type in QED in D=2 and D=3 dimensions. This is done through thecomputation of the effective action up to quadratic terms in the photon field.We analyze the corresponding nonlocal photon propagators nonperturbatively in %\frac{k}{m}, where k is the photon momentum and m the fermion mass. The polesof the propagators were determined numerically by using the Mathematicasoftware. In D=2 there is always a massless pole whereas for strong enoughThirring coupling a massive pole may appear . For D=3 there are three regionsin parameters space. We may have one or two massive poles or even no pole atall. The inter-quark static potential is computed analytically in D=2. Wenotice that the Thirring interaction contributes with a screening term to theconfining linear potential of massive QED_{2}. In D=3 the static potential mustbe calculated numerically. The screening nature of the massive QED$_{3}$prevails at any distance, indicating that this is a universal feature of % D=3electromagnetic interaction. Our results become exact for an infinite number offermion flavors.

@@ -1,0 +1,11 @@
+Paper: hep-th/9607042
+
+Date: 1996-07-05
+
+Title: Interpolation Parameter and Expansion for the Three Dimensional
+
+Non-Trivial Scalar Infrared Fixed PointAuthors: Christian Wieczerkowski and Juri Rolf
+
+Comments: 29 pages, Latex2e, 2 Postscript figures
+
+We compute the non--trivial infrared $\phi^4_3$--fixed point by means of aninterpolation expansion in fixed dimension. The expansion is formulated for aninfinitesimal momentum space renormalization group. We choose a coordinaterepresentation for the fixed point interaction in derivative expansion, andcompute its coordinates to high orders by means of computer algebra. We computethe series for the critical exponent $\nu$ up to order twenty five ofinterpolation expansion in this representation, and evaluate it using \pade,Borel--\pade, Borel--conformal--\pade, and Dlog--\pade resummation. Theresummation returns $0.6262(13)$ as the value of $\nu$.

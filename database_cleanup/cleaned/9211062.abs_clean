@@ -1,0 +1,9 @@
+Paper: hep-th/9211062
+
+Date: 1992-11-13
+
+Title: Clifford Algebra Derivation of the Characteristic Hypersurfaces of
+
+Maxwell's EquationsComments: 6 pages
+
+An alternative, pedagogically simpler derivation of the allowed physical wavefronts of a propagating electromagnetic signal is presented using geometricalgebra. Maxwell's equations can be expressed in a single multivector equationusing 3D Clifford algebra (isomorphic to Pauli algebra spinorial formulation ofelectromagnetism). Subsequently one can more easily solve for the timeevolution of both the electric and magnetic field simultaneously in terms ofthe fields evaluated only on a 3D hypersurface. The form of the special"characteristic" surfaces for which the time derivative of the fields can besingular are quickly deduced with little effort.

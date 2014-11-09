@@ -1,0 +1,13 @@
+Paper: hep-th/9506136
+
+Date: 1995-06-20
+
+Title: Structure Constants and Conformal Bootstrap in Liouville Field Theory
+
+Authors: A.B.Zamolodchikov (Rutgers) and Al.B.Zamolodchikov (Montpellier II)
+
+Comments: 31 pages, 2 Postscript figures. Important note about existing (but
+
+unfortunately previously unknown to us) paper which has significant overlapwith this work is addedJournal-ref: Nucl.Phys. B477 (1996) 577-605
+
+An analytic expression is proposed for the three-point function of theexponential fields in the Liouville field theory on a sphere. In the classicallimit it coincides with what the classical Liouville theory predicts. Usingthis function as the structure constant of the operator algebra we constructthe four-point function of the exponential fields and verify numerically thatit satisfies the conformal bootstrap equations, i.e., that the operator algebrathus defined is associative. We consider also the Liouville reflectionamplitude which follows explicitly from the structure constants.

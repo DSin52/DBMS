@@ -1,0 +1,13 @@
+Paper: hep-th/9611083
+
+Date: 1996-11-12
+
+Title: Wakimoto realizations of current algebras
+
+Authors: Jan de Boer, Laszlo Feher
+
+Comments: 38 pages, LaTeX, contains improved formulations of theorems 3 and 6,
+
+two references and a remark added, plus minor stylistic changesJournal-ref: Commun.Math.Phys. 189 (1997) 759-793
+
+A generalized Wakimoto realization of $\widehat{\cal G}_K$ can be associatedwith each parabolic subalgebra ${\cal P}=({\cal G}_0 +{\cal G}_+)$ of a simpleLie algebra ${\cal G}$ according to an earlier proposal by Feigin and Frenkel.In this paper the proposal is made explicit by developing the construction ofWakimoto realizations from a simple but unconventional viewpoint. An explicitformula is derived for the Wakimoto current first at the Poisson bracket levelby Hamiltonian symmetry reduction of the WZNW model. The quantization is thenperformed by normal ordering the classical formula and determining the requiredquantum correction for it to generate $\widehat{\cal G}_K$ by means ofcommutators. The affine-Sugawara stress-energy tensor is verified to have theexpected quadratic form in the constituents, which are symplectic bosonsbelonging to ${\cal G}_+$ and a current belonging to ${\cal G}_0$. Thequantization requires a choice of special polynomial coordinates on the bigcell of the flag manifold $P\backslash G$. The effect of this choice isinvestigated in detail by constructing quantum coordinate transformations.Finally, the explicit form of the screening charges for each generalizedWakimoto realization is determined, and some applications are brieflydiscussed.

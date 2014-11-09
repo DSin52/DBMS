@@ -1,0 +1,13 @@
+Paper: hep-th/9411122
+
+Date: 1994-11-16
+
+Title: Scheme Independence and the Exact Renormalization Group
+
+Authors: R. D. Ball, P.E. Haagensen, J.I. Latorre and E. Moreno
+
+Comments: 15 pages, TeX with harvmac, 2 figures in compressed postscript;
+
+presentation of first section revised, several minor errors corrected, tworeferences addedJournal-ref: Phys.Lett. B347 (1995) 80-88
+
+We compute critical exponents in a $Z_2$ symmetric scalar field theory inthree dimensions, using Wilson's exact renormalization group equations expandedin powers of derivatives. A nontrivial relation between these exponents isconfirmed explicitly at the first two orders in the derivative expansion. Atleading order all our results are cutoff independent, while at next-to-leadingorder they are not, and the determination of critical exponents becomesambiguous. We discuss the possible ways in which this scheme ambiguity might beresolved.

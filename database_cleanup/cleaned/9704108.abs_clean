@@ -1,0 +1,11 @@
+Paper: hep-th/9704108
+
+Date: 1997-04-14
+
+Title: Conformally Covariant Differential Operators
+
+ApplicationsComments: 31 pages, LaTex, no figures. Note and references added, to appear in
+
+Classical and Quantum GravityJournal-ref: Class.Quant.Grav. 14 (1997) 2061-2084
+
+We discuss conformally covariant differential operators, which under localrescalings of the metric, \delta_\sigma g^{\mu\nu} = 2 \sigma g^{\mu\nu},transform according to \delta_\sigma \Delta = r \Delta \sigma + (s-r) \sigma\Delta for some r if \Delta is s-th order. It is shown that the flat spacerestrictions of their associated Green functions have forms which are stronglyconstrained by flat space conformal invariance. The same applies to thevariation of the Green functions with respect to the metric. The generalresults are illustrated by finding the flat space Green function and also itsfirst variation for previously found second order conformal differentialoperators acting on $k$-forms in general dimensions. Furthermore we construct anew second order conformally covariant operator acting on rank four tensorswith the symmetries of the Weyl tensor whose Green function is similarlydiscussed. We also consider fourth order operators, in particular a fourthorder operator acting on scalars in arbitrary dimension, which has a Greenfunction with the expected properties.The results obtained here for conformally covariant differential operatorsare generalisations of standard results for the two dimensional Laplacian oncurved space and its associated Green function which is used in the Polyakoveffective gravitational action. It is hoped that they may have similarapplications in higher dimensions.

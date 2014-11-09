@@ -1,0 +1,13 @@
+Paper: hep-th/9802174
+
+Date: 1998-02-24
+
+Title: Consistency Conditions for Finite-Volume Partition Functions
+
+Authors: G. Akemann and P.H. Damgaard
+
+Comments: LaTeX, 8 pages, minor misprint in eq.(20) corrected
+
+Journal-ref: Phys.Lett. B432 (1998) 390-396
+
+Using relations from random matrix theory, we derive exact expressions forall $n$-point spectral correlation functions of Dirac operator eigenvalues interms of finite-volume partition functions. This is done for both chiralsymplectic and chiral unitary random matrix ensembles, which correspond to$SU(N_c \geq 3)$ gauge theories with $N_f$ fermions in the adjoint andfundamental representations, respectively. In the latter case we infer fromthis an infinite sequence of consistency conditions that must be satisfied bythe corresponding finite-volume partition functions.

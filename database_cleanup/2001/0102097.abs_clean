@@ -1,0 +1,13 @@
+Paper: hep-th/0102097
+
+Date: 2001-02-16
+
+Title: Path integral derivation of the Brown-Henneaux central charge
+
+Authors: Hiroaki Terashima (Univ. of Tokyo)
+
+Comments: 18 pages, some clarifying comments are added
+
+Journal-ref: Phys.Rev. D64 (2001) 064016
+
+We rederive the Brown-Henneaux commutation relation and central charge in theframework of the path integral. To obtain the Ward-Takahashi identity, we canuse either the asymptotic symmetry or its leading part. If we use theasymptotic symmetry, the central charge arises from the transformation law ofthe charge itself. Thus, this central charge is clearly different from thequantum anomaly which can be understood as the Jacobian factor of the pathintegral measure. Alternatively, if we use the leading transformation, thecentral charge arises from the fact that the boundary condition of the pathintegral is not invariant under the transformation. This is in contrast to theusual quantum central charge which arises from the fact that the measure of thepath integral is not invariant under the relevant transformation. Moreover, wediscuss the implications of our analysis in relation to the black hole entropy.

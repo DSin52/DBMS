@@ -1,0 +1,11 @@
+Paper: hep-th/0008123
+
+Date: 2000-08-15
+
+Title: Exact Scheme Independence
+
+Comments: TeX, harvmac; 15 pages; ref added + last 2 sentences improved.
+
+version accepted for jhepJournal-ref: JHEP 0011 (2000) 004
+
+Scheme independence of exact renormalization group equations, includingindependence of the choice of cutoff function, is shown to follow from generalfield redefinitions, which remains an inherent redundancy in quantum fieldtheories. Renormalization group equations and their solutions are amenable to asimple formulation which is manifestly covariant under such a symmetry group.Notably, the kernel of the exact equations which controls the integration ofmodes acts as a field connection along the flow.

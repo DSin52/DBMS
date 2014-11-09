@@ -1,0 +1,11 @@
+Paper: hep-th/0005039
+
+Date: 2000-05-04
+
+Title: Cliffordons
+
+Authors: David R. Finkelstein and Andrei A. Galiautdinov (Georgia Institute of
+
+Technology)Comments: 15 pages, no figures; original title ("Clifford statistics") changed;
+
+cliffordons, double-valued representations of permutation groups, spin, swap,imaginary unit $i$, applications to quantum space-time and the StandardModel. Some of these results were presented at the American Physical SocietyCentennial Meeting, Atlanta, March 25, 1999At higher energies the present complex quantum theory with its unitary groupmight expand into a real quantum theory with an orthogonal group, broken by anapproximate $i$ operator at lower energies. Implementing this possibilityrequires a real quantum double-valued statistics. A Clifford statistics,representing a swap (12) by a difference $\gamma_1-\gamma_2$ of Clifford units,is uniquely appropriate. Unlike the Maxwell-Boltzmann, Fermi-Dirac,Bose-Einstein, and para- statistics, which are tensorial and single-valued, andunlike anyons, which are confined to two dimensions, Clifford statistics aremultivalued and work for any dimensionality. Nayak and Wilczek proposed aClifford statistics for the fractional quantum Hall effect. We apply them totoy quanta here. A complex-Clifford example has the energy spectrum of a systemof spin-1/2 particles in an external magnetic field. This supports the proposalthat the double-valued rotations --- spin --- seen at current energies mightarise from double-valued permutations --- swap --- to be seen at higherenergies. Another toy with real Clifford statistics illustrates how aneffective imaginary unit $i$ can arise naturally within a real quantum theory.

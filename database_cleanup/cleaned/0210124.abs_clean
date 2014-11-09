@@ -1,0 +1,11 @@
+Paper: hep-th/0210124
+
+Date: 2002-10-14
+
+Title: Inequalities for trace anomalies, length of the RG flow, distance
+
+between the fixed points and irreversibilityAuthors: D. Anselmi
+
+Comments: 24 pages, 3 figures
+
+of the graph of the effective beta function between the fixed points definesthe length of the RG flow; ii) the minimum of Delta(a') in the space of flowsconnecting the same UV and IR fixed points defines the (oriented) distancebetween the fixed points; iii) in even dimensions, the distance between thefixed points is equal to Delta(a)=a_UV-a_IR. These statements imply, in evendimensions, the inequalities 0 =< Delta(a) =< Delta(a'), the irreversibility ofthe RG flow and the inequality a =< c for free scalars and fermions (but notvectors). I elaborate the axiomatic set-up of irreversibility, based on thenotion of oriented distance and the "oriented-triangle inequalities". I showthat these axioms imply the irreversibility of the RG flow without a global "a"function. I argue that the RG flow is irreversible in odd dimensions (without aglobal "a" function) and, in support of this, I check the axioms ofirreversibility in a class of d=3 theories where the RG flow is integrable ateach order of the large N expansion.

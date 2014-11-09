@@ -1,0 +1,9 @@
+Paper: hep-th/9404046
+
+Date: 1994-04-07
+
+Title: Determinants of elliptic pseudo-differential operators
+
+Comments: 155 pages
+
+Determinants of invertible pseudo-differential operators (PDOs) close topositive self-adjoint ones are defined throughthe zeta-function regularization.We define a multiplicative anomaly as the ratio $\det(AB)/(\det(A)\det(B))$considered as a functionon pairs of elliptic PDOs. We obtained an explicitformula for the multiplicative anomaly in terms of symbols of operators. For acertain natural classof PDOs on odd-dimensional manifolds generalizing theclass of ellipticdifferential operators, the multiplicative anomaly isidentically $1$. For elliptic PDOs from this class a holomorphic determinantand a determinant for zero orders PDOs are introduced. Using various algebraic,analytic, and topological tools we study local and global properties of themultiplicative anomaly and of the determinant Lie group closely related withit. The Lie algebra for the determinant Lie group has a description in terms ofsymbols only. Our main discovery is that there is a {\em quadraticnon-linearity} hidden in the definition of determinants of PDOs throughzeta-functions. The natural explanation of this non-linearity follows fromcomplex-analytic properties of a new trace functional TR on PDOs of non-integerorders. Using TR we easily reproduce known facts about noncommutative residuesof PDOs and obtain several new results. In particular, we describe a structureof derivatives of zeta-functions at zero as of functions on logarithms ofelliptic PDOs. We propose several definitions extending zeta-regularizeddeterminants to general elliptic PDOs. For elliptic PDOs of nonzero complexorders we introduce a canonical determinant in its natural domain ofdefinition.

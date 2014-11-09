@@ -1,0 +1,11 @@
+Paper: hep-th/9802037
+
+Date: 1998-02-06
+
+Title: Zero-Mode Problem on the Light Front
+
+Authors: Koichi Yamawaki (Nagoya University)
+
+Comments: 63 pages, LaTex, 3 EPS figures, Lectures given at 10 th Annual Summer
+
+School and Symposium on Nuclear Physics (NUSS 97), ``QCD, Lightcone Physicsand Hadron Phenomenology'', Seoul, Korea, June 23-28, 1997, a minorcorrection on cover pageA series of lectures are given to discuss the zero-mode problem on thelight-front (LF) quantization with special emphasis on the peculiar realizationof the trivial vacuum, the spontaneous symmetry breaking (SSB) and the Lorentzinvariance. We discuss Discrete Light-Cone Quantization (DLCQ) which was firstintroduced by Maskawa and Yamawaki (MY). Following MY, we present canonicalformalism of DLCQ and the zero-mode constraint through which the zero mode canactually be solved away in terms of other modes,thus establishing the trivialvacuum. Due to this trivial vacuum, existence of the massless Nambu-Goldstone(NG) boson coupled to the current is guaranteed by the non-conserved chargesuch that Q |0> = 0 and dot{Q} ne 0. The SSB (NG phase) in DLCQ can be realizedon the trivial vacuum only when an explicit symmetry-breaking mass of the NGboson m_{pi} is introduced so that the NG-boson zero mode integrated over theLF exhibits singular behavior sim 1/m_{pi}^2 in such a way that dot{Q} ne 0 inthe symmetric limit m_{pi} -> 0. We also demonstrate this realization moreexplicitly in the linear sigma model where the role of zero-mode constraint isclarified. We fur ther point out, in disagreement with Wilson et al., that forSSB in the continuum LF theory, the trivial vacuum collapses due to the specialnature of the zero mode as the accumulating point P^+ -> 0, in sharp contrastto DLCQ. Finally, we discuss the no-go theorem of Nakanishi and Yamawaki, whichforbids exact LF r estriction of the field theory. Thus DLCQ as well as anyother regularization on the exact LF has no Lorentz-invariant limit as thetheory itself, although the Lorentz-invariant limit can be realized on thec-number quantity like S matrix which has no reference to the fixed LF.

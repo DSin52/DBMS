@@ -1,0 +1,11 @@
+Paper: hep-th/9501114
+
+Date: 1995-01-24
+
+Title: Spinor construction of the c = 1/2 minimal model
+
+Authors: Alex J. Feingold, John F. X. Ries, Michael D. Weiner
+
+Comments: 48 pages, amstex, v2.1, uses fonts msam, msbm, no figures, tables
+
+constructed using standard TeX, so no special macros required. Final versionbased on referee's comments, a few technical changes. Style changed frompreprint to Contemporary Math Proceedings (conm-p.sty). A compressed dvi fileThe usual spinor construction from one fermion yields four irreduciblerepresentations of the Virasoro algebra with central charge $c = 1/2$. TheNeveu-Schwarz (NS) sector is the direct sum of an $h = 0$ and an $h = 1/2$module, and the Ramond (R) sector is the direct sum of two copies of an $h =1/16$ module. In addition to the fundamental fermions, which represent aClifford algebra, and the Virasoro operators, there are infinitely many othervertex operators, in one-to-one correspondence with the vectors (states) in theNS sector. These give the NS sector the structure of a Vertex OperatorSuperAlgebra, and the R sector the structure of a ${\bold Z}_2$-twisted modulefor that VOSA. Keeping both copies of the $h = 1/16$ modules in the R sector,we can define intertwining operators in one-to-one correspondence with thestates in the R sector such that the usual Ising fusion rules for just threemodules are replaced by a rule given by the group ${\bold Z}_4$. The mainobjective is to find a generalization of the VOSA Jacobi-Cauchy identity whichis satisfied by these intertwining operators. There are several novel featuresof this new ``Matrix'' Jacobi-Cauchy Identity (MJCI), most of which come fromthe fact that correlation functions made from two intertwiners arehypergeometric functions. In order to relate and rationalize the correlationfunctions we use the Kummer quadratic transformation formulas, lifting thefunctions to a four-sheeted covering, branched over the usual three poles,where the Cauchy residue theorem can be applied. The six possible poles on thecover give six terms in the MJCI. Furthermore, we organize those functions into$2\times 4$ matrices and find the $2\times 2$ (fusion and braiding) matriceswhich relate them at the six poles. These results for intertwiners

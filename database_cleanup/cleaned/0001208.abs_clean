@@ -1,0 +1,11 @@
+Paper: hep-th/0001208
+
+Date: 2000-01-29
+
+Title: Toric Calabi-Yau Fourfolds, Duality Between N=1 Theories and Divisors
+
+that Contribute to the SuperpotentialAuthors: V. Braun, P. Candelas, X de la Ossa and A. Grassi
+
+Comments: TeX 50 pages, 10 figures, needs epsf
+
+We study issues related to F-theory on Calabi-Yau fourfolds and its dualityto heterotic theory for Calabi-Yau threefolds. We discuss principally fourfoldsthat are described by reflexive polyhedra and show how to read off some of thedata for the heterotic theory from the polyhedron. We give a procedure forconstructing examples with given gauge groups and describe some of theseexamples in detail. Interesting features arise when the local pieces are fittedinto a global manifold. An important issue is how to compute the superpotentialexplicitly. Witten has shown that the condition for a divisor to contribute tothe superpotential is that it have arithmetic genus 1. Divisors associated withthe short roots of non-simply laced gauge groups do not always satisfy thiscondition while the divisors associated to all other roots do. For such a`dissident' divisor we distinguish cases for which the arithmetic genus isgreater than unity corresponding to an X that is not general in moduli (in thetoric case this corresponds to the existence of non-toric parameters). In thesecases the `dissident' divisor D does not remain an effective divisor forgeneral complex structure. If however the arithmetic genus is less than orequal to 0, then the divisor is general in moduli and there is a genuineinstability.

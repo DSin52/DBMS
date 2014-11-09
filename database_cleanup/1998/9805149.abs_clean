@@ -1,0 +1,13 @@
+Paper: hep-th/9805149
+
+Date: 1998-05-22
+
+Title: Explicit solution of the quantum three-body Calogero-Sutherland model
+
+Authors: A. M. Perelomov, E. Ragoucy, P. Zaugg
+
+Comments: 10 pages
+
+SystemsJournal-ref: J.Phys. A31 (1998) L559-L565
+
+Quantum integrable systems generalizing Calogero-Sutherland systems wereintroduced by Olshanetsky and Perelomov (1977). Recently, it was proved thatfor systems with trigonometric potential, the series in the product of two wavefunctions is a deformation of the Clebsch-Gordan series. This yields recursionrelations for the wave functions of those systems. In this note, this approachis used to compute the explicit expressions for the three-bodyCalogero-Sutherland wave functions, which are the Jack polynomials. Weconjecture that similar results are also valid for the more generaltwo-parameters deformation introduced by Macdonald.

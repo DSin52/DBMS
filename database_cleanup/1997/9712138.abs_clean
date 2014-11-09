@@ -1,0 +1,13 @@
+Paper: hep-th/9712138
+
+Date: 1997-12-15
+
+Title: The beta-function of the Wess-Zumino model at O(1/N^2)
+
+Authors: P.M. Ferreira and J.A. Gracey
+
+Comments: 19 latex pages, 5 postscript figures
+
+Journal-ref: Nucl.Phys. B525 (1998) 435-456
+
+We extend the critical point self-consistency method used to solve fieldtheories at their d-dimensional fixed point in the large N expansion to includesuperfields. As an application we compute the beta-function of the Wess-Zuminomodel with an O(N) symmetry to O(1/N^2). This result is then used to study theeffect the higher order corrections have on the radius of convergence of the4-dimensional beta-function at this order in 1/N. The critical exponentrelating to the wave function renormalization of the basic field is alsocomputed to O(1/N^2) and is shown to be the same as that for the correspondingfield in the supersymmetric O(N) sigma model in d-dimensions. We discuss howthe non-renormalization theorem prevents the full critical point equivalencebetween both models.

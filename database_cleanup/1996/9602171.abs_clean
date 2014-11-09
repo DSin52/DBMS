@@ -1,0 +1,13 @@
+Paper: hep-th/9602171
+
+Date: 1996-02-29
+
+Title: The third virial coefficient of anyons revisited
+
+Authors: Stefan Mashkevich (Kiev-Oslo), Jan Myrheim and K{\aa}re Olaussen
+
+(Trondheim-Oslo)Comments: 10 pages, LATEX 2.09, 4 Postscript figures attached; explanations
+
+addedJournal-ref: Phys.Lett. B382 (1996) 124-130
+
+We use the method of solving the three-anyon problem developed in our earlierpublication to evaluate numerically the third virial coefficient of freeanyons. In order to improve precision, we explicitly correct for truncationeffects. The present calculation is about three orders of magnitude moreprecise than the previous Monte Carlo calculation and indicates the presence ofa term $a sin^4 \pi\nu$ with a very small coefficient $a \simeq -1.65 10^{-5}$.

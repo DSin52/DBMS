@@ -1,0 +1,11 @@
+Paper: hep-th/0112134
+
+Date: 2001-12-14
+
+Title: Noncommutative quantum mechanics in the presence of delta-function
+
+potentialsAuthors: Alexandr Yelnikov
+
+Comments: 7 pages, 1 figure, RevTeX4
+
+Quantum mechanics in the presence of $\delta$-function potentials is known tobe plagued by UV divergencies which result from the singular nature of thepotentials in question. The standard method for dealing with these divergenciesis by constructing self-adjoint extensions of the corresponding Hamiltonians.Two particularly interesting examples of this kind are nonrelativistic spinzero particles in $\delta$-function potential and Dirac particles inAharonov-Bohm magnetic background. In this paper we show that by extending thecorresponding Schr\"odinger and Dirac equations onto the flat noncommutativespace a well-defined quantum theory can be obtained. Using a star product andFock space formalisms we construct the complete sets of eigenfunctions andeigenvalues in both cases which turn out to be finite.

@@ -1,0 +1,13 @@
+Paper: hep-th/9703026
+
+Date: 1997-03-04
+
+Title: Thermodynamic Bethe Ansatz for the subleading magnetic perturbation of
+
+the tricritical Ising modelAuthors: R.M. Ellem, V.V. Bazhanov
+
+Comments: 22 pages, minor changes, references added. LaTeX file and postscript
+
+figureJournal-ref: Nucl.Phys. B512 (1998) 563-580
+
+We give further support to Smirnov's conjecture on the exact kink S-matrixfor the massive Quantum Field Theory describing the integrable perturbation ofthe c=0.7 minimal Conformal Field theory (known to describe the tri-criticalIsing model) by the operator $\phi_{2,1}$. This operator has conformaldimensions $(7/16,7/16)$ and is identified with the subleading magneticoperator of the tri-critical Ising model. In this paper we apply theThermodynamic Bethe Ansatz (TBA) approach to the kink scattering theory byexplicitly utilising its relationship with the solvable lattice hard hexagonmodel. Analytically examining the ultraviolet scaling limit we recover theexpected central charge c=0.7 of the tri-critical Ising model. We also comparenumerical values for the ground state energy of the finite size system obtainedfrom the TBA equations with the results obtained by the Truncated ConformalSpace Approach and Conformal Perturbation Theory.

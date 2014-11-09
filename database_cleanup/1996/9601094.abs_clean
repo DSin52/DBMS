@@ -1,0 +1,13 @@
+Paper: hep-th/9601094
+
+Date: 1996-01-18
+
+Title: Quantum Electrodynamics in the Light-Front Weyl Gauge
+
+Authors: J. Przeszowski (Warsaw), H.W.L. Naus (Heidelberg), and A.C.
+
+Kalloniatis (Heidelberg)Comments: LaTeX file, 30 pages (A4 size), no figures. Submitted to Physical
+
+review D. January 18, 1996. Originally posted, erroneously, with missing`Weyl' in title. Otherwise, paper is identicalJournal-ref: Phys.Rev. D54 (1996) 5135-5147
+
+We examine QED(3+1) quantised in the `front form' with finite `volume'regularisation, namely in Discretised Light-Cone Quantisation. Instead of thelight-cone or Coulomb gauges, we impose the light-front Weyl gauge $A^-=0$. TheDirac method is used to arrive at the quantum commutation relations for theindependent variables. We apply `quantum mechanical gauge fixing' to implementGau{\ss}' law, and derive the physical Hamiltonian in terms of unconstrainedvariables. As in the instant form, this Hamiltonian is invariant under globalresidual gauge transformations, namely displacements. On the light-cone thesymmetry manifests itself quite differently.

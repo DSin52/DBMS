@@ -1,0 +1,13 @@
+Paper: hep-th/9902089
+
+Date: 1999-02-11
+
+Title: Eigenvalue Dynamics and the Matrix Chain
+
+Authors: L.D. Paniak (Princeton University)
+
+Comments: 20 pages, LaTeX. Typos and conflicts in notation resolved
+
+SystemsJournal-ref: Nucl.Phys. B553 (1999) 583-600
+
+We introduce a general method for transforming the equations of motionfollowing from a Das-Jevicki-Sakita Hamiltonian, with boundary conditions, intoa boundary value problem in one-dimensional quantum mechanics. For theparticular case of a one-dimensional chain of interacting NxN Hermiteanmatrices, the corresponding large N boundary value problem is mapped into alinear Fredholm equation with Hilbert-Schmidt type kernel. The equivalence ofthis kernel, in special cases, to a second order differential operator allowsus recover all previously known explicit solutions for the matrix eigenvalues.In the general case, the distribution of eigenvalues is formally derivedthrough a series of saddle-point approximations. The critical behaviour of thesystem, including a previously observed Kosterlitz-Thouless transition, isinterpreted in terms of the stationary points. In particular we show that apreviously conjectured infinite series of sub-leading critical points are dueto expansion about unstable stationary points and consequently not realized.

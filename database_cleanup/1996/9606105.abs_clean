@@ -1,0 +1,11 @@
+Paper: hep-th/9606105
+
+Date: 1996-06-18
+
+Title: Slavnov-Taylor Identities from the Causal Point of View
+
+Comments: 29 pages. The paper is written in TEX. The necessary macros are
+
+included. The figures are not done by computer, they can be ordered at theauthors addressJournal-ref: Int.J.Mod.Phys. A12 (1997) 3205-3248
+
+We continue the investigation of quantized Yang-Mills theories coupled tomatter fields in the framework of causal perturbation theory which goes back toEpstein and Glaser. In this approach gauge invariance is expressed by a simplecommutator relation for the S-matrix and the corresponding gaugetransformations are simple transformations of the free fields only. In spite ofthis simplicity, gauge invariance implies the usual Slavnov-Taylor identities.The main purpose of this paper is to prove the latter statement. Since theSlavnov-Taylor identities are formulated in terms of Green's functions, weinvestigate the agreement of two perturbative definitions of Green's functions,namely of Epstein and Glaser's definition with the Gell-Mann Low series.

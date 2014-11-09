@@ -1,0 +1,13 @@
+Paper: hep-th/9708093
+
+Date: 1997-08-18
+
+Title: Hamiltonian formulation of the D-brane action and the light-cone
+
+HamiltonianAuthors: Julian Lee
+
+Comments: Revtex,12 pages,no figures; A section on degrees of freedom added,
+
+discussions on supersymmetric case removed, some references added, with otherminor correctionsJournal-ref: Phys.Rev. D57 (1998) 5134-5140
+
+We present the Hamiltonian formulation of the bosonic Dirichlet p-braneaction. We rewrite the recently proposed quadratic D-brane action in terms ofgeneralized shift vector and lapse function. The first class and the secondclass constraints are explicitly separated for the bosonic case. We then imposethe gauge conditions in such a way that only time-independent gaugetransformations are left. In this gauge we obtain the light-cone Hamiltonianwhich is quadratic in the field momenta of scalar and vector fields. Theconstraints are explicitly solved to eliminate part of the canonical variables.The Dirac brackets between the remaining variables are computed and shown to beequal to simple Poisson brackets.

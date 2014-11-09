@@ -1,0 +1,11 @@
+Paper: hep-th/0005201
+
+Date: 2000-05-22
+
+Title: Zero-point energies and the multiplicative anomaly
+
+Authors: J. J. McKenzie-Smith and D. J. Toms
+
+Comments: 10 pages, REVTeX, no figures. Submitted to Physical Review D
+
+For the case of a relativistic scalar field at finite temperature with achemical potential, we calculate an exact expression for the one-loop effectiveaction using the full fourth order determinant and zeta-functionregularisation. We find that it agrees with the exact expression for thefactored operator and thus there appears to be no mulitplicative anomaly. Theappearance of the anomaly for the fourth order operator in the high temperaturelimit is explained and we show that the multiplicative anomaly can becalculated as the difference between two zeta-regularised zero-point energies.This difference is a result of using a charge operator in the Hamiltonian whichhas not been normal ordered.

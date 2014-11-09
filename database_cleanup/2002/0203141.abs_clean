@@ -1,0 +1,11 @@
+Paper: hep-th/0203141
+
+Date: 2002-03-15
+
+Title: Non-commutative U(1) Super-Yang-Mills Theory
+
+CorrectionsAuthors: A.A. Bichl, M. Ertl, A. Gerhold, J.M. Grimstrup, H. Grosse, L. Popp,
+
+V. Putz, M. Schweda, R. WulkenhaarComments: 18 pages, latex, uses feynmf package; references added, Wess-Zumino
+
+gauge removedThe quantization of the non-commutative N=1, U(1) super-Yang-Mills action isperformed in the superfield formalism. We calculate the one-loop corrections tothe self-energy of the vector superfield. Although the power-counting theorempredicts quadratic ultraviolet and infrared divergences, there are actuallyonly logarithmic UV and IR divergences, which is a crucial feature ofnon-commutative supersymmetric field theories.

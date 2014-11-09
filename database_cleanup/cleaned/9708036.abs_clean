@@ -1,0 +1,13 @@
+Paper: hep-th/9708036
+
+Date: 1997-08-06
+
+Title: Supersymmetry and the Multi-Instanton Measure
+
+Authors: N. Dorey (Swansea), V.V. Khoze (Durham), M.P. Mattis (Los Alamos)
+
+Comments: 31 pp, uses harvmac. Reference added
+
+Journal-ref: Nucl.Phys. B513 (1998) 681-708
+
+We propose explicit formulae for the integration measure on the moduli spaceof charge-n ADHM multi-instantons in N=1 and N=2 supersymmetric gauge theories.The form of this measure is fixed by its (super)symmetries as well as thephysical requirement of clustering in the limit of large spacetime separationbetween instantons. We test our proposals against known expressions for n < 3.Knowledge of the measure for all n allows us to revisit, and strengthen,closed formula for F_n, the n-instanton contribution to the Seiberg-Wittenprepotential, as a finite-dimensional collective coordinate integral. Thisamounts to a solution, in quadratures, of the Seiberg-Witten models, withoutappeal to electric-magnetic duality. (2) In the conformal case N_F=4, thismeans reducing to quadratures the previously unknown finite renormalizationthat relates the microscopic and effective coupling constants, \tau_{micro} and\tau_{eff}. (3) Similar expressions are given for the 4-derivative/8-fermionterm in the gradient expansion of N=2 supersymmetric QCD.

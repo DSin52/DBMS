@@ -1,0 +1,11 @@
+Paper: hep-th/0102120
+
+Date: 2001-02-19
+
+Title: An exact RG formulation of quantum gauge theory
+
+Comments: 13 pages, 5 figs, ws-p9-75x6-50.cls (included), epsf. Talk presented
+
+at the 2nd Conference on Exact RG, Rome 2000Journal-ref: Int.J.Mod.Phys. A16 (2001) 1899-1912
+
+A gauge invariant Wilsonian effective action is constructed for pure SU(N)Yang-Mills theory by formulating the corresponding flow equation. Manifestlygauge invariant calculations can be performed i.e. without gauge fixing orghosts. Regularisation is implemented in a novel way which realises aspontaneously broken SU(N|N) supergauge theory. As an example we sketch thecomputation of the one-loop beta function, performed for the first time withoutany gauge fixing.

@@ -1,0 +1,13 @@
+Paper: hep-th/9810089
+
+Date: 1998-10-13
+
+Title: Charges in Gauge Theories
+
+Authors: Robin Horan, Martin Lavelle and David McMullan
+
+Comments: 47 pages, LaTeX, 14 figures, uses feynmp, necessary Metapost files
+
+included. Review to appear in Pramana, Journal of Physics. Minor LaTeX changeto make page numbers visible on "Letter" paper formatJournal-ref: Pramana 51 (1998) 317-355
+
+In this article we investigate charged particles in gauge theories. Afterreviewing the physical and theoretical problems, a method to construct chargedparticles is presented. Explicit solutions are found in the Abelian theory anda physical interpretation is given. These solutions and our interpretation ofthese variables as the true degrees of freedom for charged particles, are thentested in the perturbative domain and are demonstrated to yield infra-redfinite, on-shell Green's functions at all orders of perturbation theory. Theextension to collinear divergences is studied and it is shown that this methodapplies to the case of massless charged particles. The application of theseconstructions to the charged sectors of the standard model is reviewed and weconclude with a discussion of the successes achieved so far in this programmeand a list of open questions.

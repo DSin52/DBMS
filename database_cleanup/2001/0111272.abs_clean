@@ -1,0 +1,11 @@
+Paper: hep-th/0111272
+
+Date: 2001-11-29
+
+Title: Gauge Invariance and Gauge-Factor Group in Causal Yang-Mills Theory
+
+Authors: N. Emmenegger
+
+Comments: 70 pages, PhD Thesis
+
+In the present work the gauge invariance of causal Yang-Mills theory will beproven with the aid of the gauge-factor group. For that purpose it must beshown, that the operator valued distributions T_n and D_n(ret) occurring in thecausal S-matrix construction can be written, after applying the gauge variationd_Q, as a divergence. Since merely local terms lead to gauge destroyingexpressions, one has to focus on them exclusively. In the first part of thework the local gauge-factor group will be defined in the style of the conceptof gauge cohomology theory. It will be shown, that every element out of the sodefined factor group under the transformation d_Q leads to a divergence of theentire operator valued distribution d_Q(T_n). In the second part all localterms arising in causal Yang-Mills theory are systematically investigated.Without further restrictions there can be proven, that every local operatorvalued distribution is an element of the gauge factor group or equal to zero.This concludes the demonstration of gauge invariance of causal Yang-Millstheory.

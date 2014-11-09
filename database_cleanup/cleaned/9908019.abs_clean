@@ -1,0 +1,13 @@
+Paper: hep-th/9908019
+
+Date: 1999-08-03
+
+Title: Morita equivalence and T-duality (or B versus $\Theta$)
+
+Authors: B. Pioline (Ecole Polytechnique) and A. Schwarz (UCDavis, IHES)
+
+Comments: 15 pages, latex2e, JHEP class; ; v2
+
+added, note added in proof on relation with SW; final version to appear inJHEPJournal-ref: JHEP 9908 (1999) 021
+
+T-duality in M(atrix) theory has been argued to be realized as Moritaequivalence in Yang-Mills theory on a non-commutative torus (NCSYM). Eventhough the two have the same structure group, they differ in their action sinceMorita equivalence makes crucial use of an additional modulus on the NCSYMside, the constant Abelian magnetic background. In this paper, we reanalyze andclarify the correspondence between M(atrix) theory and NCSYM, and provide tworesolutions of this puzzle. In the first of them, the standard map is kept andthe extra modulus is ignored, but the anomalous transformation is offset by theM(atrix) theory ``rest term''. In the second, the standard map is modified sothat the duality transformations agree, and a $SO(d)$ symmetry is found toeliminate the spurious modulus. We argue that this is a true symmetry ofsupersymmetric Born-Infeld theory on a non-commutative torus, which allows tofreely trade a constant magnetic background for non-commutativity of thebase-space. We also obtain a BPS mass formula for this theory, invariant underT-duality, U-duality, and continuous $SO(d)$ symmetry.

@@ -1,0 +1,13 @@
+Paper: hep-th/9612083
+
+Date: 1996-12-08
+
+Title: Vacuum Structure of Two-Dimensional Gauge Theories on the Light Front
+
+Authors: G. McCartor, D. G. Robertson and S. S. Pinsky
+
+Comments: 29 pages, uses RevTeX. Improved discussion of the physical subspace
+
+generally and the vacuum states in particular. Basic conclusions areunchanged, but some specific results are modifiedJournal-ref: Phys.Rev. D56 (1997) 1035-1049
+
+We discuss the problem of vacuum structure in light-front field theory in thecontext of (1+1)-dimensional gauge theories. We begin by reviewing the knownlight-front solution of the Schwinger model, highlighting the issues that arerelevant for reproducing the $\theta$-structure of the vacuum. The mostimportant of these are the need to introduce degrees of freedom initialized ontwo different null planes, the proper incorporation of gauge field zero modeswhen periodicity conditions are used to regulate the infrared, and theimportance of carefully regulating singular operator products in agauge-invariant way. We then consider SU(2) Yang-Mills theory in 1+1 dimensionscoupled to massless adjoint fermions. With all fields in the adjointrepresentation the gauge group is actually SU(2)$/Z_2$, which possessesnontrivial topology. In particular, there are two topological sectors and thephysical vacuum state has a structure analogous to a $\theta$ vacuum. Weformulate the model using periodicity conditions in $x^\pm$ for infraredregulation, and consider a solution in which the gauge field zero mode istreated as a constrained operator. We obtain the expected $Z_2$ vacuumstructure, and verify that the discrete vacuum angle which enters has no effecton the spectrum of the theory. We then calculate the chiral condensate, whichis sensitive to the vacuum structure. The result is nonzero, but inverselyproportional to the periodicity length, a situation which is familiar from theSchwinger model. The origin of this behavior is discussed.

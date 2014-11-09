@@ -1,0 +1,9 @@
+Paper: hep-th/9301009
+
+Date: 1993-01-04
+
+Title: Vertex operator algebras and operads
+
+Comments: 16 pages. Only the definitions of "partial operad" and of "rescaling
+
+group" have been improvedVertex operator algebras are mathematically rigorous objects corresponding tochiral algebras in conformal field theory. Operads are mathematical devices todescribe operations, that is, $n$-ary operations for all $n$ greater than orequal to $0$, not just binary products. In this paper, a reformulation of thenotion of vertex operator algebra in terms of operads is presented. Thisreformulation shows that the rich geometric structure revealed in the study ofconformal field theory and the rich algebraic structure of the theory of vertexoperator algebras share a precise common foundation in basic operationsassociated with a certain kind of (two-dimensional) ``complex'' geometricobject, in the sense in which classical algebraic structures (groups, algebras,Lie algebras and the like) are always implicitly based on (one-dimensional)``real'' geometric objects. In effect, the standard analogy betweenpoint-particle theory and string theory is being shown to manifest itself at amore fundamental mathematical level.

@@ -1,0 +1,13 @@
+Paper: hep-th/0104065
+
+Date: 2001-04-06
+
+Title: On the Absorption by Near-Extremal Black Branes
+
+Authors: G. Policastro and A. Starinets
+
+Comments: 30 pages, 2 figures, typos corrected, one reference added
+
+Journal-ref: Nucl.Phys. B610 (2001) 117-143
+
+We study the absorption of a minimally coupled scalar in the gravitationalbackground created by a stack of near-extremal black three-branes, and moregenerally by M2, M5 and Dp branes. The absorption probability has the form P(l)= P_0(l) f_l(\lambda), where P_0(l) is the partial wave's absorptionprobability in the extremal case, and the thermal factor f_l(\lambda) dependson the ratio of the frequency of the incoming wave and the Hawking temperature,\lambda = \omega/\pi T. Using Langer-Olver's method, we obtain alow-temperature (\lambda \gg 1) asymptotic expansion for P(l) with coefficientsdetermined recursively. This expansion, which turns out to be a fairly goodapproximation even for \lambda \sim 1, accounts for all power-likefinite-temperature corrections to P_0(l), and we calculate a few termsexplicitly. We also show that at low temperature the absorption probabilitycontains exponentially suppressed terms, and attempt to develop anapproximation scheme to calculate those. The high-temperature expansion is alsoconsidered. For the s-wave, the low-temperature gravity result is consistentwith the free finite-temperature field theory calculation, while for hightemperature and higher partial waves we find a disagreement. As a check of theapproximation methods used, we apply them to the D1-D5-brane system, andcompare results to the known exact solution.

@@ -1,0 +1,13 @@
+Paper: hep-th/9309027
+
+Date: 1993-09-03
+
+Title: A Note on Gauge Transformations in Batalin-Vilkovisky Theory
+
+Authors: Ashoke Sen and Barton Zwiebach
+
+Comments: 10 pages, phyzzx.tex, MIT-CTP-2240
+
+Journal-ref: Phys.Lett. B320 (1994) 29-35
+
+We give a generally covariant description, in the sense of symplecticgeometry, of gauge transformations in Batalin-Vilkovisky quantization. Gaugetransformations exist not only at the classical level, but also at the quantumlevel, where they leave the action-weighted measure $d\mu_S = d\mue^{2S/\hbar}$ invariant. The quantum gauge transformations and their Liealgebra are $\hbar$-deformations of the classical gauge transformation andtheir Lie algebra. The corresponding Lie brackets $[ , ]^q$, and $[ , ]^c$, areconstructed in terms of the symplectic structure and the measure $d\mu_S$. Wediscuss closed string field theory as an application.

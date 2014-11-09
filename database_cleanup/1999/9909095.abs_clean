@@ -1,0 +1,13 @@
+Paper: hep-th/9909095
+
+Date: 1999-09-14
+
+Title: Generalized Supersymetric Boundary State
+
+Authors: Koji Hashimoto
+
+Comments: 27 pages, LaTeX, 1 eps figure, typos corrected
+
+Journal-ref: JHEP 0004 (2000) 023
+
+Following our previous paper (hep-th/9909027), we generalize a supersymmetricboundary state so that arbitrary configuration of the gauge field coupled tothe boundary of the worldsheet is incorpolated. This generalized boundary stateis BRST invariant and satisfy the non-linear boundary conditions withnon-constant gauge field strength. This boundary state contains divergencewhich is identical with the loop divergence in a superstring sigma model. Hencevanishing of the beta function in the superstring sigma model corresponds to awell-defined boundary state with no divergence. The coupling of a single closedsuperstring massless mode with multiple open string massless modes is encodedin the boundary state, and we confirm that derivative correction to the D-braneaction in this sector vanishes up to the first non-trivial orderO(alpha'(derivative)^2). Combining T-dualities, we incorpolate also generalconfigurations of the scalar fields on the D-brane, and construct boundarystates representing branes stuck to another D-brane, with use of BIonconfiguration.

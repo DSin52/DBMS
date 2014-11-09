@@ -1,0 +1,13 @@
+Paper: hep-th/0109208
+
+Date: 2001-09-27
+
+Title: Nonperturbative renormalization in a scalar model within Light-Front
+
+DynamicsAuthors: D. Bernard, Th. Cousin, V.A. Karmanov, J.-F. Mathiot
+
+Comments: 22 pages, 5 figures
+
+Journal-ref: Phys.Rev. D65 (2002) 025016
+
+Within the covariant formulation of Light-Front Dynamics, in a scalar modelwith the interaction Hamiltonian $H=-g\psi^{2}(x)\phi(x)$, we calculatenonperturbatively the renormalized state vector of a scalar "nucleon" in atruncated Fock space containing the $N$, $N\pi$ and $N\pi\pi$ sectors. Themodel gives a simple example of non-perturbative renormalization which iscarried out numerically. Though the mass renormalization $\delta m^2$ divergeslogarithmically with the cutoff $L$, the Fock components of the "physical"nucleon are stable when $L\to\infty$.

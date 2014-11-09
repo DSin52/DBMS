@@ -1,0 +1,13 @@
+Paper: hep-th/9407117
+
+Date: 1994-07-19
+
+Title: Unified Approach to Thermodynamic Bethe Ansatz and Finite Size
+
+Corrections for Lattice Models and Field TheoriesAuthors: C. Destri , H.J. de Vega
+
+Comments: Expanded Introduction. Version to appear in Nucl. Phys. B. 60 pages,
+
+TeX, Uses phyzzxSystemsJournal-ref: Nucl.Phys. B438 (1995) 413-454
+
+We present a unified approach to the Thermodynamic Bethe Ansatz (TBA) formagnetic chains and field theories that includes the finite size (and zerotemperature) calculations for lattice BA models. In all cases, the free energyfollows by quadratures from the solution of a {\bf single} non-linear integralequation (NLIE). [A system of NLIE appears for nested BA]. We derive the NLIEin an external magnetic field $h_z$ and c) the sine-Gordon-massive Thirringmodel (sG-mT) in a periodic box of size $\b \equiv 1/T $ using the light-coneapproach. This NLIE is solved by iteration in one regime (high $T$ in the XXZchain and low $T$ in the sG-mT model). In the opposite (conformal) regime, theleading behaviors are obtained in closed form. Higher corrections can bederived from the Riemann-Hilbert form of the NLIE that we present.

@@ -1,0 +1,13 @@
+Paper: hep-th/0205066
+
+Date: 2002-05-07
+
+Title: Operators with large R charge in N=4 Yang-Mills theory
+
+Authors: David J. Gross, Andrei Mikhailov, Radu Roiban
+
+Comments: 26 pages, LaTeX, added references, small changes in the introduction
+
+Journal-ref: Annals Phys. 301 (2002) 31-52
+
+It has been recently proposed that string theory in the background of a planewave corresponds to a certain subsector of the N=4 supersymmetric Yang-Millstheory. This correspondence follows as a limit of the AdS/CFT duality. As aparticular case of the AdS/CFT correspondence, it is a priori a strong/weakcoupling duality. However, the predictions for the anomalous dimensions whichfollow from this particular limit are analytic functions of the 't Hooftcoupling constant $\lambda$ and have a well defined expansion in the weakcoupling regime. This allows one to conjecture that the correspondence betweenthe strings on the plane wave background and the Yang-Mills theory works at thelevel of perturbative expansions.In our paper we perform perturbative computations in the Yang-Mills theorythat confirm this conjecture. We calculate the anomalous dimension of theoperator corresponding to the elementary string excitation. We verify at thetwo loop level that the anomalous dimension has a finite limit when the Rcharge $J\to \infty$ keeping $\lambda/J^2$ finite. We conjecture that this istrue at higher orders of perturbation theory. We show, by summing an infinitesubset of Feynman diagrams, under the above assumption, that the anomalousdimensions arising from the Yang-Mills perturbation theory are in agreementwith the anomalous dimensions following from the string worldsheet sigma-model.

@@ -1,0 +1,13 @@
+Paper: hep-th/9509105
+
+Date: 1995-09-20
+
+Title: The resolution of field identification fixed points in diagonal coset
+
+theoriesAuthors: J"urgen Fuchs, Bert Schellekens, Christoph Schweigert
+
+Comments: Latex, 32 pages
+
+Journal-ref: Nucl.Phys. B461 (1996) 371-406
+
+The fixed point resolution problem is solved for diagonal coset theories. Theprimary fields into which the fixed points are resolved are described bysubmodules of the branching spaces, obtained as eigenspaces of theautomorphisms that implement field identification. To compute the charactersand the modular S-matrix we use `orbit Lie algebras' and `twining characters',which were introduced in a previous paper (hep-th/9506135). The characters ofthe primary fields are expressed in terms of branching functions of twiningcharacters. This allows us to express the modular S-matrix through theS-matrices of the orbit Lie algebras associated to the identification group.Our results can be extended to the larger class of `generalized diagonalcosets'.

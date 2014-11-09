@@ -1,0 +1,13 @@
+Paper: hep-th/0004183
+
+Date: 2000-04-26
+
+Title: Multiloop String Amplitudes with B-Field and Noncommutative QFT
+
+Authors: Chong-Sun Chu, Rodolfo Russo, Stefano Sciuto
+
+Comments: Latex. 27 pages. 9 figures v2
+
+ref. added, version to appear in NPBJournal-ref: Nucl.Phys. B585 (2000) 193-218
+
+The multiloop amplitudes for the bosonic string in presence of a constantB-field are built by using the basic commutation relations for the open stringzero modes and oscillators. The open string Green function on the annulus isobtained from the one loop scattering amplitude among N tachyons. For higherloops, it is necessary to use the so called three Reggeon vertex, whichdescribes the emission from the open string of another string and not simply ofa tachyon. We find that the modifications to the three (and multi) Reggeonvertex due to the B-field only affect the zero modes and can be written in asimple and elegant way. Therefore we can easily sew these vertices together andwrite the general expression for the multiloop N-Reggeon vertex, which containsany loop string amplitude, in presence of the B-field. The field theory limitis also considered in some examples at two loops and reproduces exactly theresults of a noncommutative scalar field theory.

@@ -1,0 +1,11 @@
+Paper: hep-th/0301222
+
+Date: 2003-01-28
+
+Title: BRST Hamiltonian for Bulk-Quantized Gauge Theory
+
+Authors: Alexander Rutenburg
+
+Comments: 23 pages, AMS-LaTeX, 1 feynmf diagram, added 2 refs email address
+
+By treating the bulk-quantized Yang-Mills theory as a constrained system weobtain a consistent gauge-fixed BRST hamiltonian in the minimal sector. Thisprovides an independent derivation of the 5-d lagrangian bulk action. Theground state is independent of the (anti)ghosts and is interpreted as thesolution of the Fokker-Planck equation, thus establishing a direct connectionto the Fokker-Planck hamiltonian. The vacuum state correlators are shown to bein agreement with correlators in lagrangian 5-d formulation. It is verifiedthat the complete propagators remain parabolic in one-loop dimensionalregularization.

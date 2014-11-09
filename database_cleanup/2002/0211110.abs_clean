@@ -1,0 +1,11 @@
+Paper: hep-th/0211110
+
+Date: 2002-11-13
+
+Title: Blocking up D-branes
+
+Authors: K. Narayan
+
+Comments: Latex, 29 pages incl. appendices, 4 EPS figures, references added
+
+Drawing analogies with block spin techniques used to study continuum limitsin critical phenomena, we attempt to block up D-branes by averaging over nearneighbour elements of their (in general noncommuting) matrix coordinates, i.e.\in a low energy description. We show that various classes of D-brane(noncommutative) geometries appear to behave sensibly under blocking up, givencertain key assumptions, in particular involving gauge invariance. Inparticular, blocking up on the noncommutative plane moves towards a commutativelimiting Riemannian plane. This suggests that the commutative description is acoarse-grained approximation to the noncommutative one, in the sense thatfunctions on the noncommutative geometry that have a matrix-Taylor expansioncollapse down under blocking up to their coarse-grained approximations on thecorresponding smooth commutative geometry. We find that this motivates aredefinition of the matrix variables, involving possible ``counterterms'' tothe noncommutative algebra, similar in spirit to usual renormalization in fieldtheory. We then apply these techniques to more general noncommutativegeometries and find that blocking up averages over far-off-diagonal matrixelements and brings them in, towards the diagonal. We find constraints on thenoncommuting scalar matrices defining the geometry for moving towards acommutative limit. Further, we show that blocking up does not appear to exhibitany ``chaotic'' behaviour, suggesting that there is sensible physics underlyingsuch a matrix renormalization. We discuss briefly interrelations of these ideaswith B-fields and noncommutativity in this preliminary paper.

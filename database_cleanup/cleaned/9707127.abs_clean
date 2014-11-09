@@ -1,0 +1,9 @@
+Paper: hep-th/9707127
+
+Date: 1997-07-14
+
+Title: The Instanton Solution of Forced Burgers Equation in Polyakov's Approach
+
+Comments: 10 pages, latex, no figures
+
+We calculate the coefficients of the operator product expansion (OPE), inPolyakov's approach for Burgers turbulence. We show that the OPE has to begeneralized and it is shown that the extra term gives us the instanton solution(shock solution) of Burgers equation. We consider the effect of the new-term inthe OPE, on the right and left-tail of probability distribution function (PDF).It is shown that the left-tail of PDF, where is dominated by the well-separatedshocks behaves as $ W(u)\sim u^{-7/2}$. Finally we calculate the assymptoticbehaviour of the N-point generating function of the velocity field, using thenew OPE.

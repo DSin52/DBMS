@@ -1,0 +1,11 @@
+Paper: hep-th/9510064
+
+Date: 1995-10-10
+
+Title: BF Theories and Group-Level Duality
+
+Authors: J. M. Isidro, J. P. Nunes, H. J. Schnitzer
+
+Journal-ref: Nucl.Phys. B465 (1996) 315-328
+
+It is known that the partition function and correlators of thetwo-dimensional topological field theory $G_K(N)/ G_K(N)$ on the Riemannsurface $\Sigma_{g,s}$ is given by Verlinde numbers, dim($V_{g,s,K}$) and thatthe large $K$ limit of dim($V_{g,s,K}$) gives Vol(${\cal M}_s$), the volume ofthe moduli space of flat connections of gauge group $G(N)$ on $\Sigma_{g,s}$,up to a power of $K$. Given this relationship, we complete the computation ofVol(${\cal M}_s$) using only algebraic results from conformal field theory. Thegroup-level duality of $G(N)_K$ is used to show that if $G(N)$ is a classicalgroup, then $\displaystyle \lim_{N\rightarrow \infty} G_K(N) / G_K(N)$ is a BFtheory with gauge group $G(K)$. Therefore this limit computes Vol(${\calM}^\prime_s$), the volume of the moduli space of flat connections of gaugegroup $G(K)$.

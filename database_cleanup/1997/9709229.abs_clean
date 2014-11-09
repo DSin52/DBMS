@@ -1,0 +1,13 @@
+Paper: hep-th/9709229
+
+Date: 1997-09-30
+
+Title: Canonical Structure of Classical Field Theory in the Polymomentum Phase
+
+SpaceAuthors: I.V. Kanatchikov
+
+Comments: 45 pages, LaTeX2e, to appear in Reports on Mathematical Physics v. 41
+
+No. 1 (1998)GeometryJournal-ref: Rept.Math.Phys. 41 (1998) 49-90
+
+Canonical structure of the space-time symmetric analogue of the Hamiltonianformalism in field theory based on the De Donder-Weyl (DW) theory is studied.In $n$ space-time dimensions the set of $n$ polymomenta is associated to thespace-time derivatives of field variables. The polysymplectic $(n+1)$-formgeneralizes the simplectic form and gives rise to a map between horizontalforms playing the role of dynamical variables and vertical multivectorsgeneralizing Hamiltonian vector fields. Graded Poisson bracket is defined onforms and leads to the structure of a Z-graded Lie algebra on the subspace ofthe so-called Hamiltonian forms for which the map above exists. A generalizedPoisson structure arises in the form of what we call a ``higher-order'' and aright Gerstenhaber algebra. Field euations and the equations of motion of formsare formulated in terms of the graded Poisson bracket with the DW Hamiltonian$n$-form $H\vol$ ($\vol$ is the space-time volume form and $H$ is the DWHamiltonian function). A few applications to scalar fields, electrodynamics andthe Nambu-Goto string, and a relation to the standard Hamiltonian formalism infield theory are briefly discussed. This is a detailed and improved account ofour earlier concise communications (hep-th/9312162, hep-th/9410238, andhep-th/9511039).

@@ -1,0 +1,9 @@
+Paper: hep-th/9806174
+
+Date: 1998-06-20
+
+Title: Solving differential equations for 3-loop diagrams
+
+hyperbolic geometry and knot theoryComments: 16 pages, LaTeX; further results added in Eqs(46,48,49,50)
+
+Geometric TopologyIn hep-th/9805025, a result for the symmetric 3-loop massive tetrahedron in 3dimensions was found, using the lattice algorithm PSLQ. Here we give a moregeneral formula, involving 3 distinct masses. A proof is devised, though itcannot be accounted as a derivation; rather it certifies that an Ansatz foundby PSLQ satisfies a more easily derived pair of partial differential equations.The result is similar to Schl\"afli's formula for the volume of abi-rectangular hyperbolic tetrahedron, revealing a novel connection betweenvolumes of ideal tetrahedra, corresponding to 1-loop massless trianglediagrams. Ideal tetrahedra are also obtained when evaluating the volumecomplementary to a hyperbolic knot. In the case that the knot is positive, andhence implicated in field theory, ease of ideal reduction correlates withlikely appearance in counterterms. Volumes of knots relevant to the numbercontent of multi-loop diagrams are evaluated; as the loop number goes toinfinity, we obtain the hyperbolic volume of a simple 1-loop box.

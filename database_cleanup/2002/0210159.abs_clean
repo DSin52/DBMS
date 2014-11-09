@@ -1,0 +1,11 @@
+Paper: hep-th/0210159
+
+Date: 2002-10-16
+
+Title: Large scale correlations in normal and general non-Hermitian matrix
+
+ensemblesAuthors: P.Wiegmann and A.Zabrodin
+
+Comments: 16 pages, 1 figure, LaTeX, submitted to J. Phys. A special issue on
+
+random matrices, minor corrections, references addedEffectWe compute the large scale (macroscopic) correlations in ensembles of normalrandom matrices with an arbitrary measure and in ensembles of generalnon-Hermition matrices with a class of non-Gaussian measures. In both cases theeigenvalues are complex and in the large $N$ limit they occupy a domain in thecomplex plane. For the case when the support of eigenvalues is a connectedcompact domain, we compute two-, three- and four-point connected correlationfunctions in the first non-vanishing order in 1/N in a manner that thealgorithm of computing higher correlations becomes clear. The correlationfunctions are expressed through the solution of the Dirichlet boundary problemin the domain complementary to the support of eigenvalues. The two-pointcorrelation functions are shown to be universal in the sense that they dependonly on the support of eigenvalues and are expressed through the DirichletGreen function of its complement.

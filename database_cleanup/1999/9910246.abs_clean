@@ -1,0 +1,11 @@
+Paper: hep-th/9910246
+
+Date: 1999-10-29
+
+Title: Abelian Vectors and Self-Dual Tensors in Six-Dimensional Supergravity
+
+Comments: LaTeX file, 10 pages. Some equations, previously written with wrong
+
+notations, are correctedJournal-ref: Phys.Lett. B474 (2000) 79-84
+
+In this note we describe the most general coupling of {\it abelian} vectorand tensor multiplets to six-dimensional $(1,0)$ supergravity. As was recentlypointed out, it is of interest to consider more general Chern-Simons couplingsto abelian vectors of the type $H^{r}=d B^{r}-1/2 c^{rab} A^{a}d A^{b}$, with$c^{r}$ matrices that may not be simultaneously diagonalized. We show thatthese couplings can be related to Green-Schwarz terms of the form $B^r c_r^{ab}F^a F^b$, and how the complete local Lagrangian, that embodies factorized gaugeand supersymmetry anomalies (to be disposed of by fermion loops) is uniquelydetermined by Wess-Zumino consistency conditions, aside from an arbitraryquartic coupling for the gauginos.

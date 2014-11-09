@@ -1,0 +1,13 @@
+Paper: hep-th/9606137
+
+Date: 1996-06-21
+
+Title: Modular invariance, lattice field theories and finite size corrections
+
+Authors: Charles Nash and Denjoe O' Connor
+
+Comments: 25 pages Plain TeX
+
+Journal-ref: Annals Phys. 273 (1999) 72-98
+
+We give a lattice theory treatment of certain one and two dimensional quantumfield theories. In one dimension we construct a combinatorial version of anon-trivial field theory on the circle which is of some independent interest initself while in two dimensions we consider a field theory on a toroidaltriangular lattice. We take a continuous spin Gaussian model on a toroidaltriangular lattice with periods $L_0$ and $L_1$ where the spins carry arepresentation of the fundamental group of the torus labeled by phases $u_0$and $u_1$. We compute the {\it exact finite size and lattice corrections}, tothe partition function $Z$, for arbitrary mass $m$ and phases $u_i$. Summing$Z^{-1/2}$ over a specified set of phases gives the corresponding result forthe Ising model on a torus. An interesting property of the model is that thelimits $m\rightarrow0$ and $u_i\rightarrow0$ do not commute. Also when $m=0$the model exhibits a {\it vortex critical phase} when at least one of the $u_i$is non-zero. In the continuum or scaling limit, for arbitrary $m$, the finitesize corrections to $-\ln Z$ are {\it modular invariant} and for the criticalphase are given by elliptic theta functions. In the cylinder limit$L_1\rightarrow\infty$ the ``cylinder charge'' $c(u_0,m^2L_0^2)$ is anon-monotonic function of $m$ that ranges from $2(1+6u_0(u_0-1))$ for $m=0$ tozero for $m\rightarrow\infty$ but from which one can determine the centralcharge $c$. The study of the continuum limit of these field theories provides akind of quantum theoretic analog of the link between certain combinatorial andanalytic topological quantities.

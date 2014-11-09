@@ -1,0 +1,11 @@
+Paper: hep-th/0006029
+
+Date: 2000-06-05
+
+Title: The transformations of the electromagnetic potentials under translations
+
+Authors: Bernd A. Berg
+
+Comments: References to work by Jackiw and others are added
+
+I consider infinitesimal translations $x'^{\alpha}=x^{\alpha}+\deltax^{\alpha}$ and demand that Noether's approach gives a symmetricelectromagnetic energy-momentum tensor as it is required for gravitationalsources. This argument determines the transformations of the electromagneticpotentials under infinitesimal translations to be $A'_{\gamma} (x') =A_{\gamma}(x)+\partial_{\gamma} [\delta x_{\beta} A^{\beta}(x)]$, which differsfrom the usually assumed invariance $A'_{\gamma} (x') = A_{\gamma}(x)$, by thegauge transformation $\partial_{\gamma} [\delta x_{\beta} A^{\beta}(x)]$.

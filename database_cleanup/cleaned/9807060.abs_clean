@@ -1,0 +1,13 @@
+Paper: hep-th/9807060
+
+Date: 1998-07-08
+
+Title: Holomorphic curves from matrices
+
+Authors: Lorenzo Cornalba and Washington Taylor
+
+Comments: 41 pages, LaTeX
+
+Journal-ref: Nucl.Phys. B536 (1998) 513-552
+
+Membranes holomorphically embedded in flat noncompact space are constructedin terms of the degrees of freedom of an infinite collection of 0-branes. Toeach holomorphic curve we associate infinite-dimensional matrices which arestatic solutions to the matrix theory equations of motion, and which can beinterpreted as the matrix theory representation of the holomorphically embeddedmembrane. The problem of finding such matrix representations can be phrased asa problem in geometric quantization, where epsilon -> l_P^3/R plays the role ofthe Planck constant and parametrizes families of solutions. The concept ofBergman projection is used as a basic tool, and a local expansion for theaction of the projection in inverse powers of curvature is derived. Thisexpansion is then used to compute the required matrices perturbatively inepsilon. The first two terms in the expansion correspond to the standardgeometric quantization result and to the result obtained using the metaplecticcorrection to geometric quantization.

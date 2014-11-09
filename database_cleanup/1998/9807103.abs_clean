@@ -1,0 +1,11 @@
+Paper: hep-th/9807103
+
+Date: 1998-07-15
+
+Title: On Finite Size Effects in $d=2$ Quantum Gravity
+
+Authors: N.D. Hari Dass (IMSc, Chennai)
+
+Comments: 9 pages, Latex
+
+A systematic investigation is given of finite size effects in $d=2$ quantumgravity or equivalently the theory of dynamically triangulated randomsurfaces. For Ising models coupled to random surfaces, finite size effects arestudied on the one hand by numerical generation of the partition function toarbitrary accuracy by a deterministic calculus, and on the other hand by ananalytic theory based on the singularity analysis of the explicit parametricform of the free energy of the corresponding matrix model. Both these revealthat the form of the finite size corrections, not surprisingly, depend on thestring susceptibility. For the general case where the parametric form of thematrix model free energy is not explicitly known, it is shown how to performthe singularity analysis. All these considerations also apply to otherobservables like susceptibility etc. In the case of the Ising model it is shownthat the standard Fisher-scaling laws are reproduced.

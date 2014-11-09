@@ -1,0 +1,13 @@
+Paper: hep-th/0103073
+
+Date: 2001-03-10
+
+Title: The d=6 trace anomaly from quantum field theory four-loop graphs in one
+
+dimensionAuthors: Agapitos Hatzinikitas and Renato Portugal
+
+Comments: 23 pages, 17 figures
+
+Journal-ref: Nucl.Phys. B613 (2001) 237-259
+
+We calculate the integrated trace anomaly for a real spin-0 scalar field insix dimensions in a torsionless curved space without a boundary. We use a pathintegral approach for a corresponding supersymmetric quantum mechanical model.Weyl ordering the corresponding Hamiltonian in phase space, an extra two-loopcounterterm ${1/8}\bigg(R + g^{ij} \Gamma^{l}_{k i} \Gamma^{k}_{l j} \bigg)$ isproduced in the action. Applying a recursive method we evaluate the componentsof the metric tensor in Riemann normal coordinates in six dimensions andconstruct the interaction Langrangian density by employing the background fieldmethod.The calculation of the anomaly is based on the end-point scalar propagatorand not on the string inspired center-of-mass propagator which gives incorrectresults for the local trace anomaly. The manipulation of the Feynman diagramsis partly relied on the factorization of four dimensional subdiagrams andpartly on a brute force computer algebra program developed to serve thisspecific purpose. The computer program enables one to perform indexcontractions of twelve quantum fields (10395 in the present case) a task whichcannot be accomplished otherwise. We observe that the contribution of thedisconnected diagrams is no longer proportional to the two dimensional traceanomaly (which vanishes in four dimensions). The integrated trace anomaly isfinally expressed in terms of the 17 linearly independent scalar monomialsconstructed out of covariant derivatives and Riemann tensors.

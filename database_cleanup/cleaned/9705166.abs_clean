@@ -1,0 +1,13 @@
+Paper: hep-th/9705166
+
+Date: 1997-05-22
+
+Title: Seiberg-Witten Theory of Rank Two Gauge Groups and Hypergeometric Series
+
+Authors: Takahiro Masuda, Toru Sasaki and Hisao Suzuki (Hokkaido University)
+
+Comments: 26 pages, LaTeX file, minor typos corrected, some comments in the
+
+last section and three references addedJournal-ref: Int.J.Mod.Phys. A13 (1998) 3121-3144
+
+In SU(2) Seiberg-Witten theory, it is known that the dual pair of fields areexpressed by hypergeometric functions. As for the theory with SU(3) gaugesymmetry without matters, it was shown that the dual pairs of fields can beexpressed by means of the Appell function of type F_4. These expressions areconvenient for analyzing analytic properties of fields. We investigate therelation between Seiberg-Witten theory of rank two gauge group without mattersand hypergeometric series of two variables. It is shown that the relationbetween gauge theories and Appell functions can be observed for other classicalgauge groups of rank two. For B_2 and C_2, the fields are written in terms ofAppell functions of type H_5. For D_2, we can express fields by Appellfunctions of type F_4 which can be decomposed to two hypergeometric functions,corresponding to the fact SO(4)\sim SU(2)\times SU(2). We also consider theintegrable curve of type C_2 and show how the fields are expressed by Appellfunctions. However in the case of exceptional group G_2, our examination showsthat they can be represented by hypergeometric series which does not correspondto the Appell functions.

@@ -1,0 +1,11 @@
+Paper: hep-th/9605116
+
+Date: 1996-05-16
+
+Title: The Baryon Wilson Loop Area Law in QCD
+
+Comments: 26 pages, Latex plus three .eps figures in a uuencoded file. Only
+
+change from original submission is addition of reference to work of M. B.Halpern (Phys. Lett. 81B, 245 (1979); Phys. Rev. D19, 517 (1979)Journal-ref: Phys.Rev. D54 (1996) 6527-6536
+
+There is still confusion about the correct form of the area law for thebaryonic Wilson loop (BWL) of QCD. Strong-coupling (i.e., finite latticespacing in lattice gauge theory) approximations suggest the form $\exp[-KA_Y]$, where $K$ is the $q\bar{q}$ string tension and $A_Y$ is the globalminimum area, generically a three-bladed area with the blades joined along aSteiner line ($Y$ configuration). However, the correct answer is$\exp[-(K/2)(A_{12}+A_{13}+A_{23})]$, where, e.g., $A_{12}$ is the minimal areabetween quark lines 1 and 2 ($\Delta$ configuration). This second answer wasgiven long ago, based on certain approximations, and is also strongly favoredin lattice computations. In the present work, we derive the $\Delta$ law fromthe usual vortex-monopole picture of confine- ment, and show that in any casebecause of the 1/2 in the $\Delta$ law, this law leads to a larger value forthe BWL (smaller exponent) than does the $Y$ law. We show that the three-bladedstrong-coupling surfaces, which are infinitesimally thick in the limit of zerolattice spacing, survive as surfaces to be used in the non-Abelian Stokes'theorem for the BWL, which we derive, and lead via this Stokes' theorem to thecorrect $\Delta$ law. Finally, we extend these considerations, includingperturbative contributions, to gauge groups $SU(N)$, with $N>3$.

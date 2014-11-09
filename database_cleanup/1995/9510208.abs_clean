@@ -1,0 +1,13 @@
+Paper: hep-th/9510208
+
+Date: 1995-10-28
+
+Title: Spin/disorder correlations and duality in the c=1/2 string
+
+Authors: Sean M. Carroll, Miguel E. Ortiz and Washington Taylor IV
+
+Comments: 19 pages, LaTeX; final publication version
+
+Journal-ref: Nucl.Phys. B468 (1996) 420-438
+
+We use the method of discrete loop equations to calculate exact correlationfunctions of spin and disorder operators on the sphere and on the boundary of adisk in the $c = 1/2$ string, both in the Ising and dual Ising matrix modelformulations. For both the Ising and dual Ising theories the results on thesphere are in agreement with the KPZ/DDK scaling predictions based on Liouvilletheory; the results on the disk agree with the scaling predictions of Martinec,Moore, and Seiberg for boundary operators. The calculation of Ising disordercorrelations on the sphere requires the use of boundary variables introduced in[hep-th/9510199], which have no matrix model analog. A subtlety in thecalculation on the disk arises because the expansions of the correlationfunctions have leading singular terms which are nonuniversal; we show that thisissue may be resolved by using separate cosmological constants for eachboundary domain. These results give evidence that the Kramers-Wannier dualitysymmetry of the $c = 1/2$ conformal field theory survives coupling to quantumgravity, implying a duality symmetry of the $c = 1/2$ string even in thepresence of boundary operators.

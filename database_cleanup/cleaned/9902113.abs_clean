@@ -1,0 +1,13 @@
+Paper: hep-th/9902113
+
+Date: 1999-02-16
+
+Title: Eigenvalue Distributions in Yang-Mills Integrals
+
+Authors: Werner Krauth and Matthias Staudacher
+
+Comments: 8 pages, 6 figures, some corrections
+
+Journal-ref: Phys.Lett. B453 (1999) 253-257
+
+We investigate one-matrix correlation functions for finite SU(N) Yang-Millsintegrals with and without supersymmetry. We propose novel convergenceconditions for these correlators which we determine from the one-loopperturbative effective action. These conditions are found to agree withnon-perturbative Monte Carlo calculations for various gauge groups anddimensions. Our results yield important insights into the eigenvaluedistributions rho(lambda) of these random matrix models. For the bosonicmodels, we find that the spectral densities rho(lambda) possess moments of allorders as N -> Infinity. In the supersymmetric case, rho(lambda) is a widedistribution with an N-independent asymptotic behavior rho(lambda) ~lambda^(-3), lambda^(-7), lambda^(-15) for dimensions D=4,6,10, respectively.

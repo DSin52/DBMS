@@ -1,0 +1,13 @@
+Paper: hep-th/0012006
+
+Date: 2000-12-01
+
+Title: A Six Vertex Model on a Fishnet
+
+Authors: Charles B. Thorn
+
+Comments: latex, 14 pages, 3 figures
+
+Journal-ref: Phys.Rev. D63 (2001) 105009
+
+The flow of U(1) charge through dense fishnet diagrams, in a non-hermitianmatrix scalar field theory g_1Tr(\Sigma^\dagger\Sigma)^2 +2g_1vTr\Sigma^{\dagger 2}\Sigma^2, is described by a 6-vertex model on a``diamond'' lattice [1]. We give a direct calculation of the continuumproperties of the 6-vertex model on this novel lattice, explicitly confirmingthe conclusions of [1], that, for 1/2 < v< \infty, they are identical to thoseof a world-sheet scalar field compactified on a circle S_1. The radius of thecircle is related to the ratio v of quartic couplings by R^{-2} = 2T_0arccos(1-1/2v^2). This direct computational approach may be of value ingeneralizing the conclusions to the non-Abelian O(n) case.

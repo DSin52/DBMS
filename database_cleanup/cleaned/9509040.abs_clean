@@ -1,0 +1,9 @@
+Paper: hep-th/9509040
+
+Date: 1995-09-08
+
+Title: On the N=2 U(1) supercovariant Lax formalism and WA(n-1|n-1)^(1)
+
+symmetriesComments: 37 pages, ICTPTeX file, IC181
+
+We introduce the concept of conformal spin gradation of the untwisted affineLie superalgebra $\hat A(n-1| n-1)^{(1)}$ to study the $W\hat A (n-1|n-1)^{(1)}$ Miura transformation. We show that the essential of $\hat A(n-1|n-1)^{(1)}$ may be read from the conformal spin gradation of the canonicalvector basis of the $SL(n| n)$ vector representation space $V_{2n}$ and aspectral parameter $\mu$. We give the generic formula of their conformal spinweights. Then, we set up the fundamentals of a manifestly $N=2 U(1)$ Laxformalism leading to a manifestly $N=2 W\hat A(n-1| n-1)^{(1)}$ Miuratransformation. Its explicit form is obtained and is shown to have a similarstructure as in the N=0 case. Both $N=0 W\hat A(n-1)^{(1)}$ and $N=2 W\hatA(n-1| n-1)^{(1)}$ Miura transformations involve $(n-1) N=0$ and N=2 conservedcurrents with integer conformal spins. The leading cases are discussed. Usingthe U(1) charge of the N=2 algebra, we develop also a new method ofconstructing N=2 superfield realizations of the N=2 higher spin supercurrents.Among other results, we find that in general there are three series of $(n-1)$higher conformal spin N=2 supercurrents. The usual N=2 super $W$ currents arethe only hermitian ones. At the $n=3$ level, we find a new Feigin Fuchs typeextension of the conformal spin one N=2 supercurrent. Such a feature, which hasno analogue at the $n=2$ level, is also present for $n>3$. Finally, we give theN=2 superfield formulation of the N=2 Boussinesq equation and itsgeneralization involving complex N=2 supercurrents.

@@ -1,0 +1,13 @@
+Paper: hep-th/9907045
+
+Date: 1999-07-07
+
+Title: Solution of Schwinger-Dyson Equations for ${\cal PT}$-Symmetric Quantum
+
+Field TheoryAuthors: Carl M. Bender, Kimball A. Milton, and Van M. Savage
+
+Comments: 25 pages, 5 ps figures, REVTeX
+
+Journal-ref: Phys.Rev. D62 (2000) 085001
+
+In recent papers it has been observed that non-Hermitian Hamiltonians, suchas those describing $ig\phi^3$ and $-g\phi^4$ field theories, still possessreal positive spectra so long as the weaker condition of ${\cal PT}$ symmetryholds. This allows for the possibility of new kinds of quantum field theoriesthat have strange and quite unexpected properties. In this paper a techniquebased on truncating the Schwinger-Dyson equations is presented forrenormalizing and solving such field theories. Using this technique it isargued that a $-g\phi^4$ scalar quantum field theory in four-dimensionalspace-time is renormalizable, is asymptotically free, has a nonzero value of$<0|\phi|0>$, and has a positive definite spectrum. Such a theory might beuseful in describing the Higgs boson.

@@ -1,0 +1,11 @@
+Paper: hep-th/0302198
+
+Date: 2003-02-25
+
+Title: On central extensions of anti-de-Sitter algebras
+
+Authors: Patrick Meessen, Kasper Peeters and Marija Zamaklar
+
+Comments: 1+17 pages
+
+Motivated by the study of branes in curved backgrounds, we investigate theconstruction of central extensions of the super-isometry algebra osp*(8|4) ofthe AdS7 x S4 background of M-theory. This algebra is not a subalgebra ofosp(1|32) and its central extension can therefore not be obtained by embeddingin this simple superalgebra. We show how, instead, it is possible to constructan extension directly by solving Jacobi identities. This requires, in additionto the expected central charges, the introduction of new ones which appear inthe {Q,Q} commutator only via a linear combination with the bosonic generatorsof the isometry algebra. The resulting extended algebra has the correctflat-space limit, but it is not simple and the central charges do not commutewith the super-isometry generators. We comment on the consequences of thisstructure for the representation theory and on possible alternatives to ourconstruction.

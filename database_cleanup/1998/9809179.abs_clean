@@ -1,0 +1,11 @@
+Paper: hep-th/9809179
+
+Date: 1998-09-24
+
+Title: Gauge Boson Exchange in $AdS_{d+1}$
+
+Comments: Corrections in (3.17) and (4.23); version to be published in Nuclear
+
+Physics B; 22 pages, 1 figure, using Plain TeX and BoxedEPS macros; email todzf@math.mit.eduJournal-ref: Nucl.Phys. B544 (1999) 612-632
+
+We study the amplitude for exchange of massless gauge bosons between pairs ofmassive scalar fields in Anti-de Sitter space. In the AdS/CFT correspondencethis amplitude describes the contribution of conserved flavor symmetry currentsto 4-point functions of scalar operators in the boundary conformal theory. Aconcise, covariant (Y2K-compatible) derivation of the gauge boson propagator in$\AdS_{d+1}$ is given. Techniques are developed to calculate the two bulkintegrals over AdS space leading to explicit expressions or convenient, simpleintegral representations for the amplitude. The amplitude contains leadingpower and sub-leading logarithmic singularities in the gauge boson channel andleading logarithms in the crossed channel. The new methods of this paper areexpected to have other applications in the study of the Maldacena conjecture.

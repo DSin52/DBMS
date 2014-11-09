@@ -1,0 +1,13 @@
+Paper: hep-th/0201247
+
+Date: 2002-01-30
+
+Title: Cardy-Verlinde Formula and entropy bounds in Kerr-Newman-AdS$_4$/dS$_4$
+
+black holes backgroundsAuthors: Jiliang Jing
+
+Comments: 14 pages, no figure
+
+Journal-ref: Phys.Rev. D66 (2002) 024002
+
+The Cardy-Verlinde formula is further verified by using theKerr-Newman-AdS$_4$ and Kerr-Newman-dS$_4$ black holes. In theKerr-Newman-AdS$_4$ spacetime, we find that, for strongly coupled CFTs with AdSduals, to cast the entropy of the CFT into the Cardy-Verlinde formula theCasimir energy must contains the terms $ -n ({\mathcal{J}} \Omega_H+\frac{Q\Phi}{2}+ \frac{Q\Phi_0}{2})$, which associate with rotational andelectric potential energies, and the extensive energy includes the term $-Q\Phi_0$. For the Kerr-Newman-dS$_4$ black hole, we note that the Casimir energyis negative but the extensive energy is positive on the cosmological horizon;while the Casimir energy is positive but the extensive energy is negative onthe event horizon (the definitions for the two energies possess the same formsas the corresponding quantities of the Kerr-Newman-AdS$_4$ black hole). Thus wehave to take the absolute value of the Casimir (extensive) energy in theCardy-Verlinde formula for the cosmological (event) horizon. The result for theKerr-Newman-dS$_4$ spacetime provides support of the dS/CFT correspondence.Furthermore, we also obtain the Bekenstein-Verlinde-like entropy bound for theKerr-Newman-AdS$_4$ black hole and the D-bound on the entropy of matter systemin Kerr-Newman-dS$_4$ spacetime. We find that both the bounds are tightened bythe electric charge.

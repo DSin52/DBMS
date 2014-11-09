@@ -1,0 +1,11 @@
+Paper: hep-th/9308008
+
+Date: 1993-08-03
+
+Title: Bethe Ansatz and Quantum Groups
+
+Authors: H. J. de Vega
+
+Comments: 53 pages, LPTHE 93/17. Lectures given at the Vth. Nankai Workshop,
+
+Tianjin, P. R. of CHINA, June 1992.(Uses phyzzx)SystemsThe formulation and resolution of integrable lattice statistical models in aquantum group covariant way is the subject of this review. The Bethe Ansatzturns to be remarkably useful to implement quantum group symmetries and toprovide quantum group representations even when $q$ is a root of unity. Westart by solving the six-vertex model with fixed boundary conditions (FBC) thatguarantee exact $SU(2)_q$ invariance on the lattice. The algebra of theYang-Baxter (YB) and $SU(2)_q$ generators turns to close. The infinite spectralparameter limit of the YB generators yields {\bf cleanly} the $SU(2)_q$generators. The Bethe Ansatz states constructed for FBC are shown to be {\bfhighest weights} of $SU(2)_q$. The higher level Bethe Ansatz equations (BAE,describing the physical excitations) are explicitly derived for FBC. We thensolve the RSOS($p$) models on the light--cone lattice with fixed boundaryconditions by disentangling the type II representations of $SU(2)_q$, at$q=e^{i\pi/p}$, from the full SOS spectrum obtained through Algebraic BetheAnsatz. The RSOS states are those with quantum spin $J<(p-1)/2$ and no {\bfsingular} roots in the solutions of the BAE. We thus give a microscopicderivation of the lattice $S-$matrix of the massive kinks and show that thecontinuum limit of the RSOS($p+1$) model is the $p-$restricted Sine--Gordonfield theory.

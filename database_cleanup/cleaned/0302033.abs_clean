@@ -1,0 +1,11 @@
+Paper: hep-th/0302033
+
+Date: 2003-02-05
+
+Title: Dynamical Structure of Irregular Constrained Systems
+
+Authors: Olivera Miskovic and Jorge Zanelli
+
+Comments: 14 pages, no figures
+
+Hamiltonian systems with functionally dependent constraints (irregularsystems), for which the standard Dirac procedure is not directly applicable,are discussed. They are classified according to their behavior in the vicinityof the constraint surface into two fundamental types. If the irregularconstraints are multilinear (type I), then it is possible to regularize thesystem so that the Hamiltonian and Lagrangian descriptions are equivalent. Whenthe constraints are power of a linear function (type II), regularization is notalways possible and the Hamiltonian and Lagrangian descriptions may bedynamically inequivalent. It is shown that the inequivalence between the twoformalisms can occur if the kinetic energy is an indefinite quadratic form inthe velocities. It is also shown that a system of type I can evolve in timefrom a regular configuration into an irregular one, without any catastrophicconsequences.

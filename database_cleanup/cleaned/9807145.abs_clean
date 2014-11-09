@@ -1,0 +1,13 @@
+Paper: hep-th/9807145
+
+Date: 1998-07-20
+
+Title: Dissipative Time Evolution of Observables in Non-equilibrium Statistical
+
+Quantum SystemsAuthors: Herbert Nachbagauer
+
+Comments: 20 pages, 6 Figures
+
+Journal-ref: Eur.Phys.J. C8 (1999) 171-182
+
+We discuss differential-- versus integral--equation based methods describingout--of thermal equilibrium systems and emphasize the importance of a welldefined reduction to statistical observables. Applying the projection operatorapproach, we investigate on the time evolution of expectation values of linearand quadratic polynomials in position and momentum for a statistical anharmonicoscillator with quartic potential. Based on the exact integro-differentialequations of motion, we study the first and naive second order approximationwhich breaks down at secular time-scales. A method is proposed to improve theexpansion by a non--perturbative resummation of all quadratic operatorcorrelators consistent with energy conservation for all times. Motion cannot bedescribed by an effective Hamiltonian local in time reflecting non-unitarity ofthe dissipative entropy generating evolution. We numerically integrate theconsistently improved equations of motion for large times. We relate entropy tothe uncertainty product, both being expressible in terms of the observablesunder consideration.

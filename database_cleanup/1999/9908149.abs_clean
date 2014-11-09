@@ -1,0 +1,13 @@
+Paper: hep-th/9908149
+
+Date: 1999-08-23
+
+Title: Casimir Effect
+
+Authors: J. Feinberg, A. Mann and M. Revzen
+
+Comments: latex, 56 pages, one eps figure. Major improvements of presentation
+
+(especially in Section 2). No change in the conclusions. Connection with theworks of Balian et al. on the Casimir effect is clarified. Abstract changed,typos correctedJournal-ref: Annals Phys. 288 (2001) 103-136
+
+We analyze the high temperature (or classical) limit of the Casimir effect. Auseful quantity which arises naturally in our discussion is the ``relativeCasimir energy", which we define for a configuration of disjoint conductingboundaries of arbitrary shapes, as the difference of Casimir energies betweenthe given configuration and a configuration with the same boundaries infinitelyfar apart. Using path integration techniques, we show that the relative Casimirenergy vanishes exponentially fast in temperature. This is consistent with asimple physical argument based on Kirchhoff's law. As a result the ``relativeCasimir entropy", which we define in an obviously analogous manner, tends, inthe classical limit, to a finite asymptotic value which depends only on thegeometry of the boundaries. Thus the Casimir force between disjoint pieces ofthe boundary, in the classical limit, is entropy driven and is governed by adimensionless number characterizing the geometry of the cavity. Contributionsto the Casimir thermodynamical quantities due to each individual connectedcomponent of the boundary exhibit logarithmic deviations in temperature fromthe behavior just described. These logarithmic deviations seem to arise due toour difficulty to separate the Casimir energy (and the other thermodynamicalquantities) from the ``electromagnetic'' self-energy of each of the connectedcomponents of the boundary in a well defined manner. Our approach to theCasimir effect is not to impose sharp boundary conditions on the fluctuatingfield, but rather take into consideration its interaction with the plasma of``charge carriers'' in the boundary, with the plasma frequency playing the roleof a physical UV cutoff. This also allows us to analyze deviations from aperfect conductor behavior.

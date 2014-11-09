@@ -1,0 +1,9 @@
+Paper: hep-th/9802098
+
+Date: 1998-02-13
+
+Title: Example of quantum systems reduction
+
+Comments: 9 pp, Latex, no figure
+
+To solve the quantum-mechanical problem the procedure of mapping onto linearspace $W$ of generators of the (sub)group violated by given classicaltrajectory is formulated. The formalism is illustrated by the plane H-atommodel. The problem is solved noting conservation of the Runge-Lentz vector $n$and reducing the 4-dimensional incident phase space $T$ to the 3-dimensionallinear subspace $W=T^* V\times R^1$, where $T^* V$ is the (angular momentum($l$) - angle ($\vp$)) phase space and $R^1 =n$. It is shown explicitly that(i) the motion in $R^1$ is pure classical as the consequence of the reduction,(ii) motion in the $\vp$ direction is classical since the Kepler orbits areclosed independently from initial conditions and (iii) motion in the $l$direction is classical since all corresponding quantum corrections are definedon the bifurcation line ($l=\infty$) of the problem. In our terms the H-atomproblem is exactly quasiclassical and is completely integrable by this reasons.

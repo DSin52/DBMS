@@ -1,0 +1,13 @@
+Paper: hep-th/0203066
+
+Date: 2002-03-07
+
+Title: Heat kernels and zeta-function regularization for the mass of the
+
+supersymmetric kinkAuthors: M. Bordag, A. S. Goldhaber, P. van Nieuwenhuizen, D. Vassilevich
+
+Comments: 20 pages, v2
+
+published versionJournal-ref: Phys.Rev. D66 (2002) 125014
+
+We apply zeta-function regularization to the kink and susy kink and computeits quantum mass. We fix ambiguities by the renormalization condition that thequantum mass vanishes as one lets the mass gap tend to infinity while keepingscattering data fixed. As an alternative we write the regulated sum over zeropoint energies in terms of the heat kernel and apply standard heat kernelsubtractions. Finally we discuss to what extent these procedures are equivalentto the usual renormalization conditions that tadpoles vanish.

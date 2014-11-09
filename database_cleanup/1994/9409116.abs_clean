@@ -1,0 +1,13 @@
+Paper: hep-th/9409116
+
+Date: 1994-09-20
+
+Title: Coherent states, Path integral, and Semiclassical approximation
+
+Authors: K.Funahashi, T.Kashiwa, S.Sakoda, K.Fujii
+
+Comments: latex 33 pages and 2 figures(uuencoded postscript file),
+
+KYUSHU-HET-19 We have corrected the proof of the WKB-exactness in the section3Journal-ref: J.Math.Phys. 36 (1995) 3232-3253
+
+Using the generalized coherent states we argue that the path integralformulae for $SU(2)$ and $SU(1,1)$ (in the discrete series) are WKB exact,ifthe starting point is expressed as the trace of $e^{-iT\hat H}$ with $\hat H$being given by a linear combination of generators. In our case,WKB\infty$. The result is obtained directly by knowing that the each coefficientvanishes under the $J^{-1}$($K^{-1}$) expansion and is examined by anothermethod to be legitimated. We also point out that the discretized form of pathintegral is indispensable, in other words, the continuum path integralexpression leads us to a wrong result. Therefore a great care must be takenwhen some geometrical action would be adopted, even if it is so beautiful, asthe starting ingredient of path integral.

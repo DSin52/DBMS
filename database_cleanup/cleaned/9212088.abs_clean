@@ -1,0 +1,13 @@
+Paper: hep-th/9212088
+
+Date: 1992-12-14
+
+Title: Random matrix theory and spectral sum rules for the Dirac operator in
+
+QCDAuthors: E.V. Shuryak and J.J.M. Verbaarschot
+
+Comments: 18 pages, SUNY-NTG-92/45
+
+Journal-ref: Nucl.Phys. A560 (1993) 306-320
+
+We construct a random matrix model that, in the large $N$ limit, reduces tothe low energy limit of the QCD partition function put forward by Leutwyler andSmilga. This equivalence holds for an arbitrary number of flavors and any valueof the QCD vacuum angle. In this model, moments of the inverse squares of theeigenvalues of the Dirac operator obey sum rules, which we conjecture to beuniversal. In other words, the validity of the sum rules depends only on thesymmetries of the theory but not on its details. To illustrate this point weshow that the sum rules hold for an interacting liquid of instantons. Thephysical interpretation is that the way the thermodynamic limit of the spectraldensity near zero is approached is universal. However, its value, $i.e.$ thechiral condensate, is not.

@@ -1,0 +1,13 @@
+Paper: hep-th/0102211
+
+Date: 2001-02-28
+
+Title: String Orbifolds and Quotient Stacks
+
+Authors: Eric Sharpe
+
+Comments: 67 pages, LaTeX, 2 figure files, v2
+
+Journal-ref: Nucl.Phys. B627 (2002) 445-505
+
+In this note we observe that, contrary to the usual lore, string orbifolds donot describe strings on quotient spaces, but rather seem to describe strings onobjects called quotient stacks, a result that follows from simply unravelingdefinitions, and is further justified by a number of results. Quotient stacksare very closely related to quotient spaces; for example, when the orbifoldgroup acts freely, the quotient space and the quotient stack are homeomorphic.We explain how sigma models on quotient stacks naturally have twisted sectors,and why a sigma model on a quotient stack would be a nonsingular CFT even whenthe associated quotient space is singular. We also show how to understand twistfields in this language, and outline the derivation of the orbifold Eulercharacteristic purely in terms of stacks. We also outline why there is a sensein which one naturally finds B nonzero on exceptional divisors of resolutions.These insights are not limited to merely understanding existing stringorbifolds in M-theory, as well as how this means that string orbifolds providethe first example of an entirely new class of string compactifications. Asquotient stacks are not a staple of the physics literature, we include alengthy tutorial on quotient stacks.

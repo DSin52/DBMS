@@ -1,0 +1,11 @@
+Paper: hep-th/9610096
+
+Date: 1996-10-14
+
+Title: The Cauchy Problem for Abstract Evolution Equations with Ghost and
+
+Fermion Degrees of FreedomAuthors: Thomas Schmitt
+
+Comments: 28 pages, LateX2E+AMSLaTeX
+
+We consider a class of abstract nonlinear evolution equations insupermanifolds (smf's) modelled over Z_2-graded locally convex spaces. We showuniqueness, local existence, smoothness, and an abstract version of causalpropagation of the solutions. If an a-priori estimate prevents the solutionsfrom blowing-up then an infinite-dimensional smf of "all" solutions can beconstructed.We apply our results to a class of systems of nonlinear field equations withanticommuting fields which arise in classical field models used for realisticquantum field theoretic models. In particular, we show that under suitableconditions, the smf of smooth Cauchy data with compact support is isomorphicwith an smf of corresponding classical solutions of the model.

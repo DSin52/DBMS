@@ -1,0 +1,13 @@
+Paper: hep-th/0108240
+
+Date: 2001-08-31
+
+Title: When the Casimir energy is not a sum of zero-point energies
+
+Authors: Luiz C. de Albuquerque and R. M. Cavalcanti
+
+Comments: 19 pages, REVTEX, typos corrected, references added/updated
+
+Journal-ref: Phys.Rev. D65 (2002) 045004
+
+We compute the leading radiative correction to the Casimir force between twoparallel plates in the $\lambda\Phi^4$ theory. Dirichlet and periodic boundaryconditions are considered. A heuristic approach, in which the Casimir energy iscomputed as the sum of one-loop corrected zero-point energies, is shown toyield incorrect results, but we show how to amend it. The technique is thenused in the case of periodic boundary conditions to construct a perturbativeexpansion which is free of infrared singularities in the massless limit. Inthis case we also compute the next-to-leading order radiative correction, whichturns out to be proportional to $\lambda^{3/2}$.

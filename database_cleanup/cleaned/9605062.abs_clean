@@ -1,0 +1,13 @@
+Paper: hep-th/9605062
+
+Date: 1996-05-09
+
+Title: Non-unitary Conformal Field Theory and Logarithmic Operators for
+
+Disordered SystemsAuthors: Z. Maassarani, D. Serban
+
+Comments: Latex, 20 pages, one figure. Version accepted for publication in
+
+Nuclear Physics B, minor correctionsJournal-ref: Nucl.Phys. B489 (1997) 603-625
+
+We consider the supersymmetric approach to gaussian disordered systems likethe random bond Ising model and Dirac model with random mass and randompotential. These models appeared in particular in the study of the integerquantum Hall transition. The supersymmetric approach reveals an osp(2/2)_1affine symmetry at the pure critical point. A similar symmetry should hold atother fixed points. We apply methods of conformal field theory to determine theconformal weights at all levels. These weights can generically be negativebecause of non-unitarity. Constraints such as locality allow us to quantize thelevel k and the conformal dimensions. This provides a class of (possiblydisordered) critical points in two spatial dimensions. Solving theKnizhnik-Zamolodchikov equations we obtain a set of four-point functions whichexhibit a logarithmic dependence. These functions are related to logarithmicoperators. We show how all such features have a natural setting in thesuperalgebra approach as long as gaussian disorder is concerned.

@@ -1,0 +1,13 @@
+Paper: hep-th/9412117
+
+Date: 1994-12-13
+
+Title: Mirror Symmetry for Calabi-Yau Hypersurfaces in Weighted P_4 and
+
+Extensions of Landau Ginzburg TheoryAuthors: Philip Candelas, Xenia de la Ossa and Sheldon Katz
+
+Comments: 29 pages, plain TeX. Two figures submitted separately as a uuencoded
+
+file. A plot at the end of the paper requires an extended memory version ofTeX. Instructions for suppressing the plot included at head of source fileJournal-ref: Nucl. Phys. B450 (1995) 267-292
+
+Recently two groups have listed all sets of weights (k_1,...,k_5) such thatthe weighted projective space P_4^{(k_1,...,k_5)} admits a transverseCalabi-Yau hypersurface. It was noticed that the corresponding Calabi-Yaumanifolds do not form a mirror symmetric set since some 850 of the 7555manifolds have Hodge numbers (b_{11},b_{21}) whose mirrors do not occur in thelist. By means of Batyrev's construction we have checked that each of the 7555manifolds does indeed have a mirror. The `missing mirrors' are constructed ashypersurfaces in toric varieties. We show that many of these manifolds may beinterpreted as non-transverse hypersurfaces in weighted P_4's, ie,hypersurfaces for which dp vanishes at a point other than the origin. Thisfalls outside the usual range of Landau--Ginzburg theory. NeverthelessBatyrev's procedure provides a way of making sense of these theories.

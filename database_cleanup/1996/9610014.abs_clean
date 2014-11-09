@@ -1,0 +1,13 @@
+Paper: hep-th/9610014
+
+Date: 1996-10-02
+
+Title: Bosonization and Current Algebra of Spinning Strings
+
+Authors: A. Stern
+
+Comments: Latex file, 29 pp
+
+Journal-ref: Nucl.Phys. B482 (1996) 305-324
+
+We write down a general geometric action principle for spinning strings in$d$-dimensional Minkowski space, which is formulated without the use ofGrassmann coordinates. Instead, it is constructed in terms of the pull-back ofa left invariant Maurer-Cartan form on the $d$-dimensional Poincar\'e group tothe world sheet. The system contains some interesting special cases. Among themare the Nambu string (as well as, null and tachyionic strings) where the spinvanishes, and also the case of a string with a spin current - but no momentumcurrent. We find the general form for the Virasoro generators, and show thatthey are first class constraints in the Hamiltonian formulation of the theory.The current algebra associated with the momentum and angular momentum densitiesare shown, in general, to contain rather complicated anomaly terms whichobstruct quantization. As expected, the anomalies vanish when one specializesto the case of the Nambu string, and there one simply recovers the algebraassociated with the Poincar\'e loop group. We speculate that there exist othercases where the anomalies vanish, and that these cases give the bosonization ofthe known pseudoclassical formulations of spinning strings.

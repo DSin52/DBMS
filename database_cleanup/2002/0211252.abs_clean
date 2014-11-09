@@ -1,0 +1,13 @@
+Paper: hep-th/0211252
+
+Date: 2002-11-26
+
+Title: Four-point functions in N=4 SYM
+
+Authors: P. J. Heslop and P. S. Howe
+
+Comments: Minor changes made to text
+
+Journal-ref: JHEP 0301 (2003) 043
+
+A new derivation is given of four-point functions of charge $Q$ chiralprimary multiplets in N=4 supersymmetric Yang-Mills theory. A compact formula,valid for arbitrary $Q$, is given which is manifestly superconformal andanalytic in the internal bosonic coordinates of analytic superspace. Thisformula allows one to determine the spacetime four-point function of any fourcomponent fields in the multiplets in terms of the four-point function of theleading chiral primary fields. The leading term is expressed in terms of $1/2Q(Q-1)$ functions of two conformal invariants and a number of single variablefunctions. Crossing symmetry reduces the number of independent functions, whilethe OPE implies that the single-variable functions arise from protectedoperators and should therefore take their free form. This is the partialnon-renormalisation property of such four-point functions which can be viewedas a consequence of the OPE and the non-renormalisation of three-pointfunctions of protected operators.

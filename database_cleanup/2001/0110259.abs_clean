@@ -1,0 +1,11 @@
+Paper: hep-th/0110259
+
+Date: 2001-10-29
+
+Title: Generalized Lattice Gauge Theory, Spin Foams and State Sum Invariants
+
+Authors: Robert Oeckl (CPT)
+
+Comments: 58 pages, LaTeX with AMS and XY-Pic macros; typos corrected and
+
+references updatedWe construct a generalization of pure lattice gauge theory (LGT) where therole of the gauge group is played by a tensor category. The type of tensorcategory admissible (spherical, ribbon, symmetric) depends on the dimension ofthe underlying manifold (<=3, <=4, any). Ordinary LGT is recovered if thecategory is the (symmetric) category of representations of a compact Lie group.In the weak coupling limit we recover discretized BF-theory in terms of acoordinate free version of the spin foam formulation. We work on generalcellular decompositions of the underlying manifold.In particular, we are able to formulate LGT as well as spin foam models ofBF-type with quantum gauge group (in dimension <=4) and with supersymmetricgauge group (in any dimension).Technically, we express the partition function as a sum over diagramsdenoting morphisms in the underlying category. On the LGT side this enables usto introduce a generalized notion of gauge fixing corresponding to atopological move between cellular decompositions of the underlying manifold. Onthe BF-theory side this allows a rather geometric understanding of the statesum invariants of Turaev/Viro, Barrett/Westbury and Crane/Yetter which werecover.The construction is extended to include Wilson loop and spin network typeobservables as well as manifolds with boundaries. In the topological (weakcoupling) case this leads to TQFTs with or without embedded spin networks.

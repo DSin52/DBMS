@@ -1,0 +1,13 @@
+Paper: hep-th/9601071
+
+Date: 1996-01-15
+
+Title: Cohomological Quantum Mechanics And Calculability Of Observables
+
+Authors: M.Mekhfi
+
+Comments: 12 pages,Latex
+
+Journal-ref: Mod.Phys.Lett. A11 (1996) 2065-2082
+
+We reconsider quantum mechanical systems based on the classical action beingthe period of a one form over a cycle and elucidate three main points. First weshow that the prepotenial V is no longer completely arbitrary but obeys aconsistency integral equation. That is the one form dV defines the same periodas the classical action. We then apply this to the case of the punctured planefor which the prepotential is of the form $V= \alpha \theta + \Phi ( \theta )$.The function $ \Phi $ is any but a periodic function of the polar angle. Forthe topological information to be preserved, we further require that $ \Phi $be even. Second we point out the existence of a hidden scale which comes fromthe regularization of the infrared behaviour of the solutions. This will thenbe used to eliminate certain invariants preselected on dimensional countinggrounds. Then provided we discard nonperiodic solutions as being non physicalwe compute the expectation values of the BRST- exact observables with thegeneral form of the prepotential using only the orthonormality of the solutions(periodic). Third we give topological interpretations of the invariants interms of the topological invariants wich live naturally on the puncturedplane as the winding number and the fundamental group of homotopy,but thisrequires a prior twisting of the homotopy structure.

@@ -1,0 +1,13 @@
+Paper: hep-th/9802083
+
+Date: 1998-02-12
+
+Title: Flat Complex Vector Bundles, The Beltrami Differential and W-Algebras
+
+Authors: S. Lazzarini (CPT and Mediterranean Univ., Marseille)
+
+Comments: LaTeX, 19 pages, no figure. Based on a talk given at the Luminy
+
+July 3-7, 1995Journal-ref: Lett.Math.Phys. 41 (1997) 207-225
+
+Since the appearance of the paper by Bilal & al. in 1991, it has been widelyassumed that W-algebras originating from the Hamiltonian reduction of anSL(n,C)-bundle over a Riemann surface give rise to a flat connection, in whichthe Beltrami differential may be identified. In this Letter, it is shown thatthe use of the Beltrami parametrisation of complex structures on a compactRiemann surface over which flat complex vector bundles are considered, allowsto construct the above mentioned flat connection. It is stressed that themodulus of the Beltrami differential is of necessity less than one, and thatsolutions of the so-called Beltrami equation give rise to an orientationpreserving smooth change of local complex coordinates. In particular, thelatter yields a smooth equivalence between flat complex vector bundles. Therole of smooth diffeomorphisms which induce equivalent complex structures isspecially emphasized. Furthermore, it is shown that, while the constructiongiven here applies to the special case of the Virasoro algebra, the extensionto flat complex vector bundles of arbitrary rank does not provide"generalizations" of the Beltrami differential usually considered as centralobjects for such non-linear symmetries.

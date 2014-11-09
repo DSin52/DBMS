@@ -1,0 +1,11 @@
+Paper: hep-th/0001003
+
+Date: 2000-01-01
+
+Title: Comment on "Metric Fluctuations in Brane Worlds"
+
+Authors: Y.S. Myung and Gungwon Kang
+
+Comments: 4 pages, revtex
+
+Recently, Ivanov and Volovich (hep-th/9912242) claimed that the perturbationof $h_{\mu\nu}$ with nonvanishing transverse components $h_{5\mu}$ is notlocalized on the brane because $h_{\mu\nu}$ depends on the fifth coordinate $z$linearly. Consequently, it may indicate that the effective theory is unstable.However, we point out that such linear dependence on $z$ can be {\it gaugedaway}. Hence the solution does not belong to the physical one. Therefore, evenif one includes $h_{5\mu}$, Randall and Sundrum's argument for the localizedgravity on the brane remains correct.

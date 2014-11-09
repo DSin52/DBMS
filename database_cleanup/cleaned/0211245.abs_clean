@@ -1,0 +1,11 @@
+Paper: hep-th/0211245
+
+Date: 2002-11-25
+
+Title: The Dijkgraaf-Vafa prepotential in the context of general Seiberg-Witten
+
+theoryAuthors: H. Itoyama, A. Morozov
+
+Comments: a few changes, references added, typo corrected
+
+We consider the prepotential of Dijkgraaf and Vafa (DV) as one more (and infact, singular) example of the Seiberg-Witten (SW) prepotentials and discussits properties from this perspective. Most attention is devoted to the issue ofcomplete system of moduli, which should include not only the sizes of the cuts(in matrix model interpretation), but also their positions, i.e. the number ofmoduli should be almost doubled, as compared to the DV consideration. Weintroduce the notion of regularized DV system (not necessarilly related tomatrix model) and discuss the WDVV equations. These definitely hold beforeregularization is lifted, but an adequate limiting procedure, preserving allingredients of the SW theory, remains to be found.

@@ -1,0 +1,11 @@
+Paper: hep-th/0301148
+
+Date: 2003-01-20
+
+Title: The geodesic approximation for lump dynamics and coercivity of the
+
+Hessian for harmonic mapsAuthors: M. Haskins and J.M. Speight
+
+Comments: 29 pages, 1 figure; typos corrected, references added, expanded
+
+discussion of the main function spacePhysicsThe most fruitful approach to studying low energy soliton dynamics in fieldtheories of Bogomol'nyi type is the geodesic approximation of Manton. In thecase of vortices and monopoles, Stuart has obtained rigorous estimates of theerrors in this approximation, and hence proved that it is valid in the lowspeed regime. His method employs energy estimates which rely on a keycoercivity property of the Hessian of the energy functional of the theory underconsideration. In this paper we prove an analogous coercivity property for theHessian of the energy functional of a general sigma model with compact K\"ahlerdomain and target. We go on to prove a continuity property for our result, andshow that, for the CP^1 model on S^2, the Hessian fails to be globally coercivein the degree 1 sector. We present numerical evidence which suggests that theHessian is globally coercive in a certain equivariance class of the degree nsector for n>1. We also prove that, within the geodesic approximation, a singleCP^1 lump moving on S^2 does not generically travel on a great circle.

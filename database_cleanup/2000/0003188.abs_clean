@@ -1,0 +1,13 @@
+Paper: hep-th/0003188
+
+Date: 2000-03-21
+
+Title: Renormalization in quantum field theory and the Riemann-Hilbert problem
+
+Authors: Alain Connes and Dirk Kreimer
+
+Comments: 35 pages, eps figures
+
+Journal-ref: Commun.Math.Phys. 216 (2001) 215-241
+
+We showed in part I (hep-th/9912092) that the Hopf algebra ${\cal H}$ ofFeynman graphs in a given QFT is the algebra of coordinates on a complexinfinite dimensional Lie group $G$ and that the renormalized theory is obtainedfrom the unrenormalized one by evaluating at $\ve=0$ the holomorphic part$\gamma_+(\ve)$ of the Riemann-Hilbert decomposition$\gamma_-(\ve)^{-1}\gamma_+(\ve)$ of the loop $\gamma(\ve)\in G$ provided bydimensional regularization. We show in this paper that the group $G$ actsnaturally on the complex space $X$ of dimensionless coupling constants of thetheory. More precisely, the formula $g_0=gZ_1Z_3^{-3/2}$ for the effectivecoupling constant, when viewed as a formal power series, does define a Hopfalgebra homomorphism between the Hopf algebra of coordinates on the group offormal diffeomorphisms to the Hopf algebra ${\cal H}$. This allows first of allto read off directly, without using the group $G$, the bare coupling constantand the renormalized one from the Riemann-Hilbert decomposition of theunrenormalized effective coupling constant viewed as a loop of formaldiffeomorphisms. This shows that renormalization is intimately related with thetheory of non-linear complex bundles on the Riemann sphere of the dimensionalregularization parameter $\ve$. It also allows to lift both the renormalizationgroup and the $\beta$-function as the asymptotic scaling in the group $G$. Thisexploits the full power of the Riemann-Hilbert decomposition together with theinvariance of $\gamma_-(\ve)$ under a change of unit of mass. This not onlygives a conceptual proof of the existence of the renormalization group but alsodelivers a scattering formula in the group $G$ for the full higher polestructure of minimal subtracted counterterms in terms of the residue.

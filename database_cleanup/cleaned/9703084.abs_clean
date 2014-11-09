@@ -1,0 +1,13 @@
+Paper: hep-th/9703084
+
+Date: 1997-03-11
+
+Title: Missing Modules, the Gnome Lie Algebra, and $E_{10}$
+
+Authors: O. B\"arwald (King's College, London), R.W. Gebert (IAS, Princeton),
+
+M. G\"unaydin (Penn State U.), H. Nicolai (AEI, Potsdam)Comments: 31 pages, LaTeX2e, AMS packages, PSTRICKS
+
+Journal-ref: Commun.Math.Phys. 195 (1998) 29-65
+
+We study the embedding of Kac-Moody algebras into Borcherds (or generalizedKac-Moody) algebras which can be explicitly realized as Lie algebras ofphysical states of some completely compactified bosonic string. The extra``missing states'' can be decomposed into irreducible highest or lowest weight``missing modules'' w.r.t. the relevant Kac-Moody subalgebra; thecorresponding lowest weights are associated with imaginary simple roots whosemultiplicities can be simply understood in terms of certain polarization statesof the associated string. We analyse in detail two examples where the momentumlattice of the string is given by the unique even unimodular Lorentzian lattice$II_{1,1}$ or $II_{9,1}$, respectively. The former leads to the Borcherdsalgebra $g_{1,1}$, which we call ``gnome Lie algebra", with maximal Kac-Moodysubalgebra $A_1$. By the use of the denominator formula a complete set ofimaginary simple roots can be exhibited, whereas the DDF construction providesan explicit Lie algebra basis in terms of purely longitudinal states of thecompactified string in two dimensions. The second example is the Borcherdsalgebra $g_{9,1}$, whose maximal Kac-Moody subalgebra is the hyperbolicalgebra $E_{10}$. The imaginary simple roots at level 1, which give rise toirreducible lowest weight modules for $E_{10}$, can be completelycharacterized; furthermore, our explicit analysis of two non-trivial level-2root spaces leads us to conjecture that these are in fact the only imaginarysimple roots for $g_{9,1}$.

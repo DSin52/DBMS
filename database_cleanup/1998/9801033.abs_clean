@@ -1,0 +1,13 @@
+Paper: hep-th/9801033
+
+Date: 1998-01-09
+
+Title: Quantum Transformations
+
+Authors: Alon E. Faraggi and Marco Matone
+
+Comments: 19 pages, LaTeX. Extended version to be published in Phys. Lett. A
+
+Journal-ref: Phys.Lett. A249 (1998) 180-190
+
+We show that the stationary quantum Hamilton-Jacobi equation ofnon-relativistic 1D systems, underlying Bohmian mechanics, takes the classicalform with $\partial_q$ replaced by $\partial_{\hat q}$ where $d\hat q={dq\over\sqrt{1-\beta^2}}$. The $\beta^2$ term essentially coincides with the quantumpotential that, like $V-E$, turns out to be proportional to a curvature arisingin projective geometry. In agreement with the recently formulated equivalenceprinciple, these ``quantum transformations'' indicate that the classical andquantum potentials deform space geometry.

@@ -1,0 +1,13 @@
+Paper: hep-th/9905027
+
+Date: 1999-05-05
+
+Title: Extension of worldline computational algorithms for QCD to open
+
+fermionic contoursAuthors: A. I. Karanikas (University of Athens) and C. N. Ktorides (University
+
+of Athens)Comments: 24 pages
+
+Journal-ref: JHEP 9911 (1999) 033
+
+The worldline casting of a gauge field system with spin-1/2 matter fields hasprovided a, particle-based, first quantization formalism in the framework ofwhich the Bern-Kosower algorithms for efficient computations in QCD acquire asimple interpretation. This paper extends the scope of applicability of theworldline scheme so as to include open fermionic paths. Specific algorithms areestablished which address themselves to the fermionic propagator and which aredirectly applicable to any other process involving external fermionic states.It is also demonstrated that in this framework the sole agent of dynamicsoperating in the system is the Wilson line (loop) operator, which makes anatural entrance in the worldline action; everything else is associated withgeometrical properties of particle propagation, of which the most importantcomponent is Polyakov's spin factor.

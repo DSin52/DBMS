@@ -1,0 +1,11 @@
+Paper: hep-th/9601021
+
+Date: 1996-01-07
+
+Title: Off-Shell Quantum Electrodynamics
+
+Authors: M. C. Land and L. P. Horwitz
+
+Comments: Requires FEYNMAN.TEX macro for Feynman diagrams. 72 pages
+
+More than twenty years have passed since the threads of the `proper timeformalism' in covariant classical and quantum mechanics were brought togetherto construct a canonical formalism for the relativistic mechanics of manyparticles. Drawing on the work of Fock, Stueckelberg, Nambu, Schwinger, andFeynman, the formalism was raised from the status of a purely formalmathematical technique to a covariant evolution theory for interactingparticles. In the context of this theory, solutions have been found for therelativistic bound state problem, classical and quantum scattering inrelativistic potentials, as well as applications in statistical mechanics.It has been shown that a generalization of the Maxwell theory is required inorder that the electromagnetic interaction be well-posed in the theory. Theresulting theory of electromagnetism involves a fifth gauge field introduced tocompensate for the dependence of the gauge transformation on the invariant timeparameter; permitting such dependence relaxes the requirement that individualparticles be on fixed mass shells and allows exchange of mass duringscattering. In this paper, we develop the quantum field theory of off-shellelectromagnetism, and use it to calculate certain elementary processes,including Compton scattering and M{\o}ller scattering. These calculations leadto {\em qualitative} deviations from the usual scattering cross-sections, whichare, however, small effects, but may be visible at small angles near theforward direction. The familiar IR divergence of the M{\o}ller scattering is,moreover, completely regularized.

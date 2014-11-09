@@ -1,0 +1,13 @@
+Paper: hep-th/0107020
+
+Date: 2001-07-03
+
+Title: Predictive power of renormalisation group flows
+
+Authors: Daniel F. Litim, Jan M. Pawlowski
+
+Comments: 16 pages, 2 postscript figures
+
+Journal-ref: Phys.Lett. B516 (2001) 197-207
+
+We study a proper-time renormalisation group, which is based on an operatorcut-off regularisation of the one-loop effective action. The predictive powerof this approach is constrained because the flow is not an exact one. Wecompare it to the Exact Renormalisation Group, which is based on a momentumregulator in the Wilsonian sense. In contrast to the former, the latterprovides an exact flow. To leading order in a derivative expansion, an explicitmap from the exact to the proper-time renormalisation group is established. Theopposite map does not exist in general. We discuss various implications ofthese findings, in particular in view of the predictive power of theproper-time renormalisation group. As an application, we compute criticalexponents for O(N)-symmetric scalar theories at the Wilson-Fisher fixed pointin 3d from both formalisms.

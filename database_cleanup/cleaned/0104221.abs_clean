@@ -1,0 +1,13 @@
+Paper: hep-th/0104221
+
+Date: 2001-04-25
+
+Title: Mind The Gap
+
+Authors: Daniel F. Litim
+
+Comments: 6 pages, Talk presented at 2nd Conference on Exact Renormalization
+
+Group (ERG2000), Rome, Italy, 18-22 Sep 2000Journal-ref: Int.J.Mod.Phys. A16 (2001) 2081-2088
+
+We discuss an optimisation criterion for the exact renormalisation groupbased on the inverse effective propagator, which displays a gap. We show that asimple extremisation of the gap stabilises the flow, leading to betterconvergence of approximate solutions towards the physical theory. This improvesthe reliability of truncations, most relevant for any high precisioncomputation. These ideas are closely linked to the removal of a spurious schemedependence and a minimum sensitivity condition. The issue of predictive powerand a link to the Polchinski RG are discussed as well. We illustrate ourfindings by computing critical exponents for the Ising universality class.

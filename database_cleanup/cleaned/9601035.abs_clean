@@ -1,0 +1,13 @@
+Paper: hep-th/9601035
+
+Date: 1996-01-09
+
+Title: On the W-geometrical origins of massless field equations and gauge
+
+invarianceAuthors: E. Ramos and J. Roca
+
+Comments: 16 pages, plain TeX (macros included)
+
+Journal-ref: Nucl.Phys. B477 (1996) 606-622
+
+We show how to obtain all covariant field equations for massless particles ofarbitrary integer, or half-integer, helicity in four dimensions from thequantization of the rigid particle, whose action is given by the integratedextrinsic curvature of its worldline, {\ie} $S=\alpha\int ds \kappa$. Thisgeometrical particle system possesses one extra gauge invariance besidesreparametrizations, and the full gauge algebra has been previously identifiedas classical $\W_3$. The key observation is that the covariantly reduced phasespace of this model can be naturally identified with the spinor and twistordescriptions of the covariant phase spaces associated with massless particlesof helicity $s=\alpha$. Then, standard quantization techniques require $\alpha$to be quantized and show how the associated Hilbert spaces are solution spacesof the standard relativistic massless wave equations with $s=\alpha$.Therefore, providing us with a simple particle model for Weyl fermions($\alpha=1/2$), Maxwell fields ($\alpha=1$), and higher spin fields. Moreover,one can go a little further and in the Maxwell case show that, after a suitableredefinition of constraints, the standard Dirac quantization procedure forfirst-class constraints leads to a wave-function which can be identified withthe gauge potential $A_\mu$. Gauge symmetry appears in the formalism as aconsequence of the invariance under $\W_3$-morphisms, that is, exclusively interms of the extrinsic geometry of paths in Minkowski space. When all gaugefreedom is fixed one naturally obtains the standard Lorenz gauge condition on$A_{\mu}$, and Maxwell equations in that gauge. This construction has a directgeneralization to arbitrary integer values of $\alpha$, and we comment on thephysically interesting case of linearized Einstein gravity ($\alpha =2$).

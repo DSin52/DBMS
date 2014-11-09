@@ -1,0 +1,11 @@
+Paper: hep-th/0304271
+
+Date: 2003-04-30
+
+Title: The Glueball Superpotential
+
+Authors: Mina Aganagic, Ken Intriligator, Cumrun Vafa, Nicholas P. Warner
+
+Comments: 55 pages, 3 figures, harvmac
+
+We compute glueball superpotentials for four-dimensional, N=1 supersymmetricgauge theories, with arbitrary gauge groups and massive matter representations.This is done by perturbatively integrating out massive, charged fields. TheFeynman diagram computations simplify, and are related to the correspondingmatrix model. This leads to a natural notion of ``projection to planardiagrams'' for arbitrary gauge groups and representations. We discuss a generalambiguity in the glueball superpotential W(S) for terms, S^n, whose order, n,is greater than the dual Coxeter number. This ambiguity can be resolved for allclassical gauge groups, (A,B,C,D), via a natural embedding in an infinite ranksupergroup. We use this to resolve some recently raised puzzles. Forexceptional groups, we compute the superpotential terms for low powers of theglueball field and propose an all-order completion for some examples includingN=1^* for all simply-laced groups. We also comment on compactification of thesetheories to lower dimensions.

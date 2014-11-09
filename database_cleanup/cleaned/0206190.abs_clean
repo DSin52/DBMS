@@ -1,0 +1,13 @@
+Paper: hep-th/0206190
+
+Date: 2002-06-20
+
+Title: Moyal Quantization for Constrained System
+
+Authors: Takayuki Hori, Takao Koikawa and Takuya Maki
+
+Comments: 25 pages
+
+Journal-ref: Prog.Theor.Phys. 108 (2003) 1123-1141
+
+We study the Moyal quantization for the constrained system. One of thepurposes is to give a proper definition of the Wigner-Weyl(WW) correspondence,which connects the Weyl symbols with the corresponding quantum operators. AHamiltonian in terms of the Weyl symbols becomes different from the classicalHamiltonian for the constrained system, which is related to the fact that thenaively constructed WW correspondence is not one-to-one any more. In the Moyalquantization a geometrical meaning of the constraints is clear. In ourproposal, the 2nd class constraints are incorporated into the definition of theWW correspondence by limiting the phasespace to the hypersurface. Even thoughwe assume the canonical commutation relations in the formulation, the Moyalbrackets between the Weyl symbols yield the same results as those for theconstrained system derived by using the Dirac bracket formulation.

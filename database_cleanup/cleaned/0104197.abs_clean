@@ -1,0 +1,13 @@
+Paper: hep-th/0104197
+
+Date: 2001-04-23
+
+Title: Models WD_{n} in the presence of disorder and the coupled models
+
+Authors: Vladimir S. Dotsenko, Xuan Son Nguyen and Raoul Santachiara
+
+Comments: 35 pages, latex, 3 eps figures
+
+NetworksJournal-ref: Nucl.Phys. B613 (2001) 445-471
+
+We have studied the conformal models WD_{n}^{(p)}, n=3,4,5,..., in thepresence of disorder which couples to the energy operator of the model. In thelimit of p<<1 where p is the corresponding minimal model index, the problemcould be analyzed by means of the perturbative renormalization group, with$epsilon$-expansion in $\epsilon$=1/p. We have found that the disorder makes toflow the model WD_{n}^{(p)} to the model WD_{n}^{(p-1)} without disorder. Inthe related problem of N coupled regular WD_{n}^{(p)} models (no disorder),coupled by their energy operators, we find a flow to the fixed point of Ndecoupled WD_{n}^{(p-1)}. But in addition we find in this case two new fixedpoints which could be reached by a fine tuning of the initial values of thecouplings. The corresponding critical theories realize the permutationalsymmetry in a non-trivial way, like this is known to be the case for coupledPotts models, and they could not be identified with the presently knownconformal models.

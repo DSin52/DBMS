@@ -1,0 +1,11 @@
+Paper: hep-th/9412148
+
+Date: 1994-12-16
+
+Title: Geometry of the transport equation in multicomponent WKB approximations
+
+Comments: 16 pages, Latex
+
+Journal-ref: Commun.Math.Phys. 176 (1996) 701-712
+
+Although the WKB approximation for multicomponent systems has beenintensively studied in the literature, its geometric and global aspects aremuch less well understood than in the scalar case. In this paper we give acompletely geometric derivation of the transport equation, without using localsections and without assuming complete diagonalizability of the matrix valuedprincipal symbol, or triviality of its eigenbundles. The term (called ``no-nameterm'' in some previous literature) appearing in the transport equation inaddition to the covariant derivative with respect to a natural projectedconnection will be a tensor, independent of the choice of any sections. We givea geometric interpretation of this tensor, involving the contraction of thecurvature of the eigenbundle and an analog of the second fundamental form withthe Poisson tensor in phase space. In the non-degenerate case this term may berewritten in an even simpler geometric form. Finally, we discuss obstructionsto the existence of WKB states and give a geometric description of thequantization condition for WKB states for a non-degenerate eigenvalue-function.

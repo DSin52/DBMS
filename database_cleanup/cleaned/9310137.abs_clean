@@ -1,0 +1,11 @@
+Paper: hep-th/9310137
+
+Date: 1993-10-20
+
+Title: Percolation on Strings and the Cover-up of the c=1 Disaster
+
+Comments: revised version w/ typos corrected, standard latex w/ epsf, 9 figures
+
+Journal-ref: Nucl. Phys. B418 (1994) 278
+
+We study percolation on the worldsheets of string theory for $c=0,1/2,1$ and$2$. For $c<1$ we find that critical exponents measured from simulations agreequite well with the theoretical values. For $c=1$ we show how log correctionsdetermined from the exact solution reconcile numerical results with the KPZpredictions. We extend this analysis to the large $c$ regime and estimate howfinite-size effects will effectively raise the ground state energy, masking thepresence of the tachyon for moderate values of $c > 1$. It thus appears likelythat simulations for $c=2,3 \ldots$ on numerically accessible lattices willfail to even capture the qualitative behavior of the continuum limit.

@@ -1,0 +1,11 @@
+Paper: hep-th/9912034
+
+Date: 1999-12-05
+
+Title: Scattering Matrix of the SU(n) Gauge Theory with Explicit Gauge Mass
+
+TermAuthors: Yang Ze-sen, Li Xianhui, Zhou Zhining and Zhong Yushu
+
+Comments: 14pages, some minor modification
+
+Based on the renormalisability of the SU(n) theory with massive gauge bosons,we start with the path integral of the generating functional for therenormalized Green functions and develop a method to construct the scatteringmatrix so that the unitarity is evident. By using as basical variables therenormalized field functions and defining the unperturbed Hamiltonian operator$H_0$ that, under the Lorentz condition, describes the free particles of theinitial and final states in scattering processes, we form an operatordescription with which the renormalized Green functions can be expressed as thevacuum expectations of the time ordered products of the Heisenberg operators ofthe renormalized field functions, that satisfy the usual equal time commutationor anticommutation rules. From such an operator description we find a totalHamiltonian $\widetilde{H}$ that determine the time evolution of the Heisenbergoperators of the renormalized field functions. The scattering matrix is nothingbut the matrix of the operator $U(\infty, -\infty)$, which describes the timeevolution from $-\infty$ to $\infty$ in the interaction picture specified by$\widetilde{H}$ and $H_0$, respect to a base formed by the physical eigenstates of $H_0$. We also explain the asymptotic field viewpoint of constructingthe scattering matrix within our operator description. Moreover, we find aformular to express the scattering matrix elements in terms of the truncatedrenormalized Green functions.

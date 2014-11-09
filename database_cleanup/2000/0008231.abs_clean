@@ -1,0 +1,13 @@
+Paper: hep-th/0008231
+
+Date: 2000-08-30
+
+Title: Field theory models for tachyon and gauge field string dynamics
+
+Authors: Joseph A. Minahan and Barton Zwiebach
+
+Comments: latex, 21 pages, 3 figures. Added references to reflectionless
+
+potentials, minor typos corrected, uniform use of (-, +, +, ..., +) signatureJournal-ref: JHEP 0009 (2000) 029
+
+In hep-th/0008227, the unstable lump solution of \phi^3 theory was shown tohave a spectrum governed by the solvable Schroedinger equation with the \ell=3reflectionless potential and was used as a model for tachyon condensation instring theory. In this paper we study in detail an \ell\to \infty scalar fieldoriginal field theory tachyon and the lump tachyon have the same mass, thespectrum of the lump consists of equally spaced infinite levels, there is nocontinuous spectrum, and nothing survives after tachyon condensation. We alsofind exact solutions for lumps with codimension \ge 2, and show that that theirtensions satisfy (1/(2\pi)) (T_p/ T_{p+1})=e/(\sqrt{2\pi}) \approx 1.08. Weincorporate gauge fixed couplings to a U(1) gauge field which preservesolvability and result in massless gauge fields on the lump.

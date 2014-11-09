@@ -1,0 +1,13 @@
+Paper: hep-th/9612013
+
+Date: 1996-12-01
+
+Title: Compact analytical form for non-zeta terms in critical exponents at
+
+order 1/N^3Authors: D. J. Broadhurst and A. V. Kotikov
+
+Comments: 9 pages, LaTeX
+
+Journal-ref: Phys.Lett. B441 (1998) 345-353
+
+We simplify, to a single integral of dilogarithms, the least tractableO(1/N^3) contribution to the large-N critical exponent $\eta$ of thenon-linear sigma-model, and hence $\phi^4$-theory, for any spacetimedimensionality, D. It is the sole generator of irreducible multiple zetavalues in epsilon-expansions with $D=2-2\epsilon$, for the sigma-model, and$D=4-2\epsilon$, for $\phi^4$-theory. In both cases we confirm results ofBroadhurst, Gracey and Kreimer (BGK) that relate knots to counterterms. Thenew compact form is much simpler than that of BGK. It enables us to develop 8new terms in the epsilon-expansion with $D=3-2\epsilon$. These involvealternating Euler sums, for which the basis of irreducibles is larger. Weconclude that massless Feynman diagrams in odd spacetime dimensions share thegreater transcendental complexity of massive diagrams in even dimensions,such as those contributing to the electron's magnetic moment and theelectroweak $\rho$-parameter. Consequences for the perturbative sector ofChern-Simons theory are discussed.

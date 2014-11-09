@@ -1,0 +1,13 @@
+Paper: hep-th/0002111
+
+Date: 2000-02-14
+
+Title: On geodesic propagators and black hole holography
+
+Authors: Jorma Louko, Donald Marolf and Simon F. Ross
+
+Comments: 23p., no figures
+
+Journal-ref: Phys.Rev. D62 (2000) 044041
+
+One of the most challenging technical aspects of the dualities between stringtheory on anti-de Sitter spaces and conformal field theories is understandinghow location in the interior of spacetime is represented in the field theory.It has recently been argued that the interior of the spacetime can be directlyprobed by using intrinsically non-local quantities in the field theory. Inaddition, Balasubramanian and Ross [hep-th/9906226] argued that when thespacetime described the formation of an AdS_3 black hole, the propagator in thefield theory probed the whole spacetime, including the region behind thehorizon. We use the same approach to study the propagator for the BTZ blackhole and a black hole solution with a single exterior region, and show that itreproduces the propagator associated with the natural vacuum states on thesespacetimes. We compare our result with a toy model of the CFT for thesingle-exterior black hole, finding remarkable agreement. The spacetimesstudied in this work are analytic, which makes them quite special. We alsodiscuss the interpretation of this propagator in more general spacetimes,shedding light on certain issues involving causality, black hole horizons, andproducts of local operators on the boundary.

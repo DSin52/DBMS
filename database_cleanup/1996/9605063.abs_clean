@@ -1,0 +1,11 @@
+Paper: hep-th/9605063
+
+Date: 1996-05-09
+
+Title: Backreaction on Moving Mirrors and Black Hole Radiation
+
+Authors: Niels Tuning, Herman Verlinde
+
+Comments: 12 pages, latex, 4 figures
+
+We compute the effect of quantum mechanical backreaction on the spectrum ofradiation in a dynamical moving mirror model, mimicking the effect of agravitational collapse geometry. Our method is based on the use of a combinedWKB and saddle-point approximation to implement energy conservation in thecalculation of the Bogolyubov coefficients, in which we assume that the mirrorparticle has finite mass m. We compute the temperature of the producedradiation as a function of time and find that after a relatively short time,the temperature is reduced by a factor 1/2 relative to the standard result. Wecomment on the application of this method to two-dimensional dilaton gravitywith a reflecting boundary, and conclude that the WKB approximation quicklybreaks down due to the appearance of naked singularities and/or white holespace-times for the relevant WKB-trajectories.

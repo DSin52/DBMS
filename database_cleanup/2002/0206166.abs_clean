@@ -1,0 +1,13 @@
+Paper: hep-th/0206166
+
+Date: 2002-06-18
+
+Title: PP-Wave / CFT_2 Duality
+
+Authors: Jaume Gomis, Lubos Motl, Andrew Strominger
+
+Comments: JHEP3 LaTeX, 20 pages; discussion of WZW levels clarified, reference
+
+addedJournal-ref: JHEP 0211 (2002) 016
+
+We investigate the pp-wave limit of the AdS_3\times S^3\times K3compactification of Type IIB string theory from the point of view of the dualSym_N(K3) CFT. It is proposed that a fundamental string in this pp-wavegeometry is dual to the c=6 effective string of the Sym_N(K3) CFT, with thestring bits of the latter being composed of twist operators. The massivefundamental string oscillators correspond to certain twisted Virasorogenerators in the effective string. It is shown that both the ground states andthe genus expansion parameter (at least in the orbifold limit of the CFT)coincide. Surprisingly the latter scales like J^2/N rather than the J^4/N^2which might have been expected. We demonstrate a leading-order agreementbetween the pp-wave and CFT particle spectra. For a degenerate special case(one NS 5-brane) an intriguing complete agreement is found.

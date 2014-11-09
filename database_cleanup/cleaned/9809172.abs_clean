@@ -1,0 +1,9 @@
+Paper: hep-th/9809172
+
+Date: 1998-09-24
+
+Title: Entropy Problem in the AdS$_3$/CFT correspondence
+
+Comments: 7 pages, reference added, and roles of tachyon and dilaton discussed
+
+We resolve the entropy problem in the AdS$_3$/CFT correspondence byintroducing both the normalizable and non-normalizable bulk modes. On theboundary, the normalizable Liouville states gives us $c=1$ conformal fieldtheory(CFT), whereas the non-normalizable Liouville states provide $c = {3 \ell\over 2 G}$ CFT. Such (boundary) non-normalizable modes come fromnon-normalizable bulk modes which serve as classical, non-fluctuating bulkbackground and encode the choice of local operator insertion on the boundary.Since the non-normalizable bulk modes can transfer information from bulk toboundary, it suggests that counting of non-normalizable states on the boundaryat infinity leads to the entropy($S={2 \pi r_+ \over 4 G}$) of(2+1)-dimensional gravity with $ \Lambda= -1/\ell^2$.

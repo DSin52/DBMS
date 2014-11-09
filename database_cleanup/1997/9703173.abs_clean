@@ -1,0 +1,11 @@
+Paper: hep-th/9703173
+
+Date: 1997-03-25
+
+Title: Path Integral Invariance under Point Transformations
+
+Authors: Andres Jordan and Matias Libedinsky
+
+Comments: 4 pages, revtex, no figures
+
+We give here a covariant definition of the path integral formalism for theLagrangian, which leaves a freedom to choose anyone of many possible quantumsystems that correspond to the same classical limit without adding newpotential terms nor searching for a strange measure, but using as a frameworkthe geometry of the spaces considered. We focus our attention on the set ofpaths used to join succesive points in the discretization if the time-slicingdefinition is used to calculate the integral.If this set of paths is notpreserved when performing a point transformation, the integral may change. Thereasons for this are geometrically explained. Explicit calculation of theKernel in polar coordinates is made, yielding the same system as in Cartesiancoordinates.

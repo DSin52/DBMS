@@ -1,0 +1,13 @@
+Paper: hep-th/9507131
+
+Date: 1995-07-25
+
+Title: New Numerical Method for Fermion Field Theory
+
+Authors: John W. Lawson and G.S. Guralnik
+
+Comments: 24 pages, latex, figures separate
+
+Journal-ref: Nucl.Phys. B459 (1996) 612-627
+
+A new deterministic, numerical method to solve fermion field theories ispresented. This approach is based on finding solutions $Z[J]$ to the latticefunctional equations for field theories in the presence of an external source$J$. Using Grassmann polynomial expansions for the generating functional $Z$,we calculate propagators for systems of interacting fermions. Thesecalculations are straightforward to perform and are executed rapidly comparedto Monte Carlo. The bulk of the computation involves a single matrix inversion.Because it is not based on a statistical technique, it does not have many ofthe difficulties often encountered when simulating fermions. Since nodeterminant is ever calculated, solutions to problems with dynamical fermionsare handled more easily. This approach is very flexible, and can be taylored tospecific problems based on convenience and computational constraints. Wepresent simple examples to illustrate the method; more general schemes aredesirable for more complicated systems.

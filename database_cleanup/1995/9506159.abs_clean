@@ -1,0 +1,11 @@
+Paper: hep-th/9506159
+
+Date: 1995-06-23
+
+Title: An Algorithmic Approach to Operator Product Expansions, $W$-Algebras and
+
+$W$-StringsAuthors: Kris Thielemans
+
+Comments: 127 pages, LaTex, shar-file including readme.txt, 12 latex files, 6
+
+eps files and 6 pcx files, PhD. thesis KU LeuvenString theory is currently the most promising theory to explain the spectrumof the elementary particles and their interactions. One of its most importantfeatures is its large symmetry group, which contains the conformaltransformations in two dimensions as a subgroup. At quantum level, the symmetrygroup of a theory gives rise to differential equations between correlationfunctions of observables. We show that these Ward-identities are equivalent toOperator Product Expansions (OPEs), which encode the short-distancesingularities of correlation functions with symmetry generators. The OPEs allowus to determine algebraically many properties of the theory under study. Weanalyse the calculational rules for OPEs, give an algorithm to compute OPEs,and discuss an implementation in Mathematica. There exist different stringtheories, based on extensions of the conformal algebra to so-called W-algebras.These algebras are generically nonlinear. We study their OPEs, with as mainresults an efficient algorithm to compute the beta-coefficients in the OPEs,the first explicit construction of the WB_2-algebra, and criteria for thefactorisation of free fields in a W-algebra. An important technique toconstruct realisations of W-algebras is Drinfel'd- Sokolov reduction. Themethod consists of imposing certain constraints on the elements of an affineLie algebra. We quantise this reduction via gauged WZNW-models. This enables usin a theory with a gauged W-symmetry, to compute exactly the correlationfunctions of the effective theory. Finally, we investigate the criticalW-string theories based on an extension of the conformal algebra with onesymmetry generator of dimension N. We clarify how the spectrum of this theoryforms a minimal model of the W_N-algebra.

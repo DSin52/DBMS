@@ -1,0 +1,11 @@
+Paper: hep-th/9412153
+
+Date: 1994-12-16
+
+Title: Differential Geometry on Hopf Algebras and Quantum Groups (Ph.D. Thesis)
+
+Authors: Paul Watts (LBL and UC Berkeley)
+
+Comments: 91 pages in LaTeX, uses American Mathematical Society symbols style
+
+file "amssymbols.sty"The differential geometry on a Hopf algebra is constructed, by using thebasic axioms of Hopf algebras and noncommutative differential geometry. Thespace of generalized derivations on a Hopf algebra of functions is presentedvia the smash product, and used to define and discuss quantum Lie algebras andtheir properties. The Cartan calculus of the exterior derivative, Liederivative, and inner derivation is found for both the universal and generaldifferential calculi of an arbitrary Hopf algebra, and, by restricting to thequasitriangular case and using the numerical R-matrix formalism, theaforementioned structures for quantum groups are determined.

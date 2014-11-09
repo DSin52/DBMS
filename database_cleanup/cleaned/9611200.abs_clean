@@ -1,0 +1,13 @@
+Paper: hep-th/9611200
+
+Date: 1996-11-24
+
+Title: Extended affine Weyl groups and Frobenius manifolds
+
+Authors: Boris Dubrovin and Youjin Zhang
+
+Comments: 69 pages, amslatex, some references added, position of Table 1 is
+
+corrected. Revised version for Compositio MathematicaJournal-ref: Compositio Mathematica 111 (1998), 167--219
+
+We define certain extensions of affine Weyl groups (distinct from theseconsidered by K. Saito [S1] in the theory of extended affine root systems),prove an analogue of Chevalley theorem for their invariants, and construct aFrobenius structure on their orbit spaces. This produces solutions $F(t_1, ...,t_n)$ of WDVV equations of associativity polynomial in $t_1, ..., t_{n-1}, \expt_n$.

@@ -1,0 +1,11 @@
+Paper: hep-th/9912286
+
+Date: 1999-12-31
+
+Title: Exact Renormalized One-Loop Quantum Corrections to Energies of Solitonic
+
+Field ConfigurationsAuthors: N. Graham
+
+Comments: M.I.T. Ph.D thesis; 72 pages, uses mitthesis.sty; v2
+
+We develop a method for computing exact one-loop quantum corrections to theenergies of static classical backgrounds in renormalizable quantum fieldtheories. We use a continuum density of states formalism to construct aregularized Casimir energy in terms of phase shifts and their Bornapproximations. This method unambiguously incorporates definite countertermsfixed in the standard way by physical renormalization conditions. The result isa robust computation that can be efficiently implemented both numerically andanalytically. We carry out such calculations in models of bosons and fermionsin one and three dimensions.

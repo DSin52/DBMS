@@ -1,0 +1,13 @@
+Paper: hep-th/9907096
+
+Date: 1999-07-13
+
+Title: The orthogonal ensemble of random matrices and QCD in three dimensions
+
+Authors: Ulrika Magnea
+
+Comments: Latex, 18 pages, no figures. Corrected sum rule and factors of 2
+
+Journal-ref: Phys.Rev. D61 (2000) 056005
+
+We consider the parity-invariant Dirac operator with a mass term inthree-dimensional QCD for $N_c=2$ and quarks in the fundamental representation.We show that there exists a basis in which the matrix elements of the EuclideanDirac operator are real. Assuming there is spontaneous breaking of flavorand/or parity, we read off from the fermionic action the flavorsymmetry-breaking pattern $Sp(4N_f) \to Sp(2N_f) \times Sp(2N_f)$ that mightoccur in such a theory. We then construct a random matrix theory with the sameglobal symmetries as two-color QCD$_3$ with fundamental fermions and derivefrom here the finite-volume partition function for the latter in the staticlimit. The expected symmetry breaking pattern is confirmed by the explicitcalculation in random matrix theory. We also derive the firstLeutwyler-Smilga-like sum rule for the eigenvalues of the Dirac operator.

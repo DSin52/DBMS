@@ -1,0 +1,9 @@
+Paper: hep-th/9312101
+
+Date: 1993-12-13
+
+Title: A unified representation-theoretic approach to special functions
+
+Comments: 3 pages, no figures
+
+A representation-theoretic approach to special functions was developedin the 40-s and 50-s in the works of I.M.Gelfand, M.A.Naimark, N.Ya.Vilenkin,and their collaborators. The essence of this approach is the fact that mostclassical special functions can be obtained as suitable specializations ofmatrix elements or characters of representations of groups. Another richsource of special functions is the theory of Clebsch-Gordan coefficientswhich describes the geometric juxtaposition of irreducible components insidethe tensor product of two representations. Finally, in recent works onrepresentations of (quantum) affine Lie algebras it was shown that matrixelements of intertwining operators between certain representations of thesealgebras are interesting special functions -- (q-)hypergeometricfunctions and their generalizations.In this paper we suggest a general method of getting special functionsfrom representation theory which unifies the three methods mentionedabove and allows one to define and study many new special functions.We illustrate this method by a number of examples -- Macdonald's polynomials,eigenfunctions of the Sutherland operator, Lame functions.

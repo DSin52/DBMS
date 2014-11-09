@@ -1,0 +1,11 @@
+Paper: hep-th/0101084
+
+Date: 2001-01-12
+
+Title: Monte Carlo Studies of the Dimensionally Reduced 4d SU(N) Super
+
+Yang-Mills TheoryAuthors: J. Ambjorn, K.N. Anagnostopoulos, W. Bietenholz, T. Hotta and J.
+
+NishimuraComments: 6 pages, 7 figures, Talk presented by K.N.A. at the HEP 2000 Annual
+
+Workshop of the Hellenic Society for the Study of High Energy Physics at theUniversity of Ioannina. References added, minor correctionsWe simulate a supersymmetric matrix model obtained from dimensional reductionof 4d SU(N) super Yang-Mills theory. The model is well defined for finite N andit is found that the large N limit obtained by keeping g^2 N fixed gives riseto well defined operators which represent string amplitudes. The space-timestructure which arises dynamically from the eigenvalues of the bosonic matricesis discussed, as well as the effect of supersymmetry on the dynamicalproperties of the model. Eguchi-Kawai equivalence of this model to ordinarygauge theory does hold within a finite range of scale. We report on newsimulations of the bosonic model for N up to 768 that confirm this property,which comes as a surprise since no quenching or twist is introduced.

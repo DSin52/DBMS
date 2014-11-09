@@ -1,0 +1,11 @@
+Paper: hep-th/0002116
+
+Date: 2000-02-14
+
+Title: Harmonic Analysis and Superconformal Gauge Theories in Three Dimensions
+
+from AdS/CFT CorrespondenceAuthors: Leonardo Gualtieri
+
+Comments: Ph.D. thesis, 218+1 pages, 9 eps-figures, typos and references
+
+correctedIn this thesis I review various aspects of the AdS_4/CFT_3 correspondence,where AdS_4 supergravity arises from compactification of M-theory on a cosetspace G/H and preserves N<8 supersymmetries. One focal point of my review isthat the complete spectrum of such N-extended supergravity can be determined bymeans of harmonic analysis on the homogeneous space G/H. This spectrum can bematched with the candidate conformal theory on the boundary, in this wayproviding very non-trivial checks of the AdS/CFT correspondence. Furthermore,this spectrum can be useful to study the representation theory of N-extendedsupersymmetry on AdS_4, namely representation theory for the superalgebra ofOsp(N|4). I review Osp(N|4) representation theory, and derive the translationvocabulary between states of AdS_4 supergravity and conformal superfields onthe boundary, by means of the double interpretation of Osp(N|4) unitaryirreducible representations. In the cases of N=2,3, using results from harmonicanalysis I give the complete structure of all supermultiplets. Harmonicanalysis as a method to determine spectra of supergravity compactifications isexplained. Calculations are explicitly performed in the caseG/H=M^111=(SU(3)xSU(2)xU(1))/(SU(2)xU(1)xU(1)), preserving N=2 supersymmetries.For this manifold, and also for the case G/H=Q^111=(SU(2)xSU(2)xSU(2))/(U(1)xU(1)), I describe the construction of a candidate dualsuperconformal theory on the boundary. This construction is based ongeometrical insight provided by the properties of the metric cone C(G/H)transverse to the M2-brane worldvolume.

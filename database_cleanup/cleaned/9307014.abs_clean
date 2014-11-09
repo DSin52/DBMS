@@ -1,0 +1,13 @@
+Paper: hep-th/9307014
+
+Date: 1993-07-02
+
+Title: Covariant Pauli-Villars Regularization of Quantum Gravity at the One
+
+Loop OrderAuthors: Damiano Anselmi
+
+Comments: 26 pages, LaTeX, SISSA/ISAS 73/93/EP
+
+Journal-ref: Phys.Rev. D48 (1993) 5751-5763
+
+We study a regularization of the Pauli-Villars kind of the one loopgravitational divergences in any dimension. The Pauli-Villars fields aremassive particles coupled to gravity in a covariant and nonminimal way, namelyone real tensor and one complex vector. The gauge is fixed by means of theunusual gauge-fixing that gives the same effective action as in the context ofthe background field method. Indeed, with the background field method it issimple to see that the regularization effectively works. On the other hand, weshow that in the usual formalism (non background) the regularization cannotwork with each gauge-fixing.In particular, it does not work with the usual one.Moreover, we show that, under a suitable choice of the Pauli-Villarscoefficients, the terms divergent in the Pauli-Villars masses can be correctedby the Pauli-Villars fields themselves. In dimension four, there is no need toadd counterterms quadratic in the curvature tensor to the Einstein action(which would be equivalent to the introduction of new coupling constants). Thetechnique also works when matter is coupled to gravity. We discuss the possibleconsequences of this approach, in particular the renormalization of Newton'scoupling constant and the appearance of two parameters in the effective action,that seem to have physical implications.

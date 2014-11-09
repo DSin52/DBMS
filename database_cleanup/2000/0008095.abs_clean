@@ -1,0 +1,13 @@
+Paper: hep-th/0008095
+
+Date: 2000-08-11
+
+Title: The dual of pure non-Abelian lattice gauge theory as a spin foam model
+
+Authors: Robert Oeckl and Hendryk Pfeiffer (Cambridge)
+
+Comments: 28 pages, LaTeX + PicTeX; typographical errors corrected
+
+Journal-ref: Nucl.Phys. B598 (2001) 400-426
+
+We derive an exact duality transformation for pure non-Abelian gauge theoryregularized on a lattice. The duality transformation can be applied to gaugetheory with an arbitrary compact Lie group G as the gauge group and onEuclidean space-time lattices of dimension d >= 2. It maps the partitionfunction as well as the expectation values of generalized non-Abelian Wilsonloops (spin networks) to expressions involving only finite-dimensional unitaryrepresentations, intertwiners and characters of G. In particular, all groupintegrations are explicitly performed. The transformation maps the strongcoupling regime of non-Abelian gauge theory to the weak coupling regime of thedual model. This dual model is a system in statistical mechanics whoseconfigurations are spin foams on the lattice.

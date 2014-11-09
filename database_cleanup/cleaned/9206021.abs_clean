@@ -1,0 +1,11 @@
+Paper: hep-th/9206021
+
+Date: 1992-06-04
+
+Title: Classical Chern-Simons theory, Part 1
+
+Comments: 60 pages. This paper is written using AMSTeX 2.1, which can be
+
+obtained via ftp from the American Mathematical Society (instructionsincluded)Journal-ref: Adv.Math. 113 (1995) 237-303
+
+There is a large mathematical literature on classical mechanics and fieldtheory, especially on the relationship to symplectic geometry. One might thinkthat the classical Chern-Simons theory, which is topological and so hasvanishing hamiltonian, is completely trivial. However, this theory exhibitsinteresting geometry that is usually absent from ordinary field theories. (Thesame is true on the quantum level; topological quantum field theories exhibitgeometric properties not usually seen in ordinary quantum field theories, andthey lack analytic properties which are usually seen.) In this paper wecarefully develop this geometry. Of particular interest are the line bundleswith connection over the moduli space of flat connections on a 2-manifold. Weextend the usual theory to cover 2-manifolds with boundary. We carefullydevelop ``gluing laws'' in all of our constructions, including the line bundlewith connection over moduli space. The corresponding quantum gluing laws arefundamental. Part 1 covers connected and simply connected gauge groups; Part 2will cover arbitrary compact Lie groups.

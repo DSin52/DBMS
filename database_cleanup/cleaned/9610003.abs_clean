@@ -1,0 +1,13 @@
+Paper: hep-th/9610003
+
+Date: 1996-10-01
+
+Title: Scaling Limit of the Ising Model in a Field
+
+Authors: Uwe Grimm and Bernard Nienhuis
+
+Comments: 29 pages, RevTeX, 11 PostScript figures included by epsf, using
+
+amssymb.sty (v2.2)SystemsJournal-ref: Phys.Rev. E55 (1997) 5011-5025
+
+The dilute A_3 model is a solvable IRF (interaction round a face) model withthree local states and adjacency conditions encoded by the Dynkin diagram ofthe Lie algebra A_3. It can be regarded as a solvable version of an Ising modelat the critical temperature in a magnetic field. One therefore expects thescaling limit to be governed by Zamolodchikov's integrable perturbation of thec=1/2 conformal field theory. Indeed, a recent thermodynamic Bethe Ansatzapproach succeeded to unveil the corresponding E_8 structure under certainassumptions on the nature of the Bethe Ansatz solutions. In order to checkthese conjectures, we perform a detailed numerical investigation of thesolutions of the Bethe Ansatz equations for the critical and off-criticalmodel. Scaling functions for the ground-state corrections and for the lowestspectral gaps are obtained, which give very precise numerical results for thelowest mass ratios in the massive scaling limit. While these agree perfectlywith the E_8 mass ratios, we observe one state which seems to violate theassumptions underlying the thermodynamic Bethe Ansatz calculation. We alsoanalyze the critical spectrum of the dilute A_3 model, which exhibits massiveexcitations on top of the massless states of the Ising conformal field theory.

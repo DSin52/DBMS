@@ -1,0 +1,13 @@
+Paper: hep-th/9701051
+
+Date: 1997-01-13
+
+Title: Gribov vs BRST
+
+Authors: F G Scholtz and S V Shabanov
+
+Comments: 9 pages, Revtex, A better formulation of the conditions on the gauge
+
+fixing fermion is given, Several relevant references are added, To appear inAnn. Phys. (N.Y.)Journal-ref: Annals Phys. 263 (1998) 119-132
+
+We investigate the way in which the Gribov problem is manifested in the BRSTquantization of simple quantum mechanical models by comparing models with andwithout a Gribov problem. We show that the hermiticity and nilpotency of theBRST charge together with the Batalin-Vilkovisky theorem yield non-trivialsupplementary conditions on gauge fixing fermions. If the gauge fixing fermionsatisfies the supplementary conditions, the BRST physical states form a spaceisomorphic to the Dirac space, and the BRST formal path integral does notsuffer from the Gribov problem. The conventional gauge fixing fermion, thatgives rise to the Faddeev-Popov integral, fails to satisfy the supplementaryconditions due to the Gribov problem. Alternatively, enforcing the conventionalgauge fixing fermion, these supplementary conditions imply restrictions on theBRST physical states for which the Batalin-Vilkovisky theorem holds. We findthat these BRST physical states are not isomorphic the Dirac states. This canbe interpreted as a violation of the Batalin-Vilkovisky theorem on the space ofDirac states and implies a breakdown of unitarity and a general dependence ofphysical quantities on the gauge condition.

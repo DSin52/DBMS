@@ -1,0 +1,13 @@
+Paper: hep-th/0008205
+
+Date: 2000-08-27
+
+Title: *-TREK
+
+Authors: Hong Liu and Jeremy Michelson (Rutgers University)
+
+Comments: 30 pages AMSLaTeX using JHEP.cls (22 pages if REVTeX4), 2 eps
+
+annular propogator addedJournal-ref: Nucl.Phys. B614 (2001) 279-304
+
+We investigate N=4 noncommutative super Yang-Mills (SYM) theory. We computethe one-loop four gauge boson scattering amplitude on parallel Dp-branes, andfind the corresponding contribution to the noncommutative SYM one-loop actionin a momentum expansion. The result is somewhat surprising. We find that whilethe planar diagram can be written using the usual *-product, the contributionsfrom nonplanar diagrams in general involve additional structure beyond the*-product, arising from the nontrivial worldsheet correlations surviving thefield theory limit. To each nonplanar diagram, depending on the number n ofexternal vertex operator insertions on each boundary, there is a corresponding*_n n-ary operation. We further find that it is no longer possible to writedown an off-shell gauge invariant one-loop effective action using thenoncommutative field strength defined at tree-level.

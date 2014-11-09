@@ -1,0 +1,11 @@
+Paper: hep-th/0211266
+
+Date: 2002-11-27
+
+Title: Consistent Boundary Conditions for Open Strings
+
+Authors: Ulf Lindstrom, Martin Rocek, and Peter van Nieuwenhuizen
+
+Comments: Latex, 25 pages (references added) (journal version)
+
+We study boundary conditions for the bosonic, spinning (NSR) andGreen-Schwarz open string, as well as for 1+1 dimensional supergravity. Weconsider boundary conditions that arise from (1) extremizing the action, (2)BRST, rigid or local supersymmetry, or kappa(Siegel)-symmetry of the action,(3) closure of the set of boundary conditions under the symmetrytransformations, and (4) the boundary limits of bulk Euler-Lagrange equationsthat are ``conjugate'' to other boundary conditions. We find corrections toNeumann boundary conditions in the presence of a bulk tachyon field. We discussa boundary superspace formalism. We also find that path integral quantizationof the open string requires an infinite tower of boundary conditions that canbe interpreted as a smoothness condition on the doubled interval; we interpretthis to mean that for a path-integral formulation of open strings with onlyNeumann boundary conditions, the description in terms of orientifolds is notjust natural, but is actually fundamental.

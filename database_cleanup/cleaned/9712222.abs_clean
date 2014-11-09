@@ -1,0 +1,13 @@
+Paper: hep-th/9712222
+
+Date: 1997-12-23
+
+Title: Non-Linear Integral Equations for complex Affine Toda associated to
+
+simply laced Lie algebrasAuthors: P. Zinn-Justin
+
+Comments: 33 pages, TeX with lanlmac (revised
+
+corrected, important refs added)SystemsJournal-ref: J.Phys. A31 (1998) 6747-6770
+
+A set of coupled non-linear integral equations is derived for a class ofmodels connected with the quantum group $U_q(\hat g)$ ($g$ simply laced Liealgebra), which are solvable using the Bethe Ansatz; these equations describearbitrary excited states of a system with finite spatial length $L$. Theygeneralize the Destri-De Vega equation for the Sine-Gordon/massive Thirringmodel to affine Toda field theory with imaginary coupling constant. As anapplication, the central charge and all the conformal weights of the UVconformal field theory are extracted in a straightforward manner. The quantumgroup truncation for $q$ at a root of unity is discussed in detail; in the UVlimit we recover through this procedure the RCFTs with extended $W(g)$conformal symmetry.

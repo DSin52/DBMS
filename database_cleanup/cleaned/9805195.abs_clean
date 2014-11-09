@@ -1,0 +1,9 @@
+Paper: hep-th/9805195
+
+Date: 1998-05-28
+
+Title: Massive Gauge Field Theory Without Higgs Mechanism I. .Quantization
+
+Comments: 34 pages, latex, 3 figures
+
+According to the conventional concept of the gauge field theory, the localgauge invariance excludes the possibility of giving a mass to the gauge bosonwithout resorting to the Higgs mechanism because the Lagrangian constructed byadding a mass term to the Yang-Mills Lagrangian is not onlygauge-non-invariant, but also unrenormalizable. On the contrary, we argue thatthe principle of gauge invariance actually allows a mass term to enter theLagrangian if the Lorentz constraint condition is taken into account at thesame time. The Lorentz condition, which implies vanishing of the unphysicallongitudinal field, defines a gauge-invariant physical space for the massivegauge field. The quantum massive gauge field theory without Higgs mechanism maywell be established by using a BRST-invariant action which is constructed bythe Lagrange undetermined multiplier procedure of incorporating the Lorentzcondition and another condition constraining the gauge group into the originalmassive Yang-Mills action. The quantum theory established in this way showsgood renormalizability.

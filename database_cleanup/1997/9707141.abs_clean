@@ -1,0 +1,11 @@
+Paper: hep-th/9707141
+
+Date: 1997-07-16
+
+Title: Zero Mode and Symmetry Breaking on the Light Front
+
+Authors: Koichi Yamawaki (Nagoya University)
+
+Comments: 12 pages, LaTex, no figure, talk given at International Workshop
+
+``New Nonperturbative Methods and Quantization on the Light Cone'', LesHouches, France, Feb. 24 - March 7, 1997, Minor correction on theauthor-names in the referenceWe discuss the spontaneous symmetry breaking (SSB) on the light front (LF) inview of the zero mode. We first demonstrate impossibility to remove the zeroeven a free theory on the LF and the trivial LF vacuum is lost in the SSBphase, both due to the zero mode as the accumulating point causinguncontrollable infrared singularity. We then adopt the Discretized Light-ConeQuantization (DLCQ) which was first introduced by Maskawa and Yamawaki toestablish the trivial LF vacuum and was re-discovered by Pauli and Brodsky in adifferent context. It is shown in DLCQ that the SSB phase can be realized onthe trivial LF vacuum only when an explicit symmetry-breaking mass of theNambu-Goldstone (NG) boson m_pi is introduced as an infrared regulator. TheNG-boson zero mode integrated over the LF must exhibit singular behavior sim1/m_{pi}^2 in the symmetric limit m_{pi} rightarrow 0 in such a way that the LFcharge is not conserved even in the symmetric limit; dot{Q} ne 0. There existsno NG theorem on the LF. Instead, this singular behavior establishes existenceof the massless NG boson coupled to the current whose charge satisfies Q |0 >=0and dot{Q} ne 0, in much the same as the NG theorem in the equal-timequantization which ensures existence of the massless NG boson coupled to thecurrent whose charge satisfies Q|0 > ne 0 and dot{Q} = 0. We demonstrate such apeculiarity in a concrete model, the linear sigma model, where the role ofzero-mode constraint is clarified.

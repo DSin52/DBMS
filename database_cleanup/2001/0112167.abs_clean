@@ -1,0 +1,11 @@
+Paper: hep-th/0112167
+
+Date: 2001-12-19
+
+Title: Ising field theory in a magnetic field
+
+energyAuthors: P. Fonseca, A. Zamolodchikov
+
+Comments: 65 pages, 23 eps figures; uses harvmac.tex
+
+We study the analytic properties of the scaling function associated with the2D Ising model free energy in the critical domain $T \to T_c$, $H \to 0$. Theanalysis is based on numerical data obtained through the Truncated Free FermionSpace Approach. We determine the discontinuities across the Yang-Lee and Langerbranch cuts. We confirm the standard analyticity assumptions and propose"extended analyticity"; roughly speaking, the latter states that the Yang-Leebranching point is the nearest singularity under Langer's branch cut. Wesupport the extended analyticity by evaluating numerically the associated"extended dispersion relation".

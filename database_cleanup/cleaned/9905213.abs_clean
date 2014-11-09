@@ -1,0 +1,11 @@
+Paper: hep-th/9905213
+
+Date: 1999-05-27
+
+Title: Relativistic Gamow Vectors II
+
+Authors: A. Bohm, H. Kaldass, S. Wickramasekara, P. Kielanowski
+
+Comments: REVTeX, 13 pages
+
+Motivated by the debate of possible definitions of mass and width ofresonances for $Z$-boson and hadrons, we suggest a definition of unstableparticles by ``minimally complex'' semigroup representations of the Poincar\'egroup characterized by $(j,{\mathsf s}=(m-i\Gamma/2)^{2})$ in which the Lorentzsubgroup is unitary. This definition, though decidedly distinct from thosebased on various renormalization schemes of perturbation theory, is intimatelyconnected with the first order pole definition of the $S$-matrix theory in thatthe complex square mass $(m-i\Gamma/2)^{2}$ characterizing the representationof the Poincar\'e semigroup is exactly the position ${\mathsf s}_R$ at whichthe $S$-matrix has a simple pole. Wigner's representations $(j,m)$ are thelimit case of the complex representations for $\Gamma=0$. These representationshave generalized vectors (Gamow kets) which have, in addition to the $S$-matrixpole at ${\mathsf s}=(m-i\Gamma/2)^{2}$, all the other properties thatin invariant square mass and a lifetime $\tau=\frac{1}{\Gamma}$ defined by theexactly exponential law for the decay probability ${\cal P}(t)$ and rate$\dot{\cal P}(t)$ given by an exact Golden Rule which becomes Dirac's GoldenRule in the Born-approximation. In addition and unintended, they have anasymmetric time evolution.

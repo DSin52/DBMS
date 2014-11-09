@@ -1,0 +1,9 @@
+Paper: hep-th/0211214
+
+Date: 2002-11-22
+
+Title: Nonlinear transforms of momenta and Planck scale limit
+
+Comments: 10 pages, no figures, corrected some typos
+
+Starting with the generators of the Poincar\'e group for arbitrary mass (m)and spin (s) a nonunitary transformation is implemented to obtain momenta withan absolute Planck scale limit. In the rest frame (for $m>0$) the transformedenergy coincides with the standard one, both being $m$. As the latter tends toinfinity under Lorentz transformations the former tends to a finite upper limit$m\coth(lm) = l^{-1}+ O(l)$ where $l$ is the Planck length and themass-dependent nonleading terms vanish exactly for zero rest mass.The invariant$m^{2}$ is conserved for the transformed momenta. The speed of light continuesto be the absolute scale for velocities. We study various aspects of thekinematics in which two absolute scales have been introduced in this specificfashion. Precession of polarization and transformed position operators areamong them. A deformation of the Poincar\'e algebra to the SO(4,1) deSitter onepermits the implementation of our transformation in the latter case. Asupersymmetric extension of the Poincar\'e algebra is also studied in thiscontext.

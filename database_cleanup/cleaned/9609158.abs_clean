@@ -1,0 +1,13 @@
+Paper: hep-th/9609158
+
+Date: 1996-09-18
+
+Title: Continuous non-perturbative regularization of QED
+
+Authors: J.L. Jacquot
+
+Comments: 23 pages, LaTeX, 5 Encapsulated Postscript figures. Improved and
+
+revised version, to appear in Phys. Rev. DJournal-ref: Phys.Rev. D57 (1998) 6511-6524
+
+We regularize in a continuous manner the path integral of QED by constructionof a non-local version of its action by means of a regularized form of Dirac's$\delta$ functions. Since the action and the measure are both invariant underthe gauge group, this regularization scheme is intrinsically non-perturbative.Despite the fact that the non-local action converges formally to the local oneas the cutoff goes to infinity, the regularized theory keeps trace of thenon-locality through the appearance of a quadratic divergence in the transversepart of the polarization operator. This term which is uniquely defined by thechoice of the cutoff functions can be removed by a redefinition of theregularized action. We notice that as for chiral fermions on the lattice, thereis an obstruction to construct a continuous and non ambiguous regularization infour dimensions. With the help of the regularized equations of motion, wecalculate the one particle irreducible functions which are known to bedivergent by naive power counting at the one loop order.

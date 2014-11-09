@@ -1,0 +1,11 @@
+Paper: hep-th/0112144
+
+Date: 2001-12-17
+
+Title: A theory of algebraic integration
+
+Authors: Roberto Casalbuoni
+
+Comments: LaTex file, 50 pages, no figures. Contribution to the Michael Marinov
+
+Memorial VolumeIn this paper we extend the idea of integration to generic algebras. Inparticular we concentrate over a class of algebras, that we will callself-conjugated, having the property of possessing equivalent right and leftmultiplication algebras. In this case it is always possible to define anintegral sharing many of the properties of the usual integral. For instance, ifthe algebra has a continuous group of automorphisms, the correspondingderivations are such that the usual formula of integration by parts holds. Wediscuss also how to integrate over subalgebras. Many examples are discussed,starting with Grassmann algebras, where we recover the usual Berezin's rule.The paraGrassmann algebras are also considered, as well as the algebra ofmatrices. Since Grassmann and paraGrassmann algebras can be represented bymatrices we show also that their integrals can be seen in terms of traces overthe corresponding matrices. An interesting application is to the case of groupalgebras where we show that our definition of integral is equivalent to a sumover the unitary irreducuble representations of the group. We show also someexample of integration over non self-conjugated algebras (the bosonic and the$q$-bosonic oscillators), and over non-associative algebras (the octonions).

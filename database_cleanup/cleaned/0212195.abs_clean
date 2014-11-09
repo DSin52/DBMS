@@ -1,0 +1,11 @@
+Paper: hep-th/0212195
+
+Date: 2002-12-17
+
+Title: Courant Algebroids
+
+Authors: Paul Bressler, Alexander Chervov
+
+Comments: 28 pages
+
+we explain the so-called "conducting bundle construction" and use it to attachthe Courant algebroid to Dixmier-Douady gerbe (following ideas of P. Severa).We remark that WZNW-Poisson condition of Klimcik and Strobl (math.SG/0104189)is the same as Dirac structure in some particular Courant algebroid. We proposethe construction of the Lie algebroid on the loop space starting from the Liealgebroid on the manifold and conjecture that this construction applied to theDirac structure above should give the Lie algebroid of symmetries in theWZNW-Poisson $\sigma$-model, we show that it is indeed true in the particularcase of Poisson $\sigma$-model.

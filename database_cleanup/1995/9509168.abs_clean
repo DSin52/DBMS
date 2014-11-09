@@ -1,0 +1,13 @@
+Paper: hep-th/9509168
+
+Date: 1995-09-28
+
+Title: Quantum Diffeomorphisms and Conformal Symmetry
+
+Authors: Ignatios Antoniadis, Pawel O. Mazur, and Emil Mottola
+
+Comments: PlainTeX File, 37 pages
+
+Journal-ref: Phys.Rev. D55 (1997) 4756-4769
+
+We analyze the constraints of general coordinate invariance for quantumtheories possessing conformal symmetry in four dimensions. The character ofthese constraints simplifies enormously on the Einstein universe $R \timesS^3$. The $SO(4,2)$ global conformal symmetry algebra of this space determinesuniquely a finite shift in the Hamiltonian constraint from its classical value.In other words, the global Wheeler-De Witt equation is {\it modified} at thequantum level in a well-defined way in this case. We argue that the highermoments of $T^{00}$ should not be imposed on the physical states {\it a priori}either, but only the weaker condition $\langle \dot T^{00} \rangle = 0$. Wepresent an explicit example of the quantization and diffeomorphism constraintson $R \times S^3$ for a free conformal scalar field.

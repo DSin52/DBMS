@@ -1,0 +1,11 @@
+Paper: hep-th/0302173
+
+Date: 2003-02-21
+
+Title: Hopf Algebra Primitives and Renormalization
+
+Authors: H. Quevedo, M. Rosenbaum and J. David Vergara
+
+Comments: 25 pages
+
+The analysis of the combinatorics resulting from the perturbative expansionof the transition amplitude in quantum field theories, and the relation of thisexpansion to the Hausdorff series leads naturally to consider an infinitedimensional Lie subalgebra and the corresponding enveloping Hopf algebra, towhich the elements of this series are associated. We show that in the contextof these structures the power sum symmetric functionals of the perturbativeexpansion are Hopf primitives and that they are given by linear combinations ofHall polynomials, or diagrammatically by Hall trees. We show that each Halltree corresponds to sums of Feynman diagrams each with the same number ofvertices, external legs and loops.In addition, since the Lie subalgebra admits a derivation endomorphism, wealso show that with respect to it these primitives are cyclic vectors generatedby the free propagator, and thus provide a recursion relation by means of whichthe (n+1)-vertex connected Green functions can be derived systematically fromthe n-vertex ones. By the application of an algebra homomorphism to theseprimitives and the use of the Connes-Kreimer twisted antipode axiom togetherwith the Birkhoff algebraic decomposition, we investigate their relevance tothe renormalization process and arrive in a rather straightforward andheuristic manner at the basic equation of renormalization theory from which theexplicit relations between the bare and physical parameters of the theory maybe derived, and from which the corresponding renormalized Green functions, aswell as the Renormalization Group equations in the Mass IndependentRenormalization Scheme result.

@@ -1,0 +1,13 @@
+Paper: hep-th/9506141
+
+Date: 1995-06-21
+
+Title: The Large N Random Phase sine-Gordon Model
+
+Authors: Michel Bauer and Denis Bernard (SPhT Saclay)
+
+Comments: 8 pages, plain latex, no figures
+
+Journal-ref: Europhys.Lett. 33 (1996) 255-259
+
+At large distances and in the low temperature phase, the quenched correlationfunctions in the 2d random phase sine-Gordon model have been argued to be of(\log|x|)^2 $, with $\ep=(T-T_c)$. However, renormalization group computationspredict $B\not=0$ while variational approaches (which are supposed to be exactfor models with a large number of components) give $B=0$. We introduce a large$N$ version of the random phase sine-Gordon model. Using non-Abelianbosonization and renormalization group techniques, we show that the correlationfunctions of our models have the above form but with a coefficient $B$suppressed by a factor $1/N^3$ compared to $A$.

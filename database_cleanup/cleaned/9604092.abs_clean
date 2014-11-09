@@ -1,0 +1,11 @@
+Paper: hep-th/9604092
+
+Date: 1996-04-17
+
+Title: "A Solvable Hamiltonian System" Integrability and Action-Angle Variables
+
+Comments: 12 pages, Latex, No Figures
+
+Journal-ref: J.Math.Phys. 38 (1997) 1577-1582
+
+We prove that the dynamical system charaterized by the Hamiltonian $ H =\lambda N \sum_{j}^{N} p_j + \mu \sum_{j,k}^{N} {{(p_j p_k)}^{1\over 2}} \{ cos[ \nu ( q_j - q_k)] \} $ proposed and studied by Calogero [1,2] is equivalentto a system of {\it non-interacting} harmonic oscillators. We find the explicitform of the conserved currents which are in involution. We also find theaction-angle variables and solve the initial value problem in simple form.

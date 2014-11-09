@@ -1,0 +1,13 @@
+Paper: hep-th/9510032
+
+Date: 1995-10-05
+
+Title: Quantum Group Approach to a soluble vertex model with generalized
+
+ice-ruleAuthors: L. Sow Cir\'e and T. T. Truong
+
+Comments: LaTeX files. 19 pages. Figures included using LaTeX format. Uses
+
+uufilesJournal-ref: Int. J. Mod. Phys. A11 (1996) 1747
+
+Using the representation of the quantum group $SL_q$(2) by the Weylope\-ra\-tors of the canonical commutation relations in quantum mechanics, weconstruct and solve a new vertex model on a square lattice. Random variables onhorizontal bonds are Ising variables, and those on the vertical bonds take halfpositive integer values. The vertices is subjected to a genera\-li\-zed form ofthe so-called ``ice-rule'', its property are studied in details and its freeenergy calculated with the method of quantum inverse scattering. Remarkably inanalogy with the usual six-vertex model, there exists a ``Free-Fermion'' limitwith a novel rich operator structure. The existing algebraic structure suggestsa possible connection with a lattice neutral plasma of charges, via theFermion-Boson correspondence.

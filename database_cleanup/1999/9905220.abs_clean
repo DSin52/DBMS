@@ -1,0 +1,13 @@
+Paper: hep-th/9905220
+
+Date: 1999-05-30
+
+Title: Black hole entropy from Poisson brackets (demystification of some
+
+calculations)Authors: Vladimir O. Soloviev
+
+Comments: 6 pages, RevTeX, Talk given at QFTHEP'99, Moscow, 27 May - 2 June
+
+1999, revised version to appear in Phys. Rev. DJournal-ref: Phys.Rev. D61 (2000) 027502
+
+Recently it has been suggested by S. Carlip that black hole entropy can bederived from a central charge of the Virasoro algebra arising as a subalgebrain the surface deformations of General Relativity in any dimension. Here it isshown that the argumentation given in Section 2 of hep-th/9812013 and based onthe Regge-Teitelboim approach is unsatisfactory. The functionals used arereally ``non-differentiable'' under required variations and also the standardPoisson brackets for these functionals are exactly zero so being unable to getany Virasoro algebra with a central charge. Nevertheless Carlip's calculationswill be correct if we admit another definition for the Poisson bracket. Thisnew Poisson bracket differs from the standard one in surface terms only andallows to work with ``non-differentiable'' functionals.

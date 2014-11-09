@@ -1,0 +1,13 @@
+Paper: hep-th/0210110
+
+Date: 2002-10-11
+
+Title: Optimization of perturbative similarity renormalization group for
+
+Hamiltonians with asymptotic freedom and bound statesAuthors: Stanislaw D. Glazek, Jaroslaw Mlynik
+
+Comments: 6 pages of latex, 4 eps figures
+
+Journal-ref: Phys.Rev. D67 (2003) 045001
+
+A model Hamiltonian that exhibits asymptotic freedom and a bound state, isused to show on example that similarity renormalization group procedure can betuned to improve convergence of perturbative derivation of effectiveHamiltonians, through adjustment of the generator of the similaritytransformation. The improvement is measured by comparing the eigenvalues ofperturbatively calculated renormalized Hamiltonians that couple only arelatively small number of effective basis states, with the exact bound stateenergy in the model. The improved perturbative calculus leads to a few-percentaccuracy in a systematic expansion.

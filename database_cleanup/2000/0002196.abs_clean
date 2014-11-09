@@ -1,0 +1,13 @@
+Paper: hep-th/0002196
+
+Date: 2000-02-23
+
+Title: Renormalization group improved black hole spacetimes
+
+Authors: A. Bonanno, M. Reuter
+
+Comments: 46 pages, 7 figures, RevTeX
+
+Journal-ref: Phys.Rev. D62 (2000) 043008
+
+We study the quantum gravitational effects in spherically symmetric blackhole spacetimes. The effective quantum spacetime felt by a point-like test massis constructed by ``renormalization group improving'' the Schwarzschild metric.The key ingredient is the running Newton constant which is obtained from theexact evolution equation for the effective average action. The conformalstructure of the quantum spacetime depends on its ADM-mass M and it is similarto that of the classical Reissner-Nordstrom black hole. For M larger than,equal to, and smaller than a certain critical mass $M_{\rm cr}$ the spacetimehas two, one and no horizon(s), respectively. Its Hawking temperature, specificheat capacity and entropy are computed as a function of M. It is argued thatthe black hole evaporation stops when M approaches $M_{\rm cr}$ which is of theorder of the Planck mass. In this manner a ``cold'' soliton-like remnant withthe near-horizon geometry of $AdS_2\times S^2$ is formed. As a consequence ofthe quantum effects, the classical singularity at r=0 is either removedcompletely or it is at least much milder than classically; in the first casethe quantum spacetime has a smooth de Sitter core which would be in accord withthe cosmic censorship hypothesis even if $M<M_{\rm cr}$.

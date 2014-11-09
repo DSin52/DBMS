@@ -1,0 +1,13 @@
+Paper: hep-th/0108057
+
+Date: 2001-08-09
+
+Title: Bound States of Non-Hermitian Quantum Field Theories
+
+Authors: Carl M. Bender, Stefan Boettcher, H. F. Jones, Peter Meisinger and
+
+Mehmet SimsekComments: 14 pages, 3figures
+
+Journal-ref: Phys.Lett. A291 (2001) 197-202
+
+The spectrum of the Hermitian Hamiltonian ${1\over2}p^2+{1\over2}m^2x^2+gx^4$($g>0$), which describes the quantum anharmonic oscillator, is real andpositive. The non-Hermitian quantum-mechanical Hamiltonian $H={1\over2}p^2+{1\over2}m^2x^2-gx^4$, where the coupling constant $g$ is real and positive, is${\cal PT}$-symmetric. As a consequence, the spectrum of $H$ is known to bereal and positive as well. Here, it is shown that there is a significantlatter Hamiltonian exhibits a two-particle bound state while the former doesnot. The bound state persists in the corresponding non-Hermitian ${\calPT}$-symmetric $-g\phi^4$ quantum field theory for all dimensions $0\leq D<3$but is not present in the conventional Hermitian $g\phi^4$ field theory.

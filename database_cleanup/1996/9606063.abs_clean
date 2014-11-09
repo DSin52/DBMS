@@ -1,0 +1,11 @@
+Paper: hep-th/9606063
+
+Date: 1996-06-12
+
+Title: A Statistical Interpretation of Space and Classical-Quantum duality
+
+Comments: 11 pages. Standard Latex. Final version to appear in Physical Review
+
+Letters. Revised and extended version. The formalism is extended to higherdimensions and to the Klein-Gordon equation. A possible connection withstring theory is considered. The $x-\psi$ duality is emphasized by a minorstatistical interpretation of space in quantum mechanicsJournal-ref: Phys.Rev.Lett. 78 (1997) 163
+
+By defining a prepotential function for the stationary Schr\"odinger equationwe derive an inversion formula for the space variable $x$ as a function of thewave-function $\psi$. The resulting equation is a Legendre transform thatrelates $x$, the prepotential ${\cal F}$, and the probability density. Weinvert the Schr\"odinger equation to a third-order differential equation for${\cal F}$ and observe that the inversion procedure implies a $x$-$\psi$duality. This phenomenon is related to a modular symmetry due to thesuperposition of the solutions of the Schr\"odinger equation. We propose thatin quantum mechanics the space coordinate can be interpreted as a macroscopicvariable of a statistical system with $\hbar$ playing the role of a scalingparameter. We show that the scaling property of the space coordinate withrespect to $\tau=\partial_{\psi}^2{\cal F}$ is determined by the``beta-function''. We propose that the quantization of the inversion formulais a natural way to quantize geometry. The formalism is extended to higherdimensions and to the Klein-Gordon equation.

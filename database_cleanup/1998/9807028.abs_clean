@@ -1,0 +1,11 @@
+Paper: hep-th/9807028
+
+Date: 1998-07-03
+
+Title: Loop Amplitudes in Supergravity by Canonical Quantization
+
+Authors: P.D. D'Eath
+
+Comments: 20 pages, plain TeX, no figures
+
+Dirac's approach to the canonical quantization of constrained systems isapplied to $N = 1$ supergravity, with or without gauged supermatter. Twoalternative types of boundary condition applicable to quantum field theory orquantum gravity are contrasted. The first is the `coordinate' boundarycondition as used in quantum cosmology; the second type is scattering boundaryconditions, as used in Feynman diagrams, applicable to asymptotically flatspace-time. The first yields a differential-equation form of the theory, dualto the integral version appropriate to the second. Here, the first (Dirac)approach is found to be extremely streamlined for the calculation of loopamplitudes in these locally supersymmetric theories. By contrast,Feynman-diagram methods have led to calculations which are typically so largeas to be unmanageable. Remarkably, the Riemannian quantum amplitude forcoordinate boundary conditions in $N = 1$ supergravity (without matter) isexactly semi-classical, being of the form $exp(-I/\hbar)$, where $I$ is theclassical action, allowing for the presence of fermions as well as gravity onthe boundaries. Even when supermatter is included, typical one-loop amplitudesare often very simple, sometimes not even involving an infinite sum orintegral. Specifically, the boundary conditions considered for a number ofconcrete one-loop examples are set on a pair of concentric 3-spheres inEuclidean 4-space. In the non-trivial cases the amplitudes appear to beexponentially convergent.

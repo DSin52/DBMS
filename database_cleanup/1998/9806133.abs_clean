@@ -1,0 +1,13 @@
+Paper: hep-th/9806133
+
+Date: 1998-06-16
+
+Title: The DLCQ Spectrum of N=(8,8) Super Yang-Mills
+
+Authors: F.Antonuccio, O.Lunin, S.Pinsky (Ohio State), and H.-C.Pauli,
+
+S.Tsujimaru (MPI, Heidelberg)Comments: LaTeX, 19 pages
+
+Journal-ref: Phys.Rev. D58 (1998) 105024
+
+We consider the 1+1 dimensional N = (8,8) supersymmetric matrix field theoryobtained from a dimensional reduction of ten dimensional N = 1 superYang-Mills. The gauge groups we consider are U(N) and SU(N), where N is finitebut arbitrary. We adopt light-cone coordinates, and choose to work in thelight-cone gauge. Quantizing this theory via Discretized Light-ConeQuantization (DLCQ) introduces an integer, K, which restricts the light-conemomentum-fraction of constituent quanta to be integer multiples of 1/K.Solutions to the DLCQ bound state equations are obtained for K=2,3 and 4 bydiscretizing the light-cone super charges, which preserves supersymmetrymanifestly. We discuss degeneracies in the massive spectrum that appear to beindependent of the light-cone compactification, and are therefore expected tobe present in the decompactified limit K -> infinity. Our numerical resultsalso support the claim that the SU(N) theory has a mass gap.

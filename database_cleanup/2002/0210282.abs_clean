@@ -1,0 +1,11 @@
+Paper: hep-th/0210282
+
+Date: 2002-10-29
+
+Title: Vacuum polarization by a magnetic flux of special rectangular form
+
+Authors: I. Drozdov
+
+Comments: 28 pages, 6 figures
+
+We consider the ground state energy of a spinor field in the background of asquare well shaped magnetic flux tube. We use the zeta- function regularizationand express the ground state energy as an integral involving the Jost functionof a two dimensional scattering problem. We perform the renormalization bysubtracting the contributions from first several heat kernel coefficients. Theground state energy is presented as a convergent expression suited fornumerical evaluation. We discuss corresponding numerical calculations. Usingthe uniform asymptotic expansion of the special functions entering the Jostfunction we are able to calculate higher order heat kernel coefficients.

@@ -1,0 +1,11 @@
+Paper: hep-th/9403142
+
+Date: 1994-03-23
+
+Title: Triangular dissections, aperiodic tilings and Jones algebras
+
+Comments: 14 pages. Revised version. 18 Postcript figures, a 500 kb uuencoded
+
+file called images.uu available by mosaic or gopher fromJournal-ref: Adv.Appl.Math. 16 (1995) 402-424
+
+The Brattelli diagram associated with a given bicolored Dynkin-Coxeter graphof type $A_n$ determines planar fractal sets obtained by infinite dissectionsof a given triangle. All triangles appearing in the dissection process haveangles that are multiples of $\pi/ (n+1).$ There are usually several possibleinfinite dissections compatible with a given $n$ but a given one makes use of$n/2$ triangle types if $n$ is even. Jones algebra with index $[ 4 \ \cos^2{\pi\over n+1}]^{-1}$ (values of the discrete range) act naturally on vector spacesassociated with those fractal sets. Triangles of a given type are alwayscongruent at each step of the dissection process. In the particular case $n=4$,there are isometric and the whole structure lead, after proper inflation, toaperiodic Penrose tilings. The ``tilings'' associated with other values of theindex are discussed and shown to be encoded by equivalence classes of infinitesequences (with appropriate constraints) using $n/2$ digits (if $n$ is even)and generalizing the Fibonacci numbers.

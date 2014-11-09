@@ -1,0 +1,13 @@
+Paper: hep-th/9410004
+
+Date: 1994-10-03
+
+Title: Lattice QCD as a theory of interacting surfaces
+
+Authors: B.Rusakov
+
+Comments: TAUP-2204-94, 12pp., LaTeX
+
+Journal-ref: Phys.Lett. B344 (1995) 293-300
+
+Pure gauge lattice QCD at arbitrary D is considered. Exact integration overlink variables in an arbitrary D-volume leads naturally to an appearance of aset of surfaces filling the volume and gives an exact expression for functionalof their boundaries. The interaction between each two surfaces is proportionalto their common area and is realized by a non-local matrix differentialoperator acting on their boundaries. The surface self-interaction is given bythe QCD$_2$ functional of boundary. Partition functions and observables (Wilsonloop averages) are written as an averages over all configurations of aninteger-valued field living on a surfaces.

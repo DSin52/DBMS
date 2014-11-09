@@ -1,0 +1,11 @@
+Paper: hep-th/0104042
+
+Date: 2001-04-04
+
+Title: On off-shell structure of open string sigma model
+
+Comments: harvmac, 22 p., added references
+
+Journal-ref: JHEP 0108 (2001) 020
+
+We analyze several problems related to off-shell structure of open stringsigma model by using a combination of derivative expansion and expansion inpowers of the fields. According to the sigma model approach to bosonic openstring theory, the tachyon effective action $S(T)$ coincides with therenormalized partition function $Z(T)$ of sigma model on a disk, up to a termvanishing on shell. On the other hand, $Z(T)$ is a generating functional ofperturbative open string scattering amplitudes. If $S(T) = Z(T)$, then thereshould be no contribution of exchange diagrams to string amplitudes computedusing $S(T)$. We compute the cubic term in the effective action, and show thatit vanishes if some but not all external legs are on shell, and, therefore, anyexchange diagram involving the cubic term vanishes too. Then, we discuss aproblem of turning on nonrenormalizable boundary interactions, corresponding tomassive string modes. We compute the quadratic term for a symmetric tensorfield, and show that despite nonrenormalizability of the model one canconsistently remove all divergent terms, and obtain a quadratic actionreproducing the on-shell condition for the field. We also briefly discussfermionic (NS) sigma model, compute the tachyon quadratic term, and show thatit reproduces the correct tachyon mass. We note that turning on a massivesymmetric tensor field leads to the appearance of a term linear in it, whichcan be removed by adding a higher-derivative term to the boundary of the disc.

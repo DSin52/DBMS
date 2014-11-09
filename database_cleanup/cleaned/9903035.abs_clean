@@ -1,0 +1,11 @@
+Paper: hep-th/9903035
+
+Date: 1999-03-03
+
+Title: Higher-order corrections to the two and three-fermion Salpeter equations
+
+Authors: J. Bijtebier
+
+Comments: 19 pages in LaTex. Submitted to Few-Body Systems
+
+We compare two opposite ways of performing a 3D reduction of the two-fermionBethe-Salpeter equation beyond the instantaneous approximation and Salpeter'sequation. The more usual method consists in performing an expansion around aninstantaneous approximation of the product of the free propagators(propagator-approximated reduction). The second method starts with aninstantaneous approximation of the Bethe-Salpeter kernel (kernel-approximatedreduction). In both reductions the final 3D potential can be obtained byfollowing simple modified Feynman rules. The kernel-approximated reduction,however, does not give the correct scattering amplitudes, and must thus belimited to the computation of bound states. Our 3D reduction of thethree-fermion Bethe-Salpeter equation is inspired by these results. We expandthis equation around positive-energy instantaneous approximations of the threetwo-body kernels, but these starting approximations are given bypropagator-approximated reductions at the two-body level. The three-fermionBethe-Salpeter equation is first transformed into a set of three coupledequations for three wave functions depending each on one two-fermion totalenergy, then into a set of three 3D equations and finally into a single 3Dequation. This last equation is rather complicated, as it combines three seriesexpansions, but we use it to write a manageable expression of the first-ordercorrections to the energy spectrum.

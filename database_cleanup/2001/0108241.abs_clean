@@ -1,0 +1,11 @@
+Paper: hep-th/0108241
+
+Date: 2001-08-31
+
+Title: Physically inspired analysis of prime number constellations
+
+Authors: P.F. Kelly, Terry Pilling
+
+Comments: 4 pages, 4 figures, RevTex4
+
+We adopt a physically motivated empirical approach to the characterisation ofthe distributions of twin and triplet primes within the set of primes, ratherthan in the set of all natural numbers. Remarkably, the occurrences of twins ortriplets in any finite sequence of primes are like fixed-probability randomevents. The respective probabilities are not constant, but instead depend onthe length of the sequence in ways that we have been able to parameterise. Fortwins the ``decay constant'' decreases as the reciprocal of the logarithm ofdecreasing as the square of the reciprocal of the logarithm of the number ofprimes. The manner of the decrease is consistent with the Hardy--LittlewoodConjectures, developed using purely number theoretic tools of analysis.

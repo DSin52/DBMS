@@ -1,0 +1,11 @@
+Paper: hep-th/0205206
+
+Date: 2002-05-20
+
+Title: Full Component Lagrangian in the Linear Multiplet Formulation of
+
+String-inspired Effective SupergravityAuthors: Joel Giedt
+
+Comments: 2+34 pages, repaired various places where arXiv Latex compiler
+
+ignored definitions (\def) that overwrite existing labels, leading to muchconfusionWe compute the component field 4-dimensional N=1 supergravity Lagrangian thatis obtained from a superfield Lagrangian in the U(1)_K formalism with a lineardilaton multiplet. All fermionic terms are presented. In a variety of importantways, our results generalize those that have been reported previously, and areflexible enough to accomodate many situations of phenomenological interest instring-inspired effective supergravity, especially models based on orbifoldcompactifications of the weakly-coupled heterotic string. We provide for aneffective theory of hidden gaugino and matter condensation. We includesupersymmetric Green-Schwarz counterterms associated with the cancellation ofU(1) and modular duality anomalies; the modular duality counterterm is of arather general form. Our assumed form for the dilaton Kahler potential is quitegeneral and can accomodate Kahler stabilization methods. We note possibleapplications of our results. We also discuss the usefulness of the lineardilaton formulation as a complement to the chiral dilaton approach.

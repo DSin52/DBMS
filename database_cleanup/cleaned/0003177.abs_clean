@@ -1,0 +1,13 @@
+Paper: hep-th/0003177
+
+Date: 2000-03-20
+
+Title: Target Space Duality I
+
+Authors: Orlando Alvarez
+
+Comments: LaTeX, 29 pages, 1 eps figure. Added a couple of references and
+
+corrected a couple of typos. An FAQ that discusses some subtle points may beJournal-ref: Nucl.Phys. B584 (2000) 659-681
+
+We develop a systematic framework for studying target space duality at theclassical level. We show that target space duality between manifolds M andMtilde arises because of the existence of a very special symplectic manifold.This manifold locally looks like M x Mtilde and admits a double fibration. Weanalyze the local geometric requirements necessary for target space duality andprove that both manifolds must admit flat orthogonal connections. We show howabelian duality, nonabelian duality and Poisson-Lie duality are all specialcases of a more general framework. As an example we exhibit new (nonlinear)dualities in the case M = Mtilde = R^n.

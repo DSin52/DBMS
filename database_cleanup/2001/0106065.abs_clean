@@ -1,0 +1,13 @@
+Paper: hep-th/0106065
+
+Date: 2001-06-07
+
+Title: A derivation of Weyl gravity
+
+Authors: N. Boulanger and M. Henneaux
+
+Comments: This work was presented in part at the meeting of the Deutsche
+
+Physikalische Gesellschaft held in Bonn, 26-29 March 2001. To appear inAnnalen der PhysikJournal-ref: Annalen Phys. 10 (2001) 935-964
+
+In this paper, two things are done. (i) Using cohomological techniques, weexplore the consistent deformations of linearized conformal gravity in 4dimensions. We show that the only possibility involving no more than 4derivatives of the metric (i.e., terms of the form $\partial^4 g_{\mu \nu}$,$\partial^3 g_{\mu \nu} \partial g_{\alpha \beta}$, $\partial^2 g_{\mu \nu}\partial^2g_{\alpha \beta}$, $\partial^2 g_{\mu \nu} \partial g_{\alpha \beta}\partial g_{\rho \sigma}$ or $\partial g_{\mu \nu} \partial g_{\alpha \beta}\partial g_{\rho \sigma} \partial g_{\gamma \delta}$ with coefficients thatinvolve undifferentiated metric components - or terms with less derivatives) isgiven by the Weyl action $\int d^4x \sqrt{-g} W_{\a\b\g\d} W^{\a\b\g\d}$, inmuch the same way as the Einstein-Hilbert action describes the only consistentmanner to make a Pauli-Fierz massless spin-2 field self-interact with no morethan 2 derivatives. No a priori requirement of invariance under diffeomorphisms"multi-Weyl graviton" theories. We show the impossibility to introducecross-interactions between the different types of Weyl gravitons if onerequests that the action reduces, in the free limit, to a sum of linearizedWeyl actions. However, if different free limits are authorized, cross-couplingsbecome possible. An explicit example is given. We discuss also how the resultsextend to other spacetime dimensions.

@@ -1,0 +1,11 @@
+Paper: hep-th/9810141
+
+Date: 1998-10-19
+
+Title: Semigroup extensions of isometry groups of flat spacetimes compactified
+
+over lightlike latticesAuthors: Hanno Hammer
+
+Comments: uses amsmath, amsthm, amscd, amsxtra, amsfonts, amssymb
+
+We examine some peculiarities of the subset of lattice preserving elements ina pseudo-Euclidean group, when the lattice under consideration contains alightlike vector, or more generally, when the restriction of a pseudo-Euclideanmetric to the real linear enveloppe of the lattice is not definite. For thecase of a Lorentzian metric, it is shown in detail that the isometry group ofthe spacetime compactified over such a lattice admits a natural extension to asemigroup. We explain why such an extension is not available for spacelikelattices. Furthermore, we argue that for any Lagrangian defined on such alightlike compactified spacetime, the elements of the semigroup relate sectorsof the theory belonging to different discrete compactification radii, and henceconnect different superselection sectors of the theory. This mapping occurs asa one-way process, owing to the non-invertibility of the semigroup elements onthe lattice. These structures might therefore be of relevance to matrix theory.

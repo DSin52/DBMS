@@ -1,0 +1,13 @@
+Paper: hep-th/0201148
+
+Date: 2002-01-18
+
+Title: Casimir Effects in Renormalizable Quantum Field Theories
+
+Authors: Noah Graham, Robert L. Jaffe, Herbert Weigel
+
+Comments: 27 pp., 11 EPS figures, LaTeX using ijmpa1.sty; email correspondence
+
+to R.L. Jaffe <jaffe@mit.edu> ; based on talks presented by the authors atthe 5th workshop `QFTEX', Leipzig, September 2001Journal-ref: Int.J.Mod.Phys. A17 (2002) 846-869
+
+We review the framework we and our collaborators have developed for the studyof one-loop quantum corrections to extended field configurations inrenormalizable quantum field theories. We work in the continuum, transformingthe standard Casimir sum over modes into a sum over bound states and anintegral over scattering states weighted by the density of states. We expressthe density of states in terms of phase shifts, allowing us to extractdivergences by identifying Born approximations to the phase shifts with loworder Feynman diagrams. Once isolated in Feynman diagrams, the divergences arecanceled against standard counterterms. Thus regulated, the Casimir sum ishighly convergent and amenable to numerical computation. Our methods havenumerous applications to the theory of solitons, membranes, and quantum fieldtheories in strong external fields or subject to boundary conditions.

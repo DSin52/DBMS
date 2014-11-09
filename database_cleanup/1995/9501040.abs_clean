@@ -1,0 +1,11 @@
+Paper: hep-th/9501040
+
+Date: 1995-01-12
+
+Title: Correlations, Decoherence, Dissipation, and Noise in Quantum Field
+
+TheoryAuthors: Esteban Calzetta and B. L. Hu
+
+Comments: 37 pages, documentstyle
+
+The statistical mechanical properties of interacting quantum fields in termsof the dynamics of the correlation functions are investigated. We show how theDyson - Schwinger equations may be derived from a formal action functional, then-particle irreducible ($nPI, n \to \infty$) or the `master' effective action.It is related to the decoherence functional between histories defined in termsof correlations. Upon truncation of the Dyson - Schwinger hierarchy at acertain order, the master effective action becomes complex, its imaginary partarising from the higher order correlation functions, the fluctuations of whichwe define as the correlation noises of that order. Decoherence of correlationhistories via these noises gives rise to classical stochastic histories %drivenby the flucutations of these higher correlation functions. Ordinary quantumfield theory corresponds to taking the lowest order functions, usually the meanfield and the 2-point functions. As such, our reasoning shows that it is aneffective theory which can be intrinsically dissipative. The relation of loopexpansion and correlation order as well as the introduction of an arrow of timefrom the choice of boundary conditions are expounded with regard to the originof dissipation in quantum fields. Relation with critical phenomena, quantumtransport, molecular hydrodynamics and potential applications to quantumgravity, early universe processes and black hole physics are mentioned.

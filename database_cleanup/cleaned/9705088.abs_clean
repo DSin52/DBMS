@@ -1,0 +1,13 @@
+Paper: hep-th/9705088
+
+Date: 1997-05-13
+
+Title: C Function Representation of the Local Potential Approximation
+
+Authors: Jacek Generowicz, Chris Harvey-Fros and Tim R. Morris
+
+Comments: 10 pages including one eps figure, uses harvmac and epsf; several
+
+minor typos corrected --- to be published in Physics Letters BJournal-ref: Phys.Lett. B407 (1997) 27-32
+
+Within the Local Potential Approximation to Wilson's, or Polchinski's, exactrenormalization group, and for general spacetime dimension, we construct afunction, c, of the coupling constants; it has the property that (for unitarytheories) it decreases monotonically along flows, and is stationary only atfixed points ---where it `counts degrees of freedom', i.e. is extensive,counting one for each Gaussian scalar. Furthermore, by choosing restrictions tosome sub-manifold of coupling constant space, we arrive at a very promisingvariational approximation method.

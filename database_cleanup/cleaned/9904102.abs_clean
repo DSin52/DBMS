@@ -1,0 +1,13 @@
+Paper: hep-th/9904102
+
+Date: 1999-04-14
+
+Title: Nonabelian Generalization of Electric-Magnetic Duality - a Brief Review
+
+Authors: HM Chan (Rutherford Appleton Lab), and ST Tsou (Oxford)
+
+Comments: 37 pages, Latex, 10 figures using epsfig, 4 charts in ps; invited
+
+review to appear in Int. J. Mod. PhysJournal-ref: Int.J.Mod.Phys. A14 (1999) 2139-2172
+
+A loop space formulation of Yang-Mills theory high-lighting the significanceof monopoles for the existence of gauge potentials is used to derive ageneralization of electric-magnetic duality to the nonabelian theory. Theresult implies that the gauge symmetry is doubled from SU(N) to $SU(N) \times\widetilde{SU}(N)$, while the physical degrees of freedom remain the same, sothat the theory can be described in terms of either the usual Yang-Millspotential $A_\mu(x)$ or its dual $\tilde{A}_\mu(x)$. Nonabelian `electric'charges appear as sources of $A_\mu$ but as monopoles of $\tilde{A}_\mu$, whiletheir `magnetic' counterparts appear as monopoles of $A_\mu$ but sources of$\tilde{A}_\mu$. Although these results have been derived only for classicalfields, it is shown for the quantum theory that the Dirac phase factors (orWilson loops) constructed out of $A_\mu$ and $\tilde{A}_\mu$ satisfy the 'tHooft commutation relations, so that his results on confinement apply. Henceone concludes, in particular, that since colour SU(3) is confined then dualcolour $\widetilde{SU}(3)$ is broken. Such predictions can lead to many veryinteresting physical consequences which are explored in a companion paper.

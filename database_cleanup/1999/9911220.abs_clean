@@ -1,0 +1,13 @@
+Paper: hep-th/9911220
+
+Date: 1999-11-27
+
+Title: Generalization of Calabi-Yau/Landau-Ginzburg correspondence
+
+Authors: Tohru Eguchi (Univ. of Tokyo, Phys. Dept.), Masao Jinzenji (Univ. of
+
+Tokyo, Math. Dept.)Comments: 19 pages, Latex
+
+Journal-ref: JHEP 0002 (2000) 028
+
+We discuss a possible generalization of the Calabi-Yau/Landau-Ginzburgcorrespondence to a more general class of manifolds. Specifically we considerCP}^{N-1}$ for various values of k and N. When k<N, the 1-loop beta function ofthe sigma model on $M_N^k$ is negative and we expect the theory to have a massgap. However, the quantum cohomology relation$\sigma^{N-1}={const.}\sigma^{k-1}$ suggests that in addition to the massivevacua there exists a remaining massless sector in the theory if k>2. We assumethat this massless sector is described by a Landau-Ginzburg (LG) theory ofcentral charge $c=3N(1-2/k)$ with N chiral fields with U(1) charge $1/k$. Wecompute the topological invariants (elliptic genera) using LG theory andmassive vacua and compare them with the geometrical data. We find that theresults agree if and only if k=even and N=even.These are the cases when the hypersurfaces have a spin structure. Thus wefind an evidence for the geometry/LG correspondence in the case of spinmanifolds.

@@ -1,0 +1,11 @@
+Paper: hep-th/9511190
+
+Date: 1995-11-27
+
+Title: The Renormalization Group Method and Quantum Groups
+
+rings twiceAuthors: Miguel A. Martin-Delgado and German Sierra
+
+Comments: LATEX file, 21 pages, no figures. To appear in "From Field Theory to
+
+Quantum Groups", World Scientific. Proceedings to honor J.Lukierski in his60th birthdayWe review some of our recent results concerning the relationship between theReal-Space Renormalization Group method and Quantum Groups. We show thisrelation by applying real-space RG methods to study two quantum group invariantHamiltonians, that of the XXZ model and the Ising model in a transverse field(ITF) defined in an open chain with appropriate boundary terms. The quantumgroup symmetry is preserved under the RG transformation except for theappearence of a quantum group anomalous term which vanishes in the classicalcase. This is called {\em the quantum group anomaly}. We derive the new qRGequations for the XXZ model and show that the RG-flow diagram obtained in thisfashion exhibits the correct line of critical points that the exact model has.In the ITF model the qRG-flow equations coincide with the tensor productdecomposition of cyclic irreps of $SU_q(2)$ with $q^4=1$.

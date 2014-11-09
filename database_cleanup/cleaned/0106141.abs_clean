@@ -1,0 +1,11 @@
+Paper: hep-th/0106141
+
+Date: 2001-06-15
+
+Title: Comments on Noncommutative Particle Dynamics
+
+Authors: Ciprian Acatrinei
+
+Comments: 12 pages, no figures
+
+We discuss a version of Hamiltonian (2+1)-dimensional dynamics, in which oneallows nonvanishing Poisson brackets also between the coordinates, and betweenthe momenta. The resulting equations of motion are not any more derivable froma Lagrangian. However, taking a specific limit, in which the symplectic formbecomes singular, one can recover a first-order Lagrangian description. Thissignals the dimensional reduction of the phase-space to half its initial numberof degrees of freedom. We reach the same limit from another point of view,studying a particular form of the Poisson brackets, which is singled outgeometrically and easy to handle algebraically. For comparison, a discussion ofquantum mechanics with extended Heisenberg algebra is included. The quantumtheory constrains the antisymmetric matrix providing the algebra to the abovementioned classically singular limit.

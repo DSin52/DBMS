@@ -1,0 +1,11 @@
+Paper: hep-th/9811118
+
+Date: 1998-11-12
+
+Title: Tree structures, Entropy, and Action Principles for Neighbourhood
+
+TopologiesAuthors: Hanno Hammer
+
+Comments: 42 pages, table of contents included, two minor typos corrected
+
+Topology; Combinatorics; Optimization and ControlWe recast the idea of decision trees as they emerge in Information theory andComplexity theory into a set theoretical language; the result we call treestructures over a given set. We identify all main structural elements of treestructures, the most important of which is the tree function, defined as a sumover certain quantities at every nod in the tree. We show in detail that theminimization of the tree function on, possibly constrained, sets of treestructures renders the functional form of entropy, or of Wiener-Shannoninformation, depending on the context. We suggest three natural axioms definingtree structures, which are valid also when the underlying set is infinite; inthis case the resulting trees are fractal-like objects. These axioms turn outto be related to the neighbourhood axioms describing neighbourhoods on atopological space. In fact we will show that the paths in a tree structure,which are totally ordered subsets of a tree, can be regarded as a countableneighbourhood basis, which in turn defines a topology on the underlying set.The tree function then assigns nonnegative numbers to every neighbourhoodtopology on the underlying set that arises from a tree structure. On thepreferred topology, this number becomes minimal, in which case it represents anentropy-like quantity. This has the distinct flavour of an action principle,distinguishing certain topologies by means of minimization of the treefunction. This result hints at a deep relation between entropy-like quantitiesand preferred neighbourhood topologies on sets.

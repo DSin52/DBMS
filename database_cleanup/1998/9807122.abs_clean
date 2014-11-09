@@ -1,0 +1,13 @@
+Paper: hep-th/9807122
+
+Date: 1998-07-17
+
+Title: Universal conservation law and modified Noether symmetry in 2d models of
+
+gravity with matterAuthors: W. Kummer, G. Tieber
+
+Comments: 30
+
+Journal-ref: Phys.Rev. D59 (1999) 044001
+
+It is well-known that all 2d models of gravity---including theories withnonvanishing torsion and dilaton theories---can be solved exactly, if matterinteractions are absent. An absolutely (in space and time) conserved quantitydetermines the global classification of all (classical) solutions. For thespecial case of spherically reduced Einstein gravity it coincides with the massin the Schwarzschild solution. The corresponding Noether symmetry has beenderived previously by P. Widerin and one of the authors (W.K.) for a specific2d model with nonvanishing torsion. In the present paper this is generalized toall covariant 2d theories, including interactions with matter. The relatedNoether-like symmetry differs from the usual one. The parameters for thesymmetry transformation of the geometric part and those of the matterfields aredistinct. The total conservation law (a zero-form current) results from a twostage argument which also involves a consistency condition expressed by theconservation of a one-form matter ``current''. The black hole is treated as aspecial case.

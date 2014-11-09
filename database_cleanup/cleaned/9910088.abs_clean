@@ -1,0 +1,11 @@
+Paper: hep-th/9910088
+
+Date: 1999-10-11
+
+Title: A Candidate for Solvable Large N Lattice Gauge Theory in D>2
+
+Authors: Andrey Dubin
+
+Comments: 46 pages
+
+I propose a class of D\geq{2} lattice SU(N) gauge theories dual to certainvector models endowed with the local [U(N)]^{D} conjugation-invariance andZ_{N} gauge symmetry. In the latter models, both the partitition function andWilson loop observables depend nontrivially only on the eigenvalues of thelink-variables. Therefore, the vector-model facilitates a master-fieldrepresentation of the large N loop-averages in the corresponding induced gaugesystem. As for the partitition function, in the limit N->{infinity} it isreduced to the 2Dth power of an effective one-matrix eigenvalue-model whichmakes the associated phase structure accessible. In particular a simplescaling-condition, that ensures the proper continuum limit of the induced gaugetheory, is proposed. We also derive a closed expression for the large N averageof a generic nonself-intersecting Wilson loop in the D=2 theory defined on anarbitrary 2d surface.

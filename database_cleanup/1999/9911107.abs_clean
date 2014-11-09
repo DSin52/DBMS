@@ -1,0 +1,13 @@
+Paper: hep-th/9911107
+
+Date: 1999-11-15
+
+Title: Renormalizability of the Dynamical Two-Form
+
+Authors: Amitabha Lahiri (S.N.Bose National Centre for Basic Sciences)
+
+Comments: revtex, 35p. additional discussion about the auxiliary vector field
+
+and possible gauge choices, relevant to the question of validity ofperturbative expansion, version to be published in Phys.Rev.DJournal-ref: Phys.Rev. D63 (2001) 105002
+
+A proof of renormalizability of the theory of the dynamical non-Abeliantwo-form is given using the Zinn-Justin equation. Two previously unknownsymmetries of the quantum action, different from the BRST symmetry, are neededfor the proof. One of these is a gauge fermion dependent nilpotent symmetry,while the other mixes different fields with the same transformation properties.The BRST symmetry itself is extended to include a shift transformation by useof an anticommuting constant. These three symmetries restrict the form of thequantum action up to arbitrary order in perturbation theory. The results showthat it is possible to have a renormalizable theory of massive vector bosons infour dimensions without a residual Higgs boson.

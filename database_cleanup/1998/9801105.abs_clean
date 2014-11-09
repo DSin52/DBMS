@@ -1,0 +1,13 @@
+Paper: hep-th/9801105
+
+Date: 1998-01-15
+
+Title: Mode regularization, time slicing, Weyl ordering and phase space path
+
+integrals for quantum mechanical nonlinear sigma modelsAuthors: Fiorenzo Bastianelli, Koenraad Schalm and Peter van Nieuwenhuizen
+
+Comments: 15 pages, LaTeX, 25 figures
+
+Journal-ref: Phys.Rev. D58 (1998) 044002
+
+A simple, often invoked, regularization scheme of quantum mechanical pathFourier series, performs calculations with only the first $M$ modes, and at theend takes the limit $M \to \infty$. This simple scheme does not manifestlynoncovariant terms of order $\hbar^2$ must be added to the action in order tomaintain general coordinate invariance. Regularization by time slicing requiresa different set of terms of order $\hbar^2$ which can be derived from Weylordering of the Hamiltonian. With these counterterms both schemes give the sameanswers to all orders of loops. As a check we perform the three-loopcalculation of the trace anomaly in four dimensions in both schemes. We alsopresent a diagrammatic proof of Matthews' theorem that phase space andconfiguration space path integrals are equal.

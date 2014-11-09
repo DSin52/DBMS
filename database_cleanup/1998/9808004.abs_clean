@@ -1,0 +1,13 @@
+Paper: hep-th/9808004
+
+Date: 1998-08-02
+
+Title: Theory of higher spin tensor currents and central charges
+
+Authors: D. Anselmi
+
+Comments: Latex, 46 pages, 4 figures. Final version, to appear in NPB. (v2
+
+added two terms in vector OPE)Journal-ref: Nucl.Phys. B541 (1999) 323-368
+
+We study higher spin tensor currents in quantum field theory. Scalar, spinorand vector fields admit unique "improved" currents of arbitrary spin, tracelessand conserved. Off-criticality as well as at interacting fixed pointsconservation is violated and the dimension of the current is anomalous. Inparticular, currents J^(s,I) with spin s between 0 and 5 (and a second label I)appear in the operator product expansion of the stress tensor. The TT OPE isworked out in detail for free fields; projectors and invariants encoding thespace-time structure are classified. The result is used to write and discussthe most general OPE for interacting conformal field theories andoff-criticality. Higher spin central charges c_(s,I) with arbitrary s aredefined by higher spin channels of the many-point T-correlators and centralfunctions interpolating between the UV and IR limits are constructed. Wecompute the one-loop values of all c_(s,I) and investigate the RG trajectoriesof quantum field theories in the conformal window following our approach. Inparticular, we discuss certain phenomena (perturbative and nonperturbative)that appear to be of interest, like the dynamical removal of the I-degeneracy.Finally, we address the problem of formulating an action principle for the RGtrajectory connecting pairs of CFT's as a way to go beyond perturbation theory.

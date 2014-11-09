@@ -1,0 +1,9 @@
+Paper: hep-th/0110199
+
+Date: 2001-10-22
+
+Title: Light Cone QED in a Homogeneous Electric Background
+
+Comments: 9 pages, 2 figures, LaTeX 2 epsilon, talk given at the 6th Workshop
+
+on Non-Perturbative QCD, Paris, France, June 5-9, 2001I present an exact solution for the Heisenberg picture, Dirac electron in thepresence of an electric field which depends arbitrarily upon the light conetime parameter $x^+ = (t+x)/\sqrt{2}$. This is the largest class of backgroundfields for which the mode functions have ever been obtained. The solutionapplies to electrons of any mass and in any spacetime dimension. Thetraditional ampiguity at $p^+ = 0$ is explicitly resolved. It turns out thatthe initial value operators include not only $(I + \gamma^0 \gamma^1) \psi$ at$x^+ = 0$ but also $(I - \gamma^0 \gamma^1) \psi$ at $x^- = -L$. Pair creationis a discrete and instantaneous event on the light cone, so one can compute theparticle production rate in real time. In $D=1+1$ dimensions one can also seethe anomaly. Another novel feature of the solution is that the expectationvalue of the currents operators depends non-analytically upon the backgroundfield. This seems to suggest a new, strong phase of QED.

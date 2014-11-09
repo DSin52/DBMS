@@ -1,0 +1,13 @@
+Paper: hep-th/9509141
+
+Date: 1995-09-25
+
+Title: SL(2,R) Invariance of Non-Linear Electrodynamics Coupled to An Axion and
+
+a DilatonAuthors: G W Gibbons, D A Rasheed
+
+Comments: 9 pages, LaTeX
+
+Journal-ref: Phys.Lett. B365 (1996) 46-50
+
+The most general Lagrangian for non-linear electrodynamics coupled to anaxion $a$ and a dilaton $\phi$ with $SL(2,\mbox{\elevenmsb R})$ invariantequations of motion is $$ -\half\left(\nabla\phi\right)^2 - \halfe^{2\phi}\left(\nabla a\right)^2 + \fraction{1}{4}aF_{\mu\nu}\star F^{\mu\nu} +L_{\rm inv}(g_{\mu\nu},e^{-\frac{1}{2}\phi}F_{\rho\sigma}) $$ where $L_{\rminv}(g_{\mu\nu},F_{\rho\sigma})$ is a Lagrangian whose equations of motion areinvariant under electric-magnetic duality rotations. In particular there is aunique generalization of Born-Infeld theory admitting $SL(2,\mbox{\elevenmsbR})$ invariant equations of motion.

@@ -1,0 +1,11 @@
+Paper: hep-th/9608085
+
+Date: 1996-08-13
+
+Title: HyperK\"{a}hler Quotient Construction of BPS Monopole Moduli Spaces
+
+Authors: G.W.Gibbons and P.Rychenkova
+
+Comments: 19 pages, LaTeX2e, uses amsfonts and amsbsy packages
+
+We use the HyperK\"{a}hler quotient of flat space to obtain some monopolemoduli space metrics in explicit form. Using this new description, we discusstheir topology, completeness and isometries. We construct the moduli spacemetrics in the limit when some monopoles become massless, which corresponds tonon-maximal symmetry breaking of the gauge group. We also introduce a newfamily of HyperK"{a}hler metrics which, depending on the ``mass parameter''being positive or negative, give rise to either the asymptotic metric on themoduli space of many SU(2) monopoles, or to previously unknown metrics. Thesenew metrics are complete if one carries out the quotient of a non-zero levelset of the moment map, but develop singularities when the zero-set isconsidered. These latter metrics are of relevance to the moduli spaces of vacuaof three dimensional gauge theories for higher rank gauge groups. Finally, wemake a few comments concerning the existence of closed or bound orbits on someof these manifolds and the integrability of the geodesic flow.

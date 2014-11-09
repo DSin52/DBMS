@@ -1,0 +1,13 @@
+Paper: hep-th/9512146
+
+Date: 1995-12-19
+
+Title: Canonical Gauges in the Path Integral for Parametrized Systems
+
+Authors: Rafael Ferraro and Claudio Simeone
+
+Comments: 19 pages (TeX manuscript)
+
+Journal-ref: J.Math.Phys. 38 (1997) 599
+
+It is well known that --differing from ordinary gauge systems-- canonicalgauges are not admissible in the path integral for parametrized systems. Thisis the case for the relativistic particle and gravitation. However, a timedependent canonical transformation can turn a parametrized system into anordinary gauge system. It is shown how to build a canonical transformation suchthat the fixation of the new coordinates is equivalent to the fixation of theoriginal ones; this aim can be achieved only if the Hamiltonian constraintallows for an intrinsic global time. Thus the resulting action, describing anordinary gauge system and allowing for canonical gauges, can be used in thepath integral for the quantum propagator associated with the originalvariables.

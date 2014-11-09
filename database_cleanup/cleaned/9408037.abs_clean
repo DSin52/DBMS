@@ -1,0 +1,9 @@
+Paper: hep-th/9408037
+
+Date: 1994-08-05
+
+Title: Realizations of the Monster Lie algebra
+
+Comments: 32 pages
+
+We study aspects of the theory of generalized Kac-Moody Lie algebras (orBorcherds algebras) and their standard modules. It is shown how such an algebrawith no mutually orthogonal imaginary simple roots, including Borcherds'Monster Lie algebra $\frak m$, can be naturally constructed from a certainKac-Moody subalgebra and a module for it. We observe that certain generalizedVerma (induced) modules for generalized Kac-Moody algebras are standard modulesand hence irreducible. In particular, starting from the moonshine module forthe Monster group $M$, we construct a certain $\{frak gl}_2$- and $M$-module,the tensor algebra over which carries a natural structure of irreducible modulefor $\frak m$, which is realized as an explicitly prescribed $M$-covariant Liealgebra of operators on this tensor algebra. The existence of large freesubalgebras of $\frak m$ is further exploited to provide a simplification ofBorcherds' proof of the Conway-Norton conjectures for the McKay-Thompson seriesof the moonshine module. The coefficients of these series are shown to satisfynatural recursion relations (replication formulas) equivalent to, but differentfrom, those obtained by Borcherds.

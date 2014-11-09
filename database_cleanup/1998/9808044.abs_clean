@@ -1,0 +1,13 @@
+Paper: hep-th/9808044
+
+Date: 1998-08-07
+
+Title: Nonlocal color interactions in a gauge-invariant formulation of QCD
+
+Authors: Kurt Haller and Lusheng Chen
+
+Comments: 5 pages. Talk delivered at the XXIXth International Conference on
+
+High Energy Physics, Vancouver, B.C., July 23-29, 1998. A numerical error hasbeen correctedJournal-ref: Proceedings of the 29th International Conference on High Energy
+
+Physics, A. Astbury, D. Axen and J. Robinson, Editors; World ScientificPublishing Co. (Singapore 1999); p. 1650We construct a set of states that implement the non-Abelian Gauss's law forQCD. We also construct a set of gauge-invariant operator-valued quark and gluonfields by establishing an explicit unitary equivalence between the Gauss's lawoperator and the `pure glue' part of the Gauss's law operator. This unitaryequivalence enables us to use the `pure glue' Gauss's law operator to representthe entire Gauss's law operator in a new representation. Since the quark fieldcommutes with the `pure glue' Gauss's law operator, it is a gauge-invariantfield in this new representation. We use the unitary equivalence of the new andthe conventional representations to construct gauge-invariant quark and gluonfields in both representations, and to transform the QCD Hamiltonian in thetemporal gauge so that it is expressed entirely in terms of gauge-invariantquantities. In that form, all interactions between quark fields mediated by`pure gauge' components of the gluon field have been transformed away, andreplaced by a nonlocal interaction between gauge-invariant color-chargedensities. This feature --- that, in gauge-invariant formulations, interactionsmediated by pure gauge components of gauge fields have been replaced bynonlocal interactions --- is shared by many gauge theories. In QED, theresulting nonlocal interaction is the Coulomb interaction, which is the Abeliananalog of the QCD interaction we have identified and are describing in thiswork. The leading term, in a multipole expansion, of this nonlocal QCDinteraction vanishes for quarks in color-singlet configurations, suggesting adynamical origin for color confinement; higher order terms of this multipoleexpansion suggest a QCD mechanism for color transparency. We also show how, inan SU(2) model, this nonlocal interaction can be evaluated nonperturbatively.

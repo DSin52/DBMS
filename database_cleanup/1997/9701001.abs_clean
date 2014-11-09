@@ -1,0 +1,9 @@
+Paper: hep-th/9701001
+
+Date: 1997-01-01
+
+Title: Ricci flat metrics in various dimensions, depending from 2 light-cone
+
+parameters, and the Lagrangian for the 2 dimensional reduction of gravityAuthors: M. Zyskin
+
+We consider d-dimensional Riemanian manifolds which admit d-2 commutingspace-like Killing vector fields, orthogonal to a surface, containing twoone-parametric families of light-like curves. The condition of the Ricci tensorto be zero gives Ernst equations for the metric. We write explicitly a familyof local solutions of this equations corresponding to arbitrary initial data ontwo characteristics in terms of a series. These metrics describe scattering of2 gravitational waves, and thus we expect they are very interesting. Ernstequations can be written as equations of motion for some 2D Lagrangian, whichgoverns fluctuations of the metric, constant in the Killing directions. ThisLagrangian looks essentially as a 2D chiral field model, and thus is possiblytreatable in the quantum case by standart methods. It is conceivable that itmay describe physics of some specially arranged scattering experiment, thusgiving an insight for 4D gravity, not treatable by standart quantum fieldtheory methods. The renormalization flow for our Lagrangian is different fromthe flow for the unitary chiral field model, the difference is essentially dueto the fact that here the field is taking values in a non-compact space ofsymmetric matrices. We investigate the model and derive the renormalized actionin one loop.

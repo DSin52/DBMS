@@ -1,0 +1,13 @@
+Paper: hep-th/0204226
+
+Date: 2002-04-25
+
+Title: Semiclassical quantization of rotating superstring in AdS_5 x S^5
+
+Authors: S. Frolov and A.A. Tseytlin
+
+Comments: harvmac, 35p. v2,3
+
+higher-loop corrections in section 4 and an argument suggesting the absenceof higher than log S corrections to the energy to all orders in stringtension in section 6.1, to appear in JHEPJournal-ref: JHEP 0206 (2002) 007
+
+Motivated by recent proposals in hep-th/0202021 and hep-th/0204051 we developsemiclassical quantization of superstring in $AdS_5 x S^5$. We start with aclassical solution describing string rotating in $AdS_5$ and boosted alonglarge circle of $S^5$. The energy of the classical solution $E$ is a functionof the spin $S$ and the momentum $J$ (R-charge) which interpolates between thelimiting cases S=0 and J=0 considered previously. We derive the correspondingquadratic fluctuation action for bosonic and fermionic fields from the GSstring action and compute the string 1-loop (large $\lambda= {R^4\over \a'^2}$)correction to the classical energy spectrum in the $(S,J)$ sector. We find thatthe 1-loop correction to the ground-state energy does not cancel for non-zero$S$. For large $S$ it scales as $\ln S$, i.e. as the classical term, with nohigher powers of $\ln S$ appearing. This supports the conjecture made inhep-th/0204051 that the classical $E-S = a \ln S$ scaling can be interpolatedto weak coupling to reproduce the corresponding operator anomalous dimensionbehaviour in gauge theory.

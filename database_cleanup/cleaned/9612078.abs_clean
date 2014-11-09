@@ -1,0 +1,13 @@
+Paper: hep-th/9612078
+
+Date: 1996-12-07
+
+Title: Affine orbifolds and rational conformal field theory extensions of
+
+W_{1+infinity}Authors: Victor G. Kac and Ivan T. Todorov
+
+Comments: 64 pages, amstex
+
+Journal-ref: Commun.Math.Phys. 190 (1997) 57-111
+
+Chiral orbifold models are defined as gauge field theories with a finitegauge group $\Gamma$. We start with a conformal current algebra A associatedwith a connected compact Lie group G and a negative definite integral invariantbilinear form on its Lie algebra. Any finite group $\Gamma$ of innerautomorphisms or A (in particular, any finite subgroup of G) gives rise to agauge theory with a chiral subalgebra $A^{\Gamma}\subset A$ of localobservables invariant under $\Gamma$. A set of positive energy $A^{\Gamma}$modules is constructed whose characters span, under some assumptions on$\Gamma$, a finite dimensional unitary representation of $SL(2,Z)$. We computetheir asymptotic dimensions (thus singling out the nontrivial orbifold modules)and find explicit formulae for the modular transformations and hence, for thefusion rules.As an application we construct a family of rational conformal field theory(RCFT) extensions of $W_{1+\infty}$ that appear to provide a bridge between twoapproaches to the quantum Hall effect.

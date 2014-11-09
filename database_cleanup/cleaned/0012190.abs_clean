@@ -1,0 +1,13 @@
+Paper: hep-th/0012190
+
+Date: 2000-12-20
+
+Title: Geometry of W-algebras from the affine Lie algebra point of view
+
+Authors: Z. Bajnok, D. Nogradi
+
+Comments: 17 pages, LaTeX, revised 1. and 7. chapters
+
+Journal-ref: J.Phys. A34 (2001) 4811-4830
+
+To classify the classical field theories with W-symmetry one has to classifythe symplectic leaves of the corresponding W-algebra, which are theintersection of the defining constraint and the coadjoint orbit of the affineLie algebra if the W-algebra in question is obtained by reducing a WZNW model.The fields that survive the reduction will obey non-linear Poisson bracket (orcommutator) relations in general. For example the Toda models are well-knowntheories which possess such a non-linear W-symmetry and many features of thesemodels can only be understood if one investigates the reduction procedure. Inthis paper we analyze the SL(n,R) case from which the so-called W_n-algebrascan be obtained. One advantage of the reduction viewpoint is that it gives aconstructive way to classify the symplectic leaves of the W-algebra which wehad done in the n=2 case which will correspond to the coadjoint orbits of theVirasoro algebra and for n=3 which case gives rise to the Zamolodchikovalgebra. Our method in principle is capable of constructing explicitrepresentatives on each leaf. Another attractive feature of this approach isthe fact that the global nature of the W-transformations can be explicitlydescribed. The reduction method also enables one to determine the ``classicalhighest weight (h. w.) states'' which are the stable minima of the energy on aW-leaf. These are important as only to those leaves can a highest weightrepresentation space of the W-algebra be associated which contains a``classical h. w. state''.

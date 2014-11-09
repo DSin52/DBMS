@@ -1,0 +1,13 @@
+Paper: hep-th/9511220
+
+Date: 1995-11-30
+
+Title: Macroscopic $n$-Loop Amplitude for Minimal Models Coupled to
+
+Authors: M. Anazawa and H. Itoyama
+
+Comments: 30 pages, Latex, figures
+
+our results on the resolvents. A better formula for the resolvents has beenput and the section on residual interactions has been expanded to a largeextentJournal-ref: Nucl.Phys. B471 (1996) 334-360
+
+We investigate the structure of the macroscopic $n$-loop amplitude obtainedfrom the two-matrix model at the unitary minimal critical point $(m+1,m)$. Wederive a general formula for the $n$-resolvent correlator at the continuumplanar limit whose inverse Laplace transform provides the amplitude in terms ofthe boundary lengths $\ell_{i}$ and the renormalized cosmological constant $t$.The amplitude is found to contain a term consisting of $\left( \frac{\partial}{\partial t} \right)^{n-3}$ multiplied by the product of modified Besselfunctions summed over their degrees which conform to the fusion rules and thecrossing symmetry. This is found to be supplemented by an increasing number ofother terms with $n$ which represent residual interactions of loops. We revealthe nature of these interactions by explicitly determining them as theconvolution of modified Bessel functions and their derivatives for the case$n=4$ and the case $n=5$. We derive a set of recursion relations which relatethe terms in the $n$-resolvents to those in the $(n-1)$-resolvents.

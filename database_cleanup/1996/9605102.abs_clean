@@ -1,0 +1,13 @@
+Paper: hep-th/9605102
+
+Date: 1996-05-15
+
+Title: An explicit construction of Wakimoto realizations of current algebras
+
+Authors: Jan de Boer, Laszlo Feher
+
+Comments: 13 pages, LaTeX; a typo corrected in (5.5-6), refs and a remark added
+
+Journal-ref: Mod.Phys.Lett. A11 (1996) 1999-2012
+
+It is known from a work of Feigin and Frenkel that a Wakimoto type,generalized free field realization of the current algebra $\widehat{\cal G}_k$can be associated with each parabolic subalgebra ${\cal P}=({\cal G}_0+{\calG}_+)$ of the Lie algebra ${\cal G}$, where in the standard case ${\cal G}_0$is the Cartan and ${\cal P}$ is the Borel subalgebra. In this letter we obtainan explicit formula for the Wakimoto realization in the general case. UsingHamiltonian reduction of the WZNW model, we first derive a Poisson bracketrealization of the ${\cal G}$-valued current in terms of symplectic bosonsbelonging to ${\cal G}_+$ and a current belonging to ${\cal G}_0$. We thenquantize the formula by determining the correct normal ordering. We also showthat the affine-Sugawara stress-energy tensor takes the expected quadratic formin the constituents.

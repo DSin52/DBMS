@@ -1,0 +1,11 @@
+Paper: hep-th/0303218
+
+Date: 2003-03-25
+
+Title: Affine Kac-Moody algebras, CHL strings and the classification of tops
+
+Authors: Vincent Bouchard, Harald Skarke
+
+Comments: 28 pages, 10 figures
+
+Candelas and Font introduced the notion of a `top' as half of a threedimensional reflexive polytope and noticed that Dynkin diagrams of enhancedgauge groups in string theory can be read off from them. We classify all topssatisfying a generalized definition as a lattice polytope with one facetcontaining the origin and the other facets at distance one from the origin.These objects torically encode the local geometry of a degeneration of anelliptic fibration. We give a prescription for assigning an affine, possiblytwisted Kac-Moody algebra to any such top (and more generally to any ellipticfibration structure) in a precise way that involves the lengths of simple rootsand the coefficients of null roots. Tops related to twisted Kac-Moody algebrascan be used to construct string compactifications with reduced rank of thegauge group.

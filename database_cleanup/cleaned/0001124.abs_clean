@@ -1,0 +1,11 @@
+Paper: hep-th/0001124
+
+Date: 2000-01-20
+
+Title: Lorentzian and Euclidean Quantum Gravity - Analytical and Numerical
+
+ResultsAuthors: J. Ambjorn, J. Jurkiewicz, R. Loll
+
+Comments: 69 pages, 16 figures, references added
+
+We review some recent attempts to extract information about the nature ofquantum gravity, with and without matter, by quantum field theoretical methods.More specifically, we work within a covariant lattice approach where theindividual space-time geometries are constructed from fundamental simplicialbuilding blocks, and the path integral over geometries is approximated bysumming over a class of piece-wise linear geometries. This method of``dynamical triangulations'' is very powerful in 2d, where the regularizedtheory can be solved explicitly, and gives us more insights into the quantumnature of 2d space-time than continuum methods are presently able to provide.It also allows us to establish an explicit relation between the Lorentzian- andEuclidean-signature quantum theories. Analogous regularized gravitationalmodels can be set up in higher dimensions. Some analytic tools exist to studytheir state sums, but, unlike in 2d, no complete analytic solutions have yetbeen constructed. However, a great advantage of our approach is the fact thatit is well-suited for numerical simulations. In the second part of this reviewwe describe the relevant Monte Carlo techniques, as well as some of thephysical results that have been obtained from the simulations of Euclideangravity. We also explain why the Lorentzian version of dynamical triangulationsis a promising candidate for a non-perturbative theory of quantum gravity.

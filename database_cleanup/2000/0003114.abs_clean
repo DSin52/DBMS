@@ -1,0 +1,13 @@
+Paper: hep-th/0003114
+
+Date: 2000-03-14
+
+Title: Fedosov Deformation Quantization as a BRST Theory
+
+Authors: M.A. Grigoriev and S.L. Lyakhovich
+
+Comments: Latex2e, 20 pages, minor corrections, references added
+
+GeometryJournal-ref: Commun.Math.Phys. 218 (2001) 437-457
+
+The relationship is established between the Fedosov deformation quantizationof a general symplectic manifold and the BFV-BRST quantization of constraineddynamical systems. The original symplectic manifold $\mathcal M$ is presentedas a second class constrained surface in the fibre bundle ${{\mathcalT}^*_\rho}{\mathcal M}$ which is a certain modification of a usual cotangentbundle equipped with a natural symplectic structure. The second class system isconverted into the first class one by continuation of the constraints into theextended manifold, being a direct sum of ${{\mathcal T}^*_\rho}{\mathcal M}$and the tangent bundle $T {\mathcal M}$. This extended manifold is equippedwith a nontrivial Poisson bracket which naturally involves two basicconnection. The constructed first class constrained theory, being equivalent tothe original symplectic manifold, is quantized through the BFV-BRST procedure.The existence theorem is proven for the quantum BRST charge and the quantumBRST invariant observables. The adjoint action of the quantum BRST charge isidentified with the Abelian Fedosov connection while any observable, beingproven to be a unique BRST invariant continuation for the values defined in theoriginal symplectic manifold, is identified with the Fedosov flat section ofthe Weyl bundle. The Fedosov fibrewise star multiplication is thus recognizedas a conventional product of the quantum BRST invariant observables.

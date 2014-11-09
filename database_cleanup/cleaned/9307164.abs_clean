@@ -1,0 +1,11 @@
+Paper: hep-th/9307164
+
+Date: 1993-07-27
+
+Title: Quantum Symmetry
+
+Authors: Reinhard H\"aring
+
+Comments: 23 pages Institut f\"ur angewandte Mathematik, c/o Lersnerstr. 19,
+
+60322 FrankfurtThe representations of the observable algebra of a low dimensional quantumfield theory form the objects of a braided tensor category. The search forgauge symmetry in the theory amounts to finding an algebra which has the samerepresentation category. In this paper we try to establish that every quantumfield theory satisfying some basic axioms posseses a weak quasi Hopf algebra asgauge symmetry. The first step is to construct a functor from therepresentation category to the category of finite dimensional vector spaces.Given such a functor we can use a generalized reconstruction theorem to findthe symmetry algebra. It is shown how this symmetry algebra is used to build agauge covariant field algebra and we investigate the question why thisgenerality is necessary.

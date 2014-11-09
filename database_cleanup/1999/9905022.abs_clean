@@ -1,0 +1,13 @@
+Paper: hep-th/9905022
+
+Date: 1999-05-04
+
+Title: Prescriptionless light-cone integrals
+
+Authors: Alfredo T. Suzuki and Alexandre G. M. Schmidt
+
+Comments: 6 pages, no figures, Revtex style, reference [2] corrected
+
+Journal-ref: Eur.Phys.J. C12 (2000) 361-365
+
+Perturbative quantum gauge field theory seen within the perspective ofphysical gauge choices such as the light-cone entails the emergence oftroublesome poles of the type $(k\cdot n)^{-\alpha}$ in the Feynman integrals,and these come from the boson field propagator, where $\alpha = 1,2,...$ and$n^{\mu}$ is the external arbitrary four-vector that defines the gauge proper.This becomes an additional hurdle to overcome in the computation of Feynmandiagrams, since any graph containing internal boson lines will inevitablyproduce integrands with denominators bearing the characteristic gauge-fixingfactor. How one deals with them has been the subject of research for overdecades, and several prescriptions have been suggested and tried in the courseof time, with failures and successes.However, a more recent development in this front which applies the negativedimensional technique to compute light-cone Feynman integrals shows that we canaltogether dispense with prescriptions to perform the calculations. Anadditional bonus comes attached to this new technique in that not only itrenders the light-cone prescriptionless, but by the very nature of it, can alsodispense with decomposition formulas or partial fractioning tricks used in thestandard approach to separate pole products of the type $(k\cdotn)^{-\alpha}[(k-p)\cdot n]^{-\beta}$, $(\beta = 1,2,...)$.In this work we demonstrate how all this can be done.

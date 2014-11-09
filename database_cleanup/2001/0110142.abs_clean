@@ -1,0 +1,11 @@
+Paper: hep-th/0110142
+
+Date: 2001-10-16
+
+Title: Higher dimensional formulation of counterterms
+
+Authors: Marika Taylor-Robinson
+
+Comments: 28 pages, LaTeX
+
+It is by now well established that divergences of the on-shell action forasymptotically AdS solutions can be cancelled by adding covariant localboundary counterterms to the action. Here we show that although one can stillrenormalise the action for asymptotically $AdS_p \times S^q$ solutions usinglocal boundary counterterms the counterterm action is not covariant since theconformal boundary is degenerate. Any given counterterm action is defined withrespect to specific coordinate frame and gauge choices.

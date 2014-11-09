@@ -1,0 +1,13 @@
+Paper: hep-th/9502019
+
+Date: 1995-02-03
+
+Title: A Technique for generating Feynman Diagrams
+
+Authors: Sigurd Schelstraete, Henri Verschelde
+
+Comments: 19 pages, LateX, To be published in Z. f. Phys. C
+
+Journal-ref: Z. Phys. C67 (1995) 343
+
+We present a simple technique that allows to generate Feynman diagrams forvector models with interactions of order $2n$ and similar models (Gross-Neveu,Thirring model), using a bootstrap equation that uses only the free field valueof the energy as an input. The method allows to find the diagrams to, inprinciple, arbitrarily high order and applies to both energy and correlationfunctions. It automatically generates the correct symmetry factor (as afunction of the number of components of the field) and the correct sign for anydiagram in the case of fermion loops. We briefly discuss the possibility oftreating QED as a Thirring model with non-local interaction.

@@ -1,0 +1,11 @@
+Paper: hep-th/9608141
+
+Date: 1996-08-21
+
+Title: Propagators in Curved Space
+
+Authors: Frank Antonsen, Karsten Bormann
+
+Comments: standard LaTeX, 34 pages
+
+We demonstrate how to obtain explicitly the propagators for quantum fieldsresiding in curved space-time using the heat kernel for which a newconstruction procedure exists. Propagators are determined for the case ofRindler, Friedman-Robertson-Walker, Schwarzschild and general conformally flatmetrics, both for scalar, Dirac and Yang-Mills fields. The calculations arebased on an improved formula for the heat kernel in a general curved space. Allthe calculations are done in $d=4$ dimensions for concreteness, but are easilygeneralizable to arbitrary $d$. The new method advocated here does not assumethat the fields are massive, nor is it based on an aymptotic expansion assuch.Whenever possible, the results are compared to that of other authors.

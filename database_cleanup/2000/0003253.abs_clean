@@ -1,0 +1,13 @@
+Paper: hep-th/0003253
+
+Date: 2000-03-28
+
+Title: Non-Perturbative Mass Renormalization in Quenched QED from the Worldline
+
+Variational ApproachAuthors: C. Alexandrou (University of Cyprus), R. Rosenfelder (Paul Scherrer
+
+Institute, Switzerland) and A. W. Schreiber (University of Adelaide)Comments: 18 pages, 1 Figure, RevTeX; the manuscript has been substantially
+
+revised and enlarged in order to make it selfcontained; accepted forpublication in Phys. Rev. DJournal-ref: Phys.Rev. D62 (2000) 085009
+
+Following Feynman's successful treatment of the polaron problem we apply thesame variational principle to quenched QED in the worldline formulation. Newfeatures arise from the description of fermions by Grassmann trajectories, thesupersymmetry between bosonic and fermionic variables and the much moresingular structure of a renormalizable gauge theory like QED in 3+1 dimensions.We take as trial action a general retarded quadratic action both for thebosonic and fermionic degrees of freedom and derive the variational equationsfor the corresponding retardation functions. We find a simple analytic,non-perturbative, solution for the anomalous mass dimension gamma_m(alpha) inthe MS scheme. For small couplings we compare our result with recent four-loopperturbative calculations while at large couplings we find that gamma_m(alpha)becomes proportional to (alpha)^(1/2). The anomalous mass dimension shows noobvious sign of the chiral symmetry breaking observed in calculations based onthe use of Dyson-Schwinger equations, however we find that a perturbativeexpansion of gamma_m(alpha) diverges for alpha > 0.7934. Finally, weinvestigate the behaviour of gamma_m(alpha) at large orders in perturbationtheory.

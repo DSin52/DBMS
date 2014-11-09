@@ -1,0 +1,9 @@
+Paper: hep-th/0106221
+
+Date: 2001-06-25
+
+Title: Black Hole Emission in String Theory and the String Phase of Black Holes
+
+Comments: LaTex, 22 pages, Lectures delivered at the Chalonge School, Nato ASI
+
+in the Proceedings, Editors H. J. de Vega, I. Khalatnikov, N. Sanchez.(Kluwer Pub)String theory properly describes black-hole evaporation. The quantum stringemission by Black Holes is computed. The black-hole temperature is the Hawkingtemperature in the semiclassical quantum field theory (QFT) regime and becomesthe intrinsic string temperature, T_s, in the quantum (last stage) stringregime. The QFT-Hawking temperature T_H is upper bounded by the stringtemperature T_S. The black hole emission spectrum is an incomplete gammafunction of (T_H - T_S). For T_H << T_S, it yields the QFT-Hawking emission.For T_H \to T_S, it shows highly massive string states dominate the emissionand undergo a typical string phase transition to a microscopic `minimal' blackhole of mass M_{\min} or radius r_{\min} (inversely proportional to T_S) andstring temperature T_S. The string back reaction effect (selfconsistent blackhole solution of the semiclassical Einstein equations) is computed. Both, theQFT and string black hole regimes are well defined and bounded.The string`minimal' black hole has a life time tau_{min} simeq (k_B c)/(G hbar [T_S]^3).The semiclassical QFT black hole (of mass M and temperature T_H) and the stringblack hole (of mass M_{min} and temperature T_S) are mapped one into another bya `Dual' transform which links classical/QFT and quantum string regimes.

@@ -1,0 +1,11 @@
+Paper: hep-th/0211087
+
+Date: 2002-11-11
+
+Title: Quantum corrections to the mass and central charge of solitons in 1+1
+
+dimensionsAuthors: A. S. Goldhaber, A. Rebhan, P. van Nieuwenhuizen, R. Wimmer
+
+Comments: 25 pages, 4 figures, LATeX using sc3conf.sty. Based on a talk given
+
+minor corrections and additionsWe first discuss how the longstanding confusion in the literature concerningone-loop quantum corrections to 1+1 dimensional solitons has finally beenresolved. Then we use 't Hooft and Veltman's dimensional regularization tocompute the kink mass, and find that chiral domain wall fermions, induced byfermionic zero modes, lead to spontaneous parity violation and an anomalouscontribution to the central charge such that the BPS bound becomes saturated.On the other hand, Siegel's dimensional reduction shifts this anomaly to thecounter terms in the renormalized current multiplet. The superconformal anomalyis located in an evanescent counter term, and imposing supersymmetry, thiscounter term induces the same anomalous contribution to the central charge.local energy density computed in this scheme satisfies the BPS equality (it isequal to the local central charge density). In an appendix we give a verydetailed account of the DHN method to compute soliton masses applied to thesupersymmetric kink.

@@ -1,0 +1,11 @@
+Paper: hep-th/0104086
+
+Date: 2001-04-10
+
+Title: Note On The Extended Non Commutativity of Coordinates
+
+Authors: A. Boulahoual and M.B. Sedra
+
+Comments: 9 pages, Latex, added references
+
+We present in this short note an idea about a possible extension of thestandard noncommutative algebra to the formal differential operators framework.In this sense, we develop an analysis and derive an extended noncommutativealgebra given by $[x_{a}, x_{b}]_{\star} = i(\theta + \chi)_{ab}$ where$\theta_{ab}$ is the standard noncommutative parameter and $\chi_{ab}(x)\equiv\chi^{\mu}_{ab}(x)\partial_{\mu} ={1/2}(x_a \theta^{\mu}_{b} - x_b\theta^{\mu}_{a})\partial_\mu$ is an antisymmetric non-constant vector-fieldshown to play the role of the extended deformation parameter. This idea wasmotivated by the importance of noncommutative geometry framework in the currentsubject of D-brane and matrix theory physics.

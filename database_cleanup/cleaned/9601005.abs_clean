@@ -1,0 +1,11 @@
+Paper: hep-th/9601005
+
+Date: 1996-01-03
+
+Title: An Extension of Distribution Theory Related to Gauge Field Theory
+
+Comments: 20 pages, LaTeX, submitted to Commun.Math.Phys
+
+Journal-ref: Commun.Math.Phys. 184 (1997) 579-596
+
+We show that a considerable part of the theory of (ultra)distributions andhyperfunctions can be extended to more singular generalized functions, startingfrom an angular localizability notion introduced previously. Such an extensionis needed to treat gauge quantum field theories with indefinite metric in ageneric covariant gauge. Prime attention is paid to the generalized functionsdefined on the Gelfand-Shilov spaces $S_\alpha^0$ which gives the widestframework for construction of gauge-like models. We associate a similar testfunction space with every open and every closed cone, show that these spacesare nuclear and obtain the required formulas for their tensor products. Themain results include the generalization of the Paley--Wiener--Schwartz theoremto the case of arbitrary singularity and the derivation of the relevant theoremon holomorphic approximation.

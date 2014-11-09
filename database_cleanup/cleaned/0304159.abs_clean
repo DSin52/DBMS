@@ -1,0 +1,11 @@
+Paper: hep-th/0304159
+
+Date: 2003-04-17
+
+Title: The Renormalization of Non-Commutative Field Theories in the Limit of
+
+Large Non-CommutativityAuthors: C. Becchi, S. Giusto, C. Imbimbo
+
+Comments: 35 pages, 8 figures; typos corrected
+
+We show that renormalized non-commutative scalar field theories do not reduceto their planar sector in the limit of large non-commutativity. This followsfrom the fact that the RG equation of the Wilson-Polchinski type whichdescribes the genus zero sector of non-commutative field theories couplesgeneric planar amplitudes with non-planar amplitudes at exceptional values ofthe external momenta. We prove that the renormalization problem can beconsistently restricted to this set of amplitudes. In the resultingrenormalized theory non-planar divergences are treated as UV divergencesrequiring appropriate non-local counterterms. In 4 dimensions the model turnsout to have one more relevant (non-planar) coupling than its commutativemassive (but not in the massless) case its contribution to planar amplitudesvanishes when the floating cut-off equals the renormalization scale, thiscoupling is needed to make the Wilsonian effective action UV finite at allvalues of the floating cut-off.

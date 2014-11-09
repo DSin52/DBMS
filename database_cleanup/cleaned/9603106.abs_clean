@@ -1,0 +1,13 @@
+Paper: hep-th/9603106
+
+Date: 1996-03-15
+
+Title: Euclidean Approach to the Entropy for a Scalar Field in Rindler-like
+
+Space-TimesAuthors: Sergio Zerbini, Guido Cognola and Luciano Vanzo
+
+Comments: 17 pages, LaTex. A sign error corrected and few comments added
+
+Journal-ref: Phys.Rev. D54 (1996) 2699-2710
+
+The off-shell entropy for a massless scalar field in a D-dimensionalRindler-like space-time is investigated within the conical Euclidean approachin the manifold $C_\be\times\M^N$, $C_\be$ being the 2-dimensional cone, makinguse of the zeta-function regularisation. Due to the presence of conicalsingularities, it is shown that the relation between the zeta-function and theheat kernel is non trivial and, as first pointed out by Cheeger, requires aseparation between small and large eigenvalues of the Laplace operator. As aconsequence, in the massless case, the (naive) non existence of the Mellintransform is by-passed by the Cheeger's analytical continuation of thezeta-function on manifold with conical singularities. Furthermore, thecontinuous spectrum leads to the introduction of smeared traces. In general, itis pointed out that the presence of the divergences may depend on the smearingfunction and they arise in removing the smearing cutoff. With a simple choiceof the smearing function, horizon divergences in the thermodynamical quantitiesare recovered and these are similar to the divergences found by means ofoff-shell methods like the brick wall model, the optical conformaltransformation techniques or the canonical path integral method.

@@ -1,0 +1,11 @@
+Paper: hep-th/0207212
+
+Date: 2002-07-23
+
+Title: Conformal Higher Spin Theory
+
+Authors: A.Y. Segal
+
+Comments: 142 pages
+
+We construct gauge theory of interacting symmetric traceless tensor fields ofall ranks s=0,1,2,3, ... which generalizes Weyl-invariant dilaton gravity tothe higher spin case, in any dimension d>2. The action is given by the trace ofthe projector to the subspace with positive eigenvalues of an arbitraryhermitian differential operator H, the symmetric tensor fields emerge afterexpansion of the latter in power series in derivatives. After decomposition inperturbative series around a conformally flat point H=\Box, the quadratic partof the action breaks up as a sum of free gauge theories of symmetric tracelesstensors of rank s with actions of d-4+2s order in derivatives introduced in 4dcase by Fradkin and Tseytlin and studied at the cubic order level by Fradkinand Linetsky. Higher orders in interaction are well-defined. We discuss indetail global symmetries of the model which give rise to infinite dimensionalconformal higher spin algebras for any d. We stress geometric origin ofconformal higher spin fields as background fields of a quantum point particle,and make the conjecture generalizing this geometry to the system "tensionlessd-1 brane + Fronsdal higher spin massless fields in d+1 dimensions". We proposea candidate on the role of Higgs-like higher spin compensator able tospontaneously break higher spin symmetries. At last, we make the conjecturethat, in even dimensions d, the action of conformal higher spin theory equalsthe logarithmically divergent term of the action of massless higher spin fieldson AdS_{d+1} evaluated on the solutions of Dirichlet-like problem, whereconformal higher spin fields are boundary values of massless higher spin fieldson AdS_{d+1}, the latter conjecture provides information on the full higherspin action in AdS_{d+1}.

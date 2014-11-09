@@ -1,0 +1,13 @@
+Paper: hep-th/9304067
+
+Date: 1993-04-16
+
+Title: Vertex Operators for the BF System and its Spin-Statistics Theorems
+
+Authors: A.P. Balachandran and P. Teotonio-Sobrinho
+
+Comments: Latex, 64 pages, SU-4240-516 (plus 1 uuencoded compressed tar file
+
+with the figures) Figures correctedJournal-ref: Int. J. Mod. Phys. A9 (1994) 1569-1630
+
+Let $B$ and $F=\frac 12F_{\mu \nu}dx^\mu \wedge dx^\nu $ be two forms,$F_{\mu \nu}$ being the field strength of an abelian connection $A$. Thetopological $BF$ system is given by the integral of $B\wedge F$. With "kineticenergy'' terms added for $B$ and $A$, it generates a mass for $A$ therebysuggesting an alternative to the Higgs mechanism, and also gives the Londonequations. The $BF$ action, being the large length and time scale limit of thisaugmented action, is thus of physical interest. In earlier work, it has beenstudied on spatial manifold $\Sigma $ with boundaries $\partial \Sigma $, andthe existence of edge states localised at $\partial \Sigma $ has beenestablished. They are analogous to the conformal family of edge states to befound in a Chern-Simons theory in a disc. Here we introduce charges andvortices (thin flux tubes) as sources in the $BF$ system and show that theyacquire an infinite number of spin excitations due to renormalization, just asa charge coupled to a Chern-Simons potential acquires a conformal family ofspin excitations. For a vortex, these spins are transverse and attached to eachof its points, so that it resembles a ribbon. Vertex operators for the creatinof these sources are constructed and interpreted in terms of a Wilson integralinvolving $A$ and a similar integral involving $B$. The standardspin-statistics theorem is proved for this sources. A new spin-statisticstheorem, showing the equality of the ``interchange'' of two identical vortexloops and $2\pi $ rotation of the transverse spins of a constituent vortex, isestablished. Aharonov-Bohm interactions of charges and vortices are studied.The existence of topologically nontrivial vortex spins is pointed out and theirvertex

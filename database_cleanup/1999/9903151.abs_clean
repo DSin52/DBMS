@@ -1,0 +1,11 @@
+Paper: hep-th/9903151
+
+Date: 1999-03-17
+
+Title: Pade Approximants and Borel Summation for QCD Perturbation Expansions
+
+Authors: Maciej Pindor (Institute of Theoretical Physics, Warsaw University)
+
+Comments: LaTeX
+
+We study the applicability of Pade Approximants (PA) to estimate a "sum" ofasymptotic series of the type appearing in QCD. We indicate that one should notexpect PA to converge for positive values of the coupling constant and proposeto use PA for the Borel transform of the series. If the latter has poles on thepositive semiaxis, the Borel integral does not exist, but we point out that theCauchy pricipal value integral can exist and that it represents one of thepossible "sums" of the original series, the one that is real on the positivesemiaxis. We mention how this method works for Bjorken sum rule, and study indetail its application to series appearing for the running coupling constantfor the Richardson static QCD potential. We also indicate that the same methodshould work if the Borel transform has branchpoints on the positive semiaxisand support this claim by a simple numerical experiment.

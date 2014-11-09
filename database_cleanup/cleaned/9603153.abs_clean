@@ -1,0 +1,9 @@
+Paper: hep-th/9603153
+
+Date: 1996-03-23
+
+Title: Dynamical Simulation of Non-Abelian Cosmic Strings
+
+Comments: 53 pages, 28 figures, uses epsf, phyzzx macros included
+
+We describe a method for simulating the dynamics of an $S_3$ cosmic stringnetwork. We use a lattice Monte Carlo to generate initial conditions for thenetwork, which subsequently is allowed to relax continuously according to asimplified model of string dynamics. The dynamics incorporates some novelfeatures which, to our knowledge, have not been studied in previous numericaltensions, and the possibility that two non-commuting strings may intersect.Simulation of the non-commuting fluxes presents a computational challenge as itrequires a rather complex gauge-fixing procedure. The flux definitions changeas strings change their positions and orientations relative to each other andmust be carefully updated as the network evolves. The method is described herein some detail, with results to be presented elsewhere.

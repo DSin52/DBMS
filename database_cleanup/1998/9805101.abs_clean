@@ -1,0 +1,13 @@
+Paper: hep-th/9805101
+
+Date: 1998-05-17
+
+Title: Boundary Flows in general Coset Theories
+
+Authors: Changrim Ahn (Ewha W. U.), Chaiho Rim (Chonbuk N. U.)
+
+Comments: 22 pages, 3 postscript figure files
+
+Journal-ref: J.Phys. A32 (1999) 2509-2525
+
+In this paper we study the boundary effects for off-critical integrable fieldtheories which have close analogs with integrable lattice models. Our modelsare the $SU(2)_{k}\otimes SU(2)_{l}/SU(2)_{k+l}$ coset conformal field theoriesperturbed by integrable boundary and bulk operators. The boundary interactionsare encoded into the boundary reflection matrix. Using the TBA method, weverify the flows of the conformal BCs by computing the boundary entropies.These flows of the BCs have direct interpretations for the fusion RSOS latticemodels. For super CFTs ($k=2$) we show that these flows are possible only forthe Neveu-Schwarz sector and are consistent with the lattice results. Themodels we considered cover a wide class of integrable models. In particular, weshow how the the impurity spin is screened by electrons for the $k$-channelKondo model by taking $l\to\infty$ limit. We also study the problem using anindependent method based on the boundary roaming TBA. Our numerical results areconsistent with the boundary CFTs and RSOS TBA analysis.

@@ -1,0 +1,13 @@
+Paper: hep-th/9209061
+
+Date: 1992-09-17
+
+Title: Rational Conformal Field Theory and Multi-Wormhole Partition Function in
+
+3-dimensional GravityAuthors: Shun'ya Mizoguchi
+
+Comments: 27pages
+
+Journal-ref: Int.J.Mod.Phys. A8 (1993) 3909-3932
+
+We study the Turaev-Viro invariant as the Euclidean Chern-Simons-Wittengravity partition function with positive cosmological constant. Afterexplaining why it can be identified as the partition function of 3-dimensionalgravity, we show that the initial data of the TV invariant can be constructedfrom the duality data of a certain class of rational conformal field theories,and that, in particular, the original Turaev-Viro's initial data is associatedwith the $A_{k+1}$ modular invariant WZW model. As a corollary we then showthat the partition function $Z(M)$ is bounded from above by $Z((S^2\timesS^1)^{\sharp g}) =(S_{00})^{-2g+2}\sim \Lambda^{-\frac{3g-3}{2}}$, where $g$ isthe smallest genus of handlebodies with which $M$ can be presented by Hegaardsplitting. $Z(M)$ is generically very large near $\Lambda\sim +0$if $M$ isneither $S^3$ nor a lens space, and many-wormholeconfigurations dominate near$\Lambda\sim +0$ in the sense that $Z(M)$ generically tends to diverge fasteras the ``number of wormholes'' $g$ becomes larger.

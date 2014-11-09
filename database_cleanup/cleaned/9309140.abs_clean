@@ -1,0 +1,13 @@
+Paper: hep-th/9309140
+
+Date: 1993-09-27
+
+Title: Kodaira-Spencer Theory of Gravity and Exact Results for Quantum String
+
+AmplitudesAuthors: M. Bershadsky, S. Cecotti, H. Ooguri, C. Vafa
+
+Comments: 178 pages, 20 figures
+
+Journal-ref: Commun.Math.Phys. 165 (1994) 311-428
+
+We develop techniques to compute higher loop string amplitudes for twisted$N=2$ theories with $\hat c=3$ (i.e. the critical case). An importantingredient is the discovery of an anomaly at every genus in decoupling of BRSTtrivial states, captured to all orders by a master anomaly equation. In aparticular realization of the $N=2$ theories, the resulting string field theoryis equivalent to a topological theory in six dimensions, the Kodaira--Spencertheory, which may be viewed as the closed string analog of the Chern--Simontheory. Using the mirror map this leads to computation of the `number' ofholomorphic curves of higher genus curves in Calabi--Yau manifolds. It is shownthat topological amplitudes can also be reinterpreted as computing correctionsto superpotential terms appearing in the effective 4d theory resulting fromcompactification of standard 10d superstrings on the corresponding $N=2$theory. Relations with $c=1$ strings are also pointed out.

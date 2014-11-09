@@ -1,0 +1,11 @@
+Paper: hep-th/0202203
+
+Date: 2002-02-28
+
+Title: New representation for Lagrangians of self-dual nonlinear
+
+electrodynamicsAuthors: E.A. Ivanov, B.M. Zupnik
+
+Comments: Latex file, 11 pages, Based on the talk on the simposium
+
+"Supersymmetries and quantum symmetries", Karpacz, Poland, September 21-25,2001; References and note added, acknowledgements are correctedWe elaborate on a new representation of Lagrangians of 4D nonlinearelectrodynamics including the Born-Infeld theory as a particular case. In thisnew formulation, in parallel with the standard Maxwell field strength$F_{\alpha\beta}, \bar{F}_{\dot\alpha\dot\beta}$, an auxiliary bispinor field$V_{\alpha\beta}, \bar{V}_{\dot\alpha\dot\beta}$ is introduced. The gauge fieldstrength appears only in bilinear terms of the full Lagrangian, while theinteraction Lagrangian $E$ depends on the auxiliary fields, $E = E(V^2, \barV^2)$. The generic nonlinear Lagrangian depending on $F,\bar{F}$ emerges as aresult of eliminating the auxiliary fields. Two types of self-duality inherentin the nonlinear electrodynamics models admit a simple characterization interms of the function $E$. The continuous SO(2) duality symmetry betweennonlinear equations of motion and Bianchi identities amounts to requiring $E$to be a function of the SO(2) invariant quartic combination $V^2\bar V^2$,which explicitly solves the well-known self-duality condition for nonlinearLagrangians. The discrete self-duality (or self-duality under Legendretransformation) amounts to a weaker condition $E(V^2, \bar{V}^2) = E(-V^2,Abelian gauge fields exhibiting U(n) duality. The corresponding interactionLagrangian should be U(n) invariant function of $n$ bispinor auxiliary fields.

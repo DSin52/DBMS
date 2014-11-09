@@ -1,0 +1,13 @@
+Paper: hep-th/0012050
+
+Date: 2000-12-07
+
+Title: D-branes on Singularities
+
+Authors: David Berenstein, Vishnu Jejjala and Robert G. Leigh
+
+Comments: 25 pages, 13 figures, LaTeX
+
+Journal-ref: Phys.Rev. D64 (2001) 046011
+
+In this paper we present simplifying techniques which allow one to computethe quiver diagrams for various D-branes at (non-Abelian) orbifoldsingularities with and without discrete torsion. The main idea behind theconstruction is to take the orbifold of an orbifold. Many interesting discretegroups fit into an exact sequence $N\to G\to G/N$. As such, the orbifold $M/G$is easier to compute as $(M/N)/(G/N)$ and we present graphical rules whichallow fast computation given the $M/N$ quiver.

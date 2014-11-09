@@ -1,0 +1,13 @@
+Paper: hep-th/9610144
+
+Date: 1996-10-18
+
+Title: Finite Temperature Lattice QCD in the Large N Limit
+
+Authors: M. Billo', M. Caselle, A. D'Adda and S. Panzeri
+
+Comments: 66 pages, plain Latex, figures included by epsf
+
+Journal-ref: Int.J.Mod.Phys. A12 (1997) 1783-1846
+
+Our aim is to give a self-contained review of recent advances in theanalytic description of the deconfinement transition and determination of thedeconfinement temperature in lattice QCD at large N. We also include some newresults, as for instance in the comparison of the analytic results withMontecarlo simulations. We first review the general set-up of finitetemperature lattice gauge theories, using asymmetric lattices, and develop aconsistent perturbative expansion in the coupling $\beta_s$ of the space-likeplaquettes. We study in detail the effective models for the Polyakov loopobtained, in the zeroth order approximation in $\beta_s$, both from theWilson action (symmetric lattice) and from the heat kernel action (completelyasymmetric lattice). The distinctive feature of the heat kernel model is itsrelation with two-dimensional QCD on a cylinder; the Wilson model, on theother hand, can be exactly reduced to a twisted one-plaquette model via aprocedure of the Eguchi-Kawai type. In the weak coupling regime both modelscan be related to exactly solvable Kazakov-Migdal matrix models. Theinstability of the weak coupling solution is due in both cases to acondensation of instantons; in the heat kernel case, it is directly relatedto the Douglas-Kazakov transition of QCD2. A detailed analysis of theseresults provides rather accurate predictions of the deconfinementtemperature. In spite of the zeroth order approximation they are in goodagreement with the Montecarlo simulations in 2+1 dimensions, while in 3+1dimensions they only agree with the Montecarlo results away from thecontinuum limit.

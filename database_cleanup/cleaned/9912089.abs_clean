@@ -1,0 +1,13 @@
+Paper: hep-th/9912089
+
+Date: 1999-12-10
+
+Title: Integrable structures in classical off-shell 10D supersymmetric
+
+Yang-Mills theoryAuthors: Jean-Loup Gervais, Henning Samtleben
+
+Comments: 43 pages, 4 figures. Improved version for publication
+
+Solvable and Integrable SystemsJournal-ref: Commun.Math.Phys. 217 (2001) 1-31
+
+The superspace flatness conditions which are equivalent to the fieldequations of supersymmetric Yang-Mills theory in ten dimensions have not beenuseful so far to derive non trivial classical solutions. Recently, modifiedflatness conditions were proposed, which are explicitly integrable(hep-th/9811108), and are based on the breaking of symmetry SO(9,1) ->SO(2,1)xSO(7). In this article, we investigate their physical content. To thisend, group-algebraic methods are developed which allow to derive the set ofphysical fields and their equations of motion from the superfield expansion ofthe supercurl, systematically.A set of integrable superspace constraints is identified which drasticallyreduces the field content of the unconstrained superfield but leaves thespectrum including the original Yang-Mills vector field completely off-shell. Aweaker set of constraints gives rise to additional fields obeying first orderdifferential equations. Geometrically, the SO(7) covariant superspaceconstraints descend from a truncation of Witten's original linear system toparticular one-parameter families of light-like rays.

@@ -1,0 +1,11 @@
+Paper: hep-th/0212330
+
+Date: 2002-12-29
+
+Title: Dimensional Reduction of a Lorentz and CPT-violating
+
+Maxwell-Chern-Simons ModelAuthors: H. Belich, M.M. Ferreira Jr, J.A. Helayel-Neto and M.T.D. Orlando
+
+Comments: 11 pages, 1 table, style revtex, revised version, unitarity section
+
+includedTaking as starting point a Lorentz and CPT non-invariant Chern-Simons-likemodel defined in 1+3 dimensions, we proceed realizing its dimensional reductionto D=1+2. One then obtains a new planar model, composed by theMaxwell-Chern-Simons (MCS) sector, a Klein-Gordon massless scalar field, and acoupling term that mixes the gauge field to the external vector, $v^{\mu}$. Inspite of breaking Lorentz invariance in the particle frame, this model maypreserve the CPT symmetry for a single particular choice of $v^{\mu}$.Analyzing the dispersion relations, one verifies that the reduced modelexhibits stability, but the causality can be jeopardized by some modes. Theunitarity of the gauge sector is assured without any restriction, while thescalar sector is unitary only in the space-like case.

@@ -1,0 +1,13 @@
+Paper: hep-th/9310084
+
+Date: 1993-10-14
+
+Title: Liouville Quantum Mechanics on a Lattice Large from Geometry of Quantum
+
+Lorentz GroupAuthors: M.A.Olshanetsky and V.-B.K.Rogov
+
+Comments: LATEX, 20 pages, no figures, September 1993
+
+Journal-ref: J.Phys. A27 (1994) 4669-4684
+
+We consider the quantum Lobachevsky space ${\bf L}_q^3$, which is defined assubalgebra of the Hopf algebra ${\cal A}_q(SL_2({\bf C}))$. The Iwasawadecomposition of ${\cal A}_q(SL_2({\bf C}))$ introduced by Podles andWoronowicz allows to consider the quantum analog of the horospheric coordinateson ${\bf L}_q^3$. The action of the Casimir element, which belongs to the dualto ${\cal A}_q$ quantum group $U_q(SL_2({\bf C}))$, on some subspace in ${\bfL}_q^3$ in these coordinates leads to a second order difference operator on theinfinite one-dimensional lattice. In the continuos limit $q\rightarrow 1$ it istransformed into the Schr\"{o}dinger Hamiltonian, which describes zero modesinto the Liouville field theory (the Liouville quantum mechanics). We calculatethe spectrum (Brillouin zones) and the eigenfunctions of this operator. Theyare $q$-continuos Hermit polynomials, which are particular case of theMacdonald or Rogers-Askey-Ismail polynomials. The scattering in this problemcorresponds to the scattering of first two level dressed excitations in the$Z_N$ Baxter model in the very peculiar limit when the anisotropy parameter$\ga$ and $N~\rightarrow\infty$, or, equivalently, $(\ga, N)\rightarrow 0$.

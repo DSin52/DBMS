@@ -1,0 +1,13 @@
+Paper: hep-th/9303128
+
+Date: 1993-03-23
+
+Title: Path Integration Via Summation of Perturbation Expansions and
+
+Applications to Totally Reflecting Boundaries, and Potential StepsAuthors: Christian Grosche
+
+Comments: 8 pages, AmSTeX, SISSA/46/93/FM
+
+Journal-ref: Phys.Rev.Lett. 71 (1993) 1-4
+
+The path integral for the propagator is expanded into a perturbation series,which can be exactly summed in the case of $\delta$-function perturbationsgiving a closed expression for the (energy-dependent) Green function. Makingthe strength of the $\delta$-function perturbation infinite repulsive, producesa totally reflecting boundary, hence giving a path integral solution inhalf-spaces in terms of the corresponding Green function. The example of theWood-Saxon potential serves by an appropriate limiting procedure to obtain theGreen function for the step-potential and the finite potential-well in thehalf-space, respectively.

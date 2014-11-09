@@ -1,0 +1,13 @@
+Paper: hep-th/9903134
+
+Date: 1999-03-16
+
+Title: Hidden Relation between Reflection Amplitudes and Thermodynamic Bethe
+
+AnsatzAuthors: Changrim Ahn, Chanju Kim, Chaiho Rim
+
+Comments: 25 pages, 1 ps figure, LaTeX 2e
+
+Journal-ref: Nucl.Phys. B556 (1999) 505-529
+
+In this paper we compute the scaling functions of the effective centralcharges for various quantum integrable models in a deep ultraviolet region$R\to 0$ using two independent methods. One is based on the ``reflectionamplitudes'' of the (super-)Liouville field theory where the scaling functionsare given by the conjugate momentum to the zero-modes. The conjugate momentumis quantized for the sinh-Gordon, the Bullough-Dodd, and the super sinh-Gordonmodels where the quantization conditions depend on the size $R$ of the systemand the reflection amplitudes. The other method is to solve the standardthermodynamic Bethe ansatz (TBA) equations for the integrable models in aperturbative series of $1/(const. - \ln R)$. The constant factor which is notfixed in the lowest order computations can be identified {\it only when} wecompare the higher order corrections with the quantization conditions.Numerical TBA analysis shows a perfect match for the scaling functions obtainedby the first method. Our results show that these two methods are complementaryto each other. While the reflection amplitudes are confirmed by the numericalTBA analysis, the analytic structures of the TBA equations become clear onlywhen the reflection amplitudes are introduced.

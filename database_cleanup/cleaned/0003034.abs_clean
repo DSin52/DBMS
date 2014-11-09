@@ -1,0 +1,11 @@
+Paper: hep-th/0003034
+
+Date: 2000-03-05
+
+Title: Real-normalized Whitham hierarchies and the WDVV equations
+
+Authors: Anton Dzhamay
+
+Comments: 24 pages, LaTeX
+
+In this paper we present a construction of a new class of explicit solutionsto the WDVV (or associativity) equations. Our construction is based on arelationship between the WDVV equations and Whitham (or modulation) equations.Whitham equations appear in the perturbation theory of exact algebro-geometricsolutions of soliton equations and are defined on the moduli space of algebraiccurves with some extra algebro-geometric data. It was first observed byKrichever that for curves of genus zero the tau-function of a ``universal''Whitham hierarchy gives a solution to the WDVV equations. This construction waslater extended by Dubrovin and Krichever to algebraic curves of higher genus.Such extension depends on the choice of a normalization for the correspondingWhitham differentials. Traditionally only complex normalization (or thenormalization w.r.t. a-cycles) was considered. In this paper we generalize theabove construction to the real-normalized case.

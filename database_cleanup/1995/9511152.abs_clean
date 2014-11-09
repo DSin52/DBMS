@@ -1,0 +1,13 @@
+Paper: hep-th/9511152
+
+Date: 1995-11-22
+
+Title: On Semi-Periods
+
+Authors: A.C. Avram(1), E. Derrick(2), D. Jancic(1) ((1) U. Texas at Austin,
+
+(2) Humboldt Uni. zu Berlin)Comments: 18 pages, plain TeX. Revised derivation of $\Delta^*$ system of
+
+equations; version to appear in Nuclear Physics BJournal-ref: Nucl. Phys. B471 (1996) 293
+
+The periods of the three-form on a Calabi-Yau manifold are found as solutionsof the Picard-Fuchs equations; however, the toric varietal method leads to ageneralized hypergeometric system of equations which has more solutions thanjust the periods. This same extended set of equations can be derived fromsymmetry considerations. Semi-periods are solutions of this extended system.They are obtained by integration of the three-form over chains; these chainscan be used to construct cycles which, when integrated over, give periods. Insimple examples we are able to obtain the complete set of solutions for theextended system. We also conjecture that a certain modification of the methodwill generate the full space of solutions in general.

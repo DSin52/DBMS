@@ -1,0 +1,13 @@
+Paper: hep-th/9510133
+
+Date: 1995-10-18
+
+Title: String Propagator
+
+Authors: S.Ansoldi, A.Aurilia, E.Spallucci
+
+Comments: 15 pages, no figures, ReVTeX 3.0
+
+Journal-ref: Phys.Rev. D53 (1996) 870-878
+
+The string quantum kernel is normally written as a functional sum over thestring coordinates and the world--sheet metrics. As an alternative to thisquantum field--inspired approach, we study the closed bosonic stringpropagation amplitude in the functional space of loop configurations. Thisfunctional theory is based entirely on the Jacobi variational formulation ofquantum mechanics, {\it without the use of a lattice approximation}. Thecorresponding Feynman path integral is weighed by a string action which is a{\it reparametrization invariant} version of the Schild action. We show thatthis path integral formulation is equivalent to a functional ``Schrodinger''equation defined in loop--space. Finally, for a free string, we show that thepath integral and the functional wave equation are {\it exactly } solvable.

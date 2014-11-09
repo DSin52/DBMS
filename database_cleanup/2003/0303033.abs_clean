@@ -1,0 +1,11 @@
+Paper: hep-th/0303033
+
+Date: 2003-03-04
+
+Title: Solving matrix models using holomorphy
+
+Authors: David Berenstein
+
+Comments: 38 pages, JHEP style, 1 figure
+
+We investigate the relationship between supersymmetric gauge theories withmoduli spaces and matrix models. Particular attention is given to situationswhere the moduli space gets quantum corrected. These corrections are controlledby holomorphy. It is argued that these quantum deformations give rise tonon-trivial relations for generalized resolvents that must hold in theassociated matrix model. These relations allow to solve a sector of theassociated matrix model in a similar way to a one-matrix model, by studying acurve that encodes the generalized resolvents. At the level of loop equationsfor the matrix model, the situations with a moduli space can sometimes beconsidered as a degeneration of an infinite set of linear equations, and thequantum moduli space encodes the consistency conditions for these equations tohave a solution.

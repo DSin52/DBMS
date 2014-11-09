@@ -1,0 +1,13 @@
+Paper: hep-th/9409107
+
+Date: 1994-09-19
+
+Title: k-Anomalies and Space-Time Supersymmetry in the Green-Schwarz Heterotic
+
+SuperstringAuthors: A.Candiello, K.Lechner and M.Tonin
+
+Comments: 50 pages, latex (uses equations.sty, feynman.tex and a4.sty),
+
+DFPD/94/TH/43Journal-ref: Nucl. Phys. B438 (1995) 67-108
+
+The computation of $\kappa$-anomalies in the Green-Schwarz heteroticsuperstring sigma-model and the corresponding Wess-Zumino consistency conditionconstitute a powerful alternative approach for the derivation of manifestlysupersymmetric string effective actions. With respect to the beta-functionapproach this technique presents the advantage that a result which is obtainedwith the computation of beta-functions at $n$ loops can be obtained through thecalculation of $\kappa$-anomalies at \hbox{$n-1$} loops. In this paper wederive by a direct one-loop perturbative computation the $\kappa$-anomalyassociated to the Yang-Mills Chern-Simons threeform and, for the first time,the one associated to the Lorentz Chern-Simons threeform. Contrary to what isoften stated in the literature we show that the Lorentz $\kappa$-anomaly getscontributions from the integration over both the fermionic {\it and\/} bosonicdegrees of freedom of the string. A careful analysis of the absolutecoefficients of all these anomalies reveals that they can be absorbed bysetting $dH={\alpha'\over4}(\trace F^2-\trace R^2)$, where $\alpha'$ is thestring tension, the expected result. We show that this relation ensures alsothe absence of gauge and Lorentz anomalies in the sigma-model effective action.We evidenciate the presence of infrared divergences.

@@ -1,0 +1,11 @@
+Paper: hep-th/9809069
+
+Date: 1998-09-10
+
+Title: Renormalization of the Electroweak Standard Model
+
+Authors: Elisabeth Kraus (Univ. Bonn), Stefan Groot Nibbelink (NIKHEF)
+
+Comments: Lectures given at the Saalburg Summer School 1997, 73 pages, LaTeX2e
+
+These lecture notes give an introduction to the algebraic renormalization ofthe Standard Model. We start with the construction of the tree approximationand give the classical action and its defining symmetries in functional form.These are the Slavnov-Taylor identity, Ward identities of rigid symmetry andthe abelian local Ward identity. The abelian Ward identity ensures coupling ofthe electromagnetic current in higher orders of perturbation theory, and is thefunctional form of the Gell-Mann-Nishijima relation. In the second part of thelectures we present in simple examples the basic properties of renormalizedprinciple. Together with an algebraic characterization of the defining symmetrytransformations they are the ingredients for a scheme independent uniqueconstruction of Green's functions to all orders of perturbation theory.

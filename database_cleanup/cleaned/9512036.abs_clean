@@ -1,0 +1,13 @@
+Paper: hep-th/9512036
+
+Date: 1995-12-06
+
+Title: Weak Dirac bracket construction and the superparticle covariant
+
+quantization problemAuthors: A.A. Deriglazov, A.V. Galajinsky, and S.L. Lyakhovich
+
+Comments: 21 pages, LaTeX
+
+Journal-ref: Nucl.Phys. B473 (1996) 245-266
+
+The general procedure of constructing a consistent covariant Dirac-typebracket for models with mixed first and second class constraints is presented.The proposed scheme essentially relies upon explicit separation of the initialconstraints into infinitely reducible first and second class ones (by makinguse of some appropriately constructed covariant projectors). Reducibility ofthe second class constraints involved manifests itself in weakening someproperties of the bracket as compared to the standard Dirac one. In particular,a commutation of any quantity with the second class constraints and the Jacobiidentity take place on the second class constraints surface only. The developedprocedure is realized for N=1 Brink--Schwarz superparticle in arbitrarydimension and for N=1, D=9 massive superparticle with Wess--Zumino term. Apossibility to apply the bracket for quantizing the superparticles within theframework of the recent unified algebra approach by Batalin and Tyutin [20--22]is examined. In particular, it is shown that for D=9 massive superparticle itis impossible to construct Dirac-type bracket possessing (strong) Jacobiidentity in a full phase space.

@@ -1,0 +1,11 @@
+Paper: hep-th/9811257
+
+Date: 1998-12-01
+
+Title: General Scalar Exchange in AdS_d+1
+
+Comments: 29 pages, 1 figure, using Plain TeX and BoxedEPS macros; email to
+
+dzf@math.mit.eduJournal-ref: Nucl.Phys. B550 (1999) 261-288
+
+The scalar field exchange diagram for the correlation function of four scalaroperators is evaluated in anti-de Sitter space, $AdS_{d+1}$. The conformaldimensions $\Delta_i$, $i=1,...,4$ of the scalar operators and the dimension$\Delta$ of the exchanged field are arbitrary, constrained only to obey theunitarity bound. Techniques similar to those developed earlier for gauge bosonexchange are used, but results are generally more complicated. However, forinteger $\Delta_i, \Delta$, the amplitude can be presented as a multiplederivative of a simple universal function. Results simplify if furtherconditions hold, such as the inequalities, $\Delta< \Delta_1+\Delta_3$ or$\Delta<\Delta_2+\Delta_4$. These conditions are satisfied, with $<$ replacedby $\le$, in Type IIB supergravity on $AdS_5\times S_5$ because of selectionrules from SO(6) symmetry. A new form of interaction is suggested for themarginal case of the inequalities. The short distance asymptotics of theamplitudes are studied. In the direct channel the leading singular term agreeswith the double operator product expansion. Logarithmic singularities occur atsub-leading order in the direct channel but at leading order in the crossedchannel. When the inequalities above are violated, there are also $(\log)^2$singularities in the direct channel.

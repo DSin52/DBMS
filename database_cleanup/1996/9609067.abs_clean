@@ -1,0 +1,13 @@
+Paper: hep-th/9609067
+
+Date: 1996-09-09
+
+Title: Nonperturbative renormalization group in a light-front three-dimensional
+
+real scalar modelAuthors: Takanori Sugihara (Kyushu university) and Masanobu Yahiro (National
+
+university of fisheries)Comments: 23 pages, LaTeX, 6 Postscript figures, uses revTeX and epsbox.sty. A
+
+slight revision of statements made, some references added, typos correctedJournal-ref: Phys.Rev. D55 (1997) 2218-2226
+
+The three-dimensional real scalar model, in which the $Z_2$ symmetryspontaneously breaks, is renormalized in a nonperturbative manner based on theTamm-Dancoff truncation of the Fock space. A critical line is calculated bydiagonalizing the Hamiltonian regularized with basis functions. The marginal($\phi^6$) coupling dependence of the critical line is weak. In the brokenphase the canonical Hamiltonian is tachyonic, so the field is shifted as$\phi(x)\to\varphi(x)+v$. The shifted value $v$ is determined as a function ofrunning mass and coupling so that the mass of the ground state vanishes.

@@ -1,0 +1,13 @@
+Paper: hep-th/0005096
+
+Date: 2000-05-10
+
+Title: Three-Manifold Invariants from Chern-Simons Field Theory with Arbitrary
+
+Semi-Simple Gauge GroupsAuthors: Romesh K. Kaul and P. Ramadevi
+
+Comments: 24 pages Latex file, 26 eps files, included generalisations for
+
+arbitrary semi-simple group, corrected typosJournal-ref: Commun.Math.Phys. 217 (2001) 295-314
+
+Invariants for framed links in $S^3$ obtained from Chern-Simons gauge fieldtheory based on an arbitrary gauge group (semi-simple) have been used toconstruct a three-manifold invariant. This is a generalization of a similarconstruction developed earlier for SU(2) Chern-Simons theory. The procedureexploits a theorem of Lickorish and Wallace and also those of Kirby, Fenn andRourke which relate three-manifolds to surgeries on framed unoriented links.The invariant is an appropriate linear combination of framed link invariantswhich does not change under Kirby calculus. This combination does not see therelative orientation of the component knots. The invariant is related to thepartition function of Chern-Simons theory. This thus provides an efficientmethod of evaluating the partition function for these field theories. As someexamples, explicit computations of these manifold invariants for a fewthree-manifolds have been done.

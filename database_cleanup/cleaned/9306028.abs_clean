@@ -1,0 +1,13 @@
+Paper: hep-th/9306028
+
+Date: 1993-06-04
+
+Title: Universal Properties of Self-Avoiding Walks from Two-Dimensional Field
+
+TheoryAuthors: John Cardy and G. Mussardo
+
+Comments: 48 pages, UCSBTH-93-12, ISAS-93-75
+
+Journal-ref: Nucl. Phys. B410 (1993) 451
+
+We use the recently conjectured exact $S$-matrix of the massive ${\rm O}(n)$model to derive its form factors and ground state energy. This information isthen used in the limit $n\to0$ to obtain quantitative results for variousuniversal properties of self-avoiding chains and loops. In particular, we givethe first theoretical prediction of the amplitude ratio $C/D$ which relates themean square end-to-end distance of chains to the mean square radius of gyrationof closed loops. This agrees with the results from lattice enumeration studiesto within their errors, and gives strong support for the various assumptionswhich enter into the field theoretic derivation. In addition, we obtain resultsfor the scaling function of the structure factor of long loops, and for variousamplitude ratios measuring the shape of self-avoiding chains. These quantitiesare all related to moments of correlation functions which are evaluated as asum over $m$-particle intermediate states in the corresponding field theory. Weshow that in almost all cases, the restriction to $m\leq2$ gives results whichare accurate to at least one part in $10^3$. This remarkable fact is traced toa softening of the $m>2$ branch cuts relative to their behaviour based on phasespace arguments alone, a result which follows from the threshold behaviour ofthe two-body $S$-matrix, $S(0)=-1$. Since this is a general property ofinteracting 2d field theories, it suggests that similar approximations may wellhold for other models. However, we also study the moments of the area ofself-avoiding loops,

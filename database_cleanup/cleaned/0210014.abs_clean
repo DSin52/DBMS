@@ -1,0 +1,13 @@
+Paper: hep-th/0210014
+
+Date: 2002-10-02
+
+Title: Orientation matters for NIMreps
+
+Authors: N. Sousa and A.N. Schellekens
+
+Comments: 34 pages, plain TeX + phyzzx; typos corrected,a few clarifications
+
+and references addedJournal-ref: Nucl.Phys. B653 (2003) 339-368
+
+The problem of finding boundary states in CFT, often rephrased in terms of"NIMreps" of the fusion algebra, has a natural extension to CFT onnon-orientable surfaces. This provides extra information that turns out to bequite useful to give the proper interpretation to a NIMrep. We illustrate thiswith several examples. This includes a rather detailed discussion of theinteresting case of the simple current extension of A_2 level 9, which isalready known to have a rich structure. This structure can be disentangledcompletely using orientation information. In particular we find here and inother cases examples of diagonal modular invariants that do not admit a NIMrep,suggesting that there does not exist a corresponding CFT. We obtain thecomplete set of NIMreps (plus Moebius and Klein bottle coefficients) for manyexceptional modular invariants of WZW models, and find an explanation for theoccurrence of more than one NIMrep in certain cases. We also (re)consider theunderlying formalism, emphasizing the distinction between oriented andunoriented string annulus amplitudes, and the origin of orientation-dependentdegeneracy matrices in the latter.

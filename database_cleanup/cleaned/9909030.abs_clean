@@ -1,0 +1,13 @@
+Paper: hep-th/9909030
+
+Date: 1999-09-06
+
+Title: The geometry of WZW branes
+
+Authors: G. Felder, J. Fr\"ohlich, J. Fuchs, C. Schweigert
+
+Comments: 29 pages, LaTeX2e; Reference to [9] clarified, where the relation
+
+between boundary structure constants and fusing matrices has appearedindependentlyJournal-ref: J.Geom.Phys. 34 (2000) 162-190
+
+The structures in target space geometry that correspond to conformallyinvariant boundary conditions in WZW theories are determined both by studyingthe scattering of closed string states and by investigating the algebra of openstring vertex operators. In the limit of large level, we find branes whoseworld volume is a regular conjugacy class or, in the case of symmetry breakingboundary conditions, a `twined' version thereof. In particular, in this limitone recovers the commutative algebra of functions over the brane world volume,and open strings connecting different branes disappear. At finite level, thebranes get smeared out, yet their approximate localization at (twined)conjugacy classes can be detected unambiguously.As a by-product, it is demonstrated how the pentagon identity and tetrahedralsymmetry imply that in any rational conformal field theory the structureconstants of the algebra of boundary operators coincide with specific entriesof fusing matrices.

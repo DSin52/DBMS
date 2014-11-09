@@ -1,0 +1,13 @@
+Paper: hep-th/9803184
+
+Date: 1998-03-23
+
+Title: Regularization schemes and the multiplicative anomaly
+
+Authors: T.S.Evans
+
+Comments: 11 pages, LaTeX2e, major revision 15th December 1998 with focus now
+
+on renormalisation scales. Appendix and a few minor comments included whichare not in Phys.Lett.B. published versionJournal-ref: Phys.Lett. B457 (1999) 127-132
+
+Elizalde, Vanzo, and Zerbini have shown that the effective action of two freeEuclidean scalar fields in flat space contains a `multiplicative anomaly' whenzeta-function regularization is used. This is related to the Wodzicki residue.I show that there is no anomaly when using a wide range of other regularizationschemes and further that this anomaly can be removed by an unusual choice ofrenormalisation scales. I define new types of anomalies and show that they havesimilar properties. Thus multiplicative anomalies encode no novel physics. Theymerely illustrate some dangerous aspects of zeta-function and Schwinger propertime regularization schemes.

@@ -1,0 +1,13 @@
+Paper: hep-th/0009243
+
+Date: 2000-09-29
+
+Title: BFFT quantization and dynamical solutions of a fluid field theory
+
+Authors: C. P. Natividade and H. Boschi-Filho
+
+Comments: 7 RevTex pages, no figure
+
+Journal-ref: Phys.Rev. D62 (2000) 025016
+
+We study a field theory formulation of a fluid mechanical model. We implementthe Hamiltonian formalism by using the BFFT conjecture in order to build agauge invariant fluid field theory. We also generalize previous known classicaldynamical field solutions for the fluid model.

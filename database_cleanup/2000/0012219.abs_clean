@@ -1,0 +1,13 @@
+Paper: hep-th/0012219
+
+Date: 2000-12-21
+
+Title: General Two-Dimensional Supergravity from Poisson Superalgebras
+
+Authors: M. Ertl, W. Kummer, T. Strobl
+
+Comments: 70 pages, LaTeX, AMSmath, BibTeX
+
+Journal-ref: JHEP 0101 (2001) 042
+
+We provide the geometric actions for most general N=1 supergravity in twospacetime dimensions. Our construction implies an extension to arbitrary N.This provides a supersymmetrization of any generalized dilaton gravity theoryor of any theory with an action being an (essentially) arbitrary function ofcurvature and torsion.may be characterized by a generically nonlinear Poisson bracket on athree-dimensional target space. In analogy to a given ordinary Lie algebra, wederive all possible N=1 extensions of any of the given Poisson (or W-)algebras. Using the concept of graded Poisson Sigma Models, any extension ofthe algebra yields a possible supergravity extension of the original theory,local Lorentz and super-diffeomorphism invariance follow by construction. Ourprocedure automatically restricts the fermionic extension to the minimal one;thus local supersymmetry is realized on-shell. By avoiding a superfieldapproach we are also able to circumvent in this way the introduction ofconstraints and their solution. For many well-known dilaton theories differentsupergravity extensions are derived. In generic cases their field equations aresolved explicitly.

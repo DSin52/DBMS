@@ -1,0 +1,11 @@
+Paper: hep-th/0003276
+
+Date: 2000-03-30
+
+Title: Difference equations for correlation functions of Belavin's
+
+$Z_n$-symmetric model with boundary reflectionComments: 31pages, LaTex2e, A few references are added
+
+Journal-ref: J.Phys. A33 (2000) 8275
+
+Belavin's $\mathbb{Z}_n$-symmetric elliptic model with boundary reflection isconsidered on the basis of the boundary CTM bootstrap. We find non-diagonal$K$-matrices for $n>2$ that satisfy the reflection equation (boundaryYang--Baxter equation), and also find non-diagonal Boltzmann weights for the$A^{(1)}_{n-1}$-face model even for $n\geqq 2$. We derive difference equationsof the quantum Knizhnik-Zamolodchikov type for correlation functions of theboundary model. The boundary spontaneous polarization is obtained by solvingthe simplest difference equations. The resulting quantity is the square of thespontaneous polarization for the bulk $\mathbb{Z}_n$-symmetric model, up to aphase factor.

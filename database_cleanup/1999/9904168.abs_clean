@@ -1,0 +1,11 @@
+Paper: hep-th/9904168
+
+Date: 1999-04-25
+
+Title: Quantum observables, Lie algebra homology and TQFT
+
+Comments: 10 pages
+
+Journal-ref: Lett.Math.Phys. 49 (1999) 115-122
+
+Let us consider a Lie (super)algebra $G$ spanned by $T_{\alpha}$ where$T_{\alpha}$ are quantum observables in BV-formalism. It is proved that forevery tensor $c^{\alpha_1...\alpha_k}$ that determines a homology class of theLie algebra $G$ the expression $c^{\alpha_1...\alpha_k}T_{\alpha_1}...T_{\alpha_k}$ is again a quantum observables. This theorem is used toconstruct quantum observables in BV sigma-model. We apply this construction toexplain Kontsevich's results about the relation between homology of the Liealgebra of Hamiltonian vector fields and topological invariants of manifolds.

@@ -1,0 +1,11 @@
+Paper: hep-th/9509119
+
+Date: 1995-09-21
+
+Title: The W_3 algebra
+
+Comments: 144 pages; 23 uuencoded ps figures; uses macros tables.tex, epsf and
+
+amssym.def (version 2.1 or later)Journal-ref: Lect.Notes Phys. M42 (1996) 1-204
+
+The noncritical $D=4$ $W_3$ string is a model of $W_3$ gravity coupled to twofree scalar fields. In this paper we discuss its BRST quantization in directanalogy with that of the $D=2$ (Virasoro) string. In particular, we calculatethe physical spectrum as a problem in BRST cohomology. The correspondingoperator cohomology forms a BV-algebra. We model this BV-algebra on that of thepolyderivations of a commutative ring on six variables with a quadraticconstraint, or, equivalently, on the BV-algebra of (polynomial) polyvectorfields on the base affine space of $SL(3,C)$. In this paper we attempt topresent a complete summary of the progress made in these studies. [...]

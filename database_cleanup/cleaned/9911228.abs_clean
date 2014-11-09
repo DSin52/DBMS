@@ -1,0 +1,13 @@
+Paper: hep-th/9911228
+
+Date: 1999-11-29
+
+Title: 4-dimensional BF Gravity on the Lattice
+
+Authors: Noboru Kawamoto, Noriaki Sato, Yukiya Uchida
+
+Comments: LaTeX2e, 45 pages, 55 eps figures
+
+Journal-ref: Nucl.Phys. B574 (2000) 809-848
+
+We propose the lattice version of $BF$ gravity action whose partitionfunction leads to the product of a particular form of 15-$j$ symbol whichcorresponds to a 4-simplex. The action is explicitly constructed by lattice $B$field defined on triangles and link variables defined on dual links and isshown to be invariant under lattice local Lorentz transformation andKalb-Ramond gauge transformation. We explicitly show that the partitionfunction is Pachner move invariant and thus topological. The action includesthe vanishing holonomy constraint which can be interpreted as a gauge fixingcondition. This formulation of lattice $BF$ theory can be generalized intoarbitrary dimensions.

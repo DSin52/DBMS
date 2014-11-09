@@ -1,0 +1,11 @@
+Paper: hep-th/9502157
+
+Date: 1995-02-28
+
+Title: A Systematic Extended Iterative Solution for QCD
+
+Comments: 48 pages (figures included). Scope of replacement
+
+technical defect; no changes in contentJournal-ref: Z.Phys. A353 (1996) 423-445
+
+An outline is given of an extended perturbative solution of Euclidean QCDwhich systematically accounts for a class of nonperturbative effects, whileallowing renormalization by the perturbative counterterms. Proper verticesGamma are approximated by a double sequence Gamma[r,p], with r the degree ofrational approximation w.r.t. the QCD mass scale Lambda, nonanalytic in thecoupling g, and p the order of perturbative corrections in g-squared,calculated from Gamma[r,0] - rather than from the perturbative Feynman rulesGamma(0)(pert) - as a starting point. The mechanism allowing thenonperturbative terms to reproduce themselves in the Dyson-Schwinger equationspreserves perturbative renormalizability and is tied to the divergencestructure of the theory. As a result, it restricts the self-consistency problemfor the Gamma[r,0] rigorously - i.e. without decoupling approximations - tothe superficially divergent vertices. An interesting aspect of the scheme isthat rational-function sequences for the propagators allow subsequencesdescribing short-lived excitations. The method is calculational, in that itallows known techniques of loop computation to be used while dealing withintegrands of truly nonperturbative content.

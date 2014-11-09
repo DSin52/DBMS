@@ -1,0 +1,13 @@
+Paper: hep-th/9612047
+
+Date: 1996-12-04
+
+Title: S-matrix elements for gauge theories with and without implemented
+
+constraintsAuthors: Kurt Haller
+
+Comments: 8 pages. Invited contribution to Foundation of Physics for an issue
+
+honoring Prof. Lawrence Horwitz on his 65th BirthdayJournal-ref: Found.Phys. 27 (1997) 305-313
+
+We derive an expression for the relation between two scattering transitionamplitudes which reflect the same dynamics, but which differ in the descriptionof their initial and final state vectors. In one version, the incident andscattered states are elements of a perturbative Fock space, and solve theeigenvalue problem for the `free' part of the Hamiltonian --- the part thatremains after the interactions between particle excitations have been `switchedoff'. Alternatively, the incident and scattered states may be coherent statesthat are transforms of these Fock states. In earlier work, we reported on thescattering amplitudes for QED, in which a unitary transformation relatesperturbative and non-perturbative sets of incident and scattered states. Inthis work, we generalize this earlier result to the case of transformationsthat are not necessarily unitary and that may not have unique inverses. Wediscuss the implication of this relationship for Abelian and non-Abelian gaugetheories in which the `transformed', non-perturbative states implementconstraints, such as Gauss's law.

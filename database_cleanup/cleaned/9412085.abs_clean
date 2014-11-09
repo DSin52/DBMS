@@ -1,0 +1,9 @@
+Paper: hep-th/9412085
+
+Date: 1994-12-09
+
+Title: Reconstruction of Hidden Symmetries
+
+Comments: 42 pages, amslatex, figures generated with bezier.sty, replaced to
+
+facilitate mailingRepresentations of a group $G$ in vector spaces over a field $K$ form acategory. One can reconstruct the given group $G$ from its representations tovector spaces as the full group of monoidal automorphisms of the underlyingfunctor. This is a special example of Tannaka-Krein theory. This theory wasused in recent years to reconstruct quantum groups (quasitriangular Hopfalgebras) in the study of algebraic quantum field theory and otherapplications.We show that a similar study of representations in spaces with additionalstructure (super vector spaces, graded vector spaces, comodules, braidedmonoidal categories) produces additional symmetries, called ``hiddensymmetries''. More generally, reconstructed quantum groups tend to decomposeinto a smash product of the given quantum group and a quantum group of``hidden'' symmetries of the base category.

@@ -1,0 +1,11 @@
+Paper: hep-th/9302005
+
+Date: 1993-02-01
+
+Title: Lagrangian and Hamiltonian Formalism on a Quantum Plane
+
+Authors: M. Lukin, A. Stern and I. Yakushin
+
+Journal-ref: J.Phys. A26 (1993) 5115-5132
+
+We examine the problem of defining Lagrangian and Hamiltonian mechanics for aparticle moving on a quantum plane $Q_{q,p}$. For Lagrangian mechanics, wefirst define a tangent quantum plane $TQ_{q,p}$ spanned by noncommutingparticle coordinates and velocities. Using techniques similar to those of Wessand Zumino, we construct two different differential calculi on $TQ_{q,p}$.These two differential calculi can in principle give rise to two differentparticle dynamics, starting from a single Lagrangian. For Hamiltonianmechanics, we define a phase space $T^*Q_{q,p}$ spanned by noncommutingparticle coordinates and momenta. The commutation relations for the momenta canbe determined only after knowing their functional dependence on coordinates andvelocities.Thus these commutation relations, as well as the differential calculus on$T^*Q_{q,p}$, depend on the initial choice of Lagrangian. We obtain thedeformed Hamilton's equations of motion and the deformed Poisson brackets, andtheir definitions also depend on our initial choice of Lagrangian. Weillustrate these ideas for two sample Lagrangians. The first system we examinecorresponds to that of a nonrelativistic particle in a scalar potential. Theother Lagrangian we consider is first order in time derivatives

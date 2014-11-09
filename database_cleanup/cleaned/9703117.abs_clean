@@ -1,0 +1,9 @@
+Paper: hep-th/9703117
+
+Date: 1997-03-17
+
+Title: Three dimensional strings. I. Classical theory
+
+Comments: 15 pages, LaTeX (elsart macros), I drop a conjecture about the
+
+quantization of the model that now seems unwarranted. This does not alter theresults of the paper. A few misprints are also correctedI consider a three-dimensional string theory whose action, besides thestandard area term, contains one of the form $\int_{\Sigma}\epsilon_{\mu\nu\sigma} X^{\mu} d X^{\nu} \wedge d X^{\sigma}$. In the case ofclosed strings this extra term has a simple geometrical interpretation as thevolume enclosed by the surface. The associated variational problem yields assolutions constant mean curvature surfaces. One may then show the equivalenceof this equation of motion to that of an SU(2) principal chiral model coupledto gravity. It is also possible by means of the Kemmotsu representationtheorem, restricted to constant curvature surfaces, to map the solution spaceof the string model into the one of the $CP^1$ nonlinear sigma model. I alsoshow how a description of the Gauss map of the surface in terms of SU(2)spinors allows for yet a different description of this result by means of aGross-Neveu spinorial model coupled to 2-D gravity. The standardthree-dimensional string equations can also be recovered by setting thecurrent-current coupling to zero.

@@ -1,0 +1,11 @@
+Paper: hep-th/0102136
+
+Date: 2001-02-20
+
+Title: Product of Boundary Distributions
+
+Authors: K. Bering (Rockefeller U)
+
+Comments: 24 pages, LaTeX
+
+1) We identify new parameter branches for the ultra-local boundary Poissonbracket in d spatial dimension with a (d-1)-dimensional spatial boundary. Thereexist 2^{r(r-1)/2} r-dimensional parameter branches for each d-box, r-row Youngtableau. The already known branch (hep-th/9912017) corresponds to a vertical1-column, d-box Young tableau. 2) We consider a local distribution productamong the so-called boundary distributions. The product is required to respectthe associativity and the Leibnitz rule. We show that the consistencyrequirements on this product correspond to the Jacobi identity conditions forthe boundary Poisson bracket. In other words, the restrictions on forming aboundary Poisson bracket can be related to the more fundamental distributionproduct construction. 3) The definition of the higher functional derivatives ismade independent of the choice of integral kernel representative for afunctional.

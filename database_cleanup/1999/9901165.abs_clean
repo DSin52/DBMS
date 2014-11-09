@@ -1,0 +1,13 @@
+Paper: hep-th/9901165
+
+Date: 1999-01-30
+
+Title: Global Path Integral Quantization of Yang-Mills Theory
+
+Authors: Helmuth Huffel and Gerald Kelnhofer
+
+Comments: 8 pages, Latex, extended version
+
+Journal-ref: Phys.Lett. B472 (2000) 101-104
+
+Based on a generalization of the stochastic quantization scheme recently amodified Faddeev-Popov path integral density for the quantization of Yang-Millstheory was derived, the modification consisting in the presence of specificfinite contributions of the pure gauge degrees of freedom. Due to the Gribovproblem the gauge fixing can be defined only locally and the whole space ofgauge potentials has to be partitioned into patches. We propose a global pathintegral density for the Yang-Mills theory by summing over all patches, whichcan be proven to be manifestly independent of the specific local choices ofpatches and gauge fixing conditions, respectively. In addition to theformulation on the whole space of gauge potentials we discuss the correspondingglobal path integral on the gauge orbit space relating it to the originalParisi-Wu stochastic quantization scheme and to a proposal of Stora,respectively.

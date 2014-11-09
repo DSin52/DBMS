@@ -1,0 +1,13 @@
+Paper: hep-th/9909173
+
+Date: 1999-09-23
+
+Title: Bosonic Field Propagators on Algebraic Curves
+
+Authors: Franco Ferrari and Jan Sobczyk
+
+Comments: 26 pages, TeX + harvmac
+
+Journal-ref: J.Math.Phys. 41 (2000) 6444-6462
+
+In this paper we investigate massless scalar field theory on non-degeneratealgebraic curves. The propagator is written in terms of the parametersappearing in the polynomial defining the curve. This provides an alternative tothe language of theta functions. The main result is a derivation of the thirdkind differential normalized in such a way that its periods around the homologycycles are purely imaginary. All the physical correlation functions of thescalar fields can be expressed in terms of this object. This paper contains adetailed analysis of the techniques necessary to study field theories onalgebraic curves. A simple expression of the scalar field propagator is foundin a particular case in which the algebraic curves have $Z_n$ internal symmetryand one of the fields is located at a branch point.

@@ -1,0 +1,11 @@
+Paper: hep-th/9901019
+
+Date: 1999-01-05
+
+Title: New Numerical Methods for Iterative or Perturbative Solution of Quantum
+
+Field TheoryAuthors: Stephen C. Hahn and G. S. Guralnik
+
+Comments: 10 pages, 7 figures; for inclusion in proceedings of Fourth Workshop
+
+on Quantum Chromodynamics, American University of Paris, 1 - 6 June 1998A new computational idea for continuum quantum field theories is outlined.This approach is based on the lattice source Galerkin methods developed byGarcia, Guralnik and Lawson. The method has many promising features includingtreating fermions on a relatively symmetric footing with bosons. As a spinoffof the technology developed for ``exact'' solutions, the numerical methods usedhave a special case application to perturbation theory. We are in the processof developing an entirely numerical approach to evaluating graphs to highperturbative order.

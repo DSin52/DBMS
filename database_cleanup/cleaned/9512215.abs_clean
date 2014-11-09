@@ -1,0 +1,13 @@
+Paper: hep-th/9512215
+
+Date: 1995-12-29
+
+Title: BRST Quantization of Gauge Theory in Noncommutative Geometry
+
+Derivative ApproachAuthors: Chang-Yeong Lee, Dae Sung Hwang, Yuval Ne'eman
+
+Comments: 20 pages, LaTeX file
+
+Journal-ref: J.Math.Phys. 37 (1996) 3725-3738
+
+The BRST quantization of a gauge theory in noncommutative geometry is carriedout in the ``matrix derivative" approach. BRST/anti-BRST transformation rulesare obtained by applying the horizontality condition, in the superconnectionformalism. A BRST/anti-BRST invariant quantum action is then constructed, usingan adaptation of the method devised by Baulieu and Thierry-Mieg for theYang-Mills case. The resulting quantum action turns out to be the same as thatof a gauge theory in the 't Hooft gauge with spontaneously broken symmetry. Ourresult shows that only the even part of the supergroup acts as a gaugesymmetry, while the odd part effectively provides a global symmetry. We treatthe general formalism first, then work out the $SU(2/1)$ and $SU(2/2)$ casesexplicitly.

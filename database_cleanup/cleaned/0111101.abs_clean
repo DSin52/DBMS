@@ -1,0 +1,13 @@
+Paper: hep-th/0111101
+
+Date: 2001-11-12
+
+Title: The Master Ward Identity
+
+Authors: M. Duetsch, F.-M. Boas
+
+Comments: 73 pages, version to appear in Rev. Math. Phys
+
+Journal-ref: Rev.Math.Phys. 14 (2002) 977
+
+In the framework of perturbative quantum field theory (QFT) we propose a new,universal (re)normalization condition (called 'master Ward identity') whichexpresses the symmetries of the underlying classical theory. It implies forexample the field equations, energy-momentum, charge- and ghost-numberconservation, renormalized equal-time commutation relations and BRST-symmetry.It seems that the master Ward identity can nearly always be satisfied, theonly exceptions we know are the usual anomalies. We prove the compatibility ofthe master Ward identity with the other (re)normalization conditions of causalperturbation theory, and for pure massive theories we show that the 'centralsolution' of Epstein and Glaser fulfills the master Ward identity, if theUV-scaling behavior of its individual terms is not relatively lowered.Application of the master Ward identity to the BRST-current of non-Abeliangauge theories generates an identity (called 'master BRST-identity') whichcontains the information which is needed for a local construction of thealgebra of observables, i.e. the elimination of the unphysical fields and theconstruction of physical states in the presence of an adiabatically switchedoff interaction.

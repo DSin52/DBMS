@@ -1,0 +1,11 @@
+Paper: hep-th/9712153
+
+Date: 1997-12-16
+
+Title: Implementation of an iterative map in the construction of
+
+numbersComments: LaTeX file, 57 pages, v2
+
+Journal-ref: J.Math.Phys. 40 (1999) 635-673
+
+An iterative map of the unit disc in the complex plane (Appendix) is used toexplore certain aspects of selfdual, four dimensional gauge fields(quasi)periodic in the Euclidean time. These fields are characterized by twotopological numbers and contain standard instantons and monopoles as differentlimits. The iterations do not correspond directly to a discretized timeevolution of the gauge fields. They are implemented in an indirect fashion.First, (t,r,\theta,\phi) being the standard coordinates, the (r,t) half planeis mapped on the unit disc in an appropriate way. This provides an (r,t)parametrization (Sec.1) of Z_0, the starting point of the iterations and makesthe iterates increasingly complex functions of r and t. These are thenincorporated as building blocks in the generating function of the fields(Sec.2). We explain (starting in Sec.1 and at different stages) in what senseand to what extent some remarkable features of our map (indicated in the title)are thus carried over into the continuous time development of the fields.Special features for quasiperiodicity are studied (Sec.3). Spinor solutions(Sec.4) and propagators (Sec.5) are discussed from the point of view of themapping. Several possible generalizations are indicated (Sec.6). Some broadertopics are discussd in conclusion (Sec.7).

@@ -1,0 +1,11 @@
+Paper: hep-th/9704012
+
+Date: 1997-04-02
+
+Title: Normal Modes of the B=4 Skyrme Soliton
+
+Comments: 4 pages, RevTex file and two figures, the former requiring
+
+spectrum.eps, the latter requiring 17 eps files sh.sol*.eps which areincluded. Replaced version corrects one typo in the Table, replacing therepresentation F_1^- with F_2^- for the omega=.513 modeJournal-ref: Phys.Rev.Lett. 79 (1997) 367-370
+
+The Skyrme model of nuclear physics requires quantisation if it is to matchobserved nuclear properties. A simple technique is used to find the normal modespectrum of the baryon number B=4 Skyrme soliton, representing the $\alpha$particle. We find sixteen vibrational modes and classify them under the cubicsymmetry group $O_h$ of the static solution. The spectrum possesses aremarkable structure, with the lowest energy modes lying in thoserepresentations expected from an approximate correspondence between Skyrmionsand BPS monopoles. The next mode up is the `breather', and above that arehigher multipole breathing modes.

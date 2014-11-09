@@ -1,0 +1,11 @@
+Paper: hep-th/9605155
+
+Date: 1996-05-22
+
+Title: Fermions on lattice and chiral invariance
+
+Authors: H. Banerjee and Asit K. De
+
+Comments: 14 pages Latex file
+
+A model for lattice fermion is proposed which is, (i) free from doublers,(ii) hermitian, and (iii) chirally invariant. The price paid is the loss ofhypercubic and reflection symmetries in the lattice action. Thanks to the$\epsilon$-prescription, correlation functions are free from the ill effectsdue to the loss of these symmetries. In weak coupling approximation, the U(1)vector current of a gauge theory of lattice fermion in this model is conservedin the continuum limit. As for the U(1) axial vector current, one obtains theABJ anomaly if the continuum limit is implemented before the chiral limit $m =0$. The anomaly disappears, as in the Wilson model, if the order of the twolimits is reversed.

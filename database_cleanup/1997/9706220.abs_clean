@@ -1,0 +1,13 @@
+Paper: hep-th/9706220
+
+Date: 1997-06-30
+
+Title: Reduced phase space quantization of massive vector theory
+
+Authors: H.-P. Pavel and V.N. Pervushin
+
+Comments: 21 pages LATEX, no figures; to appear in Int. J. Mod. Phys. A.;
+
+missing factor added in formula (4) of introductionJournal-ref: Int.J.Mod.Phys. A14 (1999) 2285-2308
+
+We quantize massive vector theory in such a way that it has a well-definedmassless limit. In contrast to the approach by St\"uckelberg where ghost fieldsare introduced to maintain manifest Lorentz covariance, we use reduced phasespace quantization with nonlocal dynamical variables which in the masslesslimit smoothly turn into the photons, and check explicitly that the Poincarealgebra is fullfilled. In contrast to conventional covariant quantization ourapproach leads to a propagator which has no singularity in the massless limitand is well behaved for large momenta. For massive QED, where the vector fieldis coupled to a conserved fermion current, the quantum theory of the nonlocalvector fields is shown to be equivalent to that of the standard local vectorfields. An inequivalent theory, however, is obtained when the reduced nonlocalmassive vector field is coupled to a nonconserved classical current.

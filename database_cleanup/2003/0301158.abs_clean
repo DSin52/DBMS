@@ -1,0 +1,11 @@
+Paper: hep-th/0301158
+
+Date: 2003-01-21
+
+Title: Generalized Wavefunctions for Correlated Quantum Oscillators II
+
+Geometry of the Space of StatesAuthors: S. Maxson
+
+Comments: 49 pages
+
+In this second of a series of articles, a pair of quantized free oscillatorsis transformed into a resonant system of coupled oscillators by analyticcontinuation which is performed algebraically by the group of complexsymplectic transformations, creating dynamical representations of numeroussemi-groups from the Hamiltonian free system. The free oscillators are thequantum analogue of action angle variable solutions for the coupled oscillatorsand quantum resonances, including Breit-Wigner resonances. Among theexponentially decaying Breit-Wigner resonances are hamiltonian systems in whichenergy transfers from one oscillator to the other. There are significantmathematical constraints in order that complex spectra be accommodate in a welldefined formalism, which may be met by using the commutative real algebra $\C(1,i)$ as the ring of scalars in place of the field of complex numbers. Byincluding distributional solutions to the Schr{\"o}dinger equation, placing usin a rigged Hilbert space, and by using the Hamiltonian as a generator ofcanonical transformation of the space of states, the Schr{\"o}dinger equationis the equation for parallel transport of generalized energy eigenvectors,explicitly establishing the Hamiltonian as the generator of dynamical timetranslations in this formalism. The space of states is explicitly constructedusing a realization of the Lie algebra of the group of dynamicaltransformations as connections.

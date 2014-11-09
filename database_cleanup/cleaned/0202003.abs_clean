@@ -1,0 +1,13 @@
+Paper: hep-th/0202003
+
+Date: 2002-02-01
+
+Title: Instanton corrections to circular Wilson loops in N=4 Supersymmetric
+
+Yang-MillsAuthors: Massimo Bianchi, Michael B. Green and Stefano Kovacs
+
+Comments: LaTeX, 48 pages, 1 figure
+
+Journal-ref: JHEP 0204 (2002) 040
+
+It is argued that whereas supersymmetry requires the instanton contributionto the expectation value of a straight Wilson line in the N=4 supersymmetricSU(2) Yang-Mills theory to vanish, it is not required to vanish in the case ofa circular Wilson loop. A non-vanishing value can arise from a subtle interplaybetween a divergent integral over bosonic moduli and a vanishing integral overfermionic moduli. The one-instanton contribution to such Wilson loops isexplicitly evaluated in semi-classical approximation. The method utilizes thesymmetries of the problem to perform the integration over the bosonic andfermionic collective coordinates of the instanton. The integral is singular forsmall instantons touching the loop and is regularized by introducing a cutoffat the boundary of the (euclidean) AdS_5 moduli space. In the case of acircular loop a nonzero finite result is obtained when the cutoff is removedand a perimeter divergence subtracted. This is contrasted with the case of thestraight line where the result is zero after subtraction of an identicaldivergence per unit length. The linear divergence is an artifact of our nonsupersymmetric regulator that deserves further consideration. Thegeneralization to gauge group SU(N) with arbitrary N is straightforward in thelimit of small 't Hooft coupling. The extension to strong 't Hooft coupling ismore challenging and only a qualitative discussion is given of the AdS/CFTcorrespondence

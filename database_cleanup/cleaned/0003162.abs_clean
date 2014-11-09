@@ -1,0 +1,13 @@
+Paper: hep-th/0003162
+
+Date: 2000-03-18
+
+Title: No Ghost State in the Brane World
+
+Authors: Gungwon Kang and Y.S. Myung
+
+Comments: 7 pages, no figure, the version to appear in PLB, comments on the
+
+matter source and references added, main results unchangedJournal-ref: Phys.Lett. B483 (2000) 235-239
+
+We discuss the role of the trace part of metric fluctuations $h_{MN}$ in theRandall-Sundrum scenario of gravity. Without the matter, this field($h=\eta^{MN}h_{MN}$) is a gauge-dependent term, and thus it can be gaugedaway. But, including the uniform source $\tilde{T}_{MN}$, this field satisfiesthe linearized equation $\Box_4 h =16\pi G_5 T^{\mu}_{\mu}$. This maycorrespond to the scalar $\xi^5$ in the bending of the brane due to thelocalized source. Considering the case of longitudinal perturbations ($h_{5\mu}=h_{55}=0$), one finds the source relation$\tilde{T}^{\mu}_{\mu}=2\tilde{T}_{55}$, which leads to the ghost states in themassive modes. In addition, if one requires $T_{44}=2(T_{22}+T_{33})$, it isfound that in the limit of $m^2_h \to 0$ we have the massless spin-2propagation without the ghost state. This exactly corresponds to the samesituation as in the intermediate scales of Gregory-Rubakov-Sibiryakov (GRS)model.

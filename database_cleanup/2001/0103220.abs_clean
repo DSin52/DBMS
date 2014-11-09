@@ -1,0 +1,13 @@
+Paper: hep-th/0103220
+
+Date: 2001-03-26
+
+Title: Closed String Tachyons, AdS/CFT, and Large N QCD
+
+Authors: Allan Adams and Eva Silverstein
+
+Comments: 28 pages, harvmac big. v2
+
+RG improvementJournal-ref: Phys.Rev. D64 (2001) 086001
+
+We find that tachyonic orbifold examples of AdS/CFT have correspondinginstabilities at small radius, and can decay to more generic gauge theories. Wedo this by computing a destabilizing Coleman-Weinberg effective potential fortwisted operators of the corresponding quiver gauge theories, generalizingcalculations of Tseytlin and Zarembo and interpreting them in terms of thelarge-N behavior of twisted-sector modes. The dynamically generated potentialinvolves double-trace operators, which affect large-N correlators involvingtwisted fields but not those involving only untwisted fields, in line withlarge-N inheritance arguments. We point out a simple reason that no such smallradius instability exists in gauge theories arising from freely actingorbifolds, which are tachyon-free at large radius. When an instability ispresent, twisted gauge theory operators with the quantum numbers of thelarge-radius tachyons aquire VEVs, leaving a gauge theory with fewer degrees offreedom in the infrared, analogous to but less extreme than ``decays tonothing'' studied in other systems with broken supersymmetry. In some cases oneis left with pure glue QCD plus decoupled matter and U(1) factors in the IR,which we thus conjecture is described by the corresponding (possibly stronglycoupled) endpoint of tachyon condensation in the M/String-theory dual.

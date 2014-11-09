@@ -1,0 +1,13 @@
+Paper: hep-th/9509022
+
+Date: 1995-09-06
+
+Title: Coherent states over Grassmann manifolds and the WKB-exactness in path
+
+integralAuthors: Kazuyuki Fujii, Taro Kashiwa and Seiji Sakoda
+
+Comments: 43 pages, LaTeX, minor change to correct a misprint
+
+Journal-ref: J.Math.Phys. 37 (1996) 567-602
+
+\(\Un{N}\) coherent states over Grassmann manifold,\(\grsmn{N}{n}\simeq\Un{N}/ (\Un{n}\times \Un{N-n})\), are formulated to beable to argue the WKB-exactness, so called the localization ofDuistermaat-Heckman, in the path integral representation of a characterformula. The exponent in the path integral formula is proportional to aninteger \(k\) that labels the \(\Un{N}\) representation. Thus when \(k\rightarrow\infty\) a usual semiclassical approximation, by regarding \(k \sim1 / \hbar\), can be performed yielding to a desired conclusion. The mechanismof the localization is uncovered by means of a view from an extended spacerealized by the Schwinger boson technique.

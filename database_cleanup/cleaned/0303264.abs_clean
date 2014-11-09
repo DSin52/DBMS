@@ -1,0 +1,11 @@
+Paper: hep-th/0303264
+
+Date: 2003-03-31
+
+Title: Casimir Effect on the Worldline
+
+Authors: Holger Gies (Heidelberg U, CERN), Kurt Langfeld (Tubingen U), Laurent
+
+Moyaerts (Tubingen U)Comments: 27 pages, 10 figures
+
+We develop a method to compute the Casimir effect for arbitrary geometries.The method is based on the string-inspired worldline approach to quantum fieldtheory and its numerical realization with Monte-Carlo techniques. Concentratingon Casimir forces between rigid bodies induced by a fluctuating scalar field,we test our method with the parallel-plate configuration. For theexperimentally relevant sphere-plate configuration, we study curvature effectsquantitatively and perform a comparison with the ``proximity forceapproximation'', which is the standard approximation technique. Sizablecurvature effects are found for a distance-to-curvature-radius ratio of a/R >~0.02. Our method is embedded in renormalizable quantum field theory with acontrolled treatment of the UV divergencies. As a technical by-product, wedevelop various efficient algorithms for generating closed-loop ensembles withGaussian distribution.

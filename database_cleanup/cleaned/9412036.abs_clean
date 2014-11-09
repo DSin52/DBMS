@@ -1,0 +1,9 @@
+Paper: hep-th/9412036
+
+Date: 1994-12-05
+
+Title: Generalised Moonshine and Abelian Orbifold Constructions
+
+Comments: Talk presented at the AMS meeting on Moonshine, the Monster and
+
+related topics, Mt. Holyoke, June 1994, 16 pp, Plain TeX with AMS FontsWe consider the application of Abelian orbifold constructions in MeromorphicConformal Field Theory (MCFT) towards an understanding of various aspects ofMonstrous Moonshine and Generalised Moonshine. We review some of the basicconcepts in MCFT and Abelian orbifold constructions of MCFTs and summarise someof the relevant physics lore surrounding such constructions including aspectsof the modular group, the fusion algebra and the notion of a self-dual MCFT.The FLM Moonshine Module, $V^\natural$, is historically the first example ofsuch a construction being a $Z_2$ orbifolding of the Leech lattice MCFT,$V^\Lambda$. We review the usefulness of these ideas in understanding MonstrousMoonshine, the genus zero property for Thompson series which we have shown isequivalent to the property that the only meromorphic $Z_n$ orbifoldings of$V^\natural$ are $V^\Lambda$ and $V^\natural$ itself (assuming that$V^\natural$ is uniquely determined by its characteristic function $J(\tau)$.We show that these constraints on the possible $Z_n$ orbifoldings of$V^\natural$ are also sufficient to demonstrate the genus zero property forGeneralised Moonshine functions in the simplest non-trivial prime cases byconsidering $Z_p\times Z_p$ orbifoldings of $V^\natural$. Thus MonstrousMoonshine implies Generalised Moonshine in these cases.

@@ -1,0 +1,11 @@
+Paper: hep-th/0301166
+
+Date: 2003-01-22
+
+Title: Graphical Representation of Supersymmetry
+
+Authors: Shoichi Ichinose
+
+Comments: 28 pages, many figures
+
+A graphical representation of supersymmetry is presented. It clearlyexpresses the chiral flow appearing in SUSY quantities, by representing spinorsby {\it directed lines} (arrows). The chiral indices are expressed by thedirections (up, down, left, right) of the arrows. The SL(2,C) invariants arerepresented by {\it wedges}. Both the Weyl spinor and the Majorana spinor aretreated. We are free from the messy symbols of spinor indices. The method isapplied to the 5D supersymmetry. Many applications are expected. The result issuitable for coding a computer program and is highly expected to be applicableto various SUSY theories (including Supergravity) in various dimensions.

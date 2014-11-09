@@ -1,0 +1,13 @@
+Paper: hep-th/9504105
+
+Date: 1995-04-20
+
+Title: Confinement-Deconfinement Transition in 3-Dimensional QED
+
+Authors: G. Grignani, G. Semenoff, P. Sodano
+
+Comments: 11 pages, latex, no figures
+
+Journal-ref: Phys.Rev. D53 (1996) 7157-7161
+
+We argue that, at finite temperature, parity invariant non-compactelectrodynamics with massive electrons in 2+1 dimensions can exist in bothconfined and deconfined phases. We show that an order parameter for theconfinement-deconfinement phase transition is the Polyakov loop operator whoseaverage measures the free energy of a test charge that is not an integralmultiple of the electron charge. The effective field theory for the Polyakovloop operator is a 2-dimensional Euclidean scalar field theory with a globaldiscrete symmetry $Z$, the additive group of the integers. We argue that therealization of this symmetry governs confinement and that theconfinement-deconfinement phase transition is ofBerezinskii-Kosterlitz-Thouless type. We compute the effective action toone-loop order and argue that when the electron mass $m$ is much greater thanthe temperature $T$ and dimensional coupling $e^2$, the effective field theoryis the Sine-Gordon model. In this limit, we estimate the critical temperature,$T_{\rm crit.}=e^2/8\pi(1-e^2/12\pi m+\ldots)$.

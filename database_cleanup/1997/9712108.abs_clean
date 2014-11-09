@@ -1,0 +1,13 @@
+Paper: hep-th/9712108
+
+Date: 1997-12-11
+
+Title: An easy way to solve two-loop vertex integrals
+
+Authors: Alfredo T. Suzuki and Alexandre G. M. Schmidt
+
+Comments: 13 pages, LaTeX, 4 figures, misprints corrected
+
+Journal-ref: Phys.Rev. D58 (1998) 047701
+
+Negative dimensional integration is a step further dimensional regularizationideas. In this approach, based on the principle of analytic continuation,Feynman integrals are polynomial ones and for this reason very simple tohandle, contrary to the usual parametric ones. The result of the integralworked out in $D<0$ must be analytically continued again --- of course --- toreal physical world, $D>0$, and this step presents no difficulties. We considerfour two-loop three-point vertex diagrams with arbitrary exponents ofpropagators and dimension. These original results give the correct well-knownparticular cases where the exponents of propagators are equal to unity.

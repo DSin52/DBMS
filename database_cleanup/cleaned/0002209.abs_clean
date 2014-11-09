@@ -1,0 +1,11 @@
+Paper: hep-th/0002209
+
+Date: 2000-02-24
+
+Title: Smooth Gauge Strings and D>=2 Lattice Yang-Mills Theories
+
+Authors: Andrey Yu. Dubin
+
+Comments: 54 pages, minor corrections, the variant published in Nucl. Phys. B
+
+Employing the nonabelian duality transformation, I derive the Gauge Stringform of certain D>=3 lattice Yang-Mills (YM_{D}) theories in the strongcoupling (SC) phase. With the judicious choice of the actions, in D>=3 ourconstruction generalizes the Gross-Taylor stringy reformulation of thecontinuous YM_{2} on a 2d manifold. Using the Eguchi-Kawai model as an example,we develope the algorithm to determine the weights w[\tilde{M}] for connectedYM-flux worldsheets \tilde{M} immersed into the 2d skeleton of a D>=3base-lattice. Owing to the invariance of w[\tilde{M}] under a continuous groupof area-preserving worldsheet homeomorphism, the set of the weights{w[\tilde{M}]} can be used to define the theory of the smooth YM-fluxes whichunambiguously refers to a particular continuous YM_{D} system. I argue that thelatter YM_{D} models (with a finite ultraviolet cut-off) for sufficiently largebare coupling constant(s) are reproduced, to all orders in 1/N, by the smoothGauge String thus associated. The asserted YM_{D}/String duality allows to makea concrete prediction for the 'bare' string tension \sigma_{0} which impliesthat (in the large N SC regime) the continuous YM_{D} systems exhibitconfinement for $D\geq{2}$. The resulting pattern is qualitatively consistent(in the extreme D=4 SC limit) with the Witten's proposal motivated by theAdS/CFT correspondence.

@@ -1,0 +1,13 @@
+Paper: hep-th/9805015
+
+Date: 1998-05-04
+
+Title: A proof of the irreversibility of renormalization group flows in four
+
+dimensionsAuthors: Stefano Forte and Jose I. Latorre
+
+Comments: 22 pages, 2 figures, plain tex with harvmac and epsf; several typos
+
+corrected; final version, to be published in Nucl. Phys. BJournal-ref: Nucl.Phys. B535 (1998) 709-728
+
+We present a proof of the irreversibility of renormalization group flows,i.e. the c-theorem for unitary, renormalizable theories in four (or generallyeven) dimensions. Using Ward identities for scale transformations and spectralrepresentation arguments, we show that the c-function based on the trace of theenergy-momentum tensor (originally suggested by Cardy) decreases monotonicallyalong renormalization group trajectories. At fixed points this c-function isstationary and coincides with the coefficient of the Euler density in the traceanomaly, while away from fixed points its decrease is due to the decoupling ofpositive--norm massive modes.

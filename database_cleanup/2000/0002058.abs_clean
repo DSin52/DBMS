@@ -1,0 +1,13 @@
+Paper: hep-th/0002058
+
+Date: 2000-02-08
+
+Title: Simulated Annealing for Topological Solitons
+
+Authors: Mark Hale (Durham, UK) and Oliver Schwindt (UMIST, UK) and Tom Weidig
+
+(UMIST, UK)Comments: 31 pages, LaTeX, better quality pics at
+
+publicationJournal-ref: Phys.Rev. E62 (2000) 4333-4346
+
+The search for solutions of field theories allowing for topological solitonsrequires that we find the field configuration with the lowest energy in a givensector of topological charge. The standard approach is based on the numericalsolution of the static Euler-Lagrange differential equation following from thefield energy. As an alternative, we propose to use a simulated annealingalgorithm to minimize the energy functional directly. We have applied simulatedin one dimension, the baby Skyrme model in two dimensions and the nuclearSkyrme model in three dimensions. We describe in detail the implementation ofthe simulated annealing algorithm, present our results and get independentconfirmation of the studies which have used standard minimization techniques.

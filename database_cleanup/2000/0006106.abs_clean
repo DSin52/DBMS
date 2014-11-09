@@ -1,0 +1,11 @@
+Paper: hep-th/0006106
+
+Date: 2000-06-15
+
+Title: Connes-Kreimer-Epstein-Glaser Renormalization
+
+Authors: J.M. Gracia-Bondia (Mainz Univ.), S. Lazzarini (CPT-Marseille)
+
+Comments: LaTeX, 34 pages, 8 included figures, Fig.5 has been changed, some
+
+improvements and one added referenceCausal perturbative renormalization within the recursive Epstein-Glaserscheme involves extending, at each order, time-ordered operator-valueddistributions to coinciding points. This is achieved by a generalized Taylorsubtraction on test functions, which is transposed to distributions. We showhow the Epstein-Glaser recursive construction can, by means of a slightmodification of the Hopf algebra of Feynman graphs, be recast in terms of thenew Connes-Kreimer algebraic setup for renormalization. This is illustrated for$\phi^4_4$-theory.

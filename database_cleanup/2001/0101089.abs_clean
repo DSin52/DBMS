@@ -1,0 +1,13 @@
+Paper: hep-th/0101089
+
+Date: 2001-01-14
+
+Title: Star Product for Second Class Constraint Systems from a BRST Theory
+
+Authors: I.A. Batalin, M.A. Grigoriev, and S.L. Lyakhovich
+
+Comments: 32 pages
+
+Journal-ref: Theor.Math.Phys. 128 (2001) 1109-1139; Teor.Mat.Fiz. 128 (2001)
+
+324-360We explicitly quantize the general second-class constrained system at thelevel of deformation quantization such that the quantization is covariant withrespect to local coordinates on the phase space. The approach is based onconstructing the effective first-class constraint (gauge) system equivalent tothe original second-class one and can also be understood as a far-goinggeneralization of the Fedosov quantization. The effective gauge system isquantized by the BFV--BRST procedure. The star product for the Dirac bracket isexplicitly constructed as the quantum multiplication of BRST observables. Weintroduce and explicitly construct a Dirac bracket counterpart of thesymplectic connection, called the Dirac connection. We identify a particularstar product associated with the Dirac connection for which the constraints arein the center of the respective star-commutator algebra; when reduced to theconstraint surface, this star product can be recognized as a Fedosov one.

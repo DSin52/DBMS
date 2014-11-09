@@ -1,0 +1,13 @@
+Paper: hep-th/9605075
+
+Date: 1996-05-09
+
+Title: New Moduli Spaces from String Background Independence Consistency
+
+ConditionsAuthors: Barton Zwiebach
+
+Comments: 42 pages, requires phyzzx, BoxedEPS, 6 ps figures
+
+Journal-ref: Nucl.Phys. B480 (1996) 507-540
+
+In string field theory an infinitesimal background deformation is implementedas a canonical transformation whose hamiltonian function is defined by modulispaces of punctured Riemann surfaces having one special puncture. We show thatthe consistency conditions associated to the commutator of two deformations areimplemented by virtue of the existence of moduli spaces of punctured surfaceswith two special punctures. The spaces are antisymmetric under the exchange ofthe special punctures, and satisfy recursion relations relating them to modulispaces with one special puncture and to string vertices. We develop the theoryof moduli spaces of surfaces with arbitrary number of special punctures andindicate their relevance to the construction of a string field theory thatmakes no reference to a conformal background. Our results also imply a partialantibracket cohomology theorem for the string action.

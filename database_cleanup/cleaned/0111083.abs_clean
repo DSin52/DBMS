@@ -1,0 +1,13 @@
+Paper: hep-th/0111083
+
+Date: 2001-11-09
+
+Title: The spin-1/2 XXZ Heisenberg chain, the quantum algebra U_q[sl(2)], and
+
+duality transformations for minimal modelsAuthors: Uwe Grimm (OU, Milton Keynes) and Gunter M. Schuetz (IFF, FZ Juelich)
+
+Comments: This is a preprint version (37 pages, LaTeX) of an article published
+
+back in 1993. It has been made available here because there has been recentinterest in conformal twisted boundary conditions. The "duality-twisted"boundary conditions discussed in this paper are particular examples of suchboundary conditions for quantum spin chains, so there might be some renewedinterest in these resultsJournal-ref: J.Statist.Phys. 71 (1993) 921-964
+
+The finite-size scaling spectra of the spin-1/2 XXZ Heisenberg chain withtoroidal boundary conditions and an even number of sites provide a projectionmechanism yielding the spectra of models with a central charge c<1 includingthe unitary and non-unitary minimal series. Taking into account thehalf-integer angular momentum sectors - which correspond to chains with an oddnumber of sites - in many cases leads to new spinor operators appearing in theprojected systems. These new sectors in the XXZ chain correspond to a new typeof frustration lines in the projected minimal models. The corresponding newboundary conditions in the Hamiltonian limit are investigated for the Isingmodel and the 3-state Potts model and are shown to be related to dualitytransformations which are an additional symmetry at their self-dual criticalpoint. By different ways of projecting systems we find models with the samecentral charge sharing the same operator content and modular invariantpartition function which however differ in the distribution of operators intosectors and hence in the physical meaning of the operators involved. Related tothe projection mechanism in the continuum there are remarkable symmetryproperties of the finite XXZ chain. The observed degeneracies in the energy andmomentum spectra are shown to be the consequence of intertwining relationsinvolving U_q[sl(2)] quantum algebra transformations.

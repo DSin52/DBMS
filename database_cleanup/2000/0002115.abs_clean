@@ -1,0 +1,11 @@
+Paper: hep-th/0002115
+
+Date: 2000-02-14
+
+Title: Off-Shell Formulation of Simple Supersymmetric Yang-Mills
+
+Authors: Khaled Abdel-Khalek (Lecce, Italy)
+
+Comments: Latex, 15 pages
+
+An off-shell formulation for 6 and 10 dimensions simple supersymmetricYang-Mills theories is presented. While the fermionic fields couple to leftaction of S^3 and S^7 respectively, the auxiliary ones couple to right action(and vice versa). To close the algebra off-shell, left and right actions mustcommute. For 6 dimensions quaternions work fine. The 10 dimensional case needsspecial care. Pure spinors and soft Lie algebra (algebra with structurefunctions instead of structure constants) are essential. Some tools useful forconstructing the superspace are also derived. We show how to relate our resultsto the early works of Evans and Berkovits.

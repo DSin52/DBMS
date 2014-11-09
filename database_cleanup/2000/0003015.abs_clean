@@ -1,0 +1,13 @@
+Paper: hep-th/0003015
+
+Date: 2000-03-02
+
+Title: A quantum Peierls-Nabarro barrier
+
+Authors: J.M. Speight
+
+Comments: 13 pages LaTeX, 7 figures
+
+Journal-ref: J.Phys. A33 (2000) 4741-4754
+
+Kink dynamics in spatially discrete nonlinear Klein-Gordon systems isconsidered. For special choices of the substrate potential, such systemssupport continuous translation orbits of static kinks with no (classical)Peierls-Nabarro barrier. It is shown that these kinks experience, nevertheless,a lattice-periodic confining potential, due to purely quantum effects anaolgousto the Casimir effect of quantum field theory. The resulting ``quantumPeierls-Nabarro potential'' may be calculated in the weak couplingapproximation by a simple and computationally cheap numerical algorithm, whichis applied, for purposes of illustration, to a certain two-parameter family ofsubstrates.

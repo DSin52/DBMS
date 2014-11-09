@@ -1,0 +1,13 @@
+Paper: hep-th/9706006
+
+Date: 1997-06-01
+
+Title: Single-Particle Green Functions in Exactly Solvable Models of Bose and
+
+Fermi LiquidsAuthors: Girish S. Setlur and Yia-Chung Chang
+
+Comments: Latest version to be published in Phys. Rev. B. enlarged to around 40
+
+pagesJournal-ref: To be published in Phys. Rev. B15 in June 1998
+
+Based on a class of exactly solvable models of interacting bose and fermiliquids, we compute the single-particle propagators of these systems exactlyfor all wavelengths and energies and in any number of spatial dimensions. Thefield operators are expressed in terms of bose fields that correspond todisplacements of the condensate in the bose case and displacements of the fermisea in the fermi case.Unlike some of the previous attempts, the present attempt reduces the answerfor the spectral function in any dimension in both fermi and bose systems toquadratures.It is shown that when only the lowest order sea-displacement terms areincluded, the random phase approximation in its many guises is recovered in thefermi case, and Bogoliubov's theory in the bose case. The momentum distributionis evaluated using two different approaches, exact diagonalisation and theequation of motion approach.The novelty being of course, the exact computation of single-particleproperties including short wavelength behaviour.

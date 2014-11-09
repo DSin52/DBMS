@@ -1,0 +1,9 @@
+Paper: hep-th/9408102
+
+Date: 1994-08-18
+
+Title: Crossed modules and quantum groups in braided categories I
+
+Comments: 39 pages, 20 figures
+
+Let $H$ be a Hopf algebra in braided category $\cal C$. Crossed modules over$H$ are objects with both module and comodule structures satisfying somecomatibility condition. Category ${\cal C}^H_H$ of crossed modules is braidedand is concrete realization of general categorical construction. For quantumbraided group $(H,{\cal R})$ corresponding braided category ${\cal C}^{\calR}_H$ of modules is identifyed with full subcategory in ${\cal C}_H^H$.Connection with crossproducts is discussed. Correct cross product in the classof quantum braided groups is built. Radford's--Majid's theorem gives equivalentcondition for usual Hopf algebra to be crossproduct. Braided variant and analogof this theorem for quantum braided qroups are obtained.

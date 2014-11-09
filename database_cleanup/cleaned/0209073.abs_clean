@@ -1,0 +1,9 @@
+Paper: hep-th/0209073
+
+Date: 2002-09-09
+
+Title: Additional considerations in the definition and renormalization of
+
+non-covariant gaugesComments: 13 pages, Latex2e file; v2
+
+(17)-(18) added; minor additional changes; This version to appear in MPLAIn this work, we pursue further consequences of a general formalism fornon-covariant gauges developed in an earlier work (hep-th/0205042). We carryout further analysis of the additional restrictions on renormalizations notedin that work. We use the example of the axial gauge A_3=0. We find that ifmultiplicative renormalization together with ghost-decoupling is to hold, the``prescription-term'' (that defines a prescription) cannot be chosenarbitrarily but has to satisfy certain non-trivial conditions (over and abovethose implied by the validity of power counting) arising from the WT identitiesassociated with the residual gauge invariance. We also give a restricted classof solutions to these conditions.

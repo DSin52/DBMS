@@ -1,0 +1,9 @@
+Paper: hep-th/9804122
+
+Date: 1998-04-18
+
+Title: Chern-Simons Theory, Knot Invariants, Vertex Models and Three-manifold
+
+InvariantsComments: 27 pages; LaTex; 44 eps figures included
+
+Chern-Simons theories, which are topological quantum field theories, providea field theoretic framework for the study of knots and links in threedimensions. These are rare examples of quantum field theories which can beexactly and explicitly solved. Expectation values of Wilson link operatorsyield a class of link invariants, the simplest of them is the famous Jonespolynomial. Other invariants are more powerful than that of Jones. These newinvariants are sensitive to the chirality of all knots at least upto tencrossing number unlike those of Jones which are blind to the chirality of someof them. However, all these invariants are still not good enough to distinguisha class of knots called mutants. These link invariants can be alternatelyobtained from two dimensional vertex models. The $R$-matrix of such a model ina particular limit of the spectral parameter provides a representation of thebraid group. This in turn is used to construct the link invariants. Exploitingtheorems of Lickorish and Wallace and also those of Kirby, Fenn and Rourkewhich relate three-manifolds to surgeries on framed links, these linkinvariants in $S^3$ can also be used to construct three-manifold invariants.

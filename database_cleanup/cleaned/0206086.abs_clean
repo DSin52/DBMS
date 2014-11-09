@@ -1,0 +1,13 @@
+Paper: hep-th/0206086
+
+Date: 2002-06-11
+
+Title: Microscopic universality of complex matrix model correlation functions
+
+at weak non-HermiticityAuthors: G. Akemann
+
+Comments: 13 pages
+
+Journal-ref: Phys.Lett. B547 (2002) 100-108
+
+The microscopic correlation functions of non-chiral random matrix models withcomplex eigenvalues are analyzed for a wide class of non-Gaussian measures. Inthe large-N limit of weak non-Hermiticity, where N is the size of the complexmatrices, we can prove that all k-point correlation functions including anarbitrary number of Dirac mass terms are universal close to the origin. To thisaim we establish the universality of the asymptotics of orthogonal polynomialsin the complex plane. The universality of the correlation functions thenfollows from that of the kernel of orthogonal polynomials and a mapping ofmassive to massless correlators.

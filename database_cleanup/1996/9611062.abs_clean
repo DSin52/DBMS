@@ -1,0 +1,13 @@
+Paper: hep-th/9611062
+
+Date: 1996-11-08
+
+Title: Why Two Renormalization Groups are Better than One
+
+Authors: C.R. Stephens (ICN, UNAM, Mexico)
+
+Comments: 17 pages LaTex; to be published in the Proceedings of RG '96, Dubna
+
+Journal-ref: Int.J.Mod.Phys. B12 (1998) 1379-1396
+
+The advantages of using more than one renormalization group (RG) in problemsusing different RG's can lead to complementary information, i.e. what is verydifficult to calculate with an RG based on one flow parameter may be much moreaccessible using another; ii) using more than one RG requires less physicalinput in order to describe via RG methods the theory as a function of itsparameters; iii) using more than one RG allows one to solve problems with morethan one diverging length scale. The above points are illustrated concretely inthe context of both particle physics and statistical physics using thetechniques of environmentally friendly renormalization. Specifically, finitetemperature $\lambda\phi^4$ theory, an Ising-type system in a film geometry, anIsing-type system in a transverse magnetic field, the QCD coupling constant atfinite temperature and the crossover between bulk and surface criticalbehaviour in a semi-infinite geometry are considered.

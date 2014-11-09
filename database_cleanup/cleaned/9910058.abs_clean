@@ -1,0 +1,9 @@
+Paper: hep-th/9910058
+
+Date: 1999-10-06
+
+Title: A gauge invariant exact renormalization group I
+
+Comments: TeX, harvmac, epsf; 35 pages, 15 figs; a few typos corrected
+
+A manifestly gauge invariant continuous renormalization group flow equationis constructed for pure SU(N) gauge theory. The formulation makes sense withoutgauge fixing and manifestly gauge invariant calculations may thus be carriedout. The flow equation is naturally expressed in terms of fluctuating Wilsonloops, with the effective action appearing as an integral over a `gas' ofWilson loops. At infinite N, the effective action collapses to a path integralover the trajectory of a single particle describing one Wilson loop. We showthat further regularization of these flow equations is needed. (This isintroduced in part II.)

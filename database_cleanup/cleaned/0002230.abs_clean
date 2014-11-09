@@ -1,0 +1,13 @@
+Paper: hep-th/0002230
+
+Date: 2000-02-28
+
+Title: Holographic Reconstruction of Spacetime and Renormalization in the
+
+AdS/CFT CorrespondenceAuthors: Sebastian de Haro, Kostas Skenderis, Sergey N. Solodukhin
+
+Comments: 27 pages,v2
+
+Journal-ref: Commun.Math.Phys. 217 (2001) 595-622
+
+We develop a systematic method for renormalizing the AdS/CFT prescription forcomputing correlation functions. This involves regularizing the bulk on-shellsupergravity action in a covariant way, computing all divergences, addingcounterterms to cancel them and then removing the regulator. We explicitly workout the case of pure gravity up to six dimensions and of gravity coupled toscalars. The method can also be viewed as providing a holographicreconstruction of the bulk spacetime metric and of bulk fields on thisspacetime, out of conformal field theory data. Knowing which sources are turnedon is sufficient in order to obtain an asymptotic expansion of the bulk metricand of bulk fields near the boundary to high enough order so that all infrareddivergences of the on-shell action are obtained. To continue the holographicof the dual operator. In particular, in order to obtain the bulk metric oneneeds to know the expectation value of stress-energy tensor of the boundarytheory. We provide completely explicit formulae for the holographicstress-energy tensors up to six dimensions. We show that both the gravitationaland matter conformal anomalies of the boundary theory are correctly reproduced.We also obtain the conformal transformation properties of the boundarystress-energy tensors.

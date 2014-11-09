@@ -1,0 +1,13 @@
+Paper: hep-th/9811220
+
+Date: 1998-11-25
+
+Title: Dynamical Aspects of Large N Reduced Models
+
+Authors: Tomohiro Hotta (Univ. of Tokyo), Jun Nishimura (Nagoya Univ. & NBI)
+
+and Asato Tsuchiya (Osaka Univ.)Comments: 41 pages, LaTeX, 15 eps figures; comments added for the
+
+well-definedness of the models and for a related referenceJournal-ref: Nucl.Phys. B545 (1999) 543-575
+
+We study the large N reduced model of D-dimensional Yang-Mills theory withspecial attention to dynamical aspects related to the eigenvalues of the N by Nmatrices, which correspond to the space-time coordinates in the IIB matrixmodel. We first put an upper bound on the extent of space time by perturbativearguments. We perform a Monte Carlo simulation and show that the upper bound isactually saturated. The relation of our result to the SSB of the U(1)^Dsymmetry in the Eguchi-Kawai model is clarified. We define a quantity whichrepresents the uncertainty of the space-time coordinates and show that it is ofthe same order as the extent of space time, which means that a classicalspace-time picture is maximally broken. We develop a 1/D expansion, whichenables us to calculate correlation functions of the model analytically. Theabsence of an SSB of the Lorentz invariance is shown by the Monte Carlosimulation as well as by the 1/D expansion.

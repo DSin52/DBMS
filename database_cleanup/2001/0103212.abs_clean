@@ -1,0 +1,11 @@
+Paper: hep-th/0103212
+
+Date: 2001-03-26
+
+Title: On the Generalized Exclusion Statistics
+
+Authors: M.Rachidi, E.H.Saidi and J.Zerouaoui
+
+Comments: 13 pages, Latex. To be submitted to Journal of Math. Phys
+
+We review the principal steps leading to drive the wave function $\psi_{\{k_1,k_2,...,k_N \}}(1,2,...,N)$ of a gaz of $N$ identical particle stateswith exotic statistics. For spins $s=1/M$ $mod(1)$, we show that thequasideterminant conjectured in [19], by using $2d$ conformal field theoreticalmethods, is indeed related to the quantum determinant of noncommutativegeometry. The q-number $[N]!=\prod_{n=1}^N(\sum_{j=0}^{N-1} q^j)$ carrying theeffect of the generalized Pauli exclusion principle, according to which no morethan $(M-1)$ identical particles of spin $s=1/M$ $mod(1)$ can live altogetheron the same quantum state, is rederived in rigourous from the q-antisymmetry.Other features are also given.

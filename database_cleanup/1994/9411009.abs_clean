@@ -1,0 +1,13 @@
+Paper: hep-th/9411009
+
+Date: 1994-11-02
+
+Title: A-D-E Polynomial and Rogers--Ramanujan Identities
+
+Authors: S.O. Warnaar and P.A. Pearce
+
+Comments: 19 pages, Latex, 1 Postscript figure
+
+Journal-ref: Int. J. Mod. Phys. A11 (1996) 291
+
+We conjecture polynomial identities which imply Rogers--Ramanujan typeidentities for branching functions associated with the cosets $({\calG}^{(1)})_{\ell-1}\otimes ({\cal G}^{(1)})_{1} / ({\cal G}^{(1)})_{\ell}$, with${\cal G}$=A$_{n-1}$ \mbox{$(\ell\geq 2)$}, D$_{n-1}$ $(\ell\geq 2)$,E$_{6,7,8}$ $(\ell=2)$. In support of our conjectures we establish the correctbehaviour under level-rank duality for $\cal G$=A$_{n-1}$ and show that theA-D-E Rogers--Ramanujan identities have the expected $q\to 1^{-}$ asymptoticsin terms of dilogarithm identities. Possible generalizations to arbitrarycosets are also discussed briefly.

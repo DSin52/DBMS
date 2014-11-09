@@ -1,0 +1,13 @@
+Paper: hep-th/9811094
+
+Date: 1998-11-10
+
+Title: Temperature in Fermion Systems and the Chiral Fermion Determinant
+
+Authors: Shoichi Ichinose
+
+Comments: 24 pages, some figures, to be published in Phys.Rev.D
+
+Journal-ref: Phys.Rev. D61 (2000) 055001
+
+We give an interpretation to the issue of the chiral determinant in theheat-kernel approach. The extra dimension (5-th dimension) is interpreted as(inverse) temperature. The 1+4 dim Dirac equation is naturally derived by theWick rotation for the temperature. In order to define a ``good'' temperature,we choose those solutions of the Dirac equation which propagate in a fixeddirection in the extra coordinate. This choice fixes the regularization of thefermion determinant. The 1+4 dimensional Dirac mass ($M$) is naturallyultraviolet cut-off, naturally appears. The chiral anomaly is explicitlyderived for the 2 dim Abelian model. Typically two different regularizationsappear depending on the choice of propagators. One corresponds to the chiraltheory, the other to the non-chiral (hermitian) theory.

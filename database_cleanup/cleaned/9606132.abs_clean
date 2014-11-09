@@ -1,0 +1,13 @@
+Paper: hep-th/9606132
+
+Date: 1996-06-20
+
+Title: One-Loop Effective Action for Euclidean Maxwell Theory on Manifolds with
+
+BoundaryAuthors: Giampiero Esposito, Alexander Yu. Kamenshchik and Klaus Kirsten
+
+Comments: 25 pages, Revtex
+
+Journal-ref: Phys.Rev. D54 (1996) 7328-7337
+
+This paper studies the one-loop effective action for Euclidean Maxwell theoryabout flat four-space bounded by one three-sphere, or two concentricthree-spheres. The analysis relies on Faddeev-Popov formalism and$\zeta$-function regularization, and the Lorentz gauge-averaging term is usedwith magnetic boundary conditions. The contributions of transverse,longitudinal and normal modes of the electromagnetic potential, jointly withghost modes, are derived in detail. The most difficult part of the analysisconsists in the eigenvalue condition given by the determinant of a $2 \times 2$or $4 \times 4$ matrix for longitudinal and normal modes. It is shown that theformer splits into a sum of Dirichlet and Robin contributions, plus a simplerterm. This is the quantum cosmological case. In the latter case, however, whenmagnetic boundary conditions are imposed on two bounding three-spheres, thedeterminant is more involved. Nevertheless, it is evaluated explicitly as well.The whole analysis provides the building block for studying the one-loopeffective action in covariant gauges, on manifolds with boundary. The finalresult differs from the value obtained when only transverse modes arequantized, or when noncovariant gauges are used.

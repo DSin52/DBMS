@@ -1,0 +1,13 @@
+Paper: hep-th/0202176
+
+Date: 2002-02-26
+
+Title: The Spectrum of the Neumann Matrix with Zero Modes
+
+Authors: Bo Feng, Yang-Hui He and Nicolas Moeller
+
+Comments: 25+1 pages, 3 Figures; typos corrected and some comments added
+
+Journal-ref: JHEP 0204 (2002) 038
+
+We calculate the spectrum of the matrix M' of Neumann coefficients of theWitten vertex, expressed in the oscillator basis including the zero-mode a_0.We find that in addition to the known continuous spectrum inside [-1/3,0) ofthe matrix M without the zero-modes, there is also an additional eigenvalueinside (0,1). For every eigenvalue, there is a pair of eigenvectors, atwist-even and a twist-odd. We give analytically these eigenvectors as well asthe generating function for their components. Also, we have found aninteresting critical parameter b_0 = 8 ln 2 on which the forms of theeigenvectors depend.

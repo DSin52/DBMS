@@ -1,0 +1,11 @@
+Paper: hep-th/0104247
+
+Date: 2001-04-27
+
+Title: Relating the RNS and Pure Spinor Formalisms for the Superstring
+
+Comments: 26 pages harvmac tex
+
+Journal-ref: JHEP 0108 (2001) 026
+
+Recently, the superstring was covariantly quantized using the BRST-likeoperator $Q = \oint \lambda^\alpha d_\alpha$ where $\lambda^\alpha$ is a purespinor and $d_\alpha$ are the fermionic Green-Schwarz constraints. Byperforming a field redefinition and a similarity transformation, this BRST-likeoperator is mapped to the sum of the Ramond-Neveu-Schwarz BRST operator and$\eta_0$ ghost. This map is then used to relate physical vertex operators andtree amplitudes in the two formalisms. Furthermore, the map implies theexistence of a $b$ ghost in the pure spinor formalism which might be useful forloop amplitude computations.

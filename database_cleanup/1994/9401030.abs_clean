@@ -1,0 +1,13 @@
+Paper: hep-th/9401030
+
+Date: 1994-01-09
+
+Title: Topological Landau-Ginzburg Formulation and Integrable Structure of 2d
+
+String TheoryAuthors: A. Hanany, Y. Oz, and M.R. Plesser
+
+Comments: 28pp. LaTeX, IASSNS-HEP-94/1, TAUP-2130-93, WIS-93/123/Dec-PH. (Using
+
+recent results of Takasaki and of Eguchi and Kanno we have found a proof ofthe main conjecture in the paper. This is outlined in a note on p. 22)Journal-ref: Nucl.Phys. B425 (1994) 150-172
+
+We construct a topological Landau-Ginzburg formulation of the two-dimensionalstring at the self-dual radius. The model is an analytic continuation of the$A_{k+1}$ minimal model to $k=-3$. We compute the superpotential and calculatetachyon correlators in the Landau-Ginzburg framework. The results are incomplete agreement with matrix model calculations. We identify the momentum onetachyon as the puncture operator, non-negative momentum tachyons as primaryfields, and negative momentum ones as descendants. The model thus has aninfinite number of primary fields, and the topological metric vanishes on thesmall phase space when restricted to these. We find a parity invariantmulti-contact algebra with irreducible contact terms of arbitrarily largenumber of fields. The formulation of this Landau-Ginzburg description in termsof period integrals coincides with the genus zero $W_{1+\infty}$ identities oftwo-dimensional string theory. We study the underlying Toda lattice integrablehierarchy in the Lax formulation and find that the Landau-Ginzburgsuperpotential coincides with a derivative of the Baker-Akhiezer wave functionin the dispersionless limit. This establishes a connection between thetopological and integrable structures. Guided by this connection we deriverelations formally analogous to the string equation.

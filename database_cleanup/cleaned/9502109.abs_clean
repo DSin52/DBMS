@@ -1,0 +1,11 @@
+Paper: hep-th/9502109
+
+Date: 1995-02-16
+
+Title: Functional Integration Over Geometries
+
+Comments: 68 pages, Latex document using Revtex Macro package, Contribution to
+
+the special issue of the Journal of Mathematical Physics on FunctionalIntegration, to be published July, 1995.Journal-ref: J.Math.Phys. 36 (1995) 2470-2511
+
+The geometric construction of the functional integral over coset spaces${\cal M}/{\cal G}$ is reviewed. The inner product on the cotangent space ofinfinitesimal deformations of $\cal M$ defines an invariant distance and volumeform, or functional integration measure on the full configuration space. Then,by a simple change of coordinates parameterizing the gauge fiber $\cal G$, thefunctional measure on the coset space ${\cal M}/{\cal G}$ is deduced. Thischange of integration variables leads to a Jacobian which is entirelyequivalent to the Faddeev-Popov determinant of the more traditional gauge fixedapproach in non-abelian gauge theory. If the general construction is applied tothe case where $\cal G$ is the group of coordinate reparametrizations ofspacetime, the continuum functional integral over geometries, {\it i.e.}metrics modulo coordinate reparameterizations may be defined. The invariantfunctional integration measure is used to derive the trace anomaly andeffective action for the conformal part of the metric in two and fourdimensional spacetime. In two dimensions this approach generates thePolyakov-Liouville action of closed bosonic non-critical string theory. In fourdimensions the corresponding effective action leads to novel conclusions on theimportance of quantum effects in gravity in the far infrared, and inparticular, a dramatic modification of the classical Einstein theory atcosmological distance scales, signaled first by the quantum instability ofclassical de Sitter spacetime. Finite volume scaling relations for thefunctional integral of quantum gravity in two and four dimensions are derived,and comparison with the discretized dynamical triangulation approach to theintegration over geometries are discussed.

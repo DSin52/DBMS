@@ -1,0 +1,13 @@
+Paper: hep-th/0206054
+
+Date: 2002-06-06
+
+Title: Topological Disorder Operators in Three-Dimensional Conformal Field
+
+TheoryAuthors: Vadim Borokhov, Anton Kapustin, Xinkai Wu
+
+Comments: 24 pages, latex. v2
+
+Journal-ref: JHEP 0211 (2002) 049
+
+Many abelian gauge theories in three dimensions flow to interacting conformalfield theories in the infrared. We define a new class of local operators inthese conformal field theories which are not polynomial in the fundamentalfields and create topological disorder. They can be regarded ashigher-dimensional analogues of twist and winding-state operators in free 2dCFTs. We call them monopole operators for reasons explained in the text. Theimportance of monopole operators is that in the Higgs phase, they createAbrikosov-Nielsen-Olesen vortices. We study properties of these operators inthree-dimensional QED using large N_f expansion. In particular, we show thatmonopole operators belong to representations of the conformal group whoseprimaries have dimension of order N_f. We also show that monopole operatorstransform non-trivially under the flavor symmetry group, with the preciserepresentation depending on the value of the Chern-Simons coupling.

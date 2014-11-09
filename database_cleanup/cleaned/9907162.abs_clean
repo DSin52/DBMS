@@ -1,0 +1,11 @@
+Paper: hep-th/9907162
+
+Date: 1999-07-20
+
+Title: Chiral Anomalies In Field Theories
+
+Authors: H. Banerjee (S.N. Bose National Centre, Calcutta)
+
+Comments: 25 pages LaTeX, Invited article for a book to be published by the
+
+Indian National Science AcademyThe role of the contribution from the fermion mass term in the axial vectorWard identity in generating the U(1) axial anomaly, both local and global, iselucidated. Gauge invariance requires the fermion to decouple from the gaugefield if it is very heavy. This identifies the Adler-Bell-Jackiw (ABJ) anomalywith the asymptotic limit of the sign reversed mass term. In an instantonbackground, the chiral limit $(m = 0)$ of the mass term does not vanish butconsists of contributions from fermion zero modes. Space time integral of thesezero mode contributions exactly cancels, thanks to the Atiyah-Singer indextheorem, the integral of the ABJ anomaly and suggests that the Jacobian forglobal U(1) chiral transformation is trivial even in an instanton background.This can be realised in the representation of the fermion partition function ina Weyl basis. The resolution of the strong CP problem is thus achieved in anaxionless physical world. In chiral gauge theories the fermion partitionfunction admits of a gauge invariant representation but only at the cost oflocality. Implementation of fermion averaging of the gauge current with theinvariant partition function yields the current whose covariant derivative isthe covariant anomaly. With the covariant current as input one can derive anintegrable current whose covariant derivative is the minimal consistent anomalyobeying the Wess-Zumino consistency condition. The distinction between the twocurrents disappears if either the covariant or the consistent anomaly vanishes.This is realised only if the fermion belongs to an anomaly-free representationof the gauge group.

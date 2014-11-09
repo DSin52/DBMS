@@ -1,0 +1,13 @@
+Paper: hep-th/0004119
+
+Date: 2000-04-17
+
+Title: Spectral Universality of Real Chiral Random Matrix Ensembles
+
+Authors: B. Klein and J.J.M. Verbaarschot (Stony Brook)
+
+Comments: 27 pages, 4 figures, Latex, corrected typos
+
+Journal-ref: Nucl.Phys. B588 (2000) 483-507
+
+We investigate the universality of microscopic eigenvalue correlations forRandom Matrix Theories with the global symmetries of the QCD partitionfunction. In this article we analyze the case of real valued chiral RandomMatrix Theories ($\beta =1$) by relating the kernel of the correlationsfunctions for $\beta =1$ to the kernel of chiral Random Matrix Theories withcomplex matrix elements ($\beta = 2$), which is already known to be universal.Our proof is based on a novel asymptotic property of the skew-orthogonalhalf its asymptotic value in the region of the bulk of the zeros. This resultsolves the puzzle that microscopic universality persists in spite ofcontributions to the microscopic correlators from the region near the largestzero of the skew-orthogonal polynomials. Our analytical results are illustratedby the numerical construction of the skew-orthogonal polynomials for an $x^4$probability potential.

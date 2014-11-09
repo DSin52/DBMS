@@ -1,0 +1,13 @@
+Paper: hep-th/9209005
+
+Date: 1992-09-01
+
+Title: Two-Loop Analysis of Non-abelian Chern-Simons Theory
+
+Authors: Wei Chen, Gordon W. Semenoff and Yong-Shi Wu
+
+Comments: 48 pages, UU/HEP/91/12; file format changed to standard Latex to
+
+solve the problem with printingJournal-ref: Phys.Rev. D46 (1992) 5521-5539
+
+Perturbative renormalization of a non-Abelian Chern-Simons gauge theory isexamined. It is demonstrated by explicit calculation that, in the pureChern-Simons theory, the beta-function for the coefficient of the Chern-Simonsterm vanishes to three loop order. Both dimensional regularization andregularization by introducing a conventional Yang-Mills component in the actionare used. It is shown that dimensional regularization is not gauge invariant attwo loops. A variant of this procedure, similar to regularization bydimensional reduction used in supersymmetric field theories is shown to obeythe Slavnov-Taylor identity to two loops and gives no renormalization of theChern-Simons term. Regularization with Yang-Mills term yields a finiteinteger-valued renormalization of the coefficient of the Chern-Simons term atone loop, and we conjecture no renormalization at higher order. We also examinethe renormalization of Chern-Simons theory coupled to matter. We show that inthe non-abelian case the Chern-Simons gauge field as well as the matter fieldsrequire infinite renormalization at two loops and therefore obtain nontrivialanomalous dimensions. We show that the beta function for the gauge couplingconstant is zero to two-loop order, consistent with the topologicalquantization condition for this constant.

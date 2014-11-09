@@ -1,0 +1,13 @@
+Paper: hep-th/9810248
+
+Date: 1998-10-30
+
+Title: Logarithmic Universality in Random Matrix Theory
+
+Authors: K. Splittorff
+
+Comments: 16 pages, latex2e
+
+Journal-ref: Nucl.Phys. B548 (1999) 613-625
+
+Universality in unitary invariant random matrix ensembles with complex matrixelements is considered. We treat two general ensembles which have a determinantfactor in the weight. These ensembles are relevant, e.g., for spectra of theDirac operator in QCD. In addition to the well established universality withrespect to the choice of potential, we prove that microscopic spectralcorrelators are unaffected when the matrix in the determinant is replaced by anexpansion in powers of the matrix. We refer to this invariance as logarithmicuniversality. The result is used in proving that a simple random matrix modelwith Ginsparg-Wilson symmetry has the same microscopic spectral correlators aschiral random matrix theory.

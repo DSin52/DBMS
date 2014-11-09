@@ -1,0 +1,13 @@
+Paper: hep-th/0205253
+
+Date: 2002-05-24
+
+Title: Convergence of the Gaussian Expansion Method in Dimensionally Reduced
+
+Yang-Mills IntegralsAuthors: Jun Nishimura (Nagoya U.), Toshiyuki Okubo (Nagoya U.), Fumihiko
+
+Sugino (Saclay)Comments: LaTeX, 4 pages, 5 figures; title slightly changed, explanations added
+
+(16 pages, 14 figures), final version published in JHEPJournal-ref: JHEP 0210 (2002) 043
+
+We advocate a method to improve systematically the self-consistent harmonicapproximation (or the Gaussian approximation), which has been employedextensively in condensed matter physics and statistical mechanics. Wedemonstrate the {\em convergence} of the method in a model obtained fromdimensional reduction of SU($N$) Yang-Mills theory in $D$ dimensions. Explicitcalculations have been carried out up to the 7th order in the large-N limit,and we do observe a clear convergence to Monte Carlo results. For $D \gtrsim10$ the convergence is already achieved at the 3rd order, which suggests thatthe method is particularly useful for studying the IIB matrix model, aconjectured nonperturbative definition of type IIB superstring theory.

@@ -1,0 +1,13 @@
+Paper: hep-th/9312032
+
+Date: 1993-12-03
+
+Title: On the integrability of N=2 supersymmetric massive theories
+
+Authors: C.Gomez and G.Sierra
+
+Comments: 26 pages, Latex (this version replaces a previously corrupted one;
+
+epic.sty macro needed, available from hep-th in compressed formepic.sty.tar.Z)Journal-ref: Nucl.Phys. B419 (1994) 589-610
+
+In this paper we propose a criteria to establish the integrability of N=2supersymmetric massive theories.The basic data required are the vacua and thespectrum of Bogomolnyi solitons, which can be neatly encoded in a graph(nodes=vacua and links= Bogomolnyi solitons). Integrability is then equivalentto the existence of solutions of a generalized Yang-Baxter equation which isbuilt up from the graph (graph-Yang-Baxter equation). We solve this equationA_n(t_2), D_n(\tau),E_6(t_7), E_8(t_16). For circular graphs the solutions areintertwiners of the affine Hopf algebra $\tilde(U)_q(A^{(1)}_1)$, while fordaisy graphs the solution corresponds to a susy generalization of the Boltzmannweights of the chiral Potts model in the trigonometric regime. A chiral Pottslike solution is conjectured for the more tricky case $ D_n(t_2)$. Thescattering theory of circular models, for instance $A_n(t_1)$ or $D_n(\tau)$,is Toda like. The physical spectrum of daisy models, as $A_n(t_2), E_6(t_7)$ or$E_8(t_16)$, is given by confined states of radial solitons. The scatteringtheory of the confined states is again Toda like. Bootstrap factors for theconfined solitons are given by fusing the susy chiral Potts S-matrices of theelementary constituents, i.e. the radial solitons of the daisy graph.

@@ -1,0 +1,11 @@
+Paper: hep-th/0006006
+
+Date: 2000-06-01
+
+Title: Quantum Mechanics on the Hypercube
+
+Authors: E. G. Floratos (NRCPS Demokritos) and S. Nicolis (CNRS-LMPT Tours)
+
+Comments: 8 pages LaTeX (needs amssymb.sty)
+
+We construct quantum evolution operators on the space of states, that isrepresented by the vertices of the n-dimensional unit hypercube. They realizethe metaplectic representation of the modular group SL(2,Z(2^n)). Byconstruction this representation acts in a natural way on the coordinates ofthe non-commutative 2-torus,T^2, and thus is relevant for noncommutative fieldtheories as well as theories of quantum space-time.

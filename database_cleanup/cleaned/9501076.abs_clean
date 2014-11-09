@@ -1,0 +1,9 @@
+Paper: hep-th/9501076
+
+Date: 1995-01-18
+
+Title: Form Factors from Vertex Operators and Correlation Functions at q=1
+
+Comments: 20 pages, for proceedings of SMQFT Conference, USC, Los Angeles, May
+
+1994.We present a new application of affine Lie algebras to massive quantum fieldtheory in 2 dimensions, by investigating the $q\to 1$ limit of the q-deformedaffine $\hat{sl(2)}$ symmetry of the sine-Gordon theory, this limit occurringat the free fermion point. We describe how radial quantization leads to aquasi-chiral factorization of the space of fields. The conserved charges whichgenerate the affine Lie algebra split into two independent affine algebras onthis factorized space, each with level 1, in the anti-periodic sector. Thespace of fields in the anti-periodic sector can be organized using level-$1$highest weight representations, if one supplements the $\slh$ algebra with theusual local integrals of motion. Using the integrals of motion, a momentumspace bosonization involving vertex operators is formulated. This leads to anew way of computing form-factors, as vacuum expectation values in momentumspace. The problem of non-trivial correlation functions in this model is alsodiscussed; in particular it is shown how space-time translational anomalieswhich arise in radial quantization can be used to compute the short distanceexpansion of some simple correlation functions.

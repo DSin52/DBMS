@@ -1,0 +1,11 @@
+Paper: hep-th/0303029
+
+Date: 2003-03-04
+
+Title: Asymptotic quasinormal modes of Reissner-Nordstr\"om and Kerr black
+
+holesAuthors: Emanuele Berti, Kostas D. Kokkotas
+
+Comments: 13 pages, 7 figures. New results on scalar Schwarzschild modes and
+
+Kerr modes, improved presentationAccording to a recent proposal, the so-called Barbero-Immirzi parameter ofLoop Quantum Gravity can be fixed, using Bohr's correspondence principle, froma knowledge of highly-damped black hole oscillation frequencies. Suchfrequencies are rather difficult to compute, even for Schwarzschild blackholes. However, it is now quite likely that they may provide a fundamental linkbetween classical general relativity and quantum theories of gravity. Here wecarry out the first numerical computation of very highly damped quasinormalmodes (QNM's) for charged and rotating black holes. In the Reissner-Nordstr\"omcase QNM frequencies and damping times show an oscillatory behaviour as afunction of charge. The oscillations become faster as the mode order increases.At fixed mode order, QNM's describe spirals in the complex plane as the chargeis increased, tending towards a well defined limit as the hole becomesextremal. Kerr QNM's have a similar oscillatory behaviour when the angularindex $m=0$. For $l=m=2$ and large enough rotation parameter Kerr QNMfrequencies tend to $2\Omega$, $\Omega$ being the angular velocity of the blackhole horizon.

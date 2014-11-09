@@ -1,0 +1,13 @@
+Paper: hep-th/9812080
+
+Date: 1998-12-09
+
+Title: Systematic Renormalization in Hamiltonian Light-Front Field Theory
+
+Massive GeneralizationAuthors: Roger D. Kylin, Brent H. Allen, and Robert J. Perry
+
+Comments: 7 pages, 2 figures. Corrected error in Eq. (11), v3
+
+disclaimer after Eq. (2), and some clarification at end of Sec. 3.3. Finalpublished versionJournal-ref: Phys.Rev. D60 (1999) 067704
+
+Hamiltonian light-front field theory can be used to solve for hadron statesin QCD. To this end, a method has been developed for systematic renormalizationof Hamiltonian light-front field theories, with the hope of applying the methodto QCD. It assumed massless particles, so its immediate application to QCD islimited to gluon states or states where quark masses can be neglected. Thispaper builds on the previous work by including particle massesnon-perturbatively, which is necessary for a full treatment of QCD. We showthat several subtle new issues are encountered when including massesnon-perturbatively. The method with masses is algebraically and conceptuallymore difficult; however, we focus on how the methods differ. We demonstrate themethod using massive phi^3 theory in 5+1 dimensions, which has importantsimilarities to QCD.

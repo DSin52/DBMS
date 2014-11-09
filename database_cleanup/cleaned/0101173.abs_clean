@@ -1,0 +1,13 @@
+Paper: hep-th/0101173
+
+Date: 2001-01-25
+
+Title: Evolution of Fixed-End Strings and the Off-Shell Disk Amplitude
+
+Authors: Peter Orland (Grad School and Univ. Center and Baruch Coll., CUNY)
+
+Comments: Latex file, 19 pages, no figures
+
+Journal-ref: Nucl.Phys. B605 (2001) 64-80
+
+An exact integral expression is found for the amplitude of a Bosonic stringwith ends separated by a fixed distance $R$ evolving over a time $T$ betweenarbitrary initial and final configurations. It is impossible to make acovariant subtraction of a covariant quantity which would render the amplitudenon-zero. It is suggested that this fact (and not the tachyon) is responsiblefor the lack of a continuum limit of regularized random-surface models withtarget-space dimension greater than one. It appears consistent, however, toremove this quantity by hand. The static potential of Alvarez and Arvis $V(R)$is recovered from the resulting finite amplitude for $R>R_{c}$. For $R<R_{c}$,we find $V(R)=-\infty$, instead of the usual tachyonic result. Arotation-invariant expression is proposed for special cases of the off-shelldisk amplitude. {\it None} of the finite amplitudes discussed are Nambu orPolyakov functional integrals, except through an unphysical analyticcontinuation. We argue that the Liouville field does not decouple in off-shellamplitudes, even when the space-time dimension is twenty-six.

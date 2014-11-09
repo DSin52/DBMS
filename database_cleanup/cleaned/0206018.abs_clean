@@ -1,0 +1,11 @@
+Paper: hep-th/0206018
+
+Date: 2002-06-03
+
+Title: Quantum field theories on noncommutative R^4 versus theta-expanded
+
+quantum field theoriesAuthors: Raimar Wulkenhaar (Leipzig)
+
+Comments: LaTeX, 27 pages, 3 figures, uses feynmf package. v2
+
+references added. To appear in proceedings of Hesselberg 2002 workshop on"Theory of renormalisation and regularisation", eds. R. Nest, F. Scheck andE. VogtI recall the main motivation to study quantum field theories onnoncommutative spaces and comment on the most-studied example, thenoncommutative R^4. That algebra is given by the *-product which can be writtenforms of the *-product are adapted to different classes of functions, which,when using them to formulate field theory, lead to two versions of quantumfield theories on noncommutative R^4. The integral form requires functions ofrapid decay and a (preferably smooth) cut-off in the path integral, whichtherefore should be evaluated by exact renormalisation group methods. Theexponential form is adapted to analytic functions with arbitrary behaviour atinfinity, so that Feynman graphs can be used to compute the path integral(without cut-off) perturbatively.

@@ -1,0 +1,11 @@
+Paper: hep-th/0206216
+
+Date: 2002-06-24
+
+Title: On the BRST Cohomology of Superstrings with/without Pure Spinors
+
+Authors: P.A. Grassi (1), G. Policastro (2), and P. van Nieuwenhuizen (1), ((1)
+
+YITP, Stony Brook, (2) Scuola Normale Superiore, Pisa)Comments: 25 pages, TeX
+
+We replace our earlier condition that physical states of the superstring havenon-negative grading by the requirement that they are analytic in a new realcommuting constant t which we associate with the central charge of theunderlying Kac-Moody superalgebra. The analogy with the twisted N=2 SYM theorysuggests that our covariant superstring is a twisted version of anotherformulation with an equivariant cohomology. We prove that our vertex operatorscorrespond in one-to-one fashion to the vertex operators in Berkovits' approachbased on pure spinors. Also the zero-momentum cohomology is equal in bothcases. Finally, we apply the methods of equivariant cohomology to thesuperstring, and obtain the same BRST charge as obtained earlier by relaxingthe pure spinor constraints.

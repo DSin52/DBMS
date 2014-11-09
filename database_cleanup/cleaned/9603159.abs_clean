@@ -1,0 +1,13 @@
+Paper: hep-th/9603159
+
+Date: 1996-03-25
+
+Title: Path Integral Evaluation of Non-Abelian Anomaly and
+
+Pauli--Villars--Gupta RegularizationAuthors: Kiyoshi Okuyama and Hiroshi Suzuki (Ibaraki University)
+
+Comments: 12 pages, PHYZZX, all the misleading descriptions were removed
+
+Journal-ref: Phys.Lett. B382 (1996) 117-123
+
+When the path integral method of anomaly evaluation is applied to chiralgauge theories, two different types of gauge anomaly, i.e., the consistent formand the covariant form, appear depending on the regularization scheme for theJacobian factor. We clarify the relation between the regularization scheme andthe Pauli--Villars--Gupta (PVG) type Lagrangian level regularization. Theconventional PVG, being non-gauge invariant for chiral gauge theories, ingeneral corresponds to the consistent regularization scheme. The covariantregularization scheme, on the other hand, is realized by the generalized PVGLagrangian recently proposed by Frolov and Slavnov. These correspondences areclarified by reformulating the PVG method as a regularization of the compositegauge current operator.

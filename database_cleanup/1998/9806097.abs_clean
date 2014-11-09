@@ -1,0 +1,13 @@
+Paper: hep-th/9806097
+
+Date: 1998-06-12
+
+Title: Similarity Renormalization, Hamiltonian Flow Equations, and Dyson's
+
+Intermediate RepresentationAuthors: T.S. Walhout
+
+Comments: REVTex, 32 pages, 7 figures (corrected references)
+
+Journal-ref: Phys.Rev. D59 (1999) 065009
+
+A general framework is presented for the renormalization of Hamiltonians viaa similarity transformation. Divergences in the similarity flow equations maybe handled with dimensional regularization in this approach, and the resultingeffective Hamiltonian is finite since states well-separated in energy areuncoupled. Specific schemes developed several years ago by Glazek and Wilsonand contemporaneously by Wegner correspond to particular choices within thisframework, and the relative merits of such choices are discussed from thisvantage point. It is shown that a scheme for the transformation of Hamiltoniansintroduced by Dyson in the early 1950's also corresponds to a particular choicewithin the similarity renormalization framework, and it is argued that Dyson'sscheme is preferable to the others for ease of computation. As an example, itis shown how a logarithmically confining potential arises simply at secondorder in light-front QCD within Dyson's scheme, a result found previously forother similarity renormalization schemes. Steps toward higher order andnonperturbative calculations are outlined. In particular, a set of equationsanalogous to Dyson-Schwinger equations is developed.

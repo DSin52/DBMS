@@ -1,0 +1,13 @@
+Paper: hep-th/9411066
+
+Date: 1994-11-10
+
+Title: Phase Operator for the Photon Field and an Index Theorem
+
+Authors: Kazuo Fujikawa
+
+Comments: 32 pages, Latex
+
+Journal-ref: Phys.Rev. A52 (1995) 3299-3307
+
+An index relation $dim\ ker\ a^{\dagger}a - dim\ ker\ aa^{\dagger} = 1$ issatisfied by the creation and annihilation operators $a^{\dagger}$ and $a$ of aharmonic oscillator. A hermitian phase operator, which inevitably leads to$dim\ ker\ a^{\dagger}a - dim\ ker\ aa^{\dagger} = 0$, cannot be consistentlydefined. If one considers an $s+1$ dimensional truncated theory, a hermitianphase operator of Pegg and Barnett which carries a vanishing index can bedefined. However, for arbitrarily large $s$, we show that the vanishing indexof the hermitian phase operator of Pegg and Barnett causes a substantialdeviation from minimum uncertainty in a characteristically quantum domain withsmall average photon numbers. We also mention an interesting analogy betweenthe present problem and the chiral anomaly in gauge theory which is related tothe Atiyah-Singer index theorem. It is suggested that the phase operatorproblem related to the above analytic index may be regarded as a new class ofquantum anomaly. From an anomaly view point ,it is not surprising that thephase operator of Susskind and Glogower, which carries a unit index, leads toan anomalous identity and an anomalous commutator.

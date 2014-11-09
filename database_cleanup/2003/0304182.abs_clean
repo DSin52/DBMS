@@ -1,0 +1,11 @@
+Paper: hep-th/0304182
+
+Date: 2003-04-21
+
+Title: Relativistic center-vortex dynamics of a confining area law
+
+Authors: John M. Cornwall (Department of Physics and Astronomy, UCLA)
+
+Comments: 20 pages RevTeX4 with 3 .eps figures
+
+We offer a physicists' proof that center-vortex theory requires the area inthe Wilson-loop area law to involve an extremal area. Area-law dynamics isdetermined by integrating over Wilson loops only, not over surface fluctuationsfor a fixed loop. Fluctuations leading to to perimeter-law corrections comefrom loop fluctuations as well as integration over finite -thicknesscenter-vortex collective coordinates. In d=3 (or d=2+1) we exploit a contourform of the extremal area in isothermal which is similar to d=2 (or d=1+1) QCDin many respects, except that there are both quartic and quadratic terms in theaction. One major result is that at large angular momentum \ell in d=3+1 thecenter-vortex extremal-area picture yields a linear Regge trajectory with Reggeslope--string tension product \alpha'(0)K_F of 1/(2\pi), which is the canonicalVeneziano/string value. In a curious effect traceable to retardation, the quarkkinetic terms in the action vanish relative to area-law terms in the large-\elllimit, in which light-quark masses \sim K_F^{1/2} are negligible. Thiscorresponds to string-theoretic expectations, even though we emphasize that theextremal-area law is not a string theory quantum-mechanically. We show how somequantum trajectory fluctuations as well as non-leading classical terms forfinite mass yield corrections scaling with \ell^{-1/2}. We compare to oldsemiclassical calculations of relativistic q\bar{q} bound states at large \ell,which also yield asymptotically-linear Regge trajectories, finding agreementwith a naive string picture (classically, not quantum-mechanically) anddisagreement with an effective-propagator model. We show that contour forms ofthe area law can be expressed in terms of Abelian gauge potentials, and relatethis to old work of Comtet.

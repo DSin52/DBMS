@@ -1,0 +1,13 @@
+Paper: hep-th/9706160
+
+Date: 1997-06-23
+
+Title: BRST Symmetries for the Tangent Gauge Group
+
+Authors: A. S. Cattaneo, P. Cotta-Ramusino, M. Rinaldi
+
+Comments: 33 pages, TeX; revised version with minor corrections; to appear in
+
+J. Math. PhysAlgebraJournal-ref: J.Math.Phys. 39 (1998) 1316-1339
+
+For any principal bundle $P$, one can consider the subspace of the space ofconnections on its tangent bundle $TP$ given by the tangent bundle $T{\cal A}$of the space of connections ${\cal A}$ on $P$. The tangent gauge group actsfreely on $T{\cal A}$. Appropriate BRST operators are introduced for quantumfield theories that include as fields elements of $T{\cal A}$, as well astangent vectors to the space of curvatures. As the simplest application, theBRST symmetry of the so-called $BF$-Yang-Mills theory is described and therelevant gauge fixing conditions are analyzed. A brief account on thetopological $BF$ theories is also included and the relevant Batalin-Vilkoviskyoperator is described.

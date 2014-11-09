@@ -1,0 +1,13 @@
+Paper: hep-th/9604182
+
+Date: 1996-04-29
+
+Title: One-Loop Divergences in Simple Supergravity
+
+Authors: Giampiero Esposito and Alexander Yu. Kamenshchik
+
+Comments: 37 pages, Revtex. Equations (5.2), (5.3), (5.5), (5.7), (5.8) and
+
+(5.13) have been amended, jointly with a few misprintsJournal-ref: Phys.Rev. D54 (1996) 3869-3881
+
+This paper studies the semiclassical approximation of simple supergravity inRiemannian four-manifolds with boundary, within the framework of$\zeta$-function regularization. The massless nature of gravitinos, jointlywith the presence of a boundary and a local description in terms of potentialsfor spin ${3\over 2}$, force the background to be totally flat. First, nonlocalboundary conditions of the spectral type are imposed on spin-${3\over 2}$potentials, jointly with boundary conditions on metric perturbations which arecompletely invariant under infinitesimal diffeomorphisms. The axialgauge-averaging functional is used, which is then sufficient to ensureself-adjointness. One thus finds that the contributions of ghost and gaugemodes vanish separately. Hence the contributions to the one-loop wave functionof the universe reduce to those $\zeta(0)$ values resulting from physical modesonly. Another set of mixed boundary conditions, motivated instead by localsupersymmetry and first proposed by Luckock, Moss and Poletti, is alsoanalyzed. In this case the contributions of gauge and ghost modes do not canceleach other. Both sets of boundary conditions lead to a nonvanishing $\zeta(0)$value, and spectral boundary conditions are also studied when two concentricthree-sphere boundaries occur. These results seem to point out that simplesupergravity is not even one-loop finite in the presence of boundaries.

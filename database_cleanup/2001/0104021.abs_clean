@@ -1,0 +1,13 @@
+Paper: hep-th/0104021
+
+Date: 2001-04-03
+
+Title: Loop Equation and Wilson line Correlators in Non-commutative Gauge
+
+TheoriesAuthors: Avinash Dhar and Yoshihisa Kitazawa
+
+Comments: typos corrected and references updated; version to appear in Nucl.
+
+Phys. BJournal-ref: Nucl.Phys. B613 (2001) 105-126
+
+We investigate Schwinger-Dyson equations for correlators of Wilson lineoperators in non-commutative gauge theories. We point out that, unlike whathappens for closed Wilson loops, the joining term survives in the planarequations. This fact may be used to relate the correlator of an arbitrarynumber of Wilson lines eventually to a set of {\it closed} Wilson loops,obtained by joining the individual Wilson lines together by a series ofwell-defined cutting and joining manipulations. For closed loops, we find thatthe non-planar contributions do not have a smooth limit in the limit ofvanishing non-commutativity and hence the equations do not reduce to theircommutative counterparts. We use the Schwinger-Dyson equations to derive loopequations for the correlators of Wilson observables. In the planar limit, thisgives us a {\it new} loop equation which relates the correlators of Wilsonlines to the expectation values of closed Wilson loops. We discuss perturbativeverification of the loop equation for the 2-point function in some detail. Wealso suggest a possible connection between Wilson line based on an arbitrarycontour and the string field of closed string.

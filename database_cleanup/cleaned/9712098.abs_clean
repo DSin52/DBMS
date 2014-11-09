@@ -1,0 +1,11 @@
+Paper: hep-th/9712098
+
+Date: 1997-12-09
+
+Title: Renormalization group flow for Yang-Mills fields interacting with matter
+
+Authors: S. Arnone and A. Panza
+
+Comments: 12 pages, no figures
+
+We show an application of the Wilson Renormalization Group (RG) method to aSU(2 ) gauge field theory in interaction with a massive fermionic doublet. Bychoosing suitable boundary conditions to the RG equation, i.e. by requiring therelevant monomials not present in the classical action to satisfy theSlavnov-Taylor identities once the cutoffs are removed, we succeed inimplementing the local gauge symmetry. In this way the so called fine-tuningproblem, due to the assignation of boundary conditions in terms of the bareparameters, is avoided. In this framework, loop expansion is equivalent to theiterative solution of the RG equation; we perform one loop calculations inorder to determine how much the fermionic matter modifies the asymptotic formof the couplings. Then we compute the beta-function and we check gluontransversality. Finally, a proof of perturbative renormalizability is shown.

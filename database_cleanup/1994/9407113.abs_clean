@@ -1,0 +1,13 @@
+Paper: hep-th/9407113
+
+Date: 1994-07-19
+
+Title: Integrable theories that are asymptotically CFT
+
+Authors: Jonathan M. Evans and Timothy J. Hollowood
+
+Comments: typos in two important formulae corrected, references added, version
+
+to appear in Nucl. Phys. B, 21 pages, plain tex with macro includedJournal-ref: Nucl.Phys. B438 (1995) 469-490
+
+A series of sigma models with torsion are analysed which generate their massdynamically but whose ultra-violet fixed points are non-trivial conformal fieldtheories -- in fact SU(2) WZW models at level $k$. In contrast to the morefamiliar situation of asymptotically free theories in which the fixed pointsare trivial, the sigma models considered here may be termed ``asymptoticallyCFT''. These theories have previously been conjectured to be quantumintegrable; this is confirmed by postulating a factorizable S-matrix todescribe their infra-red behaviour and then carrying out a stringent test ofthis proposal. The test involves coupling the theory to a conserved charge andevaluating the response of the free-energy both in perturbation theory to oneloop and directly from the S-matrix via the Thermodynamic Bethe Ansatz with achemical potential at zero temperature. Comparison of these results providesconvincing evidence in favour of the proposed S-matrix; it also yields theuniversal coefficients of the beta-function and allows for an evaluation of themass gap (the ratio of the physical mass to the $\Lambda$-parameter) to leadingorder in $1/k$.

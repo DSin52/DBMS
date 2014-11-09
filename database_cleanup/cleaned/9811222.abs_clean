@@ -1,0 +1,13 @@
+Paper: hep-th/9811222
+
+Date: 1998-11-25
+
+Title: Functional Evolution of Free Quantum Fields
+
+Authors: C. G. Torre and M. Varadarajan
+
+Comments: 21 pages, RevTeX, minor improvements in exposition, to appear in
+
+Classical and Quantum GravityJournal-ref: Class.Quant.Grav. 16 (1999) 2651-2668
+
+We consider the problem of evolving a quantum field between any two (ingeneral, curved) Cauchy surfaces. Classically, this dynamical evolution isrepresented by a canonical transformation on the phase space for the fieldtheory. We show that this canonical transformation cannot, in general, beunitarily implemented on the Fock space for free quantum fields on flatspacetimes of dimension greater than 2. We do this by considering timeevolution of a free Klein-Gordon field on a flat spacetime (with toroidalCauchy surfaces) starting from a flat initial surface and ending on a genericfinal surface. The associated Bogolubov transformation is computed; it does notcorrespond to a unitary transformation on the Fock space. This means thatfunctional evolution of the quantum state as originally envisioned by Tomonaga,Schwinger, and Dirac is not a viable concept. Nevertheless, we demonstrate thatfunctional evolution of the quantum state can be satisfactorily described usingthe formalism of algebraic quantum field theory. We discuss possibleimplications of our results for canonical quantum gravity.

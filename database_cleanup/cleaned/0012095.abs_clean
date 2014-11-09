@@ -1,0 +1,13 @@
+Paper: hep-th/0012095
+
+Date: 2000-12-11
+
+Title: Extended Hamiltonian Formalism of the Pure Space-Like Axial Gauge
+
+Schwinger ModelAuthors: Y. Nakawaki and G. McCartor
+
+Comments: 23 pages and uses seceq, psfig and ptptex
+
+Journal-ref: Prog.Theor.Phys. 106 (2001) 167-186
+
+We demonstrate that pure space-like axial gauge quantizations of gauge fieldscan be constructed in ways which are free from infrared divergences. We begin$x^+=x^0\sin{\theta}+x^1\cos{\theta}, x^-=x^0\cos{\theta}-x^1\sin{\theta}$. For\theta less than \pi\over 4 we can take $x^-$ as the evolution parameter andconstruct a traditional canonical formulation of the temporal gauge Schwingermodel in which residual gauge fields dependent only on $x^+$ are staticcanonical variables. Then we extrapolate the temporal gauge operator solutioninto the axial region, \theta > \pi \over 4, where $x^+$ is taken as theevolution parameter. In the axial region we find that we have to changerepresentations of the residual gauge fields from one realizing the PVprescription to one realizing the ML prescription in order for the infrareddivergences resulting from $({\partial}_-)^{-1}$ to be canceled bycorresponding ones resulting from the inverse of the hyperbolic Laplaceoperator. Finally, by taking the limit ${\theta}\to\frac{\pi}{2}-0$ we obtainan operator solution and the Hamiltonian of the axial gauge (Coulomb gauge)Schwinger model in ordinary coordinates. That solution includes auxiliaryfields and the representation space is of indefinite metric, providing furtherevidence that ``physical'' gauges are no more physical than ``unphysical''gauges.

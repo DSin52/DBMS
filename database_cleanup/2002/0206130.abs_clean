@@ -1,0 +1,9 @@
+Paper: hep-th/0206130
+
+Date: 2002-06-15
+
+Title: Higher Yang-Mills Theory
+
+Comments: 20 pages LaTeX with XY-pic figures
+
+Electromagnetism can be generalized to Yang-Mills theory by replacing thegroup U(1)$ by a nonabelian Lie group. This raises the question of whether onecan similarly generalize 2-form electromagnetism to a kind of"higher-dimensional Yang-Mills theory". It turns out that to do this, oneshould replace the Lie group by a "Lie 2-group", which is a category C wherethe set of objects and the set of morphisms are Lie groups, and the source,target, identity and composition maps are homomorphisms. We show that this isconditions. Following Breen and Messing's ideas on the geometry of nonabeliangerbes, one can define "principal 2-bundles" for any Lie 2-group C and do gaugetheory in this new context. Here we only consider trivial 2-bundles, where aconnection consists of a Lie(G)-valued 1-form together with an Lie(H)-valued2-form, and its curvature consists of a Lie(G)-valued 2-form together with aLie(H)-valued 3-form. We generalize the Yang-Mills action for this sort ofconnection, and use this to derive "higher Yang-Mills equations". Finally, weshow that in certain cases these equations admit self-dual solutions in fivedimensions.

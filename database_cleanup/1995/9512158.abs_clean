@@ -1,0 +1,13 @@
+Paper: hep-th/9512158
+
+Date: 1995-12-20
+
+Title: Non-canonical folding of Dynkin diagrams and reduction of affine Toda
+
+theoriesAuthors: S. Pratik Khastgir and Ryu Sasaki
+
+Comments: 26 pages, Latex2e, usepackage `graphics.sty', 15 figures
+
+Journal-ref: Prog.Theor.Phys. 95 (1996) 503-518
+
+The equation of motion of affine Toda field theory is a coupled equation for$r$ fields, $r$ is the rank of the underlying Lie algebra. Most of the theoriesadmit reduction, in which the equation is satisfied by fewer than $r$ fields.The reductions in the existing literature are achieved by identifying (folding)the points in the Dynkin diagrams which are connected by symmetry(automorphism). In this paper we present many new reductions. In other wordsthe symmetry of affine Dynkin diagrams could be extended and it leads tonon-canonical foldings. We investigate these reductions in detail and formulategeneral rules for possible reductions. We will show that eventually most of thetheories end up in $a_{2n}^{(2)}$ that is the theory cannot have a furtherdimension $m$ reduction where $m<n$.

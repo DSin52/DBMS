@@ -1,0 +1,13 @@
+Paper: hep-th/0104244
+
+Date: 2001-04-27
+
+Title: Comments on the Energy-Momentum Tensor in Non-Commutative Field Theories
+
+Authors: Mohab Abou-Zeid and Harald Dorn
+
+Comments: LaTeX, 10 pages, no figures; v2
+
+version to appear in PLBJournal-ref: Phys.Lett. B514 (2001) 183-188
+
+In a non-commutative field theory, the energy-momentum tensor obtained fromthe Noether method needs not be symmetric; in a massless theory, it needs notbe traceless either. In a non-commutative scalar field theory, the methodyields a locally conserved yet non-symmetric energy-momentum tensor whose tracedoes not vanish for massless fields. A non-symmetric tensor also governs theresponse of the action to a general coordinate transformation. Innon-commutative gauge theory, if translations are suitably combined with gaugetransformations, the method yields a covariantly constant tensor which issymmetric but only gauge covariant. Using suitable Wilson functionals, this canbe improved to yield a locally conserved and gauge invariant, albeitnon-symmetric, energy-momentum tensor.

@@ -1,0 +1,11 @@
+Paper: hep-th/0301040
+
+Date: 2003-01-08
+
+Title: Twisted boundary states in c=1 coset conformal field theories
+
+Authors: Hiroshi Ishikawa (Tohoku U.), Atsushi Yamaguchi (U. Tokyo, Komaba)
+
+Comments: 44 pages, 1 figure; (v2) minor change in section 2.3, references
+
+addedWe study the mutual consistency of twisted boundary conditions in the cosetconformal field theory G/H. We calculate the overlap of the twisted boundarystates of G/H with the untwisted ones, and show that the twisted boundarystates are consistently defined in the diagonal modular invariant. The overlapof the twisted boundary states is expressed by the branching functions of atwisted affine Lie algebra. As a check of our argument, we study the diagonalcoset theory so(2n)_1 \oplus so(2n)_1/so(2n)_2, which is equivalent with theorbifold S^1/\Z_2. We construct the boundary states twisted by theautomorphisms of the unextended Dynkin diagram of so(2n), and show their mutualconsistency by identifying their counterpart in the orbifold. For the trialityof so(8), the twisted states of the coset theory correspond to neither theNeumann nor the Dirichlet boundary states of the orbifold and yield theconformal boundary states that preserve only the Virasoro algebra.

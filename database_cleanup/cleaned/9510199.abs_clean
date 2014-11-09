@@ -1,0 +1,13 @@
+Paper: hep-th/9510199
+
+Date: 1995-10-26
+
+Title: A geometric approach to free variable loop equations in discretized
+
+theories of 2D gravityAuthors: Sean M. Carroll, Miguel E. Ortiz and Washington Taylor IV
+
+Comments: 40 pages, 8 figures, LaTeX; final publication version
+
+Journal-ref: Nucl.Phys. B468 (1996) 383-419
+
+We present a self-contained analysis of theories of discrete 2D gravitycoupled to matter, using geometric methods to derive equations for generatingfunctions in terms of free (noncommuting) variables. For the class of discretegravity theories which correspond to matrix models, our method is ageneralization of the technique of Schwinger-Dyson equations and is closelyrelated to recent work describing the master field in terms of noncommutingvariables; the important differences are that we derive a single equation forthe generating function using purely graphical arguments, and that the approachis applicable to a broader class of theories than those described by matrixmodels. Several example applications are given here, including theories ofgravity coupled to a single Ising spin ($c = 1/2$), multiple Ising spins ($c =k/2$), a general class of two-matrix models which includes the Ising theory andits dual, the three-state Potts model, and a dually weighted graph model whichdoes not admit a simple description in terms of matrix models.

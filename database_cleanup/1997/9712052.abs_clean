@@ -1,0 +1,13 @@
+Paper: hep-th/9712052
+
+Date: 1997-12-05
+
+Title: Constrained Dynamics for Quantum Mechanics I. Restricting a Particle to
+
+a SurfaceAuthors: Hendrik Grundling and C.A. Hurst
+
+Comments: 49 pages, TEX, input files amssym.def, amssym.tex
+
+Journal-ref: J.Math.Phys. 39 (1998) 3091-3119
+
+We analyze constrained quantum systems where the dynamics do not preserve theconstraints. This is done in particular for the restriction of a quantumparticle in Euclidean n-space to a curved submanifold, and we propose a methodof constraining and dynamics adjustment which produces the right Hamiltonian onthe submanifold when tested on known examples. This method we hope will becomethe germ of a full Dirac algorithm for quantum constraints. We take a firststep in generalising it to the situation where the constraint is a generalselfadjoint operator with some additional structures.

@@ -1,0 +1,11 @@
+Paper: hep-th/0301100
+
+Date: 2003-01-15
+
+Title: Ultraviolet Finite Quantum Field Theory on Quantum Spacetime
+
+Authors: D. Bahns (1), S. Doplicher (2), K. Fredenhagen (1) and G. Piacitelli
+
+(2) ((1) II. Institut f\"ur Theoretische Physik, Universit\"at Hamburg, (2)Dipartimento di Matematica, Universit\`a di Roma "La Sapienza")Comments: LaTeX (using amsmath, amssymb), 22 pages, 1 figure. Dedicated to
+
+Rudolf Haag on the occasion of his 80th birthdayWe discuss a formulation of quantum field theory on quantum space time wherethe perturbation expansion of the S-matrix is term by term ultraviolet finite.The characteristic feature of our approach is a quantum version of the Wickset equal to zero, which would violate the commutation relation between theircomponents. We show that the optimal degree of approximate coincidence can bedefined by the evaluation of a conditional expectation which replaces eachfunction of q_j - q_k by its expectation value in optimally localized states,while leaving the mean coordinates (q_1 + ... + q_n)/n invariant.The resulting procedure is to a large extent unique, and is invariant undertranslations and rotations, but violates Lorentz invariance. Indeed, optimallocalization refers to a specific Lorentz frame, where the electric andmagnetic parts of the commutator of the coordinates have to coincide*).Employing an adiabatic switching, we show that the S-matrix is term by termfinite. The matrix elements of the transfer matrix are determined, at eachorder in the perturbative expansion, by kernels with Gaussian decay in thePlanck scale. The adiabatic limit and the large scale limit of this theory willbe studied elsewhere.--*) S. Doplicher, K. Fredenhagen, and J.E.Roberts, Commun. Math. Phys. 172,187 (1995)

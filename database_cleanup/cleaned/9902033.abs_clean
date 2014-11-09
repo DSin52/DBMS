@@ -1,0 +1,13 @@
+Paper: hep-th/9902033
+
+Date: 1999-02-03
+
+Title: On Mirror Symmetry in Three Dimensional Abelian Gauge Theories
+
+Authors: Anton Kapustin and Matthew J. Strassler (Institute for Advanced Study)
+
+Comments: 23 pages; Revision includes a new section discussing multiple mirror
+
+transforms of a single theory ("piecewise" mirror transforms.)Journal-ref: JHEP 9904 (1999) 021
+
+We present an identity relating the partition function of N=4 supersymmetricQED to that of its dual under mirror symmetry. The identity is a generalizedFourier transform. Many known properties of abelian theories can be derivedfrom this formula, including the mirror transforms for more general gauge andmatter content. We show that N=3 Chern-Simons QED and N=4 QED with BF-typecouplings are conformal field theories with exactly marginal couplings. Mirrorsymmetry acts on these theories as strong-weak coupling duality. Afteridentifying the mirror of the gauge coupling (sometimes called the ``magneticcoupling'') we construct a theory which is exactly mirror -- at all scales --to N=4 SQED. We also study vortex-creation operators in the large $N_f$ limit.

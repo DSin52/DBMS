@@ -1,0 +1,13 @@
+Paper: hep-th/9912119
+
+Date: 1999-12-14
+
+Title: The AdS/CFT Correspondence Conjecture and Topological Censorship
+
+Authors: G. Galloway, K. Schleich, D. Witt and E. Woolgar
+
+Comments: Revtex, 20 pages
+
+Journal-ref: Phys.Lett. B505 (2001) 255-262
+
+In gr-qc/9902061 it was shown that (n+1)-dimensional asymptoticallyanti-de-Sitter spacetimes obeying natural causality conditions exhibittopological censorship. We use this fact in this paper to derive in arbitrarydimension relations between the topology of the timelike boundary-at-infinity,$\scri$, and that of the spacetime interior to this boundary. We prove as asimple corollary of topological censorship that any asymptotically anti-deSitter spacetime with a disconnected boundary-at-infinity necessarily containsblack hole horizons which screen the boundary components from each other. Thiscorollary may be viewed as a Lorentzian analog of the Witten and Yau resulthep-th/9910245, but is independent of the scalar curvature of $\scri$.Furthermore, the topology of V', the Cauchy surface (as defined forasymptotically anti-de Sitter spacetime with boundary-at-infinity) for regionsexterior to event horizons, is constrained by that of $\scri$. In this paper,we prove a generalization of the homology results in gr-qc/9902061 in arbitrarydimension, that H_{n-1}(V;Z)=Z^k where V is the closure of V' and k is thenumber of boundaries $\Sigma_i$ interior to $\Sigma_0$. As a consequence, Vdoes not contain any wormholes or other compact, non-simply connectedtopological structures. Finally, for the case of n=2, we show that theseconstraints and the onto homomorphism of the fundamental groups from which theyfollow are sufficient to limit the topology of interior of V to either B^2 or$I\times S^1$.

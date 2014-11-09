@@ -1,0 +1,13 @@
+Paper: hep-th/9701104
+
+Date: 1997-01-21
+
+Title: Order parameter evolution in scalar QFT
+
+resummation of secular termsAuthors: H. J. de Vega and J. F. J. Salgado
+
+Comments: Latex file, 13 pages, no figures
+
+Journal-ref: Phys.Rev. D56 (1997) 6524-6532
+
+The quantum evolution equations for the field expectation value areanalytically solved to cubic order in the field amplitude and to one-loop levelin the lambda phi-fourth model. We adapt and use the renormalization group (RG)method for such non-linear and non-local equations. The time dependence of thefield expectation value is explicitly derived integrating the RG equations. Itis shown that the field amplitude for late times approaches a finite limit asthe time to the power -3/2. This limiting value is expressed as a function ofthe initial field amplitude.

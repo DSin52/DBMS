@@ -1,0 +1,13 @@
+Paper: hep-th/9410132
+
+Date: 1994-10-18
+
+Title: Mass Spectrum of Strings in Anti de Sitter Spacetime
+
+Authors: A.L. Larsen and N. Sanchez
+
+Comments: 31 pages, Latex, DEMIRM-Paris-94047
+
+Journal-ref: Phys.Rev. D52 (1995) 1051-1064
+
+We perform string quantization in anti de Sitter (AdS) spacetime. The stringmotion is stable, oscillatory in time with real frequencies $\omega_n=\sqrt{n^2+m^2\alpha'^2H^2}$ and the string size and energy are bounded. Thestring fluctuations around the center of mass are well behaved. We find themass formula which is also well behaved in all regimes. There is an {\itinfinite} number of states with arbitrarily high mass in AdS (in de Sitter (dS)there is a {\it finite} number of states only). The critical dimension at whichthe graviton appears is $D=25,$ as in de Sitter space. A cosmological constant$\Lambda\neq 0$ (whatever its sign) introduces a {\it fine structure} effect(splitting of levels) in the mass spectrum at all states beyond the graviton.The high mass spectrum changes drastically with respect to flat Minkowskispacetime. For $\Lambda<0,$ we find $<m^2>\sim \mid\Lambda\mid N^2,$ {\itindependent} of $\alpha',$ and the level spacing {\it grows} with theeigenvalue of the number operator, $N.$ The density of states $\rho(m)$ growslike $\mbox{Exp}[(m/\sqrt{\mid\Lambda\mid}\;)^{1/2}]$ (instead of$\rho(m)\sim\mbox{Exp}[m\sqrt{\alpha'}]$ as in Minkowski space), thus {\itdiscarding} the existence of a critical string temperature.For the sake of completeness, we also study the quantum strings in the blackstring background, where strings behave, in many respects, as in the ordinaryblack hole backgrounds. The mass spectrum is equal to the mass spectrum in flatMinkowski space.

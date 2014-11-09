@@ -1,0 +1,11 @@
+Paper: hep-th/9610012
+
+Date: 1996-10-02
+
+Title: Properties of derivative expansion approximations to the renormalization
+
+groupComments: (Minor touch ups of the lingo.) Invited talk at RG96, Dubna, Russia;
+
+14 pages including 2 eps figures; uses LaTeX, epsf and sprocl.styJournal-ref: Int.J.Mod.Phys. B12 (1998) 1343-1354
+
+Approximation only by derivative (or more generally momentum) expansions,combined with reparametrization invariance, turns the continuousrenormalization group for quantum field theory into a set of partialdifferential equations which at fixed points become non-linear eigenvalueequations for the anomalous scaling dimension $\eta$. We review how theseequations provide a powerful and robust means of discovering and approximatingnon-perturbative continuum limits. Gauge fields are briefly discussed.Particular emphasis is placed on the r\^ole of reparametrization invariance,and the convergence of the derivative expansion is addressed.

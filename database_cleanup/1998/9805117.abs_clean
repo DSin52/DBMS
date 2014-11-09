@@ -1,0 +1,13 @@
+Paper: hep-th/9805117
+
+Date: 1998-05-19
+
+Title: Nonlinear Integral Equation and Finite Volume Spectrum of Sine-Gordon
+
+TheoryAuthors: G. Feverati, F. Ravanini and G. Takacs
+
+Comments: LaTeX2e, 49 pages, 14 eps figures. Presentation shortened and
+
+improved, some typos correctedJournal-ref: Nucl.Phys. B540 (1999) 543-586
+
+We examine the connection between the nonlinear integral equation (NLIE)derived from light-cone lattice and sine-Gordon quantum field theory,considered as a perturbed c=1 conformal field theory. After clarifying somedelicate points of the NLIE deduction from the lattice, we compare bothanalytic and numerical predictions of the NLIE to previously known results insine-Gordon theory. To provide the basis for the numerical comparison we usedata from Truncated Conformal Space method. Together with results from analysisof infrared and ultraviolet asymptotics, we find evidence that it is necessaryto change the rule of quantization proposed by Destri and de Vega to a new onewhich includes as a special case that of Fioravanti et al. This way we findstrong evidence for the validity of the NLIE as a description of the finitesize effects of sine-Gordon theory.

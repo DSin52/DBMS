@@ -1,0 +1,11 @@
+Paper: hep-th/9410125
+
+Date: 1994-10-18
+
+Title: On Renormalization Group Flows and Polymer Algebras
+
+Authors: A. Pordt
+
+Comments: 32 pages, LaTeX, MS-TPI-94-12, Talk presented at the conference
+
+``Constructive Results in Field Theory, Statistical Mechanics and CondensedMatter Physics'', 25-27 July 1994, Palaiseau, FranceIn this talk methods for a rigorous control of the renormalization group (RG)flow of field theories are discussed. The RG equations involve the flow of aninfinite number of local partition functions. By the method of exactbeta-function the RG equations are reduced to flow equations of a finite numberof coupling constants. Generating functions of Greens functions are expressedby polymer activities. Polymer activities are useful for solving the largevolume and large field problem in field theory. The RG flow of the polymeractivities is studied by the introduction of polymer algebras. The definitionof products and recursive functions replaces cluster expansion techniques.Norms of these products and recursive functions are basic tools and simplify aRG analysis for field theories. The methods will be discussed at examples ofthe $\Phi^4$-model, the $O(N)$ $\sigma$-model and hierarchical scalar fieldtheory (infrared fixed points).

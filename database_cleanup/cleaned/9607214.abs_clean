@@ -1,0 +1,11 @@
+Paper: hep-th/9607214
+
+Date: 1996-07-29
+
+Title: Velocity field and operator in (non relativistic) quantum mechanics
+
+Authors: Giovanni Salesi and Erasmo Recami
+
+Journal-ref: Found.Phys. 28 (1998) 763-776
+
+Starting from the formal expressions of the hydrodynamical (or ``local'')quantities employed in the applications of Clifford Algebras to quantummechanics, we introduce --in terms of the ordinary tensorial framework-- a newdefinition for the field of a generic quantity. By translating from Cliffordinto tensor algebra, we also propose a new (non-relativistic) velocity operatorfor a spin 1/2 particle. This operator is the sum of the ordinary part p/mdescribing the mean motion (the motion of the center-of-mass), and of a secondpart associated with the so-called zitterbewegung, which is the spin``internal'' motion observed in the center-of-mass frame. This spin componentof the velocity operator is non-zero not only in the Pauli theoreticalframework, i.e. in presence of external magnetic fields and spin precession,but also in the Schroedinger case, when the wave-function is a spin eigenstate.In the latter case, one gets a decomposition of the velocity field for theanalogue of the Gordon decomposition for the Dirac current. We find furthermorethat the zitterbewegung motion involves a velocity field which is solenoidal,and that the local angular velocity is parallel to the spin vector. In presenceof a non-constant spin vector (Pauli case) we have, besides the componentnormal to spin present even in the Schroedinger theory, also a component of thelocal velocity which is parallel to the rotor of the spin vector.

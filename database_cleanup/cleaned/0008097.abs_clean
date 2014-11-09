@@ -1,0 +1,13 @@
+Paper: hep-th/0008097
+
+Date: 2000-08-11
+
+Title: Construction and analysis of anomaly-free supersymmetric SO(2N)/U(N)
+
+sigma-modelsAuthors: S. Groot Nibbelink, T.S. Nyawelo and J.W. van Holten
+
+Comments: 40 pages, LaTeX, no figures
+
+Journal-ref: Nucl.Phys. B594 (2001) 441-476
+
+This paper discusses a procedure for the consistent coupling of gauge- andmatter superfields to supersymmetric sigma-models on symmetric coset spaces ofKaehler type. We exhibit the finite isometry transformations and thecorresponding Kaehler transformations. These lead to the construction of ageneralized type of Killing potentials. In certain cases a charge quantizationcondition needs to be imposed to guarantee the global existence of a linebundle on a coset space. The results are applied to the explicit constructionof sigma-models on cosets SO(2N)/U(N). Only a finite number of these models canconsistently incorporate matter in representations descending from thespinorial representations of SO(2N). We investigate in detail some aspects ofthe fully gauged minimal anomaly-free model is shown be singular, as thekinetic terms of the quasi-Goldstone fermions vanish in the vacuum. Gaugingonly the linear isometry group SU(5)xU(1), or one of its subgroups, can give aphysically well-behaved theory. With gauged U(1) this requires theFayet-Iliopoulos term to take values in a specific limited range.

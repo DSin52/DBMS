@@ -1,0 +1,13 @@
+Paper: hep-th/0206020
+
+Date: 2002-06-04
+
+Title: Non-protected operators in N=4 SYM and multiparticle states of AdS_5
+
+SUGRAAuthors: G. Arutyunov, S. Penati, A. C. Petkou, A. Santambrogio and E.
+
+SokatchevComments: Latex, 32 pages, 5 figures
+
+LAPTH-916/02Journal-ref: Nucl.Phys. B643 (2002) 49-78
+
+We study a class of non-protected local composite operators which occur inthe R symmetry singlet channel of the OPE of two stress-tensor multiplets in{\cal N}=4 SYM. At tree level these are quadrilinear scalar dimension fouroperators, two single-traces and two double-traces. In the presence ofinteraction, due to a non-trivial mixing under renormalization, they split intolinear combinations of conformally covariant operators. We resolve the mixingby computing the one-loop two-point functions of all the operators in an {\calN}=1 setup, then diagonalizing the anomalous dimension matrix and identifyingthe quasiprimary operators. We find one operator whose anomalous dimension isnegative and suppressed by a factor of 1/N^2 with respect to the anomalousdimensions of the Konishi-like operators. We reveal the mechanism responsiblefor this suppression and argue that it works at every order in perturbationtheory. In the context of the AdS/CFT correspondence such an operator should bedual to a multiparticle supergravity state whose energy is less than the sum ofthe corresponding individual single-particle states.

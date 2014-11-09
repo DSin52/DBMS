@@ -1,0 +1,11 @@
+Paper: hep-th/9807193
+
+Date: 1998-07-27
+
+Title: A Diagrammatic Approach to the Meander Problem
+
+Authors: M. G. Harris
+
+Comments: LaTeX 25 pages, 22 figures
+
+The meander problem is a combinatorial problem which provides a toy model ofthe compact folding of polymer chains. In this paper we study various questionsrelating to the enumeration of meander diagrams, using diagrammatical methods.By studying the problem of folding tree graphs, we derive a lower bound on theexponential behaviour of the number of connected meander diagrams. A differentdiagrammatical method, based on a non-commutative algebra, provides anapproximate calculation of the behaviour of the generating functions for bothmeander and semi-meander diagrams.

@@ -1,0 +1,13 @@
+Paper: hep-th/0105229
+
+Date: 2001-05-22
+
+Title: Resolution of Stringy Singularities by Non-commutative Algebras
+
+Authors: David Berenstein, Robert G. Leigh
+
+Comments: 36 pages, Latex, 5 figures. v2
+
+Journal-ref: JHEP 0106 (2001) 030
+
+In this paper we propose a unified approach to (topological) string theory oncertain singular spaces in their large volume limit. The approach exploits thenon-commutative structure of D-branes, so the space is described by analgebraic geometry of non-commutative rings. The paper is devoted to the studyof examples of these algebras. In our study there is an auxiliary commutativealgebraic geometry of the center of the (local) algebras which plays animportant role as the target space geometry where closed strings propagate. Thesingularities that are resolved will be the singularities of this auxiliarygeometry. The singularities are resolved by the non-commutative algebra if thelocal non-commutative rings are regular. This definition guarantees thatD-branes have a well defined K-theory class. Homological functors also play animportant role. They describe the intersection theory of D-branes and lead to aformal definition of local quivers at singularities, which can be computedexplicitly for many types of singularities. These results can be interpreted interms of the derived category of coherent sheaves over the non-commutativerings, giving a non-commutative version of recent work by M. Douglas. We alsodescribe global features like the Betti numbers of compact singular Calabi-Yauthreefolds via global holomorphic sections of cyclic homology classes.

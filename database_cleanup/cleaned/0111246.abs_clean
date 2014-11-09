@@ -1,0 +1,13 @@
+Paper: hep-th/0111246
+
+Date: 2001-11-27
+
+Title: Covariant theory of asymptotic symmetries, conservation laws and central
+
+chargesAuthors: Glenn Barnich and Friedemann Brandt
+
+Comments: 86 pages Latex file; minor corrections
+
+Journal-ref: Nucl.Phys. B633 (2002) 3-82
+
+Under suitable assumptions on the boundary conditions, it is shown that thereis a bijective correspondence between equivalence classes of asymptoticreducibility parameters and asymptotically conserved n-2 forms in the contextof Lagrangian gauge theories. The asymptotic reducibility parameters can beinterpreted as asymptotic Killing vector fields of the background, withasymptotic behaviour determined by a new dynamical condition. A universalformula for asymptotically conserved n-2 forms in terms of the reducibilityparameters is derived. Sufficient conditions for finiteness of the chargesbuilt out of the asymptotically conserved n-2 forms and for the existence of aLie algebra g among equivalence classes of asymptotic reducibility parametersare given. The representation of g in terms of the charges may be centrallyextended. An explicit and covariant formula for the central charges isconstructed. They are shown to be 2-cocycles on the Lie algebra g. The generalconsiderations and formulas are applied to electrodynamics, Yang-Mills theoryand Einstein gravity.

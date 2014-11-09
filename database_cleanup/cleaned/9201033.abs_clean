@@ -1,0 +1,13 @@
+Paper: hep-th/9201033
+
+Date: 1992-01-16
+
+Title: The Multicritical Kontsevich-Penner Model
+
+Authors: L. Chekhov and Yu. Makeenko
+
+Comments: 13 pages
+
+Journal-ref: Mod.Phys.Lett. A7 (1992) 1223-1236
+
+We consider the hermitian matrix model with an external field entering thequadratic term $\tr(\Lambda X\Lambda X)$ and Penner--like interaction term$\alpha N(\log(1+X)-X)$. An explicit solution in the leading order in $N$ ispresented. The critical behaviour is given by the second derivative of the freeenergy in $\alpha$ which appears to be a pure logarithm, that is a feature of$c=1$ theories. Various critical regimes are possible, some of them correspondsto critical points of the usual Penner model, but there exists an infinite setof multi-critical points which differ by values of scaling dimensions of properconformal operators. Their correlators with the puncture operator are given ingenus zero by Legendre polynomials whose argument is determined by an analog ofthe string equation.

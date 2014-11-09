@@ -1,0 +1,13 @@
+Paper: hep-th/9807030
+
+Date: 1998-07-03
+
+Title: Time evolution for quantum systems at finite temperature
+
+Authors: E. Mendel and M. Nest (Universitaet Oldenburg)
+
+Comments: uuencoded, 14 pp in Latex, 8 ps Figs
+
+Journal-ref: Nucl.Phys. B562 (1999) 567-580
+
+This paper investigates a new formalism to describe real time evolution ofquantum systems at finite temperature. A time correlation function amongsubsystems will be derived which allows for a probabilistic interpretation. Ourderivation is non-perturbative and fully quantized. Various numerical methodsused to compute the needed path integrals in complex time were tested and theireffectiveness was compared. For checking the formalism we used the harmonicoscillator where the numerical results could be compared with exact solutions.Interesting results were also obtained for a system that presents tunneling. Aring of coupled oscillators was treated in order to try to checkselfconsistency in the thermodynamic limit. The short time distribution seemsto propagate causally in the relativistic case. Our formalism can be extendedeasily to field theories where it remains to be seen if relevant models will becomputable.

@@ -1,0 +1,13 @@
+Paper: hep-th/9506091
+
+Date: 1995-06-14
+
+Title: Mirror Symmetry and the Moduli Space for Generic Hypersurfaces in Toric
+
+VarietiesAuthors: P. Berglund, S. Katz and A. Klemm
+
+Comments: 54 pages, use harvmac and epsf, one uuencoded figure
+
+Journal-ref: Nucl.Phys. B456 (1995) 153-204
+
+The moduli dependence of $(2,2)$ superstring compactifications based onCalabi--Yau hypersurfaces in weighted projective space has so far only beeninvestigated for Fermat-type polynomial constraints. These correspond toLandau-Ginzburg orbifolds with $c=9$ whose potential is a sum of $A$-typesingularities. Here we consider the generalization to arbitraryquasi-homogeneous singularities at $c=9$. We use mirror symmetry to derive thedependence of the models on the complexified K\"ahler moduli and check theexpansions of some topological correlation functions against explicit genuszero and genus one instanton calculations. As an important application we giveexamples of how non-algebraic (``twisted'') deformations can be mapped toalgebraic ones, hence allowing us to study the full moduli space. We also studyhow moduli spaces can be nested in each other, thus enabling a (singular)transition from one theory to another. Following the recent work of Greene,Morrison and Strominger we show that this corresponds to black holecondensation in type II string theories compactified on Calabi-Yau manifolds.

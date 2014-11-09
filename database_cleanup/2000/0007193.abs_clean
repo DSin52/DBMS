@@ -1,0 +1,11 @@
+Paper: hep-th/0007193
+
+Date: 2000-07-24
+
+Title: Quantum mechanics with non-unitary symmetries
+
+Authors: Bojan Bistrovic
+
+Comments: 47 pages; shortened and clarified, some explanations added
+
+This article shows that one can consistently incorporate nonunitaryrepresentations of at least one group into the ``ordinary'' nonrelativisticquantum mechanics. This group turns out to be Lorentz group thus giving us analternative approach to QFT for combining the quantum mechanics and specialtheory of relativity which keeps the concept of wave function (belonging tosome representation of Lorentz group) through the whole theory. Scalar producthas been redefined to take into the account the nonunitarity of representationsof Lorentz group. Understanding parity symmetry turns out to be the keyingredient throughout the process. Instead of trying to guess an equation or aset of equations for some wave functions or fields (or equivalently trying toguess a Lagrangian for the same), one derives them based only on thesuperposition principle and properties of wave functions under Lorentztransformations and parity. The resulting model has striking similarities withthe standard quantum field theory and yet has no negative energy states, nozitterbewegung effects, symmetric energy momentum tensor and angular momentumdensity tensor for \emph{all} representations of Lorentz group (unifying thetheoretical description of all particles), as well as clear physicalinterpretation. It also offers a possible interpretation why particles andantiparticles have opposite quantum numbers.

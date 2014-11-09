@@ -1,0 +1,13 @@
+Paper: hep-th/9903238
+
+Date: 1999-03-26
+
+Title: Surface Terms as Counterterms in the AdS/CFT Correspondence
+
+Authors: Roberto Emparan, Clifford V. Johnson, Robert C. Myers
+
+Comments: Revtex, 18 pages. References updated and few typo's fixed. Final
+
+versionJournal-ref: Phys.Rev. D60 (1999) 104001
+
+We examine the recently proposed technique of adding boundary counterterms tothe gravitational action for spacetimes which are locally asymptotic to anti-deSitter. In particular, we explicitly identify higher order counterterms, whichallow us to consider spacetimes of dimensions d<=7. As the countertermseliminate the need of ``background subtraction'' in calculating the action, weapply this technique to study examples where the appropriate background wasWe also identify certain cases where the covariant counterterms fail to renderthe action finite, and we comment on the dual field theory interpretation ofthis result. In some examples, the case of vanishing cosmological constant maybe recovered in a limit, which allows us to check results and resolveambiguities in certain asymptotically flat spacetime computations in theliterature.

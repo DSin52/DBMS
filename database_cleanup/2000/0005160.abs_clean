@@ -1,0 +1,13 @@
+Paper: hep-th/0005160
+
+Date: 2000-05-17
+
+Title: (Anti-)Instantons and the Atiyah-Hitchin Manifold
+
+Authors: A. Hanany (MIT) and B. Pioline (Harvard and LPTHE)
+
+Comments: 22 pages, 5 figures
+
+Journal-ref: JHEP 0007 (2000) 001
+
+The Atiyah-Hitchin manifold arises in many different contexts, ranging fromits original occurrence as the moduli space of two SU(2) 't Hooft-Polyakovmonopoles in 3+1 dimensions, to supersymmetric backgrounds of string theory. Inall these settings, (super)symmetries require the metric to be hyperk\"ahlerand have an SO(3) transitive isometry, which in the four-dimensional caseessentially selects out the Atiyah-Hitchin manifold as the only such smoothmanifold with the correct topology at infinity. In this paper, we analyze theexponentially small corrections to the asymptotic limit, and interpret them asinfinite series of instanton corrections in these various settings.Unexpectedly, the relevant configurations turn out to be bound states of $n$instantons and $\bar n$ anti-instantons, with $|n-\bar n|=0,1$ as required bycharge conservation. We propose that the semi-classical configurations relevantfor the higher monopole moduli space are Euclidean open branes stretchedbetween the monopoles.

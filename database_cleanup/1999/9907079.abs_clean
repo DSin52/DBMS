@@ -1,0 +1,13 @@
+Paper: hep-th/9907079
+
+Date: 1999-07-11
+
+Title: Scalar Field Theory in the AdS/CFT Correspondence Revisited
+
+Authors: Pablo Minces, Victor O. Rivelles
+
+Comments: 22 pages, LaTeX, minor errors corrected, Conclusions and one
+
+reference added, final version to be published in Nucl. Phys. BJournal-ref: Nucl.Phys. B572 (2000) 651-669
+
+We consider the role of boundary conditions in the $AdS_{d+1}/CFT_{d}$correspondence for the scalar field theory. Also a careful analysis of somelimiting cases is presented. We study three possible types of boundaryconditions, Dirichlet, Neumann and mixed. We compute the two-point functions ofthe conformal operators on the boundary for each type of boundary condition. Weshow how particular choices of the mass require different treatments. In theDirichlet case we find that there is no double zero in the two-point functionof the operator with conformal dimension $\frac{d}{2}$. The Neumann case leadsto new normalizations for the boundary two-point functions. In the masslesscase we show that the conformal dimension of the boundary conformal operator isprecisely the unitarity bound for scalar operators. We find a one-parameterfamily of boundary conditions in the mixed case. There are again newnormalizations for the boundary two-point functions. For a particular choice ofthe mixed boundary condition and with the mass squared in the range$-d^2/4<m^2<-d^2/4+1$ the boundary operator has conformal dimension comprisedin the interval $[\frac{d-2}{2}, \frac{d}{2}]$. For mass squared $m^2>-d^2/4+1$the same choice of mixed boundary condition leads to a boundary operator whoseconformal dimension is the unitarity bound.

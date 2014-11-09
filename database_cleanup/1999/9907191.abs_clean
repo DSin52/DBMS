@@ -1,0 +1,13 @@
+Paper: hep-th/9907191
+
+Date: 1999-07-27
+
+Title: The Geometry of (Super) Conformal Quantum Mechanics
+
+Authors: Jeremy Michelson and Andrew Strominger
+
+Comments: 23 pages harvmac. Conventions simplified; typos corrected; references
+
+addedJournal-ref: Commun.Math.Phys. 213 (2000) 1-17
+
+N-particle quantum mechanics described by a sigma model with an N-dimensionaltarget space with torsion is considered. It is shown that an SL(2,R) conformalsymmetry exists if and only if the geometry admits a homothetic Killing vector$D^a$ whose associated one-form $D_a$ is closed. Further, the SL(2,R) canalways be extended to Osp(1|2) superconformal symmetry, with a suitable choiceof torsion, by the addition of N real fermions. Extension to SU(1,1|1) requiresa complex structure I and a holomorphic U(1) isometry $D^a I_a{^b} \partial_b$.Conditions for extension to the superconformal group D(2,1;\alpha), whichinvolve a triplet of complex structures and SU(2) x SU(2) isometries, arederived. Examples are given.

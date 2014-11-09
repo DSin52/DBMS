@@ -1,0 +1,13 @@
+Paper: hep-th/9502031
+
+Date: 1995-02-06
+
+Title: Triplectic Quantization
+
+Sp(2)-symmetric Lagrangian FormalismAuthors: I Batalin R Marnelius A Semikhatov
+
+Comments: Revised version -- our treatment in Section 5 has been extended and
+
+several pedagogical notes inserted in Sections 2--4; more references added.Journal-ref: Nucl.Phys. B446 (1995) 249-285
+
+A geometric description is given for the Sp(2) covariant version of thefield-antifield quantization of general constrained systems in the Lagrangianformalism. We develop differential geometry on manifolds in which a basic setof coordinates (`fields') have two superpartners (`antifields'). Thequantization on such a triplectic manifold requires introducing severalspecific differential-geometric objects, whose properties we study. Theseobjects are then used to impose a set of generalized master-equations thatensure gauge-independence of the path integral. The theory thus quantized isshown to extend to a level-1 theory formulated on a manifold that includesantifields to the Lagrange multipliers. We also observe intriguing relationsbetween triplectic and ordinary symplectic geometry.

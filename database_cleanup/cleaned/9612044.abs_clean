@@ -1,0 +1,13 @@
+Paper: hep-th/9612044
+
+Date: 1996-12-04
+
+Title: Poisson Structures for Dispersionless Integrable Systems and Associated
+
+W-AlgebrasAuthors: Yi Cheng, Zhifeng Li
+
+Comments: Latex, 11 pages, no figures; Lett. Math. Phys
+
+SystemsJournal-ref: Lett.Math.Phys. 42 (1997) 73-83
+
+In analogy to the KP theory, the second Poisson structure for thedispersionless KP hierarchy can be defined on the space of commutativepseudodifferential operators $L=p^n+\sum_{j=-\infty}^{n-1}u_j p^j$. Thereduction of the Poisson structure to the symplectic submanifold $u_{n -1}=0$gives rise to the w-algebras. In this paper, we discuss properties of thisPoisson structure, its Miura transformation and reductions. We are particularlymultiple roots and b) L has multiple poles at finite distance. The w-algebracorresponding to the case a) is defined as $w_ {[m_1,m_2, ... ,m_r]}$, wherem_i means the multiplicity of roots and to the case b) is defined by$w(n,[m_1,m_2, ... ,m_r])$ where m_i is the multiplicity of poles. We provethat w(n,[m_1, m_2, ... , m_r])$-algebra is isomorphic via a transformation to$w_{[m_1,m_2, ... ,m_r]} \bigoplus w_{n+m} \bigoplus U(1) with $m=\sum m_i$. Wealso give the explicit free fields representations for these w-algebras.

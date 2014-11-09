@@ -1,0 +1,11 @@
+Paper: hep-th/9505028
+
+Date: 1995-05-04
+
+Title: Self-Intersection Numbers and Random Surfaces on the Lattice
+
+Comments: 21 pages, LaTex
+
+Journal-ref: Nucl. Phys. B452 (1995) 526
+
+String theory in 4 dimensions has the unique feature that a topological term,the oriented self-intersection number, can be added to the usual action. It hasbeen suggested that the corresponding theory of random surfaces wold be freefrom the problem encountered in the scaling of the string tension.Unfortunately, in the usual dynamical triangulation it is not clear how towrite such a term. We show that for random surfaces on a hypercubic latticehowever, the analogue of the oriented self-intersection number $I[\s]$ can bedefined and computed in a straightforward way. Furthermore, $I[\s]$ has agenuine topological meaning in the sense that it is invariant under thediscrete analogue of continuous deformations. The resulting random surfacemodel is no longer free and may lead to a non trivial continuum limit.

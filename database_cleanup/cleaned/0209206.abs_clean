@@ -1,0 +1,13 @@
+Paper: hep-th/0209206
+
+Date: 2002-09-25
+
+Title: Loop-Effects in Pseudo-Supersymmetry
+
+Authors: Matthias Klein
+
+Comments: Latex, 30 pages, 6 figures, v2
+
+algebra and x^5 covariant derivative addedJournal-ref: Phys.Rev. D67 (2003) 045021
+
+We analyze the transmission of supersymmetry breaking in brane-world modelsof pseudo-supersymmetry. In these models two branes preserve different halvesof the bulk supersymmetry. Thus supersymmetry is broken although each sector ofthe model is supersymmetric when considered separately. The world-volume theoryon one brane feels the breakdown of supersymmetry only through two-loopinteractions involving a coupling to fields from the other brane. In a 5D toymodel with bulk vectors, we compute the diagrams that contribute to scalarmasses on one brane and find that the masses are proportional to thecompactification scale up to logarithmic corrections, m^2 ~ (2 pi R)^{-2}(ln(2pi R ms)-1.1), where ms is an ultraviolet cutoff. Thus, for largecompactification radii, where this result is valid, the brane scalars acquire apositive mass squared. We also compute the three-loop diagrams relevant to theCasimir energy between the two branes and find E ~ (2 pi R)^{-4}((ln(2 pi Rms)-1.7)^2+0.2). For large radii, this yields a repulsive Casimir force.

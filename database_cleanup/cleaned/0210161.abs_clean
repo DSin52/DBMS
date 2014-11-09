@@ -1,0 +1,11 @@
+Paper: hep-th/0210161
+
+Date: 2002-10-17
+
+Title: Lattice Models with N=2 Supersymmetry
+
+Authors: Paul Fendley, Kareljan Schoutens and Jan de Boer
+
+Comments: 4 pages
+
+We introduce lattice models with explicit N=2 supersymmetry. In theseinteracting models, the supersymmetry generators Q^+ and Q^- yield theHamiltonian H={Q^+,Q^-} on any graph. The degrees of freedom can be describedas either fermions with hard cores, or as quantum dimers. The Hamiltonian ofour simplest model contains a hopping term and a repulsive potential, as wellas the hard-core repulsion. We discuss these models from a variety ofBethe ansatz, and using cohomology methods. The simplest model provides amanifestly-supersymmetric lattice regulator for the supersymmetric point of themassless 1+1-dimensional Thirring (Luttinger) model. We discuss theground-state structure of this same model on more complicated graphs, includinga 2-leg ladder, and discuss some generalizations.

@@ -1,0 +1,13 @@
+Paper: hep-th/9612167
+
+Date: 1996-12-16
+
+Title: On higher-dimensional loop algebras, pseudodifferential operators and
+
+Fock space realizationsAuthors: Anders Westerberg
+
+Comments: 6 pages, LaTeX, requires espcrc2.sty and amsfonts.sty. Contribution
+
+to the proceedings of the 30th Int. Symposium Ahrenshoop on the theory ofelementary particles, Buckow, Germany, August 27-31, 1996Journal-ref: Nucl.Phys.Proc.Suppl. 56B (1997) 275-280
+
+We discuss a previously discovered [hep-th/9401027] extension of theinfinite-dimensional Lie algebras Map(M,g) which generalizes the Kac-Moodyalgebras in 1+1 dimensions and the Mickelsson-Faddeev algebras in 3+1dimensions to manifolds M of general dimensions. Furthermore, we review themethod of regularizing current algebras in higher dimensions usingpseudodifferential operator (PSDO) symbol calculus. In particular, we discussthe issue of Lie algebra cohomology of PSDOs and its relation to the Schwingerterms arising in the quantization process. Finally, we apply thisregularization method to the algebra of the above reference with partialsuccess, and discuss the remaining obstacles to the construction of a Fockspace representation.

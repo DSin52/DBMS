@@ -1,0 +1,11 @@
+Paper: hep-th/9608098
+
+Date: 1996-08-15
+
+Title: Universality and Critical Phenomena in String Defect Statistics
+
+Authors: Karl Strobl and Mark Hindmarsh
+
+Comments: 62 pages, plain LaTeX, macro mathsymb.sty included, figures included.
+
+also available onThe idea of biased symmetries to avoid or alleviate cosmological problemscaused by the appearance of some topological defects is familiar in the contextof domain walls, where the defect statistics lend themselves naturally to apercolation theory description, and for cosmic strings, where the proportion ofinfinite strings can be varied or disappear entirely depending on the bias inthe symmetry. In this paper we measure the initial configurational statisticsof a network of string defects after a symmetry-breaking phase transition withinitial bias in the symmetry of the ground state. Using an improved algorithm,which is useful for a more general class of self-interacting walks on aninfinite lattice, we extend the work in \cite{MHKS} to better statistics and adifferent ground state manifold, namely $\R P^2$, and explore various differentdiscretisations. Within the statistical errors, the critical exponents of theHagedorn transition are found to be quite possibly universal and identical tothe critical exponents of three-dimensional bond or site percolation. Thisimproves our understanding of the percolation theory description of defectstatistics after a biased phase transition, as proposed in \cite{MHKS}. We alsofind strong evidence that the existence of infinite strings in the VachaspatiVilenkin algorithm is generic to all (string-bearing) vacuum manifolds, alldiscretisations thereof, and all regular three-dimensional lattices.

@@ -1,0 +1,11 @@
+Paper: hep-th/9811123
+
+Date: 1998-11-13
+
+Title: Finite-size energy levels of the superintegrable chiral Potts model
+
+Authors: G.von Gehlen (Physikalisches Institut, Universitaet Bonn)
+
+Comments: LaTeX file, 15 pages, one Postscript figure, use lamuphys.sty
+
+In the solution of the superintegrable chiral Potts model special polynomialsrelated to the representation theory of the Onsager algebra play a centralrole. We derive approximate analytic formulae for the zeros of particularpolynomials which determine sets of low-lying energy eigenvalues of the chiralPotts quantum chain. These formulae allow the analytic calculation of theleading finite-size corrections to the energy eigenvalues without resorting toa numerical determination of the zeros.

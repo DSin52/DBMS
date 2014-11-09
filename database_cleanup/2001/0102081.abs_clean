@@ -1,0 +1,11 @@
+Paper: hep-th/0102081
+
+Date: 2001-02-15
+
+Title: Monopole-like Configuration from Quantized SU(3) Gauge Fields
+
+Authors: V. Dzhunushaliev and D. Singleton
+
+Comments: section V is corrected
+
+Monopole field configurations have been extensively studied in both Abelianand non-Abelian gauge theories. The question of the quantum corrections tothese systems is a difficult one, since the classical monopoles havenon-perturbatively large couplings, which makes the standard, perturbativemethods for calculating quantum corrections suspect. Here we apply a modifiedversion of Heisenberg's quantization technique for strongly interacting,nonlinear fields to a classical solution of the SU(3) Yang-Mills fieldequations. This classical solution is not monopole-like and has an energydensity which diverges as $r \to \infty$. However, the quantized version ofthis solution has a monopole-like far field, and a non-divergent energy densityas $r \to \infty$. This may point to the conclusion that monopoles may arisenot from quantizing classical monopole configurations, but from quantizingfield configurations which at the classical level do not appear monopole-like.

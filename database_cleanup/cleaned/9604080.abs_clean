@@ -1,0 +1,13 @@
+Paper: hep-th/9604080
+
+Date: 1996-04-15
+
+Title: Quantum Integrable Systems and Elliptic Solutions of Classical Discrete
+
+Nonlinear EquationsAuthors: I. Krichever, O.Lipan , P.Wiegmann and A. Zabrodin
+
+Comments: 32 pages, LaTeX file, no figures
+
+Journal-ref: Commun.Math.Phys. 188 (1997) 267-304
+
+Functional relation for commuting quantum transfer matrices of quantumintegrable models is identified with classical Hirota's bilinear differenceequation. This equation is equivalent to the completely discretized classical2D Toda lattice with open boundaries. The standard objects of quantumintegrable models are identified with elements of classical nonlinearintegrable difference equation. In particular, elliptic solutions of Hirota'sequation give complete set of eigenvalues of the quantum transfer matrices.Eigenvalues of Baxter's $Q$-operator are solutions to the auxiliary linearproblems for classical Hirota's equation. The elliptic solutions relevant toBethe ansatz are studied. The nested Bethe ansatz equations for $A_{k-1}$-typemodels appear as discrete time equations of motions for zeros of classical$\tau$-functions and Baker-Akhiezer functions. Determinant representations ofthe general solution to bilinear discrete Hirota's equation and a newdeterminant formula for eigenvalues of the quantum transfer matrices areobtained.

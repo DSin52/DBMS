@@ -1,0 +1,9 @@
+Paper: hep-th/9506134
+
+Date: 1995-06-19
+
+Title: Analytical Properties of Solutions of the Schrodinger Equation and
+
+Quantization of ChargeComments: 17 pp., LaTeX
+
+The Schwinger--DeWitt expansion for the evolution operator kernel is used toinvestigate analytical properties of the Schr\"odinger equation solution intime variable. It is shown, that this expansion, which is in generalasymptotic, converges for a number of potentials (widely used, in particular,in one-dimensional many-body problems), and besides, the convergence takesplace only for definite discrete values of the coupling constant. For othervalues of charge the divergent expansion determines the functions havingessential singularity at origin (beyond usual $\delta$-function). This does notpermit one to fulfil the initial condition. So, the function obtained from theSchr\"odinger equation cannot be the evolution operator kernel. The latter,rigorously speaking, does not exist in this case. Thus, the kernel exists onlyfor definite potentials, and moreover, at the considered examples the chargemay have only quantized values.

@@ -1,0 +1,11 @@
+Paper: hep-th/0207132
+
+Date: 2002-07-13
+
+Title: Perturbative diagrams in string field theory
+
+Authors: Washington Taylor (MIT)
+
+Comments: 27 pages, 9 eps figures, Latex
+
+A general algorithm is presented which gives a closed-form expression for anarbitrary perturbative diagram of cubic string field theory at any loop order.For any diagram, the resulting expression is given by an integral of a functionof several infinite matrices, each built from a finite number of blockscontaining the Neumann coefficients of Witten's 3-string vertex. Theclosed-form expression for any diagram can be approximated by level truncationon oscillator level, giving a computation involving finite size matrices. Somesimple tree and loop diagrams are worked out as examples of this approach.

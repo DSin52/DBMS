@@ -1,0 +1,13 @@
+Paper: hep-th/9902021
+
+Date: 1999-02-02
+
+Title: Qualitative Properties of the Dirac Equation in a Central Potential
+
+Authors: Giampiero Esposito and Pietro Santorelli
+
+Comments: 22 pages, plain Tex. In the final version, a section has been added,
+
+and the presentation has been improvedJournal-ref: J.Phys. A32 (1999) 5643-5655
+
+The Dirac equation for a massive spin-1/2 field in a central potential V inthree dimensions is studied without fixing a priori the functional form of V.The second-order equations for the radial parts of the spinor wave function areshown to involve a squared Dirac operator for the free case, whose essentialself-adjointness is proved by using the Weyl limit point-limit circlecriterion, and a `perturbation' resulting from the potential. One then findsthat a potential of Coulomb type in the Dirac equation leads to a potentialterm in the above second-order equations which is not even infinitesimallyform-bounded with respect to the free operator. Moreover, the conditionsensuring essential self-adjointness of the second-order operators in theinteracting case are changed with respect to the free case, i.e. they areexpressed by a majorization involving the parameter in the Coulomb potentialand the angular momentum quantum number. The same methods are applied to theanalysis of coupled eigenvalue equations when the anomalous magnetic moment ofthe electron is not neglected.

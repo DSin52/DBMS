@@ -1,0 +1,13 @@
+Paper: hep-th/9609107
+
+Date: 1996-09-12
+
+Title: On the BRST Quantization of the Massless Bosonic Particle in
+
+Twistor-Like FormulationAuthors: Igor Bandos, Alexey Maznytsia, Igor Rudychev and Dmitri Sorokin
+
+Comments: LaTeX file, 17 pages
+
+Journal-ref: Int.J.Mod.Phys. A12 (1997) 3259-3274
+
+We study some features of bosonic particle path-integral quantization in atwistor-like approach by use of the BRST-BFV quantization prescription. In thecourse of the Hamiltonian analysis we observe links between variousformulations of the twistor-like particle by performing a conversion of theHamiltonian constraints of one formulation to another. A particular feature ofthe conversion procedure applied to turn the second-class constraints into thefirst-class constraints is that the simplest Lorentz-covariant way to do thisis to convert a full mixed set of the initial first- and second-classconstraints rather than explicitly extracting and converting only thesecond-class constraints. Another novel feature of the conversion procedureapplied below is that in the case of the D=4 and D=6 twistor-like particle thenumber of new auxiliary Lorentz-covariant coordinates, which one introduces toget a system of first-class constraints in an extended phase space, exceeds thenumber of independent second-class constraints of the original dynamicalsystem. We calculate the twistor-like particle propagator in D=3, 4 and 6space-time dimensions and show, that it coincides with that of a conventionalmassless bosonic particle.

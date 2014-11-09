@@ -1,0 +1,9 @@
+Paper: hep-th/9512185
+
+Date: 1995-12-22
+
+Title: Asymptotic solution of Schwinger -- Dyson equation for the gluon
+
+propagator in the infrared regionComments: 11 pages, LATEX
+
+The equation for the gluon propagator in the approach ofBaker-Ball-Zachariasen is considered. The possibility of non-integer powerinfrared behaviour is studied, $D(q) \sim (q^2)^{-c}$, $q^2 \rightarrow 0$. Itis shown that the characteristic equation for the exponent has no solutions at$-1\leq c\leq 3$. The approximations made to obtain the closed integralequation are analysed and the conclusion on the infrared behaviour of the gluonpropagator $D(q) \sim 1/(q^2)^2$, $q^2 \rightarrow 0$ is made when thetransverse part of the triple gluon vertex is taken into account.

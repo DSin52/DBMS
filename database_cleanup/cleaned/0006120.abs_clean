@@ -1,0 +1,13 @@
+Paper: hep-th/0006120
+
+Date: 2000-06-16
+
+Title: Deformations of Topological Open Strings
+
+Authors: Christiaan Hofman, Whee Ky Ma
+
+Comments: LaTeX 30 pages, corrected typos
+
+Journal-ref: JHEP 0101 (2001) 035
+
+Deformations of topological open string theories are described, with anemphasis on their algebraic structure. They are encoded in the mixedbulk-boundary correlators. They constitute the Hochschild complex of the openstring algebra -- the complex of multilinear maps on the boundary Hilbertspace. This complex is known to have the structure of a Gerstenhaber algebra(Deligne theorem), which is also found in closed string theory. Generalisingthe case of function algebras with a B-field, we identify the algebraicoperations of the bulk sector, in terms of the mixed correlators. This gives aphysical realisation of the Deligne theorem. We translate to the language ofcertain operads (spaces of d-discs with gluing) and d-algebras, and comment ongeneralisations, notably to the AdS/CFT correspondence. The formalism isapplied to the topological A- and B-models on the disc.

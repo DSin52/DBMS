@@ -1,0 +1,11 @@
+Paper: hep-th/0304076
+
+Date: 2003-04-09
+
+Title: Entropy Corrections for Schwarzschild and Reissner-Nordstr\"om Black
+
+HolesAuthors: M. M. Akbar (DAMTP), Saurya Das (UNB)
+
+Comments: 6 pages, Revtex
+
+Schwarzschild black hole being thermodynamically unstable, corrections to itsentropy due to small thermal fluctuations cannot be computed. However, athermodynamically stable Schwarzschild solution can be obtained within a cavityof any finite radius by immersing it in an isothermal bath. For these boundaryconditions, classically there are either two black hole solutions or nosolution. In the former case, the larger mass solution has a positive specificheat and hence is locally thermodynamically stable. We find that the entropy of${\cal S} = S_{BH} - \ln[\f{3}{R} (S_{BH}/4\p)^{1/2} -2]^{-1} + (1/2)\ln(4\p)$, where $S_{BH}=A/4$ is its Bekenstein-Hawking entropy and $R$ is theradius of the cavity. We extend our results to four dimensional${\cal S} = S_{BH} - \f{1}{2} \ln [ {(S_{BH}/\p R^2) ({3S_{BH}}/{\p R^2} -2\sqrt{{S_{BH}}/{\p R^2 -\a^2}}) \le(\sqrt{{S_{BH}}/{\p R^2}} - \a^2 \ri)}/{\le({S_{BH}}/{\p R^2} -\a^2 \ri)^2} ]^{-1} +(1/2)\ln(4\p).$ Finally, wegeneralise the stability analysis to Reissner-Nordstr\"om black holes inarbitrary spacetime dimensions, and compute their leading order entropycorrections. We find that in contrast to previously studied examples theentropy corrections in these cases have a dissimilar character.

@@ -1,0 +1,11 @@
+Paper: hep-th/0208072
+
+Date: 2002-08-10
+
+Title: Noncommutative version of an arbitrary nondegenerated mechanics
+
+Authors: A.A. Deriglazov
+
+Comments: 5 pages
+
+A procedure to obtain noncommutative version for any nondegenerated dynamicalsystem is proposed and discussed. The procedure is as follow. Let $S=\int dtL(q^A, ~ \dot q^A)$ is action of some nondegenerated system, and $L_1(q^A, ~\dot q^A, ~ v_A)$ is the corresponding first order Lagrangian. Then thecorresponding noncommutative version is $S_N=\int dt[ L_1(q^A, ~ \dot q^A, \~v_A)+ \dot v_A\theta^{AB}v_B]$. Namely, the system $S_N$ has the followinginitial system $S$. 2) Equations of motion of the system are the same as forthe initial system $S$, modulo the term which is proportional to the parameter$\theta^{AB}$. 3) Configuration space variables have the noncommutativeof the system $S_N$ leads to quantum mechanics with ordinary product replacedby the Moyal product.

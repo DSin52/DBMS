@@ -1,0 +1,11 @@
+Paper: hep-th/9608115
+
+Date: 1996-08-17
+
+Title: The $
+
+Authors: Edward P. Osipov (Department of Theoretical Physics, Sobolev Institute
+
+for Mathematics, Novosibirsk, Russia)Comments: 56 pages, LaTeX
+
+this paper we consider the Wick kernel of the interacting quantum field. Usingthe complex structure and the Fock-Bargmann-Berezin-Segal integralrepresentation we prove that this kernel defines a unique operator--valuedgeneralized function on the space $\Sc^\alpha(\R^4)$ for any $\alpha<6/5,$ i.e.the constructed quantum field is the generalized operator-valued function oflocalizable Jaffe class. The same assertion is valid for the outgoing quantumfield. These assertions about the quantum field allow to construct the Wightmanfunctions, the matrix elements of the quantum scattering operator and toconsider their properties (positivity, spectrality, Poincare invariance,locality, asymptotic completeness, and unitarity of the quantum scattering).

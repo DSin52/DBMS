@@ -1,0 +1,13 @@
+Paper: hep-th/0207057
+
+Date: 2002-07-06
+
+Title: Covariant and quasi-covariant quantum dynamics in Robertson-Walker
+
+space-timesAuthors: Detlev Buchholz, Jens Mund, Stephen J. Summers
+
+Comments: 21 pages, 1 figure
+
+Journal-ref: Class.Quant.Grav. 19 (2002) 6417-6434
+
+We propose a canonical description of the dynamics of quantum systems on aclass of Robertson-Walker space-times. We show that the worldline of anobserver in such space-times determines a unique orbit in the local conformalgroup SO(4,1) of the space-time and that this orbit determines a uniquetransport on the space-time. For a quantum system on the space-time modeled bya net of local algebras, the associated dynamics is expressed via a suitablefamily of ``propagators''. In the best of situations, this dynamics iscovariant, but more typically the dynamics will be ``quasi-covariant'' in asense we make precise. We then show by using our technique of ``transplanting''states and nets of local algebras from de Sitter space to Robertson-Walkerspace that there exist quantum systems on Robertson-Walker spaces withquasi-covariant dynamics. The transplanted state is locally passive, in anappropriate sense, with respect to this dynamics.

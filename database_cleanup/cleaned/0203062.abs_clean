@@ -1,0 +1,13 @@
+Paper: hep-th/0203062
+
+Date: 2002-03-07
+
+Title: On Ghost Fermions
+
+Authors: G. Grensing
+
+Comments: 16 pages
+
+Journal-ref: Eur.Phys.J. C23 (2002) 377-387
+
+The path integral for ghost fermions, which is heuristically made use of inthe Batalin- Fradkin-Vilkovisky approach to quantization of constrainedsystems, is derived from first principles. The derivation turns out to berather different from that of physical fermions since the definition of Diracstates for ghost fermions is subtle. With these results at hand, it is thenshown that the nonminimal extension of the Becchi-Rouet-Stora-Tyutin operatormust be chosen differently from the notorious choice made in the literature inorder to avoid the boundary terms that have always plagued earlier treatments.Furthermore it is pointed out that the elimination of states with nonzero ghostnumber requires the introduction of a thermodynamic potential for ghosts; thereason is that Schwarz's Lefschetz formula for the partition function of thetime- evolution operator is not capable, despite claims to the contrary, to getrid of nonzero ghost number states on its own. Finally, we comment on theproblems of global topological nature that one faces in the attempt to obtainthe solutions of the Dirac condition for physical states in a configurationspace of nontrivial geometry; such complications give rise to anomalies that donot obey the Wess-Zumino consistency conditions.

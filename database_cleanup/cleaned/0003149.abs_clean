@@ -1,0 +1,11 @@
+Paper: hep-th/0003149
+
+Date: 2000-03-17
+
+Title: BRST Invariance and Renormalisability of the SU(2)$\times$U(1)
+
+Electroweak Theory with Massive W Z BosonsAuthors: Ze-sen Yang, Xianhui Li, Zhinig Zhou and Yushu Zhong
+
+Comments: 21 pages, Latex, no figures
+
+Since the SU(n) gauge theory with massive gauge bosons has been proven to berenormalisable we reinvestigate the renormalisability of theSU$_L$(2) $\times$ U$_Y$(1) electroweak theory with massive W Z bosons. Weexpound that with the constraint conditions caused by the W Z mass term and theadditional condition chosen by us we can performed the quantization andconstruct the ghost action in a way similar to that used for the massive SU(n)theory. We also show that when the $\delta-$ functions appearing in the pathintegral of the Green functions and representing the constraint conditions arerewritten as Fourier integrals with Lagrange multipliers $\lambda_a$ and$\lambda_y$, the BRST invariance is kept in the total effective actionconsisting of the Lagrange multipliers, ghost fields and the original fields.Furthermore, by comparing with the massless theory and with the massive SU(n)theory we find the general form of the divergent part of the generatingfunctional for the regular vertex functions and prove the renormalisability ofthe theory. It is also clarified that the renormalisability of the theory withthe W Z mass term is ensured by that of the massless theory and the massiveSU(n) theory.

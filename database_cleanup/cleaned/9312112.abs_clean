@@ -1,0 +1,9 @@
+Paper: hep-th/9312112
+
+Date: 1993-12-14
+
+Title: Symplectic and Poisson structures of certain moduli spaces
+
+Comments: 18 pages
+
+Symplectic and Poisson structures of certain moduli spaces/Huebschmann,J./group with a biinvariant metric, not necessarily positive definite. It is shownthat a certain construction due to A. Weinstein relying on techniques fromequivariant cohomology may be refined so as to yield (i) a symplectic structureon a certain smooth manifold $\Cal M(\Cal P,G)$ containing the space$\roman{Hom}(\pi,G)$ of homomorphisms and, furthermore, (ii) a hamiltonian$G$-action on $\Cal M(\Cal P,G)$ preserving the symplectic structure, withmomentum mapping $\mu \colon \Cal M(\Cal P,G) \to g^*$, in such a way that thereduced space equals the space $\roman{Rep}(\pi,G)$ of representations. Ourapproach is somewhat more general in that it also applies to twisted modulispaces; in particular, it yields the {\smc Narasimhan-Seshadri} moduli spacesof semistable holomorphic vector bundles by {\it symplectic reduction in finitedimensions\/}.This implies that, when the group $G$ is compact, such a twistedmoduli space inherits a structure of {\it stratified symplectic space\/}, andthat the strata of these twisted moduli spaces have finite symplectic volume.

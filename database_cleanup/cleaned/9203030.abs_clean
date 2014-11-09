@@ -1,0 +1,13 @@
+Paper: hep-th/9203030
+
+Date: 1992-03-10
+
+Title: Multicritical Phases of the O(n) Model on a Random Lattice
+
+Authors: Ivan K. Kostov and Matthias Staudacher
+
+Comments: 28 pages, 4 figures (not included)
+
+Journal-ref: Nucl.Phys. B384 (1992) 459-483
+
+We exhibit the multicritical phase structure of the loop gas model on arandom surface. The dense phase is reconsidered, with special attention paid tothe topological points $g=1/p$. This phase is complementary to the dilute andhigher multicritical phases in the sense that dense models contain the samespectrum of bulk operators (found in the continuum by Lian and Zuckerman) but adifferent set of boundary operators. This difference illuminates the well-known$(p,q)$ asymmetry of the matrix chain models. Higher multicritical phases areconstructed, generalizing both Kazakov's multicritical models as well as theknown dilute phase models. They are quite likely related to multicriticalpolymer theories recently considered independently by Saleur and Zamolodchikov.Our results may be of help in defining such models on {\it flat} honeycomblattices; an unsolved problem in polymer theory. The phase boundariescorrespond again to ``topological'' points with $g=p/1$ integer, which we studyin some detail. Two qualitatively different types of critical points arediscovered for each such $g$. For the special point $g=2$ we demonstrate thatthe dilute phase $O(-2)$ model does {\it not} correspond to the Parisi-Sourlasmodel, a result likely to hold as well for the flat case. Instead it is proventhat the first {\it multicritical} $O(-2)$ point possesses the Parisi-Sourlassupersymmetry.}

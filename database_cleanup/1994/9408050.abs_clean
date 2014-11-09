@@ -1,0 +1,11 @@
+Paper: hep-th/9408050
+
+Date: 1994-08-09
+
+Title: The Exact Renormalization Group and Approximations
+
+Authors: Peter E. Haagensen, Yuri Kubyshin, Jos\'e Ignacio Latorre and E.
+
+MorenoComments: 13 pages, LATEX (needs worldsci.sty). 3 figures available on request.
+
+Talk presented by Yu. Kubyshin at the "Quarks '94" International Seminar (May11-18, 1994, Vladimir, Russia). No changes, replaced due to transmissionerror observedWe review the Exact Renormalization Group equations of Wegner and Houghton inan approximation which permits both numerical and analytical studies ofnonperturbative renormalization flows. We obtain critical exponents numericallyand with the local polynomial approximation (LPA), and discuss the advantagesand shortcomings of these methods, and compare our results with the literature.In particular, convergence of the LPA is discussed in some detail. We finallyintegrate the flows numerically and find a $c$-function which determines theseflows to be gradient in this approximation.

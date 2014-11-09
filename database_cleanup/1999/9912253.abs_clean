@@ -1,0 +1,13 @@
+Paper: hep-th/9912253
+
+Date: 1999-12-27
+
+Title: Note on the Gauge Fixing in Gauge Theory
+
+Authors: Kazuo Fujikawa and Hiroaki Terashima, (Dept. of Physics, Univ. of
+
+Tokyo)Comments: 12 pages
+
+Journal-ref: Nucl.Phys. B577 (2000) 405-415
+
+In the absence of Gribov complications, the modified gauge fixing in gaugetheory $ \int{\cal D}A_{\mu}\{\exp[-S_{YM}(A_{\mu})-\int f(A_{\mu})dx]/\int{\cal D}g\exp[-\int f(A_{\mu}^{g})dx]\}$ for example,$f(A_{\mu})=(1/2)(A_{\mu})^{2}$, is identical to the conventional Faddeev-Popovformula $\int{\cal D}A_{\mu}\{\delta(D^{\mu}\frac{\delta f(A_{\nu})}{\deltaA_{\mu}})/\int {\cal D}g\delta(D^{\mu}\frac{\delta f(A_{\nu}^{g})} {\deltaA_{\mu}^{g}})\}\exp[-S_{YM}(A_{\mu})]$ if one takes into account the variationof the gauge field along the entire gauge orbit. Despite of its quite differentappearance,the modified formula defines a local and BRST invariant theory andthus ensures unitarity at least in perturbation theory. In the presence ofGribov complications, as is expected in non-perturbative Yang-Mills theory, themodified formula is equivalent to the conventional formula but not identical tothe unitarity is not obvious. Implications of the present analysis on thelattice regularization are briefly discussed.

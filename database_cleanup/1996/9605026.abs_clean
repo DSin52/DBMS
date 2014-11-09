@@ -1,0 +1,13 @@
+Paper: hep-th/9605026
+
+Date: 1996-05-05
+
+Title: Zeta function for the Laplace operator acting on forms in a ball with
+
+gauge boundary conditionsAuthors: E. Elizalde, M. Lygren, D.V. Vassilevich
+
+Comments: Latex, no figures, no special macros
+
+Journal-ref: Commun.Math.Phys. 183 (1997) 645-660
+
+The Laplace operator acting on antisymmetric tensor fields in a$D$--dimensional Euclidean ball is studied. Gauge-invariant local boundaryconditions (absolute and relative ones, in the language of Gilkey) areconsidered. The eigenfuctions of the operator are found explicitly for allvalues of $D$. Using in a row a number of basic techniques, as Mellintransforms, deformation and shifting of the complex integration contour, andpole compensation, the zeta function of the operator is obtained. From itsexpression, in particular, $\zeta (0)$ and $\zeta'(0)$ are evaluated exactly. Atable is given in the paper for $D=3, 4, ...,8$. The functional determinantsand Casimir energies are obtained for $D=3, 4, ...,6$.

@@ -1,0 +1,13 @@
+Paper: hep-th/9707168
+
+Date: 1997-07-18
+
+Title: On the Zero-Point Energy of a Conducting Spherical Shell
+
+Authors: Giampiero Esposito, Alexander Yu. Kamenshchik and Klaus Kirsten
+
+Comments: 29 pages, Revtex, revised version. In this last version, a new
+
+section has been added, devoted to the zero-point energy of a conductingspherical shell in the axial gauge. A second appendix has also been includedJournal-ref: Int.J.Mod.Phys. A14 (1999) 281-300
+
+The zero-point energy of a conducting spherical shell is evaluated byimposing boundary conditions on the potential, and on the ghost fields. Thescheme requires that temporal and tangential components of perturbations of thepotential should vanish at the boundary, jointly with the gauge-averagingfunctional, first chosen of the Lorenz type. Gauge invariance of such boundaryconditions is then obtained provided that the ghost fields vanish at theboundary. Normal and longitudinal modes of the potential obey an entangledsystem of eigenvalue equations, whose solution is a linear combination ofBessel functions under the above assumptions, and with the help of the Feynmanchoice for a dimensionless gauge parameter. Interestingly, ghost modes cancelexactly the contribution to the Casimir energy resulting from transverse andtemporal modes of the potential, jointly with the decoupled normal mode of thepotential. Moreover, normal and longitudinal components of the potential forthe interior and the exterior problem give a result in complete agreement withthe one first found by Boyer, who studied instead boundary conditions involvingTE and TM modes of the electromagnetic field. The coupled eigenvalue equationsfor perturbative modes of the potential are also analyzed in the axial gauge,and for arbitrary values of the gauge parameter. The set of modes whichcontribute to the Casimir energy is then drastically changed, and comparisonwith the case of a flat boundary sheds some light on the key features of theCasimir energy in non-covariant gauges.

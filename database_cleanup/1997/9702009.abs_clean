@@ -1,0 +1,11 @@
+Paper: hep-th/9702009
+
+Date: 1997-02-01
+
+Title: Effective Actions for Spin 0,1/2,1 in Curved Spacetimes
+
+Authors: Frank Antonsen, Karsten Bormann
+
+Comments: LaTeX, 49 pages
+
+We calculate the effective potentials for scalar, Dirac and Yang-Mills fieldsin curved backgrounds using a new method for the determination of the heatkernel involving a re-summation of the Schwinger-DeWitt series.Self-interactions are treated both to one loop order as usual and slightlybeyond one-loop order by means of a mean-field approximation. The new approachgives the familiar result for scalar fields, the Coleman-Weinberg potentialplus corrections such as the leading-log terms, but the actual calculation ismuch faster. We furthermore show how to go systematically to higher loop order.The Schwarzschild space-time is used to exemplify the procedure. Next weconsider phase transitions and we show that for a classical critical point tobe a critical point of the effective potential too, certain restrictions mustbe imposed on as well its value as on the form of the classical potential andthe background geometry. We derive this extra condition for scalar fields witharbitrary self couplings and comment on the case of fermions and gauge bosonstoo. Critical points of the effective action which are not there classicallyare also discussed. This has implications for inflation. The renormalisedenergy-momentum tensor for a scalar field with arbitrary self-interaction andnon-minimal coupling to the gravitational background is also calculated to thisimproved one-loop order as is the resulting conformal anomaly. Conditions forthe violation of energy conditions are described. Finally we discuss metricfluctuations and a self-consistency condition for such fluctuations is writtendown for spin 0,1/2,1 quantum fields. This is of importance for the study ofcosmic density fluctuations. All calculations are performed in the physicallyrelevant case of d=4 dimensions.

@@ -1,0 +1,13 @@
+Paper: hep-th/9607153
+
+Date: 1996-07-18
+
+Title: Gauge Invariance in Simplicial Gravity
+
+Authors: H.W. Hamber and R.M Williams
+
+Comments: LaTeX, 68 pages, 24 figures
+
+Journal-ref: Nucl.Phys. B487 (1997) 345-408
+
+The issue of local gauge invariance in the simplicial lattice formulation ofgravity is examined. We exhibit explicitly, both in the weak field expansionabout flat space, and subsequently for arbitrarily triangulated backgroundmanifolds, the exact local gauge invariance of the gravitational action, whichincludes in general both cosmological constant and curvature squared terms. Weshow that the local invariance of the discrete action and the ensuing zeromodes correspond precisely to the diffeomorphism invariance in the continuum,by carefully relating the fundamental variables in the discrete theory (theedge lengths) to the induced metric components in the continuum. We discussmostly the two dimensional case, but argue that our results have generalvalidity. The previous analysis is then extended to the coupling with a scalarfield, and the invariance properties of the scalar field action under latticediffeomorphisms are exhibited. The construction of the lattice conformal gaugeis then described, as well as the separation of lattice metric perturbationsinto orthogonal conformal and diffeomorphism part. The local gauge invarianceproperties of the lattice action show that no Fadeev-Popov determinant isrequired in the gravitational measure, unless lattice perturbation theory isperformed with a gauge-fixed action, such as the one arising in the latticeanalog of the conformal or harmonic gauges.

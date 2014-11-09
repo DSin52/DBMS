@@ -1,0 +1,13 @@
+Paper: hep-th/9911243
+
+Date: 1999-11-30
+
+Title: The Mass Spectrum of N=1 SYM(2+1) at Strong Coupling
+
+Authors: Paul Haney, John R. Hiller, Oleg Lunin, Stephen Pinsky, Uwe Trittmann
+
+Comments: 18 pp, 7 figures
+
+Journal-ref: Phys.Rev. D62 (2000) 075002
+
+We consider supersymmetric Yang-Mills theory on R x S^1 x S^1. In particular,we choose one of the compact directions to be light-like and another to bespace-like. Since the SDLCQ regularization explicitly preserves supersymmetry,this theory is totally finite, and thus we can solve for bound state wavefunctions and masses numerically without renormalizing. We present the massesas functions of the longitudinal and transverse resolutions and show that themasses converge rapidly in both resolutions. We also study the behavior of thespectrum as a function of the coupling and find that at strong coupling thereis a stable, well defined spectrum which we present. We also find severalunphysical states that decouple at large transverse resolution. There are twosets of massless states; one set is massless only at zero coupling and theother is massless at all couplings. Together these sets of massless states arein one-to-one correspondence with the full spectrum of the dimensionallyreduced theory.

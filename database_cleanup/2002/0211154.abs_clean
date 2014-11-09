@@ -1,0 +1,11 @@
+Paper: hep-th/0211154
+
+Date: 2002-11-17
+
+Title: Chiral zero modes of the SU(n) Wess-Zumino-Novikov-Witten model
+
+Authors: P. Furlan, L.K. Hadjiivanov, I.T. Todorov
+
+Comments: 30 pages, LaTeX, uses amsfonts; v.2 - small corrections, Appendix and
+
+a reference added; v.3 - amended version for J. Phys. AWe define the chiral zero modes' phase space of the G=SU(n)Wess-Zumino-Novikov-Witten model as an (n-1)(n+2)-dimensional manifold M_qequipped with a symplectic form involving a special 2-form - the Wess-Zumino(WZ) term - which depends on the monodromy M. This classical system exhibits aPoisson-Lie symmetry that evolves upon quantization into an U_q(sl_n) symmetryfor q a primitive even root of 1. For each constant solution of the classicalYang-Baxter equation we write down explicitly a corresponding WZ term andinvert the symplectic form thus computing the Poisson bivector of the system.The resulting Poisson brackets appear as the classical counterpart of theexchange relations of the quantum matrix algebra studied previously. We arguethat it is advantageous to equate the determinant D of the zero modes' matrixto a pseudoinvariant under permutations q-polynomial in the SU(n) weights,rather than to adopt the familiar convention D=1.

@@ -1,0 +1,11 @@
+Paper: hep-th/0303140
+
+Date: 2003-03-14
+
+Title: Hidden Spacetime Symmetries and Generalized Holonomy in M-theory
+
+Authors: M. J. Duff and James T. Liu
+
+Comments: Corrections
+
+M-wave, (ii) G(null) in the 8/3 timelike case. Conclusions unchanged. Extrareference. 16 pages, latexIn M-theory vacua with vanishing 4-form F, one can invoke the ordinaryRiemannian holonomy H \subset SO(1,10) to account for unbroken supersymmetriesn=1, 2, 3, 4, 6, 8, 16, 32. However, the generalized holonomy conjecture, validfor non-zero F, can account for more exotic fractions of supersymmetry, inparticular 16<n<32. The conjectured holonomies are given by H \subset G where Gare the generalized structure groups G=SO(d-1,1) x G(spacelike), G=ISO(d-1) xG(null) and G=SO(d) x G(timelike) with 1<=d<11. For example,G(spacelike)=SO(16), G(null)=[SU(8) x U(1)] \ltimes R^{56} andG(timelike)=SO*(16) when d=3. Although extending spacetime symmetries, there isno conflict with the Coleman-Mandula theorem. The holonomy conjecture rules outcertain vacua which are otherwise permitted by the supersymmetry algebra.

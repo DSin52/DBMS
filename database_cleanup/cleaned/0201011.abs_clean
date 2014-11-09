@@ -1,0 +1,11 @@
+Paper: hep-th/0201011
+
+Date: 2002-01-03
+
+Title: Interpolating Gauges,Parameter Differentiability,WT-identities and the
+
+epsilon termAuthors: Satish D. Joglekar (I.I.T.Kanpur India)
+
+Comments: 24 pages, LaTeX2e, v2
+
+sentence corrected and a clarifying footnote addedEvaluation of variation of a Green's function in a gauge field theory with agauge parameter theta involves field transformations that are (close to)singular. Recently, we had demonstrated {hep-th/0106264}some unusual resultsthat follow from this fact for an interpolating gauge interpolating between theFeynman and the Coulomb gauge (formulated by Doust). We carry out furtherstudies of this model. We study properties of simple loop integrals involved inan interpolating gauge. We find that the proof of continuation of a Green'sfunction from the Feynman gauge to the Coulomb gauge via such a gauge in agauge-invariant manner seems obstructed by the lack of differentiability of thepath-integral with respect to theta (at least at discrete values for a specificGreen's function considered) and/or by additional contributions to theWT-identities. We show this by the consideration of simple loop diagrams for asimple scattering process. The lack of differentiability, alternately, producesa large change in the path-integral for a small enough change in theta nearsome values. We find several applications of these observations in a gaugefield theory. We show that the usual procedure followed in the derivation ofthe WT-identity that leads to the evaluation of a gauge variation of a Green'sfunction involves steps that are not always valid in the context of suchinterpolating gauges. We further find new results related to the need forkeeping the epsilon-term in the in the derivation of the WT-identity and and anontrivial contribution to gauge variation from it. We also demonstrate howarguments using Wick rotation cannot rid us of these problems. This work bringsout the pitfalls in the use of interpolating gauges in a clearer focus.

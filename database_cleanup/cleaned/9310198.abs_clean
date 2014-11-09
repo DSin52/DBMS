@@ -1,0 +1,13 @@
+Paper: hep-th/9310198
+
+Date: 1993-10-31
+
+Title: Environmentally Friendly Renormalization
+
+Authors: Denjoe O'Connor and C. R. Stephens
+
+Comments: 76 pages of Plain Tex, Postscript figures available upon request from
+
+denjoe@stp.dias.ie, preprint numbers THU-93/14, DIAS-STP-93-19Journal-ref: Int.J.Mod.Phys. A9 (1994) 2805-2902; Erratum-ibid. A9 (1994) 5851
+
+We analyze the renormalization of systems whose effective degrees of freedomare described in terms of fluctuations which are ``environment'' dependent.boundary conditions, and external fields. The points in the space of \lq\lqcoupling constants'' at which such systems exhibit scale invariance coincideonly with the fixed points of a global renormalization group which isnecessarily environment dependent. Using such a renormalization group we giveformal expressions to two loops for effective critical exponents for a genericcrossover induced by a relevant mass scale $g$. These effective exponents areseen to obey scaling laws across the entire crossover, including hyperscaling,but in terms of an effective dimensionality, $d\ef=4-\gl$, which represents theeffects of the leading irrelevant operator. We analyze the crossover of an$O(N)$ model on a $d$ dimensional layered geometry with periodic, antiperiodicand Dirichlet boundary conditions. Explicit results to two loops for effective``Gaussian model'' ($N=-2$), spherical model ($N=\infty$), Ising Model ($N=1$),polymers ($N=0$), XY-model ($N=2$) and Heisenberg ($N=3$) models in fourdimensions. We also give two loop Pad\'e resummed results for a threedimensional Ising ferromagnet in a transverse magnetic field and correspondingone loop results for the two dimensional model. One loop results are alsopresented for a three dimensional layered Ising model with Dirichlet andantiperiodic boundary conditions. Asymptotically the effective exponents are inexcellent agreement with known results.

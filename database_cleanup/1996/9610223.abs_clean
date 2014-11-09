@@ -1,0 +1,13 @@
+Paper: hep-th/9610223
+
+Date: 1996-10-28
+
+Title: 3D Ising Model
+
+Authors: Riccardo Guida, Jean Zinn Justin
+
+Comments: TeX file, 4 eps figures included, all macros included. Revised
+
+Nucl. Phys. BJournal-ref: Nucl.Phys. B489 (1997) 626-652
+
+The equation of state of the universality class of the 3D Ising model isdetermined numerically in the critical domain from quantum field theory andrenormalization group techniques. The starting point is the five loopperturbative expansion of the effective potential (or free energy) in theframework of renormalized $\phi^4_3$ field theory. The 3D perturbativeexpansion is summed, using a Borel transformation and a mapping based on largeorder behaviour results. It is known that the equation of state has parametricrepresentations which incorporate in a simple way its scaling and regularityproperties. We show that such a representation can be used to accuratelydetermine it from the knowledge of the few first coefficients of the expansionfor small magnetization. Revised values of amplitude ratios are deduced.Finally we compare the 3D values with the results obtained by the same methodfrom the $\epsilon=4-d$ expansion.

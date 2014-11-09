@@ -1,0 +1,11 @@
+Paper: hep-th/0212314
+
+Date: 2002-12-26
+
+Title: Holographic Renormalization Group
+
+Authors: Masafumi Fukuma, So Matsuura and Tadakatsu Sakai
+
+Comments: 95 pages, 6 figures. Typos are corrected. References and a discussion
+
+about continuum limit are addedThe holographic renormalization group (RG) is reviewed in a self-containedmanner. The holographic RG is based on the idea that the radial coordinate of aspace-time with asymptotically AdS geometry can be identified with the RG flowparameter of the boundary field theory. After briefly discussing basic aspectsof the AdS/CFT correspondence, we explain how the notion of the holographic RGcomes out in the AdS/CFT correspondence. We formulate the holographic RG basedon the Hamilton-Jacobi equations for bulk systems of gravity and scalar fields,as was introduced by de Boer, Verlinde and Verlinde. We then show that theequations can be solved with a derivative expansion by carefully extractinglocal counterterms from the generating functional of the boundary field theory.The calculational methods to obtain the Weyl anomaly and scaling dimensions arepresented and applied to the RG flow from the N=4 SYM to an N=1 superconformalfixed point discovered by Leigh and Strassler. We further discuss a relationbetween the holographic RG and the noncritical string theory, and show that thestructure of the holographic RG should persist beyond the supergravityapproximation as a consequence of the renormalizability of the nonlinear sigmamodel action of noncritical strings. As a check, we investigate the holographicRG structure of higher-derivative gravity systems, and show that such systemscan also be analyzed based on the Hamilton-Jacobi equations, and that thebehaviour of bulk fields are determined solely by their boundary values. Wealso point out that higher-derivative gravity systems give rise to newmulticritical points in the parameter space of the boundary field theories.

@@ -1,0 +1,11 @@
+Paper: hep-th/0210296
+
+Date: 2002-10-30
+
+Title: D-Branes in Landau-Ginzburg Models and Algebraic Geometry
+
+Authors: Anton Kapustin, Yi Li
+
+Comments: 51 pages, AMS latex; two eps figures. v2
+
+Kontsevich's proposal is givenGeometryWe study topological D-branes of type B in N=2 Landau-Ginzburg models,focusing on the case where all vacua have a mass gap. In general, tree-leveltopological string theory in the presence of topological D-branes is describedmathematically in terms of a triangulated category. For example, it has beenargued that B-branes for an N=2 sigma-model with a Calabi-Yau target space aredescribed by the derived category of coherent sheaves on this space. M.Kontsevich previously proposed a candidate category for B-branes in N=2Landau-Ginzburg models, and our computations confirm this proposal. We alsogive a heuristic physical derivation of the proposal. Assuming its validity, wecan completely describe the category of B-branes in an arbitrary massiveLandau-Ginzburg model in terms of modules over a Clifford algebra. Assuming inaddition Homological Mirror Symmetry, our results enable one to compute theFukaya category for a large class of Fano varieties. We also provide a(somewhat trivial) counter-example to the hypothesis that given a closed stringbackground there is a unique set of D-branes consistent with it.

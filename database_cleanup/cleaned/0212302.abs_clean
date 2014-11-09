@@ -1,0 +1,11 @@
+Paper: hep-th/0212302
+
+Date: 2002-12-25
+
+Title: Bootstrapping Perturbative Perfect Actions
+
+Authors: Hidenori Sonoda
+
+Comments: 26 pages, 2 figures, LaTeX2e with REVTEX4
+
+We study the exact renormalization group of the four dimensional phi4 theoryperturbatively. We reformulate the differential renormalization group equationsas integral equations that define the continuum limit of the theory directlywith no need for a bare theory. We show how the self-consistency of theintegral equations leads to the determination of the interaction vertices inthe continuum limit. The inductive proof of the existence of a solution to theintegral equations amounts to a proof of perturbative renormalizability, and itconsists of nothing more than counting the scale dimensions of the interactionvertices. Universality is discussed within a context of the exactrenormalization group.

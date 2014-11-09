@@ -1,0 +1,13 @@
+Paper: hep-th/9912179
+
+Date: 1999-12-20
+
+Title: Local symmetries in the Hamiltonian framework. 1. Hamiltonian form of
+
+the symmetries and the Noether identitiesAuthors: A.A. Deriglazov and K.E. Evdokimov
+
+Comments: 33 pages, LaTex file, twice. References added
+
+Journal-ref: Int.J.Mod.Phys. A15 (2000) 4045
+
+We study in the Hamiltonian framework the local transformations$\delta_\epsilon q^A(\tau)=\sum^{[k]}_{k=0}\partial^k_\tau\epsilon^a{}$\delta_\epsilon S=div$. Manifest form of the symmetry and the correspondingNoether identities is obtained in the first order formalism as well as in theHamiltonian one. The identities has very simple form and interpretation in theHamiltonian framework. Part of them allows one to express the symmetrygenerators which correspond to the primarily expressible velocities through theremaining one. Other part of the identities allows one to select subsystem ofconstraints with a special structure from the complete constraint system. Itmeans, in particular, that the above written symmetry implies an appearance ofthe Hamiltonian constraints up to at least $([k]+1)$ stage. It is proved alsothat the Hamiltonian symmetries can always be presented in the form ofcanonical transformation for the phase space variables. Manifest form of theresulting generating function is obtained.

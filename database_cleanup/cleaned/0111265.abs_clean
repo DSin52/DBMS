@@ -1,0 +1,11 @@
+Paper: hep-th/0111265
+
+Date: 2001-11-28
+
+Title: Semiclassical Mechanics of Constrained Systems
+
+Authors: Oleg Shvedov
+
+Comments: 46 pages, LaTeX, no figures
+
+Semiclassical mechanics of systems with first-class constraints is developed.Starting from the quantum theory, one investigates such objects assemiclassical states and observables, semiclassical inner product,semiclassical gauge transformations and evolution. Quantum mechanicalsemiclassical substitutions (not only the WKB-ansatz) can be viewed as"composed semiclassical states" being infinite superpositions of wave packetswith minimal uncertainties of coordinates and momenta ("elementarysemiclassical states"). Each elementary semiclassical state is specified by aset (X,f) of classical variables X (phase, coordinates, momenta) and quantumfunction f ("shape of the wave packet" or "quantum state in the background X").A notion of an elemantary semiclassical state can be generalized to theconstrained systems, provided that one uses the refined algebraic quantizationapproach based on modifying the inner product rather than on imposing theconstrained conditions on physical states. The inner product of physical statesis evaluated. It is obtained that classical part of X the semiclassical stateshould belong to the constrained surface; otherwise, the semiclassical state(X,f) will have zero norm for all f. Even under classical constraintconditions, the semiclassical inner product is degenerate. One should factorizethen the space of semiclassical states. Semiclassical gauge transformations andevolution of semiclassical states are studied. The correspondence withsemiclassical Dirac approach is discussed.

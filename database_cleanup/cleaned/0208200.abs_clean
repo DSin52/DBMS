@@ -1,0 +1,11 @@
+Paper: hep-th/0208200
+
+Date: 2002-08-27
+
+Title: The Moyal Momentum algebra applied to (theta)-deformed 2d conformal
+
+models and KdV-hierarchiesAuthors: A. Boulahoual and M.B. Sedra (ICTP, Trieste, Italy)
+
+Comments: 43 pages, Latex file, 1 figure
+
+The properties of the Das-Popowicz Moyal momentum algebra that we introducein hep-th/0207242 are reexamined in details and used to discuss some aspects ofintegrable models and 2d conformal field theories. Among the results presented,we setup some useful convention notations which lead to extract some nontrivial properties of the Moyal momentum algebra. We use the particularsub-algebra sl(n)-{Sigma}_{n}^{(0,n)} to construct the sl(2)-Liouvilleconformal model and its sl(3)-Toda extension. We show also that the centralcharge, a la Feigin-Fuchs, associated to the spin-2 conformal current of the(theta)-Liouville model is given by c(theta)=1+24.theta^{2}. Moreover, theresults obtained for the Das-Popowicz Mm algebra are applied to studysystematically some properties of the Moyal KdV and Boussinesq hierarchiesgeneralizing some known results. We discuss also the primarity condition ofconformal $w_{\theta}$-currents and interpret this condition as being adressing gauge symmetry in the Moyal momentum space. Some computations relatedto the dressing gauge group are explicitly presented.

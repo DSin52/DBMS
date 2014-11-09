@@ -1,0 +1,11 @@
+Paper: hep-th/9511073
+
+Date: 1995-11-10
+
+Title: Wilson Renormalization Group Study of Inverse Symmetry Breaking
+
+Comments: 40 pages LaTeX, 13 Postscript figures. Uses epsf.sty, amssym.def,
+
+amssym.tex. No changes. Replaced to correct a problem with the figuresJournal-ref: Phys.Rev. D54 (1996) 2944
+
+For a large class of field theories there exist portions of parameter spacefor which the loop expansion predicts increased symmetry breaking at hightemperature. Even though this behavior would clearly have far reachingimplications for cosmology such theories have not been fully investigated inthe literature. This is at least partially due to the counter intuitive natureof the result, which has led to speculations that it is merely an artifact ofperturbation theory. To address this issue we study the simplest modeldisplaying high temperature symmetry breaking using a Wilson renormalizationgroup approach. We find that although the critical temperature is not reliablyestimated by the loop expansion the total volume of parameter space which leadsto the inverse phase structure is not significantly different from theperturbative prediction. We also investigate the temperature dependence of thecoupling constants and find that they run approximately according to theirone-loop $\beta$-functions at high temperature. Thus, in particular, thequartic coupling of $phi^4$ theory is shown to increase with temperature, incontrast to the behavior obtained in some previous studies.

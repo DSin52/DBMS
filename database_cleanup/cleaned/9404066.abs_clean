@@ -1,0 +1,13 @@
+Paper: hep-th/9404066
+
+Date: 1994-04-12
+
+Title: Locating Overlap Information in Quantum Systems
+
+Authors: Andreas Albrecht
+
+Comments: 25 pages plain LaTeX, no figures. Imperial/TP/93-94/27
+
+Journal-ref: Phys.Rev. D50 (1994) 2744-2753
+
+When discussing the black hole information problem the term ``informationflow'' is frequently used in a rather loose fashion. In this article I attemptto make this notion more concrete. I consider a Hilbert space which isconstructed as a tensor product of two subspaces (representing for exampleinside and outside the black hole). I discuss how the system has the capacityto contain information which is in NEITHER of the subspaces. I attempt toquantify the amount of information located in each of the two subspaces, andelsewhere, and analyze the extent to which unitary evolution can correspond to``information flow''. I define the notion of ``overlap information'' whichappears to be well suited to the problem.

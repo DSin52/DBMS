@@ -1,0 +1,11 @@
+Paper: hep-th/0304130
+
+Date: 2003-04-15
+
+Title: Spectral theory of automorphic forms and analysis of invariant operators
+
+on $SL_3({\cal{Z}}$ with applicationsAuthors: Sultan Catto, Jonathan Huntley, Nam-Jong Moh and David Tepper
+
+Comments: 6 pages, revtex
+
+We study a variety of problems in the spectral theory of automorphic formsusing entirely analytic techniques such as Selberg trace formula, asymptoticsof Whittaker functions and behavior of heat kernels. Error terms for Weyl's lawand an analog of Selberg's eigenvalue conjecture for $SL_3({\bf Z})$ is given.group $PGL_3(\bf R)$. Let $X = \Gamma{\backslash SL_3({\bf Z}})$ and considerthe first non-trivial eigenvalue $\lambda_1$ of the Laplacian on $L^2(X)$.Using geometric considerations, we prove the inequality $\lambda_1 > 3pi^2/10>2.96088.$ Since the continuous spectrum is represented by the band$[1,\infty)$, our bound on $\lambda_{1}$ can be viewed as an analogue ofSelberg's eigenvalue conjecture for quotients of the hyperbolic half space.Brief comment on relevance of automorphic forms to applications in high energyphysics is given.

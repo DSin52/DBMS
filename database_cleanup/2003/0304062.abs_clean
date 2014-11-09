@@ -1,0 +1,11 @@
+Paper: hep-th/0304062
+
+Date: 2003-04-07
+
+Title: String bits in small radius AdS and weakly coupled N=4 Super Yang-Mills
+
+Authors: Avinash Dhar, Gautam Mandal and Spenta R. Wadia
+
+Comments: 33 pages, one figure; uses JHEP, epsfig
+
+We study light-cone gauge quantization of IIB strings in AdS_5 \times S^5 forsmall radius in Poincare coordinates. A picture of strings made up ofnoninteracting bits emerges in the zero radius limit. In this limit, each bitbehaves like a superparticle moving in the AdS_5 \times S^5 background,carrying appropriate representations of the super conformal group PSU(2,2|4).The standard Hamiltonian operator which causes evolution in the light-cone timehas continuous eigenvalues and provides a basis of states which is not suitablefor comparing with the dual super Yang-Mills theory. However, there existoperators in the light-cone gauge which have discrete spectra and can be usedto label the states. We construct states of the free string in this basis. Weinclude all possible states arising from discretizing the string into varyingnumber of bits. A non-zero value of the radius introduces interactions betweenthe bits and the spectrum of strings gets modified. We discuss the leadingperturbative corrections at small radius for a few simple cases. Potentialdivergences in the perturbative corrections, arising from strings near theboundary, cancel. We suggest that the divergences cancel in the computation ofanomalous dimensions of all physical string states because of the large amountof supersymmetry present in the AdS_5 \times S^5 background. Our work providesa framework for a rigorous and detailed testing of the AdS/CFT conjecture.

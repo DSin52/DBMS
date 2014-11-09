@@ -1,0 +1,13 @@
+Paper: hep-th/0102020
+
+Date: 2001-02-05
+
+Title: SDLCQ and String/Field Theory Correspondences
+
+Authors: Uwe Trittmann
+
+Comments: 9 pp., 3 figures, uses espcrc2.sty. Contribution to the "30 Years of
+
+Supersymmetry" Proceedings, to appear in Nucl.Phys.Proc.SupplJournal-ref: Nucl.Phys.Proc.Suppl. 101 (2001) 314-322
+
+String/Field theory correspondences have been discussed heavily in recentyears. Here, we describe a testing scenario involving a non-perturbative fieldtheory calculation using the framework of supersymmetric discrete light-conequantization (SDLCQ). We consider a Maldacena-type conjecture applied to thenear horizon geometry of a D1-brane in the supergravity approximation.Numerical results of a test of this conjecture are presented with orders ofmagnitude more states than we previously considered. These results support theMaldacena conjecture and are within 10-15% of the predicted results. We presenta method for using a ``flavor'' symmetry to greatly reduce the size of the Fockbasis and discuss a numerical method that we use which is particularly wellsuited for this type of matrix element calculation. Our results are still notsufficient to demonstrate convergence, and, therefore, cannot be considered tobe a numerical proof of the conjecture. We update our continuous efforts toimprove on these results and present some results on the way to higherdimensional scenarios.

@@ -1,0 +1,13 @@
+Paper: hep-th/9611053
+
+Date: 1996-11-08
+
+Title: On the Structure of the Small Quantum Cohomology Rings of Projective
+
+HypersurfacesAuthors: A. Collino (U. of Torino), M. Jinzenji (U. of Tokyo)
+
+Comments: 32 pages, changed fonts, exact results on quintic rational curves are
+
+added. To appear in Commun. Math. PhysJournal-ref: Commun.Math.Phys. 206 (1999) 157-183
+
+We give an explicit procedure which computes for degree $d \leq 3$ thecorrelation functions of topological sigma model (A-model) on a projective Fanohypersurface $X$ as homogeneous polynomials of degree $d$ in the correlationfunctions of degree 1 (number of lines). We extend this formalism to the caseof Calabi-Yau hypersurfaces and explain how the polynomial property ispreserved. Our key tool is the construction of universal recursive formulaswhich express the structural constants of the quantum cohomology ring of $X$ asweighted homogeneous polynomial functions in the constants of the Fanohypersurface with the same degree and dimension one more. We propose someconjectures about the existence and the form of the recursive formulas for thestructural constants of rational curves of arbitrary degree. Our recursiveformulas should yield the coefficients of the hypergeometric series used in themirror calculation. Assuming the validity of the conjectures we find therecursive laws for rational curves of degree 4 and 5.

@@ -1,0 +1,13 @@
+Paper: hep-th/0107074
+
+Date: 2001-07-10
+
+Title: Bulk Quantization of Gauge Theories
+
+Authors: Laurent Baulieu and Daniel Zwanziger
+
+Comments: 34 pages
+
+Journal-ref: JHEP 0108 (2001) 015
+
+We deepen the understanding of the quantization of the Yang-Mills field byshowing that the concept of gauge fixing in 4 dimensions is replaced in the5-dimensional formulation by a procedure that amounts to an $A$-dependent gaugetransformation. The 5-dimensional formulation implements the restriction of thephysical 4-dimensional gluon field to the Gribov region, while being a localdescription that is under control of BRST symmetries both of topological andgauge type. The ghosts decouple so the Euclidean probability density iseverywhere positive, in contradistinction to the Faddeev-Popov method forwhich the determinant changes sign outside the Gribov region. We include in ourdiscussion the coupling of the gauge theory to a Higgs field, including thecase of spontaneously symmetry breaking. We introduce a minimizing functionalon the gauge orbit that could be of interest for numerical gauge fixing in thesimulations of spontaneously broken lattice gauge theories. Other new resultsare displayed, such as the identification of the Schwinger-Dyson equation ofthe five dimensional formulation in the (singular) Landau gauge with that ofthe ordinary Faddeev-Popov formulation, order by order in perturbation theory.

@@ -1,0 +1,13 @@
+Paper: hep-th/9412073
+
+Date: 1994-12-08
+
+Title: Differential Geometry on the Space of Connections via Graphs and
+
+Projective LimitsAuthors: Abhay Ashtekar and Jerzy Lewandowski
+
+Comments: Minor corrections have been made. 54 pages, LATEX file, no figures
+
+Journal-ref: J.Geom.Phys. 17 (1995) 191-230
+
+In a quantum mechanical treatment of gauge theories (including generalrelativity), one is led to consider a certain completion, $\agb$, of the space$\ag$ of gauge equivalent connections. This space serves as the quantumconfiguration space, or, as the space of all Euclidean histories over which onemust integrate in the quantum theory. $\agb$ is a very large space and servesas a ``universal home'' for measures in theories in which the Wilson loopobservables are well-defined. In this paper, $\agb$ is considered as theprojective limit of a projective family of compact Hausdorff manifolds,labelled by graphs (which can be regarded as ``floating lattices'' in thephysics terminology). Using this characterization, differential geometry isdeveloped through algebraic methods. In particular, we are able to introducevolume forms, vector fields and Lie brackets between them, divergence of avector field with respect to a volume form, Laplacians and associated heatkernels and heat kernel measures. Thus, although $\agb$ is very large, it issmall enough to be mathematically interesting and physically useful. A keyfeature of this approach is that it does not require a background metric. Thegeometrical framework is therefore well-suited for diffeomorphism invarianttheories such as quantum general relativity.

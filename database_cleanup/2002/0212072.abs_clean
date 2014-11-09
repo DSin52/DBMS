@@ -1,0 +1,11 @@
+Paper: hep-th/0212072
+
+Date: 2002-12-05
+
+Title: Schwinger-Keldysh Propagators from AdS/CFT Correspondence
+
+Authors: C. P. Herzog and D. T. Son
+
+Comments: 16 pages, 1 figure, references added
+
+We demonstrate how to compute real-time Green's functions for a class offinite temperature field theories from their AdS gravity duals. In particular,we reproduce the two-by-two Schwinger-Keldysh matrix propagator from a gravitycalculation. Our methods should work also for computing higher point Lorentziansignature correlators. We elucidate the boundary condition subtleties whichhampered previous efforts to build a Lorentzian-signature AdS/CFTcorrespondence. For two-point correlators, our construction is automaticallyequivalent to the previously formulated prescription for the retardedpropagator.

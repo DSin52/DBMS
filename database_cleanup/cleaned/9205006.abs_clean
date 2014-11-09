@@ -1,0 +1,13 @@
+Paper: hep-th/9205006
+
+Date: 1992-05-04
+
+Title: Stabilized Quantum Gravity
+
+SimulationAuthors: J. Greensite
+
+Comments: 22 pages, 3 figures (now included as a postscript file)
+
+Journal-ref: Nucl. Phys. B390 (1993) 439
+
+Following the reasoning of Claudson and Halpern, it is shown that"fifth-time" stabilized quantum gravity is equivalent to Langevin evolution(i.e. stochastic quantization) between fixed non-singular, but otherwisearbitrary, initial and final states. The simple restriction to a fixed finalstate at $t_5 \rightarrow \infty$ is sufficient to stabilize the theory. Thisequivalence fixes the integration measure, and suggests a particularoperator-ordering, for the fifth-time action of quantum gravity. Results of anumerical simulation of stabilized, latticized Einstein-Cartan theory on somesmall lattices are reported. In the range of cosmological constant $\l$$<det(e)> \ne 0$; and 2) the negative free energy is large, possibly singular,in the vincinity of $\l = 0$. The second finding may be relevant to thecosmological constant problem.

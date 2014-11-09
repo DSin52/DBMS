@@ -1,0 +1,13 @@
+Paper: hep-th/0005101
+
+Date: 2000-05-11
+
+Title: Noncommutative Monopole at the Second Order in \theta
+
+Authors: Seiya Goto and Hiroyuki Hata (Kyoto Univ.)
+
+Comments: 18 pages, 2 eps figures, LaTeX2e; typos corrected
+
+Journal-ref: Phys.Rev. D62 (2000) 085022
+
+We study the noncommutative U(2) monopole solution at the second order in thenoncommutativity parameter \theta^{ij}. We solve the BPS equation innoncommutative super Yang-Mills theory to O(\theta^2), transform the solutionto the commutative description by the Seiberg-Witten (SW) map, and evaluate theeigenvalues of the scalar field. We find that, by tuning the free parameters inthe SW map, we can make the scalar eigenvalues precisely reproduce theconfiguration of a tilted D-string suspended between two parallel D3-branes.This gives an example of how the ambiguities inevitable in the higher order SWmap are fixed by physical requirements.

@@ -1,0 +1,13 @@
+Paper: hep-th/9604087
+
+Date: 1996-04-16
+
+Title: The Path Integral Quantization And The Construction Of The S-matrix In
+
+The Abelian And Non-Abelian Chern-Simons TheoriesAuthors: V.Ya.Fainberg, N.K.Pak, M.S.Shikakhwa ( Department of Physics, Middle
+
+East Tech. Univ., Ankara-Turkey)Comments: LaTex file, 31 pages, two figures
+
+Journal-ref: J.Phys. A30 (1997) 3947-3966
+
+The cvariant path integral quantization of the theory of the scalar andspinor particles interacting through the abelian and non-Abelian Chern-Simonsgauge fields is carried out and is shown to be mathematically ill defined dueto the absence of the transverse components of these gauge fields. This isremedied by the introduction of the Maxwell or the Maxwell-type (in thenon-Abelian case)term which makes the theory superrenormalizable and guaranteesits gauge-invariant regularization and renormalization. The generatingfunctionals are constructed and shown to be formally the same as those of QED(or QCD) in 2+1 dimensions with the substitution of the Chern-Simons propagatorfor the photon (gluon) propagator. By constructing the propagator in thegeneral case, the existence of two limits; pure Chern-Simons and QED (QCD)after renormalization is demonstrated.By carrying out carefully the path integral quantization of the non-AbelianChern-Simons theories using the De Witt-Fadeev-Popov and the Batalin-Fradkin-Vilkovisky methods it is demonstrated that there is no need to quantize thedimensionless charge of the theory. The main reason is that the action in theexponent of the path integral is BRST-invariant which acquires a zero windingnumber and guarantees the BRST renormalizability of the model.The S-matrix operator is constructed, and starting from this S-matrix operatornovel topological unitarity identities are derived that demand the vanishing ofthe gauge-invariant sum of the imaginary parts of the Feynman diagrams with agiven number of intermediate on-shell topological photon lines in each order ofperturbation theory. These identities are illustrated by an explicit example.

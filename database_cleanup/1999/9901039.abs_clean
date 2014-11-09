@@ -1,0 +1,13 @@
+Paper: hep-th/9901039
+
+Date: 1999-01-11
+
+Title: Center Vortices, Nexuses, and the Georgi-Glashow Model
+
+Authors: John M. Cornwall (Department of Physics, UCLA)
+
+Comments: 27 pages, LaTeX, 3 .eps figures
+
+Journal-ref: Phys.Rev. D59 (1999) 125015
+
+In a gauge theory with no Higgs fields the mechanism for confinement is bycenter vortices, but in theories with adjoint Higgs fields and generic symmetrybreaking, such as the Georgi-Glashow model, Polyakov showed that in d=3confinement arises via a condensate of 't Hooft-Polyakov monopoles. We studythe connection in d=3 between pure-gauge theory and the theory with adjointHiggs by varying the Higgs VEV v. As one lowers v from the Polyakov semi-classical regime v>>g (g is the gauge coupling) toward zero, where the unbrokentheory lies, one encounters effects associated with the unbroken theory at afinite value v\sim g, where dynamical mass generation of a gauge-symmetricgauge- boson mass m\sim g^2 takes place, in addition to the Higgs-generatednon-symmetric mass M\sim vg. This dynamical mass generation is forced by theinfrared instability (in both 3 and 4 dimensions) of the pure-gauge theory. Weconstruct solitonic configurations of the theory with both m,M non-zero whichare generically closed loops consisting of nexuses (a class of soliton recentlystudied for the pure-gauge theory), each paired with an antinexus, sitting likebeads on a string of center vortices with vortex fields always pointing into(out of) a nexus (antinexus); the vortex magnetic fields extend a transversedistance 1/m. An isolated nexus with vortices is continuously deformable fromthe 't Hooft-Polyakov (m=0) monopole to the pure-gauge nexus-vortex complex(M=0). In the pure-gauge M=0 limit the homotopy $\Pi_2(SU(2)/U(1))=Z_2$ (or itsanalog for SU(N)) of the 't Hooft monopoles is no longer applicable, and isreplaced by the center-vortex homotopy $\Pi_1(SU)N)/Z_N)=Z_N$.

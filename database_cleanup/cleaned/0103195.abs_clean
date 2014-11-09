@@ -1,0 +1,11 @@
+Paper: hep-th/0103195
+
+Date: 2001-03-22
+
+Title: Optimised Renormalisation Group Flows
+
+Comments: 35 pages, 3 figures, explanations and two references added, abstract
+
+streamlined, to appear in PRDJournal-ref: Phys.Rev. D64 (2001) 105007
+
+We study the optimisation of exact renormalisation group (ERG) flows. Weexplain why the convergence of approximate solutions towards the physicaltheory is optimised by appropriate choices of the regularisation. We considerspecific optimised regulators for bosonic and fermionic fields and compare theoptimised ERG flows with generic ones. This is done up to second order in thederivative expansion at both vanishing and non-vanishing temperature. We findthat optimised flows at finite temperature factorise. This corresponds to thedisentangling of thermal and quantum fluctuations. A similar factorisation isfound at second order in the derivative expansion. The corresponding optimisedflow for a ``proper-time renormalisation group'' is also provided to leadingorder in the derivative expansion.

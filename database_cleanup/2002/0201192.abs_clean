@@ -1,0 +1,13 @@
+Paper: hep-th/0201192
+
+Date: 2002-01-24
+
+Title: Large N limit of SO(N) gauge theory of fermions and bosons
+
+Authors: E. Toprak (1), O. T. Turgut (1 and 2) ((1) Bogazici University,
+
+Istanbul and (2) KTH, Stockholm)Comments: 27 pages, no figures
+
+Journal-ref: J.Math.Phys. 43 (2002) 3074-3096
+
+In this paper we study the large N_c limit of SO(N_c) gauge theory coupled toa Majorana field and a real scalar field in 1+1 dimensions extending ideas ofRajeev. We show that the phase space of the resulting classical theory ofbilinears, which are the mesonic operators of this theory, is OSp_1(H|H)/U(H_+|H_+), where H|H refers to the underlying complex graded space ofcombined one-particle states of fermions and bosons and H_+|H_+ corresponds tothe positive frequency subspace. In the begining to simplify our presentationwe discuss in detail the case with Majorana fermions only (the purely bosoniccase is treated in our earlier work). In the Majorana fermion case the phasespace is given by O_1(H)/U(H_+), where H refers to the complex one-particlestates and H_+ to its positive frequency subspace. The meson spectrum in thelinear approximation again obeys a variant of the 't Hooft equation. The linearapproximation to the boson/fermion coupled case brings an additonal bound stateequation for mesons, which consists of one fermion and one boson, again of thesame form as the well-known 't Hooft equation.

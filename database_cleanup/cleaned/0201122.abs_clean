@@ -1,0 +1,13 @@
+Paper: hep-th/0201122
+
+Date: 2002-01-16
+
+Title: Algebraic Properties of BRST Coupled Doublets
+
+Authors: Andrea Quadri
+
+Comments: Some explanations enlarged, references added
+
+Journal-ref: JHEP 0205 (2002) 051
+
+We characterize the dependence on doublets of the cohomology of an arbitrarynilpotent differential s (including BRST differentials and classical linearizedSlavnov-Taylor (ST) operators) in terms of the cohomology of thedoublets-independent component of s. All cohomologies are computed in the spaceof local integrated formal power series. We drop the usual assumption that thecounting operator for the doublets commutes with s (decoupled doublets) anddiscuss the general case where the counting operator does not commute with s(coupled doublets). The results are purely algebraic and do not rely onpower-counting arguments.

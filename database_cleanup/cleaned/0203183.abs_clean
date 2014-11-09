@@ -1,0 +1,11 @@
+Paper: hep-th/0203183
+
+Date: 2002-03-20
+
+Title: A universal symmetry structure in open string theory
+
+Authors: Karl-Georg Schlesinger
+
+Comments: 18 pages
+
+In this paper, we arrive from different starting points at the conclusionthat the symmetry given by an action of the Grothendieck-Teichmueller group GTon the so called extended moduli space of string theory can not be physical -in the sense that it does not survive the inclusion of general nonperturbativevacua given by boundary conditions on the level of two dimensional conformalfield theory - but has to be extended to a quantum symmetry given by aself-dual, noncommutative, and noncocommutative Hopf algebra. First, we showthat a class of two dimensional boundary conformal field theories alwaysuniquely defines a trialgebra and find the above mentioned Hopf algebra as theuniversal symmetry of such trialgebras (in analogy to the definition of GT asthe universal symmetry of quasi-triangular quasi-Hopf algebras). Second, weargue in a more heuristic approach that this Hopf algebra symmetry can also befound in a more geometric picture using the language of gerbes. Finally, wewill see that the fact that the GT-symmetry can not be physical in the abovesense can also be seen by trying to understand why the action of GT on theDuflo-Kirillov isomorphism trivializes.

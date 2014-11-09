@@ -1,0 +1,13 @@
+Paper: hep-th/0010220
+
+Date: 2000-10-24
+
+Title: Non-Commutative Quantum Mechanics
+
+Authors: J. Gamboa, M. Loewe and J.C. Rojas
+
+Comments: Minors corrections and some references removed. To appear in PRD
+
+Journal-ref: Phys.Rev. D64 (2001) 067901
+
+A general non-commutative quantum mechanical system in a central potential$V=V(r)$ in two dimensions is considered. The spectrum is bounded from belowand for large values of the anticommutative parameter $\theta $, we find anexplicit expression for the eigenvalues. In fact, any quantum mechanical systemwith these characteristics is equivalent to a commutative one in such a waythat the interaction $V(r)$ is replaced by $V = V ({\hat H}_{HO}, {\hat L}_z)$,where ${\hat H}_{HO}$ is the hamiltonian of the two-dimensional harmonicoscillator and ${\hat L}_z$ is z- component of the angular momentum. For otherfinite values of $\theta$ the model can be solved by using perturbation theory.

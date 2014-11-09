@@ -1,0 +1,9 @@
+Paper: hep-th/0303010
+
+Date: 2003-03-03
+
+Title: Hydrodynamic Fluctuations, Long-time Tails, and Supersymmetry
+
+Authors: Pavel Kovtun and Laurence G. Yaffe
+
+Hydrodynamic fluctuations at non-zero temperature can cause slow relaxationtoward equilibrium even in observables which are not locally conserved. Aclassic example is the stress-stress correlator in a normal fluid, which, atzero wavenumber, behaves at large times as t^{-3/2}. A novel feature of theeffective theory of hydrodynamic fluctuations in supersymmetric theories is thepresence of Grassmann-valued classical fields describing macroscopicsupercharge density fluctuations. We show that hydrodynamic fluctuations insupersymmetric theories generate essentially the same long-time power-law tailsin real-time correlation functions that are known in simple fluids. Inparticular, a t^{-3/2} long-time tail must exist in the stress-stresscorrelator of N=4 supersymmetric Yang-Mills theory at non-zero temperature,regardless of the value of the coupling. Consequently, this feature offinite-temperature dynamics can provide an interesting test of the AdS/CFTcorrespondence. However, the coefficient of this long-time tail is suppressedby a factor of 1/N_c^2. On the gravitational side, this implies that theselong-time tails are not present in the classical supergravity limit; they mustinstead be produced by one-loop gravitational fluctuations.

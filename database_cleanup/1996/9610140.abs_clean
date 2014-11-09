@@ -1,0 +1,13 @@
+Paper: hep-th/9610140
+
+Date: 1996-10-18
+
+Title: Aspects of Type IIB Theory on ALE Spaces
+
+Authors: Clifford V. Johnson, Robert C. Myers
+
+Comments: 27 pages, three figures. Uses harvmac.tex and epsf.tex (sentences
+
+corrected on pages 13+14, reference added, small addition to final remarks)Journal-ref: Phys.Rev. D55 (1997) 6382-6393
+
+D-brane technology and strong/weak coupling duality supplement traditionalorbifold techniques by making certain background geometries more accessible. Inthis spirit, we consider some of the geometric properties of the type IIBtheory on R^6 \times M where M is an `Asymptotically Locally Euclidean (ALE)'gravitational instanton. Given the self-duality of the theory, we can extractthe geometry (both singular and resolved) seen by the weakly coupled IIB stringby studying the physics of a D1-brane probe. The construction is both amusingand instructive, as the physics of the probe completely captures themathematics of the construction of ALE instantons via `HyperKahler Quotients',as presented by Kronheimer. This relation has been noted by Douglas and Moorefor the A-series. We extend the explicit construction to the case of the D- andE-series -- uncovering a quite beautiful structure -- and highlight how all ofthe elements of the mathematical construction find their counterparts in thephysics of the type IIB D-string. We discuss the explicit ALE metrics which maybe obtained using these techniques, and comment on the role duality plays inrelating gauged linear sigma models to conformal field theories.

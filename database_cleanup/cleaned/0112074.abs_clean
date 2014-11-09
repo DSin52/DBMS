@@ -1,0 +1,11 @@
+Paper: hep-th/0112074
+
+Date: 2001-12-10
+
+Title: Poisson Geometry in Constrained Systems
+
+Authors: Martin Bojowald and Thomas Strobl
+
+Comments: 41 pages, more detailed abstract in paper; v2
+
+an additional referenceConstrained Hamiltonian systems fall into the realm of presymplecticgeometry. We show, however, that also Poisson geometry is of use in thiscontext.For the case that the constraints form a closed algebra, there are twonatural Poisson manifolds associated to the system, forming a symplectic dualpair with respect to the original, unconstrained phase space. We providesufficient conditions so that the reduced phase space of the constrained systemmay be identified with a symplectic leaf in one of those. In the second classcase the original constrained system may be reformulated equivalently as anabelian first class system in an extended phase space by these methods.Inspired by the relation of the Dirac bracket of a general second classconstrained system to the original unconstrained phase space, we address thequestion of whether a regular Poisson manifold permits a leafwise symplecticembedding into a symplectic manifold. Necessary and sufficient for this is thevanishing of the characteristic form-class of the Poisson tensor, a certainelement of the third relative cohomology.

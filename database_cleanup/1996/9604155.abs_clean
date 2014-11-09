@@ -1,0 +1,11 @@
+Paper: hep-th/9604155
+
+Date: 1996-04-24
+
+Title: The Sugawara generators at arbitrary level
+
+Authors: R. W. Gebert, K. Koepsell, H. Nicolai
+
+Comments: 17 pages, 1 figure, LaTeX2e, amsfonts, amssymb, xspace, PiCTeX
+
+We construct an explicit representation of the Sugawara generators forarbitrary level in terms of the homogeneous Heisenberg subalgebra, whichgeneralizes the well-known expression at level 1. This is achieved by employinga physical vertex operator realization of the affine algebra at arbitrarylevel, in contrast to the Frenkel--Kac--Segal construction which usesunphysical oscillators and is restricted to level 1. At higher level, the newoperators are transcendental functions of DDF ``oscillators'' unlike thequadratic expressions for the level-1 generators. An essential new feature ofour construction is the appearance, beyond level 1, of new types of poles inthe operator product expansions in addition to the ones at coincident points,which entail (controllable) non-localities in our formulas. We demonstrate theutility of the new formalism by explicitly working out some higher-levelexamples. Our results have important implications for the problem ofconstructing explicit representations for higher-level root spaces ofhyperbolic Kac--Moody algebras, and $E_{10}$ in particular.

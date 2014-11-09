@@ -1,0 +1,13 @@
+Paper: hep-th/9807164
+
+Date: 1998-07-21
+
+Title: Einstein manifolds and conformal field theories
+
+Authors: Steven S. Gubser
+
+Comments: 13 pages, latex, no figures, minor changes and references added
+
+Journal-ref: Phys.Rev. D59 (1999) 025006
+
+In light of the AdS/CFT correspondence, it is natural to try to define aconformal field theory in a large N, strong coupling limit via a supergravitycompactification on the product of an Einstein manifold and anti-de Sitterspace. We consider the five-dimensional manifolds T^{pq} which are coset spaces(SU(2) x SU(2))/U(1). The central charge and a part of the chiral spectrum arecalculated, respectively, from the volume of T^{pq} and the spectrum of thescalar laplacian. Of the manifolds considered, only T^{11} admits anysolution corresponding to a large number of D3-branes at a conifoldsingularity, discussed recently in hep-th/9807080. Through a field theoryanalysis of anomalous three point functions we are able to reproduce thethe central charge of the N=2 Z_2 orbifold theory from which it descends via anRG flow.

@@ -1,0 +1,13 @@
+Paper: hep-th/0201079
+
+Date: 2002-01-14
+
+Title: Quantum-Corrected Cardy Entropy for Generic 1+1-Dimensional Gravity
+
+Authors: A.J.M. Medved (University of Alberta)
+
+Comments: 18 pages, Latex; references added
+
+Journal-ref: Class.Quant.Grav. 19 (2002) 2503-2514
+
+Various studies have explored the possibility of explaining theBekenstein-Hawking (black hole) entropy by way of some suitable state-countingprocedure. Notably, many of these treatments have used the well-known Cardyformula as an intermediate step. Our current interest is a recent calculationin which Carlip has deduced the leading-order quantum correction to the(otherwise) classical Cardy formula. In this paper, we apply Carlip'sformulation to the case of a generic model of two-dimensional gravity withcoupling to a dilaton field. We find that the corrected Cardy entropy includesthe anticipated logarithmic ``area'' term. Such a term is also evident when theentropic correction is derived independently by thermodynamic means. However,there is an apparent discrepancy between the two calculations with regard tothe factor in front of the logarithm. In fact, the two values of this prefactorcan only agree for very specific two-dimensional models, such as thatdescribing Jackiw-Teitelboim theory.

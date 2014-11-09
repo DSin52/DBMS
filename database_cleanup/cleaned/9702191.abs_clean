@@ -1,0 +1,13 @@
+Paper: hep-th/9702191
+
+Date: 1997-02-27
+
+Title: Geometrically Induced Gauge Structure on Manifolds Embedded in a Higher
+
+Dimensional SpaceAuthors: Kanji Fujii (1), N. Ogawa (1), S. Uchiyama(1) and N. M. Chepilko (2)
+
+((1) Hokkaido University, (2) Institute of Physics, Academy of Sciences ofUkraine)Comments: 52 pages, PHYZZX. To be published in Int. J. Mod. Phys. A
+
+Journal-ref: Int.J.Mod.Phys. A12 (1997) 5235-5278
+
+We explain in a context different from that of Maraner the formalism fordescribing motion of a particle, under the influence of a confining potential,in a neighbourhood of an n-dimensional curved manifold M^n embedded in ap-dimensional Euclidean space R^p with p >= n+2. The effective Hamiltonian onM^n has a (generally non-Abelian) gauge structure determined by geometry ofM^n. Such a gauge term is defined in terms of the vectors normal to M^n, andits connection is called the N-connection. In order to see the global effect ofthis type of connections, the case of M^1 embedded in R^3 is examined, wherethe relation of an integral of the gauge potential of the N-connection (i.e.,the torsion) along a path in M^1 to the Berry's phase is given through Gaussmapping of the vector tangent to M^1. Through the same mapping in the case ofM^1 embedded in R^p, where the normal and the tangent quantities are exchanged,the relation of the N-connection to the induced gauge potential on the(p-1)-dimensional sphere S^{p-1} (p >= 3) found by Ohnuki and Kitakado isconcretely established. Further, this latter which has the monopole-likestructure is also proved to be gauge-equivalent to the spin-connection ofS^{p-1}. Finally, by extending formally the fundamental equations for M^n toinfinite dimensional case, the present formalism is applied to the field theorythat admits a soliton solution. The resultant expression is in some respectsdifferent from that of Gervais and Jevicki.

@@ -1,0 +1,13 @@
+Paper: hep-th/9410212
+
+Date: 1994-10-27
+
+Title: Curved Four-Dimensional Spacetime as Infrared Regulator in Superstring
+
+TheoriesAuthors: E. Kiritsis, C. Kounnas
+
+Comments: LateX file, 12pp., CERN-TH.7471/94, LPTENS-94/29
+
+Journal-ref: Nucl.Phys.Proc.Suppl. 41 (1995) 331-340
+
+We construct a new class of exact and stable superstring solutions in whichour four-dimensional spacetime is taken to be curved . We derive in this spacethe full one-loop partition function in the presence of non-zero $\langleF^a_{\mu\nu}F_a^{\mu\nu}\rangle=F^2$ gauge background as well as in an $\langleR_{\mu\nu\rho\sigma}R^{\mu\nu\rho\sigma}\rangle=\R^2$ gravitational backgroundand we show that the non-zero curvature, $Q^2=2/(k+2)$, of the spacetimeprovides an infrared regulator for all$\langle[F^a_{\mu\nu}]^n[R_{\mu\nu\rho\sigma}]^m\rangle$ correlation functions.The string one-loop partition function $Z(F,\R, Q)$ can be exactly computed,and it is IR and UV finite. For $Q$ small we have thus obtained an IRregularization, consistent with spacetime supersymmetry (when $F=0,\R=0$) andmodular invariance. Thus, it can be used to determine, without any infraredambiguities, the one-loop string radiative corrections on gravitational, gaugeor Yukawa couplings necessary for the string superunification predictions atlow energies. (To appear in the Proceedings of the Trieste Spring 94 Workshop)

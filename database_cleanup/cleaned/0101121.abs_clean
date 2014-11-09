@@ -1,0 +1,11 @@
+Paper: hep-th/0101121
+
+Date: 2001-01-18
+
+Title: Time Asymmetric Boundary Conditions and the Definition of Mass and Width
+
+for Relativistic ResonancesAuthors: A.R.Bohm, R.de la Madrid, B.A.Tay, P.Kielanowski
+
+Comments: 21 pages revtex file
+
+The definition of mass and width of relativistic resonances and in particularof the $Z$-boson is discussed. For this we use the theory based on timeasymmetric boundary conditions given by Hardy class spaces ${\mathbf \Phi}_-$and ${\mathbf \Phi}_+$ for prepared in-states and detected out-statesrespectively, rather than time symmetric Hilbert space theory. This Hardy classboundary condition is a mathematically rigorous form of the singularLippmann-Schwinger equation. In addition to the rigorous definition of theLippmann-Schwinger kets $|[j,{\mathsf s}]^{\pm}>$ as functionals on the spaces${\mathbf \Phi}_{\mp}$, one obtains Gamow kets $|[j,{\mathsf s}_R]^- >$ withcomplex centre-of-mass energy value ${\mathsf s}_R=(M_R-i\Gamma_R/2)^2$. TheGamow kets have an exponential time evolution given by$\exp{(-iM_Rt-\Gamma_Rt/2)}$ which suggests that $(M_R,\Gamma_R)$ is the rightdefinition of the mass and width of a resonance. This is different from the twodefinitions of the $Z$-boson mass and width used in the Particle Data Table andleads to a numerical value of $M_R=(91.1626\pm 0.0031) {\rm GeV}$ from the$Z$-boson lineshape data.

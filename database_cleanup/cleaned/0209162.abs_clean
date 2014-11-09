@@ -1,0 +1,11 @@
+Paper: hep-th/0209162
+
+Date: 2002-09-20
+
+Title: A proposal for a manifestly gauge invariant and universal calculus in
+
+Yang-Mills theoryAuthors: Stefano Arnone, Antonio Gatti and Tim R. Morris
+
+Comments: 54 pages, 24 figures, uses JHEP3.cls
+
+We uncover a method of calculation that proceeds at every step without fixingthe gauge or specifying details of the regularisation scheme. Results areobtained by iterated use of integration by parts and gauge invarianceidentities. The initial stages can even be computed diagrammatically. Themethod is formulated within the framework of an exact renormalization group forSU(N) Yang-Mills gauge theory, incorporating an effective cutoff through amanifest spontaneously broken SU(N|N) gauge invariance. We demonstrate thetechnique with a compact calculation of the one-loop beta function, achieving amanifestly universal result, and without gauge fixing, for the first time atfinite N.

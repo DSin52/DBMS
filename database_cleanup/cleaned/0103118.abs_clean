@@ -1,0 +1,11 @@
+Paper: hep-th/0103118
+
+Date: 2001-03-15
+
+Title: Quasitriangular WZW model
+
+Authors: C. Klimcik
+
+Comments: 165 pages, LaTeX, many improvements, some new results; e.g. we show
+
+the equivalence of our q-current algebra and that of Reshetikhin andSemenov-Tian-Shansky, we derive from the model that the q-KZ equation isindeed of the difference (and not differential) type and we interpret thevertex-IRF transformation as the modular transformation acting on thedeformation parameter. We also give a more direct proof that thetrigonometric q-deformation of the current algebra necessitates the ellipticbraiding of the q-primary fieldsA dynamical system is canonically associated to every Drinfeld double of anyaffine Kac-Moody group. The choice of the affine Lu-Weinstein-Soibelman doublegives a smooth one-parameter deformation of the standard WZW model. Inparticular, the worldsheet and the target of the classical version of thedeformed theory are the ordinary smooth manifolds. The quasitriangular WZWmodel is exactly solvable and it admits the chiral decomposition.Its classicalaction is not invariant with respect to the left and right action of the loopgroup, however it satisfies the weaker condition of the Poisson-Lie symmetry.The structure of the deformed WZW model is characterized by several ordinaryand dynamical r-matrices with spectral parameter. They describe the q-deformedcurrent algebras, they enter the definition of q-primary fields and theycharacterize the quasitriangular exchange (braiding) relations. Remarkably, thesymplectic structure of the deformed chiral WZW theory is cocharacterized bythe same elliptic dynamical r-matrix that appears in the Bernard generalizationof the Knizhnik-Zamolodchikov equation, with q entering the modular parameterof the Jacobi theta functions. This reveals a tantalizing connection betweenthe classical q-deformed WZW model and the quantum standard WZW theory onelliptic curves and opens the way for the systematic use of the dynamical Hopfalgebroids in the rational q-conformal field theory.

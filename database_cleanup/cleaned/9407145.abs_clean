@@ -1,0 +1,11 @@
+Paper: hep-th/9407145
+
+Date: 1994-07-22
+
+Title: Translation map in quantum principal bundles
+
+Comments: 24 pages. Substantial changes in presentation. New section
+
+added with an explicitly computed example. To appear in J. Geom. PhysJournal-ref: J.Geom.Phys. 20 (1996) 349
+
+The notion of a translation map in a quantum principal bundle is introduced.A translation map is then used to prove that the cross sections of a quantumfibre bundle $E(B,V,A)$ associated to a quantum principal bundle $P(B,A)$ arein bijective correspondence with equivariant maps $V\to P$, and that a quantumprincipal bundle is trivial if it admits a cross section which is an algebramap. The vertical automorphisms and gauge transformations of a quantumprincipal bundle are discussed. In particular it is shown that verticalautomorphisms are in bijective correspondence with $\ad$-covariant maps $A\toP$.

@@ -1,0 +1,13 @@
+Paper: hep-th/9412236
+
+Date: 1994-12-29
+
+Title: Summing the Instantons
+
+VarietiesAuthors: David R. Morrison and M. Ronen Plesser
+
+Comments: 91 pages and 3 figures, harvmac with epsf (Changes in this version
+
+one minor correction, one clarification, one new reference)Journal-ref: Nucl.Phys. B440 (1995) 279-354
+
+We use the gauged linear sigma model introduced by Witten to calculateinstanton expansions for correlation functions in topological sigma models withtarget space a toric variety $V$ or a Calabi--Yau hypersurface $M \subset V$.In the linear model the instanton moduli spaces are relatively simple objectsand the correlators are explicitly computable; moreover, the instantons can besummed, leading to explicit solutions for both kinds of models. In the case ofsmooth $V$, our results reproduce and clarify an algebraic solution of the $V$model due to Batyrev. In addition, we find an algebraic relation determiningthe solution for $M$ in terms of that for $V$. Finally, we propose amodification of the linear model which computes instanton expansions about anylimiting point in the moduli space. In the smooth case this leads to a (second)algebraic solution of the $M$ model. We use this description to prove someconjectures about mirror symmetry, including the previously conjectured``monomial-divisor mirror map'' of Aspinwall, Greene, and Morrison.

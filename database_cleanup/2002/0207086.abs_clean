@@ -1,0 +1,11 @@
+Paper: hep-th/0207086
+
+Date: 2002-07-10
+
+Title: One-loop renormalization of general noncommutative Yang-Mills field
+
+model coupled to scalar and spinor fieldsAuthors: I.L. Buchbinder, V.A. Krykhtin
+
+Comments: 1+26 pages, figures using axodraw, clarifications added
+
+We study the theory of noncommutative U(N) Yang-Mills field interacting withscalar and spinor fields in the fundamental and the adjoint representations. Weinclude in the action both the terms describing interaction between the gaugeand the matter fields and the terms which describe interaction among the matterfields only. Some of these interaction terms have not been consideredpreviously in the context of noncommutative field theory. We find allcounterterms for the theory to be finite in the one-loop approximation. It isshown that these counterterms allow to absorb all the divergencies byrenormalization of the fields and the coupling constants, so the theory turnsout to be multiplicatively renormalizable. In case of 1PI gauge field functionsthe result may easily be generalized on an arbitrary number of the matterfields. To generalize the results for the other 1PI functions it is necessaryfor the matter coupling constants to be adapted in the proper way. In somesimple cases this generalization for a part of these 1PI functions isconsidered.

@@ -1,0 +1,13 @@
+Paper: hep-th/0003155
+
+Date: 2000-03-17
+
+Title: Spin and abelian electromagnetic duality on four-manifolds
+
+Authors: David I. Olive, Marcos Alvarez
+
+Comments: 29 pages, Plain TeX
+
+Journal-ref: Commun.Math.Phys. 217 (2001) 331-356
+
+We investigate the electromagnetic duality properties of an abelian gaugetheory on a compact oriented four-manifold by analysing the behaviour of ageneralised partition function under modular transformations of thedimensionless coupling constants. The true partition function is invariantunder the full modular group but the generalised partition function exhibitsmore complicated behaviour depending on topological properties of thefour-manifold concerned. It is already known that there may be "modularweights" which are linear combinations of the Euler number and Hirzebruchsignature of the four-manifold. But sometimes the partition function transformsonly under a subgroup of the modular group (the Hecke subgroup). In this caseit is impossible to define real spinor wave functions on the four-manifold. Butcomplex spinors are possible provided the background magnetic fluxes areappropriately fractional rather that integral. This gives rise to a secondpartition function which enables the full modular group to be realised bypermuting the two partition functions, together with a third. Thus the fullmodular group is realised in all cases. The demonstration makes use of variousconstructions concerning integral lattices and theta functions that seem to beof intrinsic interest.

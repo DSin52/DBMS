@@ -1,0 +1,13 @@
+Paper: hep-th/9605166
+
+Date: 1996-05-22
+
+Title: Stability Analysis of New Solutions of the EYM system with Cosmological
+
+ConstantAuthors: O. Brodbeck, M. Heusler, G. Lavrelashvili N. Straumann and M.S. Volkov
+
+Comments: 28 pages, LaTeX, 1 Postscript figure, uses epsf.sty
+
+Journal-ref: Phys.Rev. D54 (1996) 7338-7352
+
+We analyze the stability properties of the purely magnetic, static solutionsto the Einstein--Yang--Mills equations with cosmological constant. It is shownthat all three classes of solutions found in a recent study are unstable underspherical perturbations. Specifically, we argue that the configurations have$n$ unstable modes in each parity sector, where $n$ is the number of nodes ofthe magnetic Yang--Mills amplitude of the background solution. The``sphaleron--like'' instabilities (odd parity modes) decouple from thegravitational perturbations. They are obtained from a regular Schr\"odingerequation after a supersymmetric transformation. The body of the work is devotedto the fluctuations with even parity. The main difficulty arises because theSchwarzschild gauge -- which is usually imposed to eliminate the gravitationalperturbations from the Yang--Mills equation -- is not regular for solutionswith compact spatial topology. In order to overcome this problem, we derive agauge invariant formalism by virtue of which the unphysical (gauge) modes canbe isolated.

@@ -1,0 +1,13 @@
+Paper: hep-th/9601046
+
+Date: 1996-01-10
+
+Title: Split Dimensional Regularization for the Coulomb Gauge
+
+Authors: George Leibbrandt and Jimmy Williams (U. of Guelph, Canada)
+
+Comments: 19 pages, 2 figures, 1 table, 72 references. This Replaced version
+
+clarifies why the Coulomb gauge requires a new type of regularization, andwhy our new regularization is compatible with Wick rotation. Results andtable of integrals are unchanged. To appear in Nuclear Physics BJournal-ref: Nucl.Phys. B475 (1996) 469-483
+
+A new procedure for regularizing Feynman integrals in the noncovariantCoulomb gauge is proposed for Yang-Mills theory. The procedure is based on avariant of dimensional regularization, called split dimensional regularization,which leads to internally consistent, ambiguity-free integrals. It isdemonstrated that split dimensional regularization yields a one-loop Yang-Millsself-energy that is nontransverse, but local. Despite the noncovariant natureof the Coulomb gauge, ghosts are necessary in order to satisfy the appropriateWard/BRS identity. The computed Coulomb-gauge Feynman integrals are applicableto both Abelian and non-Abelian gauge models.

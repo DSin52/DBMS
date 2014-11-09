@@ -1,0 +1,11 @@
+Paper: hep-th/0301173
+
+Date: 2003-01-23
+
+Title: Asymptotic black hole quasinormal frequencies
+
+Authors: Lubos Motl, Andrew Neitzke
+
+Comments: 21 pages, 4 EPS figures, JHEP3 LaTeX; v2
+
+corrected, discussion expandedWe give a simple derivation of the quasinormal frequencies of Schwarzschildblack holes in d>=4 and non-extremal Reissner-Nordstrom black holes in d=4, inthe limit of infinite damping. For Schwarzschild in d=4 we find that theasymptotic real part of the frequency is (T_Hawking)log|1+2cos(pi.j)|, where jis the spin of the perturbation; this confirms a result previously obtained byother means. For Schwarzschild in d>4 we find that the asymptotic real part is(T_Hawking)log(3) for scalar perturbations and for some gravitationalperturbations. For non-extremal Reissner-Nordstrom in d=4 we find a specificgenerally aperiodic behavior for the quasinormal frequencies, both for scalarperturbations and for axial electromagnetic-gravitational perturbations. Theformulae are obtained by studying the monodromy of the perturbationanalytically continued to the complex plane; the analysis depends essentiallyon the behavior of the potential in the "unphysical" region near the black holesingularity.

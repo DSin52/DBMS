@@ -1,0 +1,11 @@
+Paper: hep-th/0006092
+
+Date: 2000-06-13
+
+Title: Aharonov-Bohm and Coulomb Scattering Near the Forward Direction
+
+Authors: Charles M. Sommerfield, Hisakazu Minakata
+
+Comments: LaTeX file, 11 pages, 6 figures, (Talk presented at Yale-TMU
+
+Symposium on Dynamics of Gauge Fields, Tokyo, Dec. 1999); added referencesfor sections 3 and 5The exact wave functions that describe scattering of a charged particle by aconfined magnetic field (Aharonov-Bohm effect) and by a Coulomb field areanalyzed. It is well known that the usual procedure of finding asymptotic formsof these functions which admit a separation into a superposition of an incidentplane wave and a circular or spherical scattered wave is problematic near theforward direction. It thus appears to be impossible to express the conservationof probability by means of an optical theorem of the usual kind. Both the totalcross section and the forward scattering amplitude appear to be infinite. Toaddress these difficulties we find a new representation for the asymptotic formof the Aharonov-Bohm wave function that is valid for all angles. Rather thantry to define a cross section at forward angles, however, we work instead withthe probability current and find that it is quite well behaved. The same istrue for Coulomb scattering. We trace the usual difficulties to a nonuniformityof limits.

@@ -1,0 +1,13 @@
+Paper: hep-th/0010161
+
+Date: 2000-10-19
+
+Title: Regularization-independent studies of nonperturbative field theory
+
+Authors: A. Kizilersu, A. W. Schreiber and A. G. Williams (University of
+
+Adelaide)Comments: 12 pages, includes 5 postscript figures
+
+Journal-ref: Phys.Lett. B499 (2001) 261-269
+
+We propose a regularization-independent method for studying a renormalizablefield theory nonperturbatively through its Dyson-Schwinger equations. UsingQED_4 as an example, we show how the coupled equations determining thenonperturbative fermion and photon propagators can be written entirely in termsof renormalized quantities, which renders the equations manifestly finite in aregularization-independent manner. As an illustration of the technique, weapply it to a study of the fermion propagator in quenched QED_4 with theCurtis-Pennington electron-photon vertex. At large momenta the mass function,and hence the anomalous mass dimension gamma_m(alpha), is calculatedanalytically and we find excellent agreement with previous work. Finally, weshow that for the CP vertex the perturbation expansion of gamma_m(alpha) has afinite radius of convergence.

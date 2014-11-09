@@ -1,0 +1,11 @@
+Paper: hep-th/0211291
+
+Date: 2002-11-29
+
+Title: Unoriented Strings, Loop Equations, and N=1 Superpotentials from Matrix
+
+ModelsAuthors: Sujay K. Ashok, Richard Corrado, Nick Halmagyi, Kristian D. Kennaway,
+
+Christian RomelsbergerComments: LaTeX, 41 pages, 1 figure, 1 C source file. References added.
+
+Derivation of loop equation corrected; result for free energy unchangedWe apply the proposal of Dijkgraaf and Vafa to analyze N=1 gauge theory withSO(N) and Sp(N) gauge groups with arbitrary tree-level superpotentials usingmatrix model techniques. We derive the planar and leading non-planarcontributions to the large M SO(M) and Sp(M) matrix model free energy byapplying the technology of higher-genus loop equations and by straightforwarddiagrammatics. The loop equations suggest that the RP^2 free energy is given asa derivative of the sphere contribution, a relation which we verifydiagrammatically. With a refinement of the proposal of Dijkgraaf and Vafa forthe effective superpotential, we find agreement with field theory expectations.

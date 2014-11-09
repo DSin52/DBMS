@@ -1,0 +1,13 @@
+Paper: hep-th/9709216
+
+Date: 1997-09-30
+
+Title: A geometrical angle on Feynman integrals
+
+Authors: A.I. Davydychev, R. Delbourgo
+
+Comments: 47 pages, including 42 pages of the text (in plain Latex) and 5 pages
+
+with the figures (in a separate Latex file, requires axodraw.sty) a note andthree references added, minor problem with notation fixedJournal-ref: J.Math.Phys. 39 (1998) 4299-4334
+
+A direct link between a one-loop N-point Feynman diagram and a geometricalrepresentation based on the N-dimensional simplex is established by relatingthe Feynman parametric representations to the integrals over contents of(N-1)-dimensional simplices in non-Euclidean geometry of constant curvature. Inparticular, the four-point function in four dimensions is proportional to thevolume of a three-dimensional spherical (or hyperbolic) tetrahedron which canbe calculated by splitting into birectangular ones. It is also shown that theknown formula of reduction of the N-point function in (N-1) dimensionscorresponds to splitting the related N-dimensional simplex into N rectangularones.

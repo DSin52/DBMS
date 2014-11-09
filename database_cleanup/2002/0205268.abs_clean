@@ -1,0 +1,13 @@
+Paper: hep-th/0205268
+
+Date: 2002-05-27
+
+Title: Spin Networks for Non-Compact Groups
+
+Authors: Laurent Freidel (PI, ENS-Lyon), Etera R. Livine (CPT Marseille)
+
+Comments: 43pages, many figures, some comments added
+
+Journal-ref: J.Math.Phys. 44 (2003) 1322-1356
+
+Spin networks are natural generalization of Wilson loops functionals. Theyhave been extensively studied in the case where the gauge group is compact andit has been shown that they naturally form a basis of gauge invariantobservables. Physically the restriction to compact gauge group is enough forthe study of Yang-mills theories, however it is well known that non-compactgroups naturally arise as internal gauge groups for Lorentzian gravity models.In this context a proper construction of gauge invariant observables is needed.The purpose of this work is to define the notion of spin network states fornon-compact groups. We first built, by a careful gauge fixing procedure, anatural measure and a Hilbert space structure on the space of gauge invariantgraph connection. Spin networks are then defined as generalized eigenvectors ofa complete set of hermitic commuting operators. We show how the delicate issueof taking the quotient of a space by non compact groups can be address in termof algebraic geometry. We finally construct the full Hilbert space containingall spin network states. Having in mind application to gravity we illustrateour results for the groups SL(2,R), SL(2,C).

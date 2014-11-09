@@ -1,0 +1,13 @@
+Paper: hep-th/0002245
+
+Date: 2000-02-29
+
+Title: Local BRST cohomology in gauge theories
+
+Authors: Glenn Barnich, Friedemann Brandt and Marc Henneaux
+
+Comments: 150 pages Latex file, minimal corrections, final version
+
+Journal-ref: Phys.Rept. 338 (2000) 439-569
+
+The general solution of the anomaly consistency condition (Wess-Zuminoequation) has been found recently for Yang-Mills gauge theory. The general formof the counterterms arising in the renormalization of gauge invariant operators(Kluberg-Stern and Zuber conjecture) and in gauge theories of the Yang-Millstype with non power counting renormalizable couplings has also been worked outin any number of spacetime dimensions. This Physics Report is devoted toreviewing in a self-contained manner these results and their proofs. Thisinvolves computing cohomology groups of the differential introduced by Becchi,Rouet, Stora and Tyutin, with the sources of the BRST variations of the fields("antifields") included in the problem. Applications of this computation toother physical questions (classical deformations of the action, conservationlaws) are also considered. The general algebraic techniques developed in theReport can be applied to other gauge theories, for which relevant referencesare given.

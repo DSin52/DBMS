@@ -1,0 +1,13 @@
+Paper: hep-th/0203027
+
+Date: 2002-03-04
+
+Title: On the gauge orbit space stratification (a review)
+
+Authors: G. Rudolph, M. Schmidt and I.P. Volobuev
+
+Comments: 63 pages
+
+Journal-ref: J.Phys. A35 (2002) R1-5794
+
+First, we review the basic mathematical structures and results concerning thegauge orbit space stratification. This includes general properties of the gaugegroup action, fibre bundle structures induced by this action, basic propertiesof the stratification and the natural Riemannian structures of the strata. Inthe second part, we study the stratification for theories with gauge group$\rmSU(n)$ in space time dimension 4. We develop a general method fordetermining the orbit types and their partial ordering, based on the 1-1correspondence between orbit types and holonomy-induced Howe subbundles of theunderlying principal $\rmSU(n)$-bundle. We show that the orbit types areclassified by certain cohomology elements of space time satisfying tworelations and that the partial ordering is characterized by a system ofalgebraic equations. Moreover, operations for generating direct successors anddirect predecessors are formulated, which allow one to construct the set oforbit types, starting from the principal one. Finally, we discuss anapplication to nodal configurations in topological Chern-Simons theory.

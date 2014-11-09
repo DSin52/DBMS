@@ -1,0 +1,11 @@
+Paper: hep-th/9505164
+
+Date: 1995-05-26
+
+Title: On the Instanton Contributions to the Masses and Couplings of $E_6$
+
+SingletsHubschComments: 40 pages, plain TeX with epsf, one uuencoded figure
+
+Journal-ref: Nucl.Phys. B454 (1995) 127-163
+
+We consider the gauge neutral matter in the low--energy effective action forstring theory compactification on a \cym\ with $(2,2)$ world--sheetsupersymmetry. At the classical level these states (the \sing's of $E_6$)correspond to the cohomology group $H^1(\M,{\rm End}\>T)$. We examine the firstorder contribution of instantons to the mass matrix of these particles. Inprinciple, these corrections depend on the \K\ parameters $t_i$ through factorsof the form $e^{2\p i t_i}$ and also depend on the complex structureparameters. For simplicity we consider in greatest detail the quintic threefold$\cp4[5]$. It follows on general grounds that the total mass is often, andperhaps always, zero. The contribution of individual instantons is howevernonzero and the contribution of a given instanton may develop poles associatedwith instantons coalescing for certain values of the complex structure. Thiscan happen when the underlying \cym\ is smooth. Hence these poles must cancelbetween the coalescing instantons in order that the superpotential be finite.We examine also the \Y\ couplings involving neutral matter \ysing\ and neutraland charged fields \ymix, which have been little investigated even though theyare of phenomenological interest. We study the general conditions under whichthese couplings vanish classically. We also calculate the first--orderworld--sheet instanton correction to these couplings and argue that these alsovanish.

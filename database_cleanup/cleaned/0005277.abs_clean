@@ -1,0 +1,13 @@
+Paper: hep-th/0005277
+
+Date: 2000-05-30
+
+Title: Quantum Calogero-Moser Models
+
+Authors: S.P. Khastgir, A.J. Pocklington and R. Sasaki
+
+Comments: 45 pages, LaTeX2e, no figures
+
+Solvable and Integrable SystemsJournal-ref: J.Phys. A33 (2000) 9033-9064
+
+The issues related to the integrability of quantum Calogero-Moser modelsbased on any root systems are addressed. For the models with degeneratepotentials, i.e. the rational with/without the harmonic confining force, thehyperbolic and the trigonometric, we demonstrate the following for all the rootterms of a total sum of the Lax matrix (L), i.e. (\sum_{\mu,\nu\in{\calR}}(L^n)_{\mu\nu}), in which ({\cal R}) is a representation space of theCoxeter group. (ii) Proof of Liouville integrability. (iii) Triangularity ofthe quantum Hamiltonian and the entire discrete spectrum. Generalised Jackpolynomials are defined for all root systems as unique eigenfunctions of theHamiltonian. (iv) Equivalence of the Lax operator and the Dunkl operator. (v)Algebraic construction of all excited states in terms of creation operators.These are mainly generalisations of the results known for the models based onthe (A) series, i.e. (su(N)) type, root systems.

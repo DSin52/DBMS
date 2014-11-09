@@ -1,0 +1,13 @@
+Paper: hep-th/0109102
+
+Date: 2001-09-13
+
+Title: Scalar Multi-Solitons on the Fuzzy Sphere
+
+Authors: Sachindeo Vaidya
+
+Comments: 13 pages LaTex, 5 figures. Typos corrected, some remarks added
+
+Journal-ref: JHEP 0201 (2002) 011
+
+We study solitons in scalar theories with polynomial interactions on thefuzzy sphere. Such solitons are described by projection operators of rank k,and hence the moduli space for the solitons is the Grassmannian Gr(k,2j+1). Thegradient term of the action provides a non-trivial potential on Gr(k,2j+1),thus reducing the moduli space. We construct configurations corresponding towell-separated solitons, and show that although the solitons attract eachother, the attraction vanishes in the limit of large j. In this limit, it isargued that the moduli space is CP^k. For the k-soliton bound state, the modulispace is simply CP^1, all other moduli being lifted. We find that the modulispace of multi-solitons is smooth and that there are no singularities asseveral solitons coalesce. When the fuzzy S^2 is flattened to a noncommutativeplane, we find agreement with the known results, modulo some operator-orderingambiguities. This suggests that the fuzzy sphere is a natural way to regulatethe noncommutative plane both in the ultraviolet and infrared.

@@ -1,0 +1,13 @@
+Paper: hep-th/9305072
+
+Date: 1993-05-17
+
+Title: Solving the Ward Identities of Irrational Conformal Field Theory
+
+Authors: M.B. Halpern and N.A. Obers
+
+Comments: 45 pages, Latex, UCB-PTH-93/18, LBL-34111, BONN-HE-93/17. We
+
+factorize the biconformal nest correlators of the first version, obtainingthe conformal correlators of the affine-Sugawara nests on g/h_1/.../h_nJournal-ref: Int.J.Mod.Phys. A9 (1994) 419-460
+
+The affine-Virasoro Ward identities are a system of non-linear differentialequations which describe the correlators of all affine-Virasoro constructions,including rational and irrational conformal field theory. We study the Wardidentities in some detail, with several central results. First, we solve forthe correlators of the affine-Sugawara nests, which are associated to thenested subgroups $g\supset h_1 \supset \ldots \supset h_n$. We also find anequivalent algebraic formulation which allows us to find global solutionsacross the set of all affine-Virasoro constructions. A particular globalsolution is discussed which gives the correct nest correlators, exhibitsbraiding for all affine-Virasoro correlators, and shows good physical behavior,at least for four-point correlators at high level on simple $g$. In rationaland irrational conformal field theory, the high-level fusion rules of thebroken affine modules follow the Clebsch-Gordan coefficients of therepresentations.

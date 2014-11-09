@@ -1,0 +1,13 @@
+Paper: hep-th/0002232
+
+Date: 2000-02-28
+
+Title: Extended Complex Trigonometry in Relation to Integrable 2D-Quantum Field
+
+Theories and DualityAuthors: P. Baseilhac, S. Galice, P. Grang\'e and M. Rausch de Traubenberg
+
+Comments: 11 pages, no figure, LaTex with amsmath accepted by Phys. Lett. B
+
+Journal-ref: Phys.Lett. B478 (2000) 365-372
+
+Multicomplex numbers of order n have an associated trigonometry (multisinefunctions with (n-1) parameters) leading to a natural extension of thesine-Gordon model. The parameters are constrained from the requirement of localcurrent conservation. In two dimensions for n < 6 known integrable models(deformed Toda and non-linear sigma, pure affine Toda...) with dualcounterparts are obtained in this way from the multicomplex space MC itself andfrom the natural embedding $\MC_n \subset \MMC_m, n < m$. For $ n \ge 6$ ageneric constraint on the space of parametersis obtained from currentconservation at first order in the interaction Lagragien.

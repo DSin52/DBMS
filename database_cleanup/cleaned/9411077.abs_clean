@@ -1,0 +1,13 @@
+Paper: hep-th/9411077
+
+Date: 1994-11-10
+
+Title: Nets of Subfactors
+
+Authors: R.Longo, K.-H.Rehren
+
+Comments: Plain TeX, 32 pages. Several unnecessarily restrictive assumptions
+
+have been relaxed. Proposition 4.10. has been reformulated in a more naturalway. Sect. 3 has been rearranged and a too general statement has beenadjusted. Some further minor changesJournal-ref: Rev.Math.Phys. 7 (1995) 567-598
+
+A subtheory of a quantum field theory specifies von~Neumann subalgebras$\aa(\oo)$ (the `observables' in the space-time region $\oo$) of thevon~Neumann algebras $\bb(\oo)$ (the `fields' localized in $\oo$). Every localalgebra being a (type $\III_1$) factor, the inclusion $\aa(\oo) \subset\bb(\oo)$ is a subfactor. The assignment of these local subfactors to thespace-time regions is called a `net of subfactors'. The theory of subfactors isapplied to such nets. In order to characterize the `relative position' of thesubtheory, and in particular to control the restriction and induction ofsuperselection sectors, the canonical endomorphism is studied. The crucialan endomorphism of the field net, which in turn restricts to a localizedendomorphism of the observable net. The method allows to characterize, andreconstruct, local extensions $\bb$ of a given theory $\aa$ in terms of theobservables. Various non-trivial examples are given.

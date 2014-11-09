@@ -1,0 +1,11 @@
+Paper: hep-th/9510048
+
+Date: 1995-10-09
+
+Title: Null Surfaces, Initial Values and Evolution Operators for Spinor Fields
+
+Comments: 21 pages, phyzzx
+
+Journal-ref: J.Math.Phys. 37 (1996) 1091-1099
+
+We analyze the initial value problem for spinor fields obeying the Diracequation, with particular attention to the characteristic surfaces. Thestandard Cauchy initial value problem for first order differential equations isto construct a solution function in a neighborhood of space and time from thevalues of the function on a selected initial value surface. On thecharacteristic surfaces the solution function may be discontinuous, so thestandard Cauchy construction breaks down. For the Dirac equation thecharacteristic surfaces are null surfaces. An alternative version of theinitial value problem may be formulated using null surfaces; the initial valuedata needed differs from that of the standard Cauchy problem, and in the casewe here discuss the values of separate components of the spinor function on anintersecting pair of null surfaces comprise the necessary initial value data.We present an expression for the construction of a solution from null surfacedata; two analogues of the quantum mechanical Hamiltonian operator determinethe evolution of the system.

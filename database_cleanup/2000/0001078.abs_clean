@@ -1,0 +1,11 @@
+Paper: hep-th/0001078
+
+Date: 2000-01-12
+
+Title: A note on Riemann normal coordinates
+
+Authors: Agapitos Hatzinikitas
+
+Comments: 6 pages
+
+The goal of this note is to provide a recursive algorithm that allows one tocalculate the expansion of the metric tensor up to the desired order in Riemannnormal coordinates. We test our expressions up to fourth order and predictresults up to sixth order. For an arbitrary number of symmetric partialderivatives acting on the components of the metric tensor subtle treatment isrequired since the degree of complication increases rapidly.

@@ -1,0 +1,11 @@
+Paper: hep-th/9405167
+
+Date: 1994-05-26
+
+Title: Invariants of 3-manifolds and projective representations of mapping
+
+class groups via quantum groups at roots of unityComments: 61 pages, 12 eps figures. Hennings' invariant is a particular case of
+
+the described invariant; references addedJournal-ref: Commun.Math.Phys. 172 (1995) 467-516
+
+An example of a finite dimensional factorizable ribbon Hopf C-algebra isgiven by a quotient H=u_q(g) of the quantized universal enveloping algebraU_q(g) at a root of unity q of odd degree. The mapping class group M_{g,1} of asurface of genus g with one hole projectively acts by automorphisms in theH-module H^{*\otimes g}, if H^* is endowed with the coadjoint H-modulestructure. There exists a projective representation of the mapping class groupM_{g,n} of a surface of genus g with n holes labelled by finite dimensionalH-modules X_1,...,X_n in the vector space Hom_H(X_1\otimes...\otimesX_n,H^{*\otimes g}). An invariant of closed oriented 3-manifolds isconstructed. Modifications of these constructions for a class of ribbon Hopfalgebras satisfying weaker conditions than factorizability (including most ofu_q(g) at roots of unity q of even degree) are described. The results aremotivated by CFT.

@@ -1,0 +1,11 @@
+Paper: hep-th/9610185
+
+Date: 1996-10-23
+
+Title: A Functional Approach to the Heat Kernel in Curved Space
+
+Authors: L. Martin, D. G. C. McKeon
+
+Comments: 11 pages, Latex
+
+The heat kernel $M_{xy} = <x\mid exp [ 1/\sqrt{g} \partial_\mug^{\mu\nu} \sqrt{g} \partial_\nu ]t \mid y>$ is of central importancewhen studying the propagation of a scalar particle in curved space. It is quiteconvenient to analyze this quantity in terms of classical variables by use ofthe quantum mechanical path integral; regrettably it is not entirely clear howthis path integral can be mathematically well defined in curved space. Analternate approach to studying the heat kernel in terms of classical variableswas introduced by Onofri. This technique is shown to be applicable to problemsin curved space; an unambiguous expression for $M_{xy}$ is obtained whichinvolves functional derivatives of a classical quantity. We illustrate how thiscan be used by computing $M_{xx}$ to lowest order in the curvature scalar R.

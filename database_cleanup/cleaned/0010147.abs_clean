@@ -1,0 +1,11 @@
+Paper: hep-th/0010147
+
+Date: 2000-10-18
+
+Title: Compositeness of gauge boson and asymptotic freedom in non-abelian gauge
+
+theoryAuthors: Takashi Hattori
+
+Comments: 22 pages, 2 figures
+
+In order to investigate the composite gauge field, we consider thecompositeness condition (i.e. renormalization constant $Z_3=0$) in the generalnon-abelian gauge field theory. We calculate $Z_3$ at the next-to-leading orderin $1/N_f$ expansion ($N_f$ is the number of fermion flavors), and obtain theexpression to the gauge coupling constant through the compositeness condition.Then the gauge coupling constant is proportional to $1/\sqrt{4N_fT(R)-11C_2(G)}$ where T(R) is the index for a representation R of gauge groupG, and $C_2(G)$ is the quadratic Casimir. It is found that the gauge bosoncompositeness take place only when $N_f T(R)/C_2(G) > 11/4$, in which theasymptotic freedom in the non-abelian gauge field theory fails.

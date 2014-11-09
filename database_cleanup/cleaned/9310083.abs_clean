@@ -1,0 +1,9 @@
+Paper: hep-th/9310083
+
+Date: 1993-10-14
+
+Title: Representations of affine Lie algebras, parabolic differential
+
+equations, and Lame functionsComments: 30 pages, no figures
+
+and ODEsWe consider correlation functions for the Wess-Zumino-Witten model on thetorus with the insertion of a Cartan element; mathematically this meansthat we consider the function of the form $F=\Tr (\Phi_1 (z_1)\ldots \Phi_n(z_n)q^{-\d}e^{h})$ where $\Phi_i$ are intertwiners between Verma modulesand evaluation modules over an affine Lie algebra $\ghat$, $\d$ is thegrading operator in a Verma module and $h$ is in the Cartan subalgebra of$\g$. We derive a system of differential equations satisfied by such afunction. In particular, the calculation of $q\frac{\d} {\d q} F$ yields aparabolic second order PDE closely related to the heat equation on thecompact Lie group corresponding to $\g$. We consider in detail the case $n=1$,$\g = \sltwo$. In this case we get the following differential equation+\frac{\d^2}{\d x^2}\right) F = (m(m+1)\wp(x+\frac{\tau}{2}) +c)F$,which for $K=-2$ (critical level) becomes Lam\'e equation. For the case$m\in\Z$ we derive integral formulas for $F$ and find their asymptoticsas $K\to -2$, thus recovering classical Lam\'e functions.

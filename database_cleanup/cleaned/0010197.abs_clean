@@ -1,0 +1,9 @@
+Paper: hep-th/0010197
+
+Date: 2000-10-23
+
+Title: Bounds On The Sum Of A Divergent Series
+
+Comments: 37 pages Latex and 29 .eps figures. Requires epsf.sty
+
+Given a truncated perturbation expansion of a physical quantity, one can,under certain circumstances, obtain lower or upper bounds (or both) to the sumof the full perturbation series by using the Borel transform and a variationalconformal map. The method is illustrated by applying it to various mathematicaltoy-models for which exact results are known. One of these models is used toexemplify how non-perturbative contributions supplement the sum of aBorel-nonsummable series to give the final exact and unambiguous result.Finally, the method is applied to some physical problems. In particular, somespeculations are made on the phase of quantum electrodynamics at super-hightemperatures from a study of its perturbative free-energy density.

@@ -1,0 +1,13 @@
+Paper: hep-th/9904100
+
+Date: 1999-04-14
+
+Title: Symmetric boundary conditions in boundary critical phenomena
+
+Authors: Philippe Ruelle
+
+Comments: 13 pages, REVTeX; reorganized and expanded version; includes a new
+
+section on unitary minimal models; conjectures reformulated, pointing to thegeneric existence of negative boundary Boltzmann weights in unitary modelsJournal-ref: J.Phys. A32 (1999) 8831-8850
+
+Conformally invariant boundary conditions for minimal models on a cylinderare classified by pairs of Lie algebras $(A,G)$ of ADE type. For each model, weconsider the action of its (discrete) symmetry group on the boundaryconditions. We find that the invariant ones correspond to the nodes in theproduct graph $A \otimes G$ that are fixed by some automorphism. We proceed todetermine the charges of the fields in the various Hilbert spaces, but, in ageneral minimal model, many consistent solutions occur. In the unitary models$(A,A)$, we show that there is a unique solution with the property that theground state in each sector of boundary conditions is invariant under thesymmetry group. In contrast, a solution with this property does not exist inthe unitary models of the series $(A,D)$ and $(A,E_6)$. A possibleinterpretation of this fact is that a certain (large) number of invariantboundary conditions have unphysical (negative) classical boundary Boltzmannweights. We give a tentative characterization of the problematic boundaryconditions.

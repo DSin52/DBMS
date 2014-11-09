@@ -1,0 +1,13 @@
+Paper: hep-th/9907013
+
+Date: 1999-07-02
+
+Title: On counting special Lagrangian homology 3-spheres
+
+Authors: Dominic Joyce
+
+Comments: 38 pages, LaTeX. (v2) completely rewritten, shorter, updated
+
+referencesJournal-ref: Contemp.Math. 314 (2002) 125-151
+
+We attempt to define a new invariant I of (almost) Calabi-Yau 3-folds M, bycounting special Lagrangian rational homology 3-spheres N in M in each3-homology class, with a certain weight w(N) depending on the topology of N.This is motivated by the Gromov-Witten invariants of a symplectic manifold,which count the J-holomorphic curves in each 2-homology class.In order for this invariant to be interesting, it should either be unchangedby deformations of the underlying (almost) Calabi-Yau structure, or elsetransform according to some rigid set of rules as the periods of the almostCalabi-Yau structure pass through some topologically determined hypersurfacesin the cohomology of M.As we deform the underlying almost Calabi-Yau 3-fold, the collection ofspecial Lagrangian homology 3-spheres only change when they become singular.Thus, to determine the stability of the invariant under deformations we needknow about the singular behaviour of special Lagrangian 3-folds, which is notwell understood.We describe two kinds of singular behaviour of special Lagrangian 3-folds,and derive identities on the weight function w(N) for I to be unchanged ortransform well under them. The weight function w(N)=|H_1(N,Z)| satisfies theseidentities. We conjecture that an invariant I defined with this weight isindependent of the Kahler class, and changes in certain ways as the holomorphic3-form passes through some real hypersurfaces in H^3(M,C).Finally we consider connections with String Theory. We argue that ourinvariant I counts isolated 3-branes, and that it should play a part in theMirror Symmetry story for Calabi-Yau 3-folds.

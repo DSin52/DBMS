@@ -1,0 +1,11 @@
+Paper: hep-th/0212304
+
+Date: 2002-12-25
+
+Title: The Partition Function and Level Density for Yang-Mills-Higgs Quantum
+
+MechanicsAuthors: S.G. Matinyan (Yerevan Physics Institute) and Y. Jack Ng (University
+
+of North Carolina)Comments: 10 pages, LaTeX; a new section added
+
+We calculate the partition function $Z(t)$ and the asymptotic integratedlevel density $N(E)$ for Yang-Mills-Higgs Quantum Mechanics for two and threedimensions ($n = 2, 3$). Due to the infinite volume of the phase space $\Gamma$on energy shell for $n= 2$, it is not possible to disentangle completely thecoupled oscillators ($x^2 y^2$-model) from the Higgs sector. The situation isdifferent for $n = 3$ for which $\Gamma$ is finite. The transition from orderto chaos in these systems is expressed by the corresponding transitions in$Z(t)$ and $N(E)$, analogous to the transitions in adjacent level spacingdistribution from Poisson distribution to Wigner-Dyson distribution. We alsodiscuss a related system with quartic coupled oscillators and two dimensionalquartic free oscillators for which, contrary to YMHQM, both coupling constantsare dimensionless.

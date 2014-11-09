@@ -1,0 +1,13 @@
+Paper: hep-th/9406173
+
+Date: 1994-06-27
+
+Title: Discrete Quantum Field Theories and the Intersection Form
+
+Authors: Danny Birmingham and Mark Rakowski
+
+Comments: 10 pages, Latex, ITFA-94-19
+
+Journal-ref: Mod.Phys.Lett. A9 (1994) 2265-2271
+
+It is shown that the standard mod-$p$ valued intersection form can be used todefine Boltzmann weights of subdivision invariant lattice models with gaugegroup $Z_{p}$. In particular, we discuss a four dimensional model which isbased upon the assignment of field variables to the $2$-simplices of thesimplicial complex. The action is taken to be the intersection form defined onthe second cohomology group of the complex, with coefficients in $Z_{p}$.Subdivision invariance of the theory follows when the coupling constant isquantized and the field configurations are restricted to those satisfying amod-$p$ flatness condition. We present an explicit computation of the partitionfunction for the manifold $\pm CP^{2}$, demonstrating non-triviality.

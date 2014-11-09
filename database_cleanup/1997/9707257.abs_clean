@@ -1,0 +1,13 @@
+Paper: hep-th/9707257
+
+Date: 1997-07-31
+
+Title: Multidimensional extension of the generalized Chowla-Selberg formula
+
+Authors: E. Elizalde
+
+Comments: LaTeX, 15 pages, no figures
+
+Journal-ref: Commun.Math.Phys. 198 (1998) 83-95
+
+After recalling the precise existence conditions of the zeta function of apseudodifferential operator, and the concept of reflection formula, anexponentially convergent expression for the analytic continuation of amultidimensional inhomogeneous Epstein-type zeta function of the general form\zeta_{A,\vec{b},q} (s) = \sum_{\vec{n}\in Z^p (\vec{n}^T A \vec{n} +\vec{b}^T\vec{n}+q)^{-s}, with $A$ the $p\times p$ matrix of a quadratic form, $\vec{b}$a $p$ vector and $q$ a constant, is obtained. It is valid on the whole complex$s$-plane, is exponentially convergent and provides the residua at the polesexplicitly. It reduces to the famous formula of Chowla and Selberg in theparticular case $p=2$, $\vec{b}= \vec{0}$, $q=0$. Some variations of theformula and physical applications are considered.

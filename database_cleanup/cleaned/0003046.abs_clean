@@ -1,0 +1,13 @@
+Paper: hep-th/0003046
+
+Date: 2000-03-07
+
+Title: Boundaries of Zero Scalar Curvature in the AdS/CFT Correspondence
+
+Authors: Mingliang Cai and Gregory J. Galloway
+
+Comments: 12 pages, Latex2e
+
+Journal-ref: Adv.Theor.Math.Phys. 3 (1999) 1769-1783
+
+In hep-th/9910245, Witten and Yau consider the AdS/CFT correspondence in thecontext of a Riemannian Einstein manifold $M^{n+1}$ of negative Ricci curvaturewhich admits a conformal compactification with conformal boundary $N^n$. Theyprove that if the conformal class of the boundary contains a metric of positiveis connected, (2) the $n$th homology of the compactified $M$ vanishes, and (3)the fundamental group of $M$ is "bounded by" that of $N$. Here it is shown thatall of these results extend to the case where the conformal class of theboundary contains a metric of nonnegative scalar curvature. (The case of zeroscalar curvature is of interest as it is borderline for the stability of thetheory.) The proof method used here is different from, and in some sense dualto, that used by Witten and Yau. While their method involves minimizing theco-dimension one brane action on $M$, and requires the machinery of geometricmeasure theory, the main arguments presented here use only geodesic geometry.

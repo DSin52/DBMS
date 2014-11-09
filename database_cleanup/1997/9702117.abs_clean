@@ -1,0 +1,13 @@
+Paper: hep-th/9702117
+
+Date: 1997-02-14
+
+Title: 't Hooft's Order-Disorder Parameters and the Dual Potential
+
+Authors: H. M. Chan (Rutherford Appleton Laboratory) and S. T. Tsou
+
+(Mathematical Institute, Oxford University)Comments: Latex, 7 pages, no figures
+
+Journal-ref: Phys.Rev. D56 (1997) 3646-3649
+
+It is shown that the operator $B(C) = Tr [P \exp i \tilde{g} \oint\tilde{A}_i(x) dx^i]$ constructed with the recently derived dual potential$\tilde{A}(x)$ and a coupling $\tilde{g}$ related to $g$ by the Diracquantization condition satisfies the correct commutation relation with theWilson operator $Tr [P \exp ig \oint A_i(x) dx^i]$ as required by 't Hooftfor his order-disorder parameters.

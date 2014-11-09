@@ -1,0 +1,13 @@
+Paper: hep-th/9503229
+
+Date: 1995-04-01
+
+Title: The $W_{1 + \infty }$ effective theory of the Calogero- Sutherland model
+
+and Luttinger systems.Authors: R. Caracciolo, A. Lerda, G. R. Zemba
+
+Comments: 13 pages, plain LaTeX, no figures.
+
+Journal-ref: Phys. Lett. B352 (1995) 304
+
+We construct the effective field theory of the Calogero-Sutherland model inthe thermodynamic limit of large number of particles $N$. It is given by a$\winf$ conformal field theory (with central charge $c=1$) that describes {\itexactly} the spatial density fluctuations arising from the low-energyexcitations about the Fermi surface. Our approach does not rely on theintegrable character of the model, and indicates how to extend previous resultsto any order in powers of $1/N$. Moreover, the same effective theory can alsobe used to describe an entire universality class of $(1+1)$-dimensionalfermionic systems beyond the Calogero-Sutherland model, that we identify withthe class of {\it chiral Luttinger systems}. We also explain how a systematicbosonization procedure can be performed using the $\winf$ generators, andpropose this algebraic approach to {\it classify} low-dimensionalnon-relativistic fermionic systems, given that all representations of $\winf$are known. This approach has the appeal of being mathematically complete andphysically intuitive, encoding the picture suggested by Luttinger's theorem.

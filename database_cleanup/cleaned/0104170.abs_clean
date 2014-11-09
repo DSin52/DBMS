@@ -1,0 +1,13 @@
+Paper: hep-th/0104170
+
+Date: 2001-04-19
+
+Title: Renormalization Group Flows for Brane Couplings
+
+Authors: Walter D. Goldberger and Mark B. Wise
+
+Comments: 16 pages, LaTeX. References and an appendix added
+
+Journal-ref: Phys.Rev. D65 (2002) 025011
+
+Field theories in the presence of branes encounter localized divergences thatrenormalize brane couplings. The sources of these brane-localized divergencesare understood as arising either from broken translation invariance, or fromshort distance singularities as the brane thickness vanishes. While the formerare generated only by quantum corrections, the latter can appear even at theclassical level. Using as an example six-dimensional scalar field theory in thebackground of a 3-brane, we show how to interpret such classical divergences bythe usual regularization and renormalization procedure of quantum field theory.In our example, the zero thickness divergences are logarithmic, and leadclassically to non-trivial renormalization group flows for the brane couplings.We construct the tree level renormalization group equations for these couplingsas well as the one-loop corrections to these flows from bulk-to-branerenormalization effects.

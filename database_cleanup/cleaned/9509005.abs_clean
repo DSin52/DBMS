@@ -1,0 +1,13 @@
+Paper: hep-th/9509005
+
+Date: 1995-09-01
+
+Title: Off-Diagonal Elements of the DeWitt Expansion from the Quantum
+
+Mechanical Path IntegralAuthors: F.A. Dilkes and D.G.C. McKeon (University of Western Ontario)
+
+Comments: 16pp, REVTeX. One additional appendix concerning end-point effects
+
+for finite proper-time intervals; inclusion of these effects seem to make ourresults consistent with those from explicit heat-kernel methodsJournal-ref: Phys.Rev. D53 (1996) 4388-4396
+
+The DeWitt expansion of the matrix element $M_{xy} = \left\langle x \right|\exp -[\case{1}{2} (p-A)^2 + V]t \left| y \right\rangle$, $(p=-i\partial)$ inpowers of $t$ can be made in a number of ways. For $x=y$ (the case of interestwhen doing one-loop calculations) numerous approaches have been employed todetermine this expansion to very high order; when $x \neq y$ (relevant fordoing calculations beyond one-loop) there appear to be but two examples ofperforming the DeWitt expansion. In this paper we compute the off-diagonalelements of the DeWitt expansion coefficients using the Fock-Schwinger gauge.Our technique is based on representing $M_{xy}$ by a quantum mechanical pathintegral. We also generalize our method to the case of curved space, allowingus to determine the DeWitt expansion of $\tilde M_{xy} = \langle x| \exp\case{1}{2} [\case{1}{\sqrt {g}} (\partial_\mu - iA_\mu)g^{\mu\nu}{\sqrt{g}}(\partial_\nu - i A_\nu) ] t| y \rangle$ by use ofnormal coordinates. By comparison with results for the DeWitt expansion of thismatrix element obtained by the iterative solution of the diffusion equation,the relative merit of different approaches to the representation of $\tildeM_{xy}$ as a quantum mechanical path integral can be assessed. Furthermore, theexact dependence of $\tilde M_{xy}$ on some geometric scalars can bedetermined. In two appendices, we discuss boundary effects in theone-dimensional quantum mechanical path integral, and the curved spacegeneralization of the Fock-Schwinger gauge.

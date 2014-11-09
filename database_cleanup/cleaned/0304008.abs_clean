@@ -1,0 +1,11 @@
+Paper: hep-th/0304008
+
+Date: 2003-04-02
+
+Title: Casimir densities for two concentric spherical shells in the global
+
+monopole spacetimeAuthors: A. A. Saharian, M. R. Setare
+
+Comments: 18 pages, 3 figures
+
+The quantum vacuum effects are investigated for a massive scalar field withgeneral curvature coupling and obeying the Robin boundary conditions given ontwo concentric spherical shells with radii $a $ and $b$ in the$D+1$-dimensional global monopole background. The expressions are derived forthe Wightman function, the vacuum expectation values of the field square, thevacuum energy density, radial and azimuthal stress components in the regionbetween the shells. A regularization procedure is carried out by making use ofthe generalized Abel-Plana formula for the series over zeros of combinations ofthe cylinder functions. This formula allows us to extract from the vacuumexpectation values the parts due to a single sphere on background of the globalmonopole gravitational field, and to present the "interference" parts in termsof exponentially convergent integrals, useful, in particular, for numericalevaluations. The vacuum forces acting on the boundaries are presented as a sumof the self--action and interaction terms. The first one contains well knownsurface divergences and needs a further regularization. The interaction forcesbetween the spheres are finite for all values $a<b$ and are attractive for aDirichlet scalar. The asymptotic behavior of the vacuum densities isinvestigated (i) in the limits $a\to 0$ and $b\to \infty $, (ii) in the limit$a,b\to \infty $ for fixed value $b-a$, and (iii) for small values of theparameter associated with the solid angle deficit in global monopole geometry.We show that in the case (ii) the results for two parallel Robin plates on theMinkowski bulk are rederived to the leading order.

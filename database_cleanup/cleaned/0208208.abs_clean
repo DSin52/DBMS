@@ -1,0 +1,11 @@
+Paper: hep-th/0208208
+
+Date: 2002-08-28
+
+Title: Free energy and theta dependence of SU(N) gauge theories
+
+Authors: L. Del Debbio (1), H. Panagopoulos (2), E. Vicari (1) ((1) University
+
+of Pisa and INFN, Pisa, Italy, (2) University of Cyprus, Lefkosia, Cyprus)Comments: 3 pages, talk presented at the conference Lattice2002(topology). v2
+
+One reference has been updated, no further changesWe study the dependence of the free energy on the CP violating angle theta,in four-dimensional SU(N) gauge theories with N >= 3, and in the large-N limit.Using the Wilson lattice formulation for numerical simulations, we computethe first few terms of the expansion of the ground-state energy F(theta) aroundtheta = 0, F(theta) - F(0) = A_2 theta^2 (1 + b_2 theta^2 + ...). Our resultspi.We verify that the topological susceptibility has a nonzero large-N limitchi_infinity = 2A with corrections of O(1/N^2), in substantial agreement withthe Witten-Veneziano formula which relates chi_infinity to the eta' mass.Furthermore, higher order terms in theta are suppressed; in particular, theO(theta^4) term b_2 (related to the eta' - eta' elastic scattering amplitude)decreases with increasing N, consistently with the expectation b_2 = O(1/N^2).

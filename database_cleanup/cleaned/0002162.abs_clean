@@ -1,0 +1,13 @@
+Paper: hep-th/0002162
+
+Date: 2000-02-19
+
+Title: Dilatonic formulation for conducting cosmic string models
+
+Authors: Brandon Carter
+
+Comments: 15 pages Latex. Invited contrib. to JR99 (Weimar), to be published in
+
+Annalen der Physik (Leipzig)Journal-ref: Annalen Phys. 9 (2000) 247-257
+
+It is shown how the the introduction of a suitably defined dilatonicauxiliary field, $\Phi$ say, makes it possible for the non-linear Lagrangianfor a generic elastic string model, of the kind appropriate for representingsuperconducting cosmic strings, to be converted into a standardised form as thesum of a kinetic term that is just homogeneously quadratic in the relevantscalar phase gradient (as in a simple linear model) together with a potentialenergy term, $V$ say, that is specified as a generically non-linear function of$\Phi$. The explicit form of this function is derived for various noteworthyexamples, of which the most memorable is that of the transonic string model, ascharacterised by a given mass scale, $m$ say, for which this potential energydensity will be expressible in terms of the zero current limit value$\Phi_{_0}$ of $\Phi$ by $ V= {1\over 2} m \big(\Phi_{_0}^{-2} \Phi^2+\Phi_{_0}^{2} \Phi^{-2} \big)$.

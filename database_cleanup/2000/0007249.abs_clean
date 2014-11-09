@@ -1,0 +1,13 @@
+Paper: hep-th/0007249
+
+Date: 2000-07-31
+
+Title: Bound state equation for 4 or more relativistic particles
+
+Authors: J. Bijtebier
+
+Comments: 16 pages, three figures in one PS file. In this improved version, the
+
+writing of the 3D potential is straightforwardJournal-ref: Nucl.Phys. A703 (2002) 327-345
+
+We apply the 3D reduction method we recently proposed for the N-particleBethe-Salpeter equation to the 4-particle case. We find that the writing of theBethe-Salpeter equation is not a straightforward task when N is larger or equalto 4, owing to the presence of mutually unconnected interactions, which couldlead to an overcounting of some diagrams in the resulting full propagator. Weovercome this difficulty in the N=4 case by including three counterterms in theBethe-Salpeter kernel. The application of our 3D reduction method to theresulting Bethe-Salpeter equation suggests us a modified 3D reduction method,which gives directly the 3D potential, without the need of writing theBethe-Salpeter kernel explicitly. The modified reduction method is usable forall N.

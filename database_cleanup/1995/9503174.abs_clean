@@ -1,0 +1,13 @@
+Paper: hep-th/9503174
+
+Date: 1995-03-24
+
+Title: ON THE EXTENDED POINCARE POLYNOMIAL
+
+Authors: Maximilian Kreuzer and Christoph Schweigert
+
+Comments: 16 pages (A4), LaTeX
+
+Journal-ref: Phys. Lett. B352 (1995) 276
+
+We show that the numbers of generations and anti-generations of a (2,2)string compactification with diagonal internal theory can be expressed in termsof certain specifications of the elliptic genus of the untwisted internaltheory which can be computed from the Poincare polynomial. To establish thisresult we show that there are no cancellations of positive and negativecontributions to the Euler characteristic within a fixed twisted sector. Forour considerations we recast the orbifolding procedure into an algebraiclanguage using simple currents. Turning the argument around, this allows us todefine the `extended Poincare polynomial' P(t,x), which encodes information onthe orbits of the spinor current under fusion, for non-diagonal N=2superconformal field theories. As an application, we derive an explicit formulafor P(t,x) for general Landau-Ginzburg orbifolds.

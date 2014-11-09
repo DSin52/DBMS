@@ -1,0 +1,9 @@
+Paper: hep-th/9510049
+
+Date: 1995-10-09
+
+Title: Null Surfaces, Initial Values and Evolution Operators for Scalar Fields
+
+Comments: 19 pages, phyzzx
+
+We analyze the initial value problem for scalar fields obeying theKlein-Gordon equation. The standard Cauchy initial value problem for secondorder differential equation is to construct a solution function in aneighborhood of space and time form values of the function and its timederivative on a selected initial value surface. On the characteristic surfacesthe time derivative of the solution function may be discontinuous, so thestandard Cauchy construction breaks down. For the Klein-Gordon equation thecharacteristic surfaces are null surfaces. An alternative version of theinitial data needed differs from that of the standard Cauchy problem, and inthe case we discuss here the values of the function on an intersecting pair ofnull surfaces comprise the necessary initial value data. We also present anexpression for the construction of a solution from null surface data; twoanalogues of the quantum mechanical Hamiltonian operator determine theevolution of the system.

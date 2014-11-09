@@ -1,0 +1,13 @@
+Paper: hep-th/9510062
+
+Date: 1995-10-10
+
+Title: Strong Coupling Hadron Masses in $1/d$ Expansion for Wilson fermions
+
+Authors: B. Rosenstein and A. D. Speliotopoulos
+
+Comments: 13 pages, one figure, written in Revtex 3.0, one figure available
+
+upon request to baruch@phys.nthu.edu.twJournal-ref: Phys.Lett. B365 (1996) 252-258
+
+Motivated by the weak-strong coupling expansion \cite{Rosenstein}, wecalculate the spectrum of hadrons using a systematic $1/d$ ($d$ -dimensionality of spacetime) in addition to a strong coupling expansion in$\beta$. The $1/d$ expansion is pushed to the next to leading order in ($1/d$)for mesons and next to next to leading order for baryons. We do the calculationusing Wilson fermions with arbitrary $r$ and show that doublers decouple fromthe spectrum only when $r$ is close to the Wilson's value $r=1$. For these $r$the spectrum is much closer to the lattice results and the phenomenologicalvalues than those obtained by using either the (nonsystematic) "randomwalk"approximation or the hopping parameter expansion. In particular, the value ofthe nucleon to $\rho$ - meson mass ratio is lowered to $\frac {3 \log d -1/4}{2{\rm arccosh} 2}+O(1/d)\approx 1.48$. The result holds even for $\beta$ aslarge as 5, where the weak-strong coupling expansion is applicable andtherefore these results are expected to be reasonable.

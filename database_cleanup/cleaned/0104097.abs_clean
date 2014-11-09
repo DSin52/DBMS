@@ -1,0 +1,13 @@
+Paper: hep-th/0104097
+
+Date: 2001-04-10
+
+Title: Renormalization of the noncommutative photon self-energy to all orders
+
+via Seiberg-Witten mapAuthors: Andreas Bichl, Jesper Grimstrup, Harald Grosse, Lukas Popp, Manfred
+
+Schweda, Raimar Wulkenhaar (Vienna)Comments: 12 pages, LaTeX2e. v3
+
+renormalizability proof for noncommutative Maxwell theory turned out to beincomplete, therefore, we have to restrict the proof to the noncommutativephoton self-energyJournal-ref: JHEP 0106 (2001) 013
+
+We show that the photon self-energy in quantum electrodynamics onnoncommutative $\mathbb{R}^4$ is renormalizable to all orders (both in $\theta$and $\hbar$) when using the Seiberg-Witten map. This is due to the enormousfreedom in the Seiberg-Witten map which represents field redefinitions andgenerates all those gauge invariant terms in the $\theta$-deformed classicalaction which are necessary to compensate the divergences coming from loopintegrations.

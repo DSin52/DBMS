@@ -1,0 +1,11 @@
+Paper: hep-th/9605188
+
+Date: 1996-05-25
+
+Title: On the Evolution Operator Kernel for the Coulomb and Coulomb--Like
+
+PotentialsComments: 10 pp., LaTeX, accepted by "Modern Physics Letters A"
+
+Journal-ref: Mod. Phys. Lett. A11 (1996) 1729
+
+With a help of the Schwinger --- DeWitt expansion analytical properties ofthe evolution operator kernel for the Schr\"odinger equation in time variable$t$ are studied for the Coulomb and Coulomb-like (which behaves themselves as$1/|\vec q|$ when $|\vec q| \to 0$) potentials. It turned out to be that theSchwinger --- DeWitt expansion for them is divergent. So, the kernels for thesepotentials have additional (beyond $\delta$-like) singularity at $t=0$. Hence,the initial condition is fulfilled only in asymptotic sense. It is establishedthat the potentials considered do not belong to the class of potentials, whichhave at $t=0$ exactly $\delta$-like singularity and for which the initialcondition is fulfilled in rigorous sense (such as $V(q) = -\frac{\lambda(\lambda-1)}{2} \frac {1}{\cosh^2 q}$ for integer $\lambda$).

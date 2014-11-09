@@ -1,0 +1,13 @@
+Paper: hep-th/9409133
+
+Date: 1994-09-22
+
+Title: Maxwell-Chern-Simons Theory in Covariant and Coulomb Gauges
+
+Authors: Kurt Haller and Edwin Lim-Lombridas (University of Connecticut)
+
+Comments: UCONN-94-6, REVTeX, 39 pages
+
+Journal-ref: Annals Phys. 246 (1996) 1-48; Erratum-ibid. 257 (1997) 205-206
+
+We quantize Quantum Electrodynamics in $2+1$ dimensions coupled to aChern-Simons (CS) term and a charged spinor field, in covariant gauges and inthe Coulomb gauge. The resulting Maxwell-Chern-Simons (MCS) theory describescharged fermions interacting with each other and with topologically massivepropagating photons. We impose Gauss's law and the gauge conditions andinvestigate their effect on the dynamics and on the statistics of $n$-particlestates. We construct charged spinor states that obey Gauss's law and the gaugeconditions, and transform the theory to representations in which these statesconstitute a Fock space. We demonstrate that, in these representations, thenonlocal interactions between charges and between charges and transversecurrents, as well as the interactions between currents and massive propagatingphotons, are identical in the different gauges we analyze in this and inearlier work. We construct the generators of the Poincar\'e group, show thatthey implement the Poincar\'e algebra, and explicitly demonstrate the effect ofrotations and Lorentz boosts on the particle states. We show that theimposition of Gauss's law does not produce any ``exotic'' fractionalstatistics. In the case of the covariant gauges, this demonstration makes useof unitary transformations that provide charged particles with the gauge fieldsrequired by Gauss's law, but that leave the anticommutator algebra of thespinor fields untransformed. In the Coulomb gauge, we show that theanticommutators of the spinor fields apply to the Dirac-Bergmann constraintsurfaces, on which Gauss's law and the gauge conditions obtain. We examine MCStheory in the large CS coupling constant limit, and compare that limiting formwith CS theory, in which the Maxwell kinetic energy term is not included in the

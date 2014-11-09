@@ -1,0 +1,11 @@
+Paper: hep-th/0304088
+
+Date: 2003-04-09
+
+Title: Calculation of Higher Mass-Dimensional Effective Lagrangians in Quantum
+
+Field TheoryAuthors: Joseph Ambrose G. Pagaran
+
+Comments: 186 pages, MS Thesis
+
+A prescription for calculating low-energy one-loop higher-mass dimensionaleffective Lagrangians for non-Abelian field theories is constructed in thespirit of quasilocal background field method. Basis of Lorentz andgauge-invariant monomials of similar mass-dimensions acting as building blocksare matrix-multiplied in a specified order (usually dictated by a permutationof tensorial indices) generating the much needed invariants. The same set ofbuilding blocks is used to generate higher-order corrections for a specificmass-dimension. Though the gauge group, the spacetime dimensions, the order ofcorrections that can be included, and the mass-dimensions that can be formedare all kept arbitrary in the prescription, we constructed basis invariantsfrom 3 up to 12 mass-dimensions to accommodate higher-order corrections up tofourth-order. With these basis, we pursued solving the zeroth-order correctionsleading to invariants from 2 up to 16 mass-dimensions, for first-order from 4up to 8 mass-dimensions, second and third order corrections from 6 up to 8mass-dimensions. As a result, we have reproduced the zeroth-order correctionsshowing dependence on the covariant derivative of the background matrixpotential. Previous calculation was done up to 12 mass-dimensions but thisdependence was not shown in closed form. For higher-order corrections, the casefor 4 up to 6 mass-dimensions are also reproduced. Finally, we calculated thecase for 8 mass-dimensions which is reduced only by exploiting the antisymmetryof the fieldstrength tensor and the freedom to throw away total derivatives.

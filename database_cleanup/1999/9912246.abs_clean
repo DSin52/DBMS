@@ -1,0 +1,11 @@
+Paper: hep-th/9912246
+
+Date: 1999-12-24
+
+Title: On the Gravitational Scaling Dimensions
+
+Comments: LaTeX, 50 pages, 17 figures
+
+Journal-ref: Phys.Rev. D61 (2000) 124008
+
+A model for quantized gravitation based on the simplicial latticediscretization is studied in detail using a comprehensive finite size scalinganalysis combined with renormalization group methods. The results areconsistent with a value for the universal critical exponent for gravitation$\nu=1/3$, and suggest a simple relationship between Newton's constant, thegravitational correlation length and the observable average space-timecurvature. Some perhaps testable phenomenological implications of these resultsare discussed. To achieve a high numerical accuracy in the evaluation of thelattice path integral a dedicated parallel machine was assembled.

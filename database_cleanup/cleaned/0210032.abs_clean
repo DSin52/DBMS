@@ -1,0 +1,11 @@
+Paper: hep-th/0210032
+
+Date: 2002-10-03
+
+Title: Free-field realisation of boundary states and boundary correlation
+
+functions of minimal modelsAuthors: Shinsuke Kawai
+
+Comments: 12 pages, 2 figures, revtex. v2
+
+in normalisationWe propose a general formalism to compute exact correlation functions forCardy's boundary states. Using the free-field construction of boundary statesand applying the Coulomb-gas technique, it is shown that charge-neutralityconditions pick up particular linear combinations of conformal blocks. As anexample we study the critical Ising model with free and fixed boundaryconditions, and demonstrate that conventional results are reproduced. Thisformalism thus directly associates algebraically constructed boundary stateswith correlation functions which are in principle observable or numericallycalculable.

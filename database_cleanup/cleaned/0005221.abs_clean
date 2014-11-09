@@ -1,0 +1,13 @@
+Paper: hep-th/0005221
+
+Date: 2000-05-24
+
+Title: ADHM Construction of Instantons on the Torus
+
+Authors: C. Ford, J.M. Pawlowski, T. Tok and A.Wipf
+
+Comments: 35 pages, LATeX. New section on Nahm transform included, presentation
+
+improved, reference added, to appear in Nuclear Physics BJournal-ref: Nucl.Phys. B596 (2001) 387-414
+
+We apply the ADHM instanton construction to SU(2) gauge theory on T^n xR^(4-n)for n=1,2,3,4. To do this we regard instantons on T^n x R^(4-n) asperiodic (modulo gauge transformations) instantons on R^4. Since the R^4topological charge of such instantons is infinite the ADHM algebra takes placeon an infinite dimensional linear space. The ADHM matrix M is related to a Weyloperator (with a self-dual background) on the dual torus tilde T^n. Weconstruct the Weyl operator corresponding to the one-instantons on T^n xR^(4-n). In order to derive the self-dual potential on T^n x R^(4-n) it isnecessary to solve a specific Weyl equation. This is a variant of the Nahmtransformation. In the case n=2 (i.e. T^2 x R^2) we essentially have anAharonov Bohm problem on tilde T^2. In the one-instanton sector we find thatthe scale parameter, lambda, is bounded above, (lambda)^2 tv<4 pi, tv being thevolume of the dual torus tilde T^2.

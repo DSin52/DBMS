@@ -1,0 +1,13 @@
+Paper: hep-th/9805026
+
+Date: 1998-05-05
+
+Title: The action of outer automorphisms on bundles of chiral blocks
+
+Authors: J. Fuchs, C. Schweigert
+
+Comments: 46 pages, LaTeX2e. Final version (Commun.Math.Phys., in press). We
+
+have implemented the fact that the group of automorphisms in general actsonly projectively on the chiral blocks and corrected some typosMathematical PhysicsJournal-ref: Commun.Math.Phys. 206 (1999) 691-736
+
+On the bundles of WZW chiral blocks over the moduli space of a puncturedrational curve we construct isomorphisms that implement the action of outerautomorphisms of the underlying affine Lie algebra. These bundle-isomorphismsrespect the Knizhnik-Zamolodchikov connection and have finite order. When allprimary fields are fixed points, the isomorphisms are endomorphisms; in thiscase, the bundle of chiral blocks is typically a reducible vector bundle. Aconjecture for the trace of such endomorphisms is presented; the proposedrelation generalizes the Verlinde formula. Our results have applications toconformal field theories based on non-simply connected groups and to theclassification of boundary conditions in such theories.

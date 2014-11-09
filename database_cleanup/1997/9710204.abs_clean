@@ -1,0 +1,11 @@
+Paper: hep-th/9710204
+
+Date: 1997-10-27
+
+Title: Mechanism for long Dijkgraaf-Verlinde-Verlinde strings
+
+Authors: Vipul Periwal and Oyvind Tafjord
+
+Comments: 2 pages, revtex
+
+The proposal of Dijkgraaf, Verlinde and Verlinde for the emergence of smoothstrings from a supersymmetric U(N) Yang-Mills theory assumes that conjugacyclasses in the symmetric group with a few long cycles dominate the dynamicsabout the infrared fixed point. It is shown that the average number of cyclesin a conjugacy class of $S_{N}$ is bounded below by $const.\sqrt N\ln\sqrt N,$implying that some physical mechanism is needed to ensure the assumeddominance. It is shown that if individual cycles have positive energies thatdepend very weakly on their lengths, then long cycles dominate the dynamics atlow temperatures.

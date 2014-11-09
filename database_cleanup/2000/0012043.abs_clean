@@ -1,0 +1,13 @@
+Paper: hep-th/0012043
+
+Date: 2000-12-06
+
+Title: Consistency of the Hybrid Regularization with Higher Covariant
+
+Derivative and Infinitely Many Pauli-VillarsAuthors: Koh-ichi Nittoh
+
+Comments: 35 pages, 21 figures, latex 2e. Some texts are added. This version
+
+will appear in Int. J. Mod. Phys. AJournal-ref: Int.J.Mod.Phys. A16 (2001) 3755
+
+We study the regularization and renormalization of the Yang-Mills theory inthe framework of the manifestly invariant formalism, which consists of a highercovariant derivative with an infinitely many Pauli-Villars fields. Unphysicallogarithmic divergence, which is the problematic point on the Slavnov's method,does not appear in our scheme, and the well-known vale of the renormalizationgroup functions are derived. The cancellation mechanism of the quadraticdivergence is also demonstrated by calculating the vacuum polarization tensorof the order of $\Lambda^0$ and $\Lambda^{-4}$. These results are the evidencethat our method is valid for intrinsically divergent theories and is expectedto be available for the theory which contains the quantity depending on thespace-time dimensions, like supersymmetric gauge theories.

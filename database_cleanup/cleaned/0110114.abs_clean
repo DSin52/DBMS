@@ -1,0 +1,13 @@
+Paper: hep-th/0110114
+
+Date: 2001-10-12
+
+Title: Deformation Quantization
+
+Phase-SpaceAuthors: Cosmas K Zachos
+
+Comments: LaTeX, 22 pages, 2 figures
+
+Journal-ref: Int.J.Mod.Phys. A17 (2002) 297-316
+
+Wigner's quasi-probability distribution function in phase-space is a special(Weyl) representation of the density matrix. It has been useful in describingquantum transport in quantum optics; nuclear physics; decoherence (eg, quantumcomputing); quantum chaos; "Welcher Weg" discussions; semiclassical limits. Itis also of importance in signal processing.Nevertheless, a remarkable aspect of its internal logic, pioneered by Moyal,alternative, formulation of Quantum Mechanics, independent of the conventionalHilbert Space, or Path Integral formulations. In this logically complete andself-standing formulation, one need not choose sides--coordinate or momentumspace. It works in full phase-space, accommodating the uncertainty principle.This is an introductory overview of the formulation with simple illustrations.

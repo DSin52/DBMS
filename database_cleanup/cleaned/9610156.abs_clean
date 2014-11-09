@@ -1,0 +1,13 @@
+Paper: hep-th/9610156
+
+Date: 1996-10-20
+
+Title: The Renormalization Group Equation in N=2 Supersymmetric Gauge Theories
+
+Authors: Eric D'Hoker, I. M. Krichever and D. H. Phong
+
+Comments: 16 pages, Plain Tex, no macros needed
+
+Journal-ref: Nucl.Phys. B494 (1997) 89-104
+
+We clarify the mass dependence of the effective prepotential in N=2supersymmetric SU(N_c) gauge theories with an arbitrary number N_f<2N_c offlavors. The resulting differential equation for the prepotential extends theequations obtained previously for SU(2) and for zero masses. It can be viewedas an exact renormalization group equation for the prepotential, with the betafunction given by a modular form. We derive an explicit formula for thismodular form when N_f=0, and verify the equation to 2-instanton order in theweak-coupling regime for arbitrary N_f and N_c.

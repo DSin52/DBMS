@@ -1,0 +1,13 @@
+Paper: hep-th/9911058
+
+Date: 1999-11-09
+
+Title: Pasquier Models at c=1
+
+Affine Coxeter ElementAuthors: Robert P. T. Talbot
+
+Comments: LaTeX, 20 pages. Requires packages
+
+amsmath, amscd, amssymb, array. Requires and includes custom .sty fileJournal-ref: J.Phys. A33 (2000) 9101-9118
+
+We calculate the partition functions of the affine Pasquier models on thecylinder in the continuum limit. We show that the partition function of anyaffine model may be expressed in terms of the orbit structure of the affineCoxeter element of the Weyl group associated with the defining graph of themodel. Some of the consequences of this geometric relationship are explored.

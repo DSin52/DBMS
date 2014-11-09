@@ -1,0 +1,13 @@
+Paper: hep-th/9804025
+
+Date: 1998-04-02
+
+Title: On thermodynamic approaches to conformal field theory
+
+Authors: Jos{\'e} Gaite
+
+Comments: 14 pages, LaTeX, submitted to Nucl. Phys. B
+
+Journal-ref: Nucl.Phys. B525 (1998) 627-640
+
+We present the thermodynamic Bethe ansatz as a way to factorize the partitionfunction of a 2d field theory, in particular, a conformal field theory and wecompare it with another approach to factorization due to K. Schoutens whichconsists of diagonalizing matrix recursion relations between the partitionfunctions at consecutive levels. We prove that both are equivalent, taking asexamples the SU(2) spinons and the 3-state Potts model. In the latter case wesee that there are two different thermodynamic Bethe ansatz equation systemswith the same physical content, of which the second is new and corresponds to aone-quasiparticle representation, as opposed to the usual two-quasiparticlerepresentation. This new thermodynamic Bethe ansatz system leads to a newdilogarithmic formula for the central charge of that model.

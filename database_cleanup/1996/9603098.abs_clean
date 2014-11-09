@@ -1,0 +1,13 @@
+Paper: hep-th/9603098
+
+Date: 1996-03-14
+
+Title: Renormalization-group at criticality and complete analyticity of
+
+Authors: Emilio N. M. Cirillo, E. Olivieri
+
+Comments: 39 pages, teX file, 4 Postscript figures, 1 TeX figure
+
+Journal-ref: Journ. Stat. Phys. 86, (1997)
+
+We study the majority rule transformation applied to the Gibbs measure forthe 2--D Ising model at the critical point. The aim is to show that therenormalized hamiltonian is well defined in the sense that the renormalizedmeasure is Gibbsian. We analyze the validity of Dobrushin-Shlosman Uniqueness(DSU) finite-size condition for the "constrained models" corresponding todifferent configurations of the "image" system. It is known that DSU implies,in our 2--D case, complete analyticity from which, as it has been recentlyshown by Haller and Kennedy, Gibbsianness follows. We introduce a Monte Carloalgorithm to compute an upper bound to Vasserstein distance (appearing in DSU)between finite volume Gibbs measures with different boundary conditions. We getstrong numerical evidence that indeed DSU condition is verified for a largeenough volume $V$ for all constrained models.

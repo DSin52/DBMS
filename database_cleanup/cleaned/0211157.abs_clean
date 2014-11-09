@@ -1,0 +1,13 @@
+Paper: hep-th/0211157
+
+Date: 2002-11-18
+
+Title: Comments on the Equivalence between Chern-Simons Theory and Topological
+
+Massive Yang-Mills Theory in 3DAuthors: Andrea Quadri
+
+Comments: 19 pages, LATEX, to appear in Journal of High Energy Physics
+
+Journal-ref: JHEP 11 (2002) 030
+
+The classical formal equivalence upon a redefinition of the gauge connectionbetween Chern-Simons theory and topological massive Yang-Mills theory inthree-dimensional Euclidean space-time is analyzed at the quantum level withinthe BRST formulation of the Equivalence Theorem. The parameter controlling thechange in the gauge connection is the inverse $\lambda$ of the topologicalmass. The BRST differential associated with the gauge connection redefinitionis derived and the corresponding Slavnov-Taylor (ST) identities are proven tobe anomaly-free. The Green functions of local operators constructed only fromthe ($\lambda$-dependent) transformed gauge connection, as well as those ofBRST invariant operators, are shown to be independent of the parameter$\lambda$, as a consequence of the validity of the ST identities. The relevanceof the antighost-ghost fields, needed to take into account at the quantum levelthe Jacobian of the change in the gauge connection, is analyzed. Their role inthe identification of the physical states of the model within conventionalperturbative gauge theory is discussed.

@@ -1,0 +1,11 @@
+Paper: hep-th/0003297
+
+Date: 2000-03-31
+
+Title: Quantization of Constrained Systems
+
+Comments: 50 pages, LaTeX, no figures
+
+Journal-ref: Lect.Notes Phys. 572 (2001) 143-182
+
+The present article is primarily a review of the projection-operator approachto quantize systems with constraints. We study the quantization of systems withgeneral first- and second-class constraints from the point of view ofcoherent-state, phase-space path integration, and show that all such cases maybe treated, within the original classical phase space, by using suitablepath-integral measures for the Lagrange multipliers which ensure that thequantum system satisfies the appropriate quantum constraint conditions. Unlikeconventional methods, our procedures involve no $\delta$-functionals of theclassical constraints, no need for dynamical gauge fixing of first-classconstraints nor any average thereover, no need to eliminate second-classconstraints, no potentially ambiguous determinants, as well as no need to addauxiliary dynamical variables expanding the phase space beyond its originalclassical formulation, including no ghosts. Besides several pedagogicalinvariant models, (ii) systems for which the original set of Lagrangemutipliers are elevated to the status of dynamical variables and used to definean extended dynamical system which is completed with the addition of suitableconjugates and new sets of constraints and their associated Lagrangemultipliers, (iii) special examples of alternative but equivalent formulationsof given first-class constraints, as well as (iv) a comparison of both regularand irregular constraints.

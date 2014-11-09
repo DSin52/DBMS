@@ -1,0 +1,11 @@
+Paper: hep-th/0001220
+
+Date: 2000-01-31
+
+Title: Spin Observables and Path Integrals
+
+Authors: J.A.Lopez and J.Stephany
+
+Comments: 17 pages
+
+We discuss the formulation of spin observables associated to anon-relativistic spinning particles in terms of grassmanian differentialoperators. We use as configuration space variables for the pseudo-classicaldescription of this system the positions $x$ and a Grassmanian vector$\vec\epsilon$. We consider an explicit discretization procedure to obtain thequantum amplitudes as path integrals in this superspace. We compute the quantumaction necessary for this description including an explicit expression for theboundary terms. Finally we shown how for simple examples, the path integral maybe performed in the semi-classical approximation, leading to the correctquantum propagator.

@@ -1,0 +1,11 @@
+Paper: hep-th/0212154
+
+Date: 2002-12-13
+
+Title: Supersymmetry of Scattering Amplitudes and Green Functions in
+
+Perturbation TheoryAuthors: J. Reuter (TU Darmstadt)
+
+Comments: Ph.D. Thesis, TU Darmstadt, 182 pages
+
+We investigate the algebraic structure of supersymmetric Ward- andSlavnov-Taylor identities (STI) in field theories with global supersymmetry. Wedevelop diagrammatical methods for STI in supersymmetric gauge theories withina generalized BRST formalism. These identities are used as consistency checksfor the implementation of phenomenological supersymmetric models of elementaryparticle physics in Monte Carlo simulations. We discuss the infrastructurenecessary for generalizing the matrix element generator O'Mega tosupersymmetric field theories.

@@ -1,0 +1,9 @@
+Paper: hep-th/9501134
+
+Date: 1995-01-30
+
+Title: Fermionic solution of the Andrews-Baxter-Forrester model I
+
+of TBA and CTM methodsComments: 25 pages, latex, 7 figures
+
+The problem of computing the one-dimensional configuration sums of the ABFmodel in regime III is mapped onto the problem of evaluating thegrand-canonical partition function of a gas of charged particles obeyingcertain fermionic exclusion rules. We thus obtain a new {\em fermionic} methodto compute the local height probabilities of the model. Combined with theoriginal {\em bosonic} approach of Andrews, Baxter and Forrester, we obtain anew proof of (some of) Melzer's polynomial identities. In the infinite limitthese identities yield Rogers--Ramanujan type identities for the Virasorocharacters $\chi_{1,1}^{(r-1,r)}(q)$ as conjectured by the Stony Brook group.As a result of our working the corner transfer matrix and thermodynamic BetheAnsatz approaches to solvable lattice models are unified.

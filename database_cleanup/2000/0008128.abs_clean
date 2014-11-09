@@ -1,0 +1,11 @@
+Paper: hep-th/0008128
+
+Date: 2000-08-16
+
+Title: Gravity in Randall-Sundrum Brane World Revisited
+
+Comments: 16 pages, revtex; minor misprints corrected (to appear in Phys. Lett.
+
+B)Journal-ref: Phys.Lett. B497 (2001) 125-135
+
+We point out some subtleties with gauge fixings (which sometimes include theso-called ``brane bending'' effects) typically used to compute the gravitonpropagator on the Randall-Sundrum brane. In particular, the brane, which hasnon-vanishing tension, explicitly breaks some part of the diffeomorphisms, sothat there are subtleties arising in going to, say, the axial gauge or theharmonic gauge in the presence of (non-conformal) matter localized on thebrane. We therefore compute the graviton propagator in the gauge where only thegraviphoton fluctuations are set to zero (the diffeomorphisms necessary forthis gauge fixing are intact), but the graviscalar component is untouched. Wepoint out that in the Gaussian normal coordinates (where the graviscalarcomponent vanishes on the brane) the graviton propagator blows up in theultra-violet near the brane. In fact, the allowed gauge transformations, whichdo not lead to such ultra-violet behavior of the graviton propagator, are suchthat the coupling of the graviscalar to the brane matter cannot be gauged awayin the ultra-violet. Because of this, at the quantum level, where we expectvarious additional terms to be generated in the brane world-volume actionincluding those involving the graviscalar, fine-tuning (which is independent ofthat for the brane cosmological constant) is generically required to preserveconsistent coupling between bulk gravity and brane matter. We also reiteratethat in such warped backgrounds higher curvature terms in the bulk aregenerically expected to delocalize gravity.

@@ -1,0 +1,13 @@
+Paper: hep-th/9408009
+
+Date: 1994-08-02
+
+Title: Equivalence of the Euclidean and Wightman Field Theories
+
+Authors: Yu.M. Zinoviev
+
+Comments: 26 pages, LATEX, SMI - 94 - 179
+
+Journal-ref: Commun.Math.Phys. 174 (1995) 1-28
+
+The new inversion formula for the Laplace transformation of the tempereddistributions with supports in the closed positive semiaxis is obtained. Theinverse Laplace transform of the tempered distribution is defined by means ofthe limit of the special distribution constructed from this distribution. Theweak spectral condition on the Euclidean Green's functions requires that someof the limits needed for the inversion formula exist for any Euclidean Green'sfunction with even number of variables. We prove that the initialOsterwalder--Schrader axioms (1973) and the weak spectral condition areequivalent with the Wightman axioms.

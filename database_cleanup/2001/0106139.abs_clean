@@ -1,0 +1,13 @@
+Paper: hep-th/0106139
+
+Date: 2001-06-15
+
+Title: Generalization of the U_q(gl(N)) algebra and staggered models
+
+Authors: D. Arnaudon, A. Sedrakyan, T. Sedrakyan, P. Sorba
+
+Comments: 12 pages ; Latex2e
+
+Journal-ref: Lett.Math.Phys. 58 (2001) 209-222
+
+We develop a technique of construction of integrable models with a Z_2grading of both the auxiliary (chain) and quantum (time) spaces. These modelshave a staggered disposition of the anisotropy parameter. The correspondingYang-Baxter Equations are written down and their solution for the gl(N) caseare found. We analyze in details the N=2 case and find the correspondingquantum group behind this solution. It can be regarded as quantumU_{q,B}(gl(2)) group with a matrix deformation parameter qB with (qB)^2=q^2.The symmetry behind these models can also be interpreted as the tensor productof the (-1)-Weyl algebra by an extension of U_q(gl(N)) with a Cartan generatorrelated to deformation parameter -1.

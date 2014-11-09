@@ -1,0 +1,13 @@
+Paper: hep-th/9605056
+
+Date: 1996-05-08
+
+Title: Photon splitting in strong magnetic fields
+
+formulae vs. accurate numerical resultsAuthors: C. Wilke and G. Wunner
+
+Comments: 8 pages, 2 figures, Revtex. Resubmitted to Phys. Rev. D., only minor
+
+changesJournal-ref: Phys.Rev. D55 (1997) 997-1000
+
+We present the results of a numerical calculation of the photon splittingrate below the electron-pair creation threshold ($\omega \le 2m$) in magneticfields $B ~{> \atop \sim}~ B_{\rm cr} = m^2 /e = 4.414 \times 10^{9}$ T. Ourresults confirm asymptotic approximations derived in the low-field ($B < B_{\rmcr}$) and high-field ($B \gg B_{\rm cr}$) limit, and allow interpolatingbetween the two asymptotic regions. Our expression for the photon splittingrate is a simplified version of a formula given by Mentzel et al. We also pointout that, although the analytical formula is correct, the splitting ratescalculated there are wrong due to an error in the numerical calculations.

@@ -1,0 +1,9 @@
+Paper: hep-th/9508079
+
+Date: 1995-08-17
+
+Title: Fermionic solution of the Andrews-Baxter-Forrester model II
+
+Melzer's polynomial identitiesComments: 28 pages, Latex, 7 Postscript figures
+
+We compute the one-dimensional configuration sums of the ABF model using thefermionic technique introduced in part I of this paper. Combined with theresults of Andrews, Baxter and Forrester, we find proof of polynomialidentities for finitizations of the Virasoro characters$\chi_{b,a}^{(r-1,r)}(q)$ as conjectured by Melzer. In the thermodynamic limitthese identities reproduce Rogers--Ramanujan type identities for the unitaryminimal Virasoro characters, conjectured by the Stony Brook group. We alsopresent a list of additional Virasoro character identities which follow fromour proof of Melzer's identities and application of Bailey's lemma.

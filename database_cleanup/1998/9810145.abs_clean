@@ -1,0 +1,11 @@
+Paper: hep-th/9810145
+
+Date: 1998-10-19
+
+Title: Matrix-Spacetimes and a 2D Lorentz-Covariant Calculus in Any Even
+
+DimensionAuthors: L.P. Colatto, M.A. De Andrade and F. Toppan (CBPF, RJ, Brasil)
+
+Comments: 28 pages, LaTex
+
+A manifestly Lorentz-covariant calculus based on two matrix-coordinates andtheir associated derivatives is introduced. It allows formulating relativisticfield theories in any even-dimensional spacetime. The construction extends asingle-coordinate matrix formalism based on coupling spacetime coordinates withthe corresponding Gamma-matrices. A 2D matrix-calculus can be introduced foreach one of the structures, adjoint, complex and transposed acting onGamma-matrices. The adjoint structure works for spacetimes with (n,n) signatureonly. The complex structure requires an even number of timelike directions. Thetransposed structure is always defined. A further structure which can bereferred as "spacetime-splitting" is based on a fractal property of theGamma-matrices. It is present in spacetimes with dimension D=4n+2. Theconformal invariance in the matrix-approach is analyzed. A complex conjugationis present for the complex structure, therefore in euclidean spaces, orspacetimes with (2,2), (2,4) signature and so on. As a byproduct it is hereintroduced an index which labels the classes of inequivalent Gamma-structuresunder conjugation performed by real and orthogonal matrices. At least twotimelike directions are necessary to get more than one classes of equivalence.Furthermore an algorithm is presented for iteratively computing D-dimensionalGamma-matrices from the p and q dimensional ones where D=p+q+2. Possibleapplications of the 2D-matrix calculus concern the investigation ofhigher-dimensional field theories with techniques borrowed from 2D-physics.

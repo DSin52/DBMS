@@ -1,0 +1,13 @@
+Paper: hep-th/9701072
+
+Date: 1997-01-15
+
+Title: BFFT quantization with nonlinear constraints
+
+Authors: J. Barcelos-Neto
+
+Comments: 19 pages, Latex
+
+Journal-ref: Phys.Rev. D55 (1997) 2265-2273
+
+We consider the method due to Batalin, Fradkin, Fradkina, and Tyutin (BFFT)that makes the conversion of second-class constraints into first-class ones forthe case of nonlinear theories. We first present a general analysis of anattempt to simplify the method, showing the conditions that must be fulfilledin order to have first-class constraints for nonlinear theories but that arelinear in the auxiliary variables. There are cases where this simplificationcannot be done and the full BFFT method has to be used. However, in the way themethod is formulated, we show with details that it is not practicable to bedone. Finally, we speculate on a solution for these problems.

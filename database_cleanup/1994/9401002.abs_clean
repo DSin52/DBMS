@@ -1,0 +1,13 @@
+Paper: hep-th/9401002
+
+Date: 1994-01-03
+
+Title: Hard Thermal Loops, Static Response and the Composite Effective Action
+
+Authors: R. Jackiw, Q. Liu and C. Lucchesi
+
+Comments: 17 pages, MIT preprint CTP#2261. An Appendix [including one
+
+(appended) PS figure] presenting a numerical analysis of the static solutionshas been included. A note relating our approach to alternative ones has beenadded. We have also added references and comments in Section IIIJournal-ref: Phys.Rev. D49 (1994) 6787-6793
+
+First, we investigate the static non-Abelian Kubo equation. We prove that itdoes not possess finite energy solutions; thereby we establish that gaugetheories do not support hard thermal solitons. A similar argument shows that"static" instantons are absent. In addition, we note that the static equationsreproduce the expected screening of the non-Abelian electric field by a gaugeinvariant Debye mass m=gT sqrt((N+N_F/2)/3). Second, we derive the non-AbelianKubo equation from the composite effective action. This is achieved by showingthat the requirement of stationarity of the composite effective action isequivalent, within a kinematical approximation scheme, to the condition ofgauge invariance for the generating functional of hard thermal loops.

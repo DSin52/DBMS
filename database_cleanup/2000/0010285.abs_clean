@@ -1,0 +1,13 @@
+Paper: hep-th/0010285
+
+Date: 2000-10-31
+
+Title: Consistency Relations for an Implicit n-dimensional Regularization
+
+SchemeAuthors: A.P.B.Scarpelli, M. Sampaio, M.C.Nemes (UFMG-Brazil)
+
+Comments: 21 pages, LaTeX, to appear in Phys.Rev.D
+
+Journal-ref: Phys.Rev. D63 (2001) 046004
+
+We extend an implicit regularization scheme to be applicable in the$n$-dimensional space-time. Within this scheme divergences involving parityviolating objects can be consistently treated without recoursing to dimensionalcontinuation. Special attention is paid to differences between integrals of thesame degree of divergence, typical of one loop calculations, which are inprinciple undetermined. We show how to use symmetries in order to fix thesequantities consistently. We illustrate with examples in which regularizationplays a delicate role in order to both corroborate and elucidate the results inthe literature for the case of CPT violation in extended $QED_4$, topologicalmass generation in 3-dimensional gauge theories and the Schwinger Model and itschiral version.

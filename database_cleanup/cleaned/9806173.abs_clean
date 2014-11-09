@@ -1,0 +1,13 @@
+Paper: hep-th/9806173
+
+Date: 1998-06-20
+
+Title: Anomalies and large N limits in matrix string theory
+
+Authors: Thomas Wynter
+
+Comments: 13 pages, 1 figure, harvmac.tex, notational errors corrected,
+
+references added. Trivial error in section 5 corrected with the result thatthe domain of validity of the loop expn. is slightly modifiedJournal-ref: Phys.Lett. B439 (1998) 37-45
+
+We study the loop expansion for the low energy effective action for matrixstring theory. For long string configurations we find the result depends on theordering of limits. Taking $g_s\to 0$ before $N\to\infty$ we find free strings.Reversing the order of limits however we find anomalous contributions comingfrom the large $N$ limit that invalidate the loop expansion. We then embed theclassical instanton solution into a long string configuration. We find theinstanton has a loop expansion weighted by fractional powers of $N$. Finally weidentify the scaling regime for which interacting long string configurationshave a well defined large $N$ limit. The limit corresponds to large "classical"strings and can be identified with the "dual of the 't Hooft limit,$g_{SYM}^2\sim N$.

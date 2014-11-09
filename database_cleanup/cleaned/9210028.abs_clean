@@ -1,0 +1,13 @@
+Paper: hep-th/9210028
+
+Date: 1992-10-06
+
+Title: Schwinger-Dyson equation in three-dimensional simplicial quantum gravity
+
+Authors: Hirosi Ooguri
+
+Comments: 32 pages, harvmac, HUTP-92/A051
+
+Journal-ref: Prog.Theor.Phys. 89 (1993) 1-22
+
+We study the simplicial quantum gravity in three dimensions. Motivated by theBoulatov's model which generates a sum over simplicial complexes weighted withthe Turaev-Viro invariant, we introduce boundary operators in the simplicialgravity associated to compact orientable surfaces. An amplitude of the boundaryoperator is given by a sum over triangulations in the interior of the boundarysurface. It turns out that the amplitude solves the Schwinger-Dyson equationeven if we restrict the topology in the interior of the surface, as far as thesurface is non-degenerate. We propose a set of factorization conditions on theamplitudes which singles out a solution associated to triangulations of $S^3$.

@@ -1,0 +1,13 @@
+Paper: hep-th/9810191
+
+Date: 1998-10-23
+
+Title: Hamiltonian Analysis of Gauged $CP^1$ Model, the Hopf term, and
+
+fractional spinAuthors: B. Chakraborty and A. S. Majumdar (S. N. Bose Natl. Cntr.)
+
+Comments: Latex, 26 pages, accepted for publication in Phys. Rev. D
+
+Journal-ref: Phys.Rev. D58 (1998) 125024
+
+Recently it was shown by Cho and Kimm that the gauged $CP^1$ model, obtainedby gauging the global $SU(2)$ group and adding a corresponding Chern-Simonsterm, has got its own soliton. These solitons are somewhat distinct from thoseof pure $CP^1$ model as they cannot always be characterised by $\pi_2(CP^1)=Z$.In this paper, we first carry out a detailed Hamiltonian analysis of thisgauged $CP^1$ model. This reveals that the model has only $SU(2)$ as the gaugeinvariance, rather than $SU(2) \times U(1)$. The $U(1)$ gauge invariance of theoriginal (ungauged) $CP^1$ model is actually contained in the $SU(2)$ groupitself. Then we couple the Hopf term associated to these solitons and againcarry out its Hamiltonian analysis. The symplectic structures, along with thestructures of the constraints of these two models (with or without Hopf term)are found to be essentially the same. The model with a Hopf term is shown tohave fractional spin which, when computed in the radiation gauge, is found todepend not only on the soliton number $N$, but also on the nonabelian charge.We then carry out a reduced (partially) phase space analysis in a differentphysical sector of the model where the degrees of freedom associated with the$CP^1$ fields are transformed away. The model now reduces to a $U(1)$ gaugetheory with two Chern-Simons gauge fields getting mass-like terms and oneremaining massless. In this case the fractional spin is computed in terms ofthe dynamical degrees of freedom and shown to depend purely on the charge ofthe surviving abelian symmetry. Although this reduced model is shown to haveits own solitonic configuration, it turns out to be trivial.

@@ -1,0 +1,13 @@
+Paper: hep-th/9905075
+
+Date: 1999-05-11
+
+Title: Consistent nonlinear KK reduction of 11d supergravity on $AdS_7\times
+
+S_4$ and self-duality in odd dimensionsAuthors: Horatiu Nastase, Diana Vaman and Peter van Nieuwenhuizen (ITP SUNY
+
+Stony Brook)Comments: 9 pages, Latex, no figures; few changes in the abstract and
+
+introduction, the noncovariant solution for the matrix U replaced with acovariant solution, the dependence of the 11d antisymmetric tensor on the 7dscalars modified, in particular some spherical harmonics $Y^A$ were dressedwith scalarsJournal-ref: Phys.Lett. B469 (1999) 96-102
+
+We show that there exists a consistent truncation of 11 dimensionalsupergravity to the 'massless' fields of maximal (N=4) 7 dimensional gaugedsupergravity. We find the complete expressions for the nonlinear embedding ofthe 7 dimensional fields into the 11 dimensional fields, and check them byreproducing the d=7 susy transformation laws from the d=11 laws in varioussectors. In particular we determine explicitly the matrix U which connects theKilling spinors to the gravitinos in the KK ansatz, and the dependence of the4-index field strength on the scalars. This is the first time a completenonlinear KK reduction of the original d=11 supergravity on a nontrivialcompact space has been explicitly given. We need a first order formulation forthe 3 index tensor field $A_{\Lambda\Pi\Sigma}$ in d=11 to reproduce the 7dimensional result. The concept of 'self-duality in odd dimensions' is thusshown to originate from first order formalism in higher dimensions. For theAdS-CFT correspondence, our results imply that one can use 7d gaugedsupergravity (without further massive modes) to compute certain correlators inthe d=6 (0,2) CFT at leading order in N. This eliminates an ambiguity in theformulation of the correspondence.

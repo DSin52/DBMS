@@ -1,0 +1,13 @@
+Paper: hep-th/0105049
+
+Date: 2001-05-04
+
+Title: The supergravity dual of a theory with dynamical supersymmetry breaking
+
+Authors: Juan Maldacena and Horatiu Nastase
+
+Comments: 17 pages, no figures, tex, references added, typos corrected, eq. 2.2
+
+correctedJournal-ref: JHEP 0109 (2001) 024
+
+We study the large $N$ limit of a little string theory that reduces in the IRto U(N) ${\cal N} =1$ supersymmetric Yang-Mills with Chern Simons coupling $k$.Witten has shown that this field theory preserves supersymmetry if $k\geq N/2$and he conjectured that it breaks supersymmetry if $k< N/2$. We find anon-singular solution that describes the $k=N/2$ case, which is confining. Weargue that increasing $k$ corresponds to adding branes to this solution, in away that preserves supersymmetry, while decreasing $k$ corresponds to addinganti-branes, and therefore breaking supersymmetry.

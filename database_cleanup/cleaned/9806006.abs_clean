@@ -1,0 +1,13 @@
+Paper: hep-th/9806006
+
+Date: 1998-06-01
+
+Title: Energy Reflection Symmetry of Lie-Algebraic Problems
+
+Quasiclassical and Weak Coupling Expansions MeetAuthors: M. Shifman, A. Turbiner
+
+Comments: Latex, 16 pages, 3 figures. Minor styllistic changes made, typos
+
+corrected, a remark on the energy-reflection symmetry in thequantum-algebraic Hamiltonians emerging in finite-difference problems added.Final version, to be published in Physical Review AJournal-ref: Phys.Rev. A59 (1999) 1791
+
+We construct a class of one-dimensional Lie-algebraic problems based on sl(2)where the spectrum in the algebraic sector has a dynamical symmetry E -> - E.All 2j+1 eigenfunctions in the algebraic sector are paired, and inside eachpair are related to each other by simple analytic continuation x -> ix, exceptthe zero mode appearing if j is integer. At j-> infinity the energy of thehighest level in the algebraic sector can be calculated by virtue of thequasiclassical expansion, while the energy of the ground state can becalculated as a weak coupling expansion. The both series coincide identically.

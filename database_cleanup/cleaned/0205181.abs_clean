@@ -1,0 +1,13 @@
+Paper: hep-th/0205181
+
+Date: 2002-05-17
+
+Title: Asymptotic solvability of an imaginary cubic oscillator with spikes
+
+Authors: Miloslav Znojil, Frantisek Gemperle and Omar Mustafa
+
+Comments: 20 pages and 2 figures
+
+Journal-ref: J.Phys. A35 (2002) 5781
+
+For the PT symmetric potential of Dorey, Dunning and Tateo we show that inthe large angular momentum (i.e., strongly spiked) limit the low-lyingeigenstates of this popular non-Hermitian problem coincide with the shiftedHermitian harmonic oscillators calculated at the zero angular momentum. Thistype of an approximate Hermitization is valid in all the domain where thespectrum of energies remains real. It proves very efficient numerically. Theconstruction is asymmetric with respect to the sign of the subdominantsquare-root spike, and exhibits a discontinuity at the point where the PTsymmetric regularization vanishes.

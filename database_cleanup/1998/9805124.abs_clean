@@ -1,0 +1,11 @@
+Paper: hep-th/9805124
+
+Date: 1998-05-19
+
+Title: Aspects of Quasi-Phasestructure of the Schwinger Model on a Cylinder
+
+with Broken Chiral SymmetryComments: Latex, 29 pages, uses epsfig, error in discussion corrected
+
+Journal-ref: Annals Phys. 273 (1999) 1-36
+
+We consider the N_f-flavour Schwinger Model on a thermal cylinder ofcircumference $\beta=1/T$ and of finite spatial length $L$. On the boundaries$x^1=0$ and $x^1=L$ the fields are subject to an element of a one-dimensionalclass of bag-inspired boundary conditions which depend on a real parameter$\theta$ and break the axial flavour symmetry. For the cases $N_f=1$ and$N_f=2$ all integrals can be performed analytically. While general theorems donot allow for a nonzero critical temperature, the model is found to exhibit a$\log(T)$ - stays almost constant up to a certain temperature (which depends on$L$), where it shows a sharp crossover to a value which is exponentially closeto zero. In the limit $L \to \infty$ the known behaviour for the one-flavourSchwinger model is reproduced. In case of two flavours direct pictorialevidence is given that the theory undergoes a phase-transition at $T_c=0$. Thelatter is confirmed - as predicted by Smilga and Verbaarschot - to be of secondorder but for the critical exponent $\delta$ the numerical value is found to be2 which is at variance with their bosonization-rule based prediction$\delta=3$.

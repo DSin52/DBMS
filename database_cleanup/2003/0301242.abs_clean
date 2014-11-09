@@ -1,0 +1,11 @@
+Paper: hep-th/0301242
+
+Date: 2003-01-29
+
+Title: The Fuzzy Ginsparg-Wilson Algebra
+
+ProblemAuthors: A. P. Balachandran and G. Immirzi
+
+Comments: 16 pages, Latex
+
+The Ginsparg-Wilson algebra is the algebra underlying the Ginsparg-Wilsonsolution of the fermion doubling problem in lattice gauge theory. The Diracoperator of the fuzzy sphere is not afflicted with this problem. Previously wehave indicated that there is a Ginsparg-Wilson operator underlying it as wellin the absence of gauge fields and instantons. Here we develop this observationsystematically and establish a Dirac operator theory for the fuzzy sphere withor without gauge fields, and always with the Ginsparg-Wilson algebra. There isno fermion doubling in this theory. The association of the Ginsparg-Wilsonalgebra with the fuzzy sphere is surprising as the latter is not designed withthis algebra in mind. The theory reproduces the integrated $U(1)_A$ anomaly andindex theory correctly.

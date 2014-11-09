@@ -1,0 +1,11 @@
+Paper: hep-th/0302093
+
+Date: 2003-02-13
+
+Title: Excited TBA Equations II
+
+Ising ModelAuthors: Paul A. Pearce, Leung Chim and Changrim Ahn
+
+Comments: 26 pages, 9 figures
+
+We consider the massless tricritical Ising model M(4,5) perturbed by thethermal operator in a cylindrical geometry and apply integrable boundaryconditions, labelled by the Kac labels (r,s), that are natural off-criticalperturbations of known conformal boundary conditions. We derive masslessthermodynamic Bethe ansatz (TBA) equations for all excitations by solving, inthe continuum scaling limit, the TBA functional equation satisfied by thedouble-row transfer matrices of the A_4 lattice model of Andrews, Baxter andForrester (ABF) in Regime IV. The resulting TBA equations describe the masslessrenormalization group flow from the tricritical to critical Ising model. As inthe massive case of Part I, the excitations are completely classified in termsof (m,n) systems but the string content changes by one of three mechanismsalong the flow. Using generalized q-Vandemonde identities, we show that thisleads to a flow from tricritical to critical Ising characters. The excited TBAequations are solved numerically to follow the continuous flows from the UV tothe IR conformal fixed points.

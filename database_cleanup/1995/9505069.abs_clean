@@ -1,0 +1,11 @@
+Paper: hep-th/9505069
+
+Date: 1995-05-12
+
+Title: Discretized Light-Cone Quantization
+
+theory (QED)Authors: Stephan Elser, Hans-Christian Pauli and Alex C. Kalloniatis
+
+Comments: 16 pages, LaTeX, a4 and epsf macro used
+
+We describe the programming method for generating the spectrum of boundstates for relativistic quantum field theories using the nonperturbativeHamiltonian approach of Discretized Light-Cone Quantization. The method isintended for eventual application to quantum chromodynamics in 3+1 dimensions.Here the fundamental principles are illustrated concretely by treatment of QEDin two dimensions. The code is intended as a basis for extensions to includemore complicated gauge symmetry groups, such as SU(3) color, and other quantumnumbers. The code was written in Fortran 77 and implemented on a DEC 5000-260workstation with a typical runtime of 0.2s at total momentum 10.

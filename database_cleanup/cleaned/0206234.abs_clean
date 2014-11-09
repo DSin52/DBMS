@@ -1,0 +1,13 @@
+Paper: hep-th/0206234
+
+Date: 2002-06-26
+
+Title: On quantum deformation of conformal symmetry
+
+redefinitionsAuthors: S.M. Kuzenko and I.N. McArthur (Western Australia U.)
+
+Comments: 14 pages, latex, no figures; references and comments added, the final
+
+version to appear in PLBJournal-ref: Phys.Lett. B544 (2002) 357-366
+
+The effective action in gauge theories is known to depend on a choice ofgauge fixing conditions. This dependence is such that any change of gaugeconditions is equivalent to a field redefinition in the effective action. Inthis sense, the quantum deformation of conformal symmetry in the N = 4 superYang-Mills theory, which was computed in 't Hooft gauge in hep-th/9808039 andhep-th/0203236, is gauge dependent. The deformation is an intrinsic property ofthe theory in that it cannot be eliminated by a local choice of gauge (althoughwe sketch a field redefinition induced by a nonlocal gauge which, on theCoulomb branch of the theory, converts the one-loop quantum-corrected conformaltransformations to the classical ones). We explicitly compute the deformedconformal symmetry in R_\xi gauge. The conformal transformation law of thegauge field turns out to be \xi-independent. We construct the scalar fieldredefinition which relates the 't Hooft and R_\xi gauge results. A uniquefeature of 't Hooft gauge is that it makes it possible to consistently truncatethe one-loop conformal deformation to the terms of first order in derivativesof the fields such that the corresponding transformations form a fieldrealization of the conformal algebra.

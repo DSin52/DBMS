@@ -1,0 +1,13 @@
+Paper: hep-th/0204260
+
+Date: 2002-04-30
+
+Title: Computing in String Field Theory Using the Moyal Star Product
+
+Authors: Itzhak Bars and Yutaka Matsuo
+
+Comments: 77 pages, LaTeX. v3
+
+corrections see beginning of source file)Journal-ref: Phys.Rev. D66 (2002) 066003
+
+Using the Moyal star product, we define open bosonic string field theorycarefully, with a cutoff, for any number of string oscillators and anyoscillator frequencies. Through detailed computations, such as Neumanncoefficients for all string vertices, we show that the Moyal star product isall that is needed to give a precise definition of string field theory. Theformulation of the theory as well as the computation techniques areconsiderably simpler in the Moyal formulation. After identifying a monoidalgebra as a fundamental mathematical structure in string field theory, we useit as a tool to compute with ease the field configurations for wedge, sliver,and generalized projectors, as well as all the string interaction vertices forperturbative as well as monoid-type nonperturbative states. Finally, in thecontext of VSFT we analyze the small fluctuations around any D-brane vacuum. Weshow quite generally that to obtain nontrivial mass and coupling, as well as aclosed strings, there must be an associativity anomaly. We identify thedetailed source of the anomaly, but leave its study for future work.

@@ -1,0 +1,13 @@
+Paper: hep-th/9911242
+
+Date: 1999-11-30
+
+Title: Non-Abelian Stokes Theorem and Quark Confinement in SU(N) Yang-Mills
+
+Gauge TheoryAuthors: Kei-Ichi Kondo and Yutaro Taira (Chiba University)
+
+Comments: 77 pages, Latex, 13 eps figures, a version to appear in Prog. Theor.
+
+PhysJournal-ref: Prog.Theor.Phys. 104 (2000) 1189-1265
+
+We derive a new version of the non-Abelian Stokes theorem for the Wilson loopin the SU(N) case by making use of the coherent state representation on thecoset space $SU(N)/U(1)^{N-1}=F_{N-1}$, the flag space. We consider the SU(N)Yang-Mills theory in the maximal Abelian gauge in which SU(N) is broken down to$U(1)^{N-1}$. First, we show that the Abelian dominance in the string tensionfollows from this theorem and the Abelian-projected effective gauge theory thatwas derived by one of the authors. Next (but independently), combining thenon-Abelian Stokes theorem with a novel reformulation of the Yang-Mills theoryrecently proposed by one of the authors, we proceed to derive the area law ofthe Wilson loop in four-dimensional SU(N) Yang-Mills theory in the maximalAbelian gauge. Owing to dimensional reduction, the planar Wilson loop at leastfor the fundamental representation in four-dimensional SU(N) Yang-Mills theorycan be estimated by the diagonal (Abelian) Wilson loop defined in thetwo-dimensional $CP^{N-1}$ model. This derivation shows that the fundamentalquarks are confined by a single species of magnetic monopole. The origin of thearea law is related to the geometric phase of the Wilczek-Zee holonomy for$U(N-1)$. The calculations are performed using the instanton calculus (in thedilute instanton-gas approximation) and using the large $N$ expansion (in theleading order).

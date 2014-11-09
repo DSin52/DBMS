@@ -1,0 +1,13 @@
+Paper: hep-th/0111281
+
+Date: 2001-11-29
+
+Title: Star Algebra Spectroscopy
+
+Authors: Leonardo Rastelli, Ashoke Sen, and Barton Zwiebach
+
+Comments: LaTeX, 30 pages, 2 figures
+
+Journal-ref: JHEP 0203 (2002) 029
+
+The spectrum of the infinite dimensional Neumann matrices M^{11}, M^{12} andM^{21} in the oscillator construction of the three-string vertex determines keyproperties of the star product and of wedge and sliver states. We study thespectrum of eigenvalues and eigenvectors of these matrices using the derivationK_1 = L_1 + L_{-1} of the star algebra, which defines a simple infinite matrixcommuting with the Neumann matrices. By an exact calculation of the spectrum ofK_1, and by consideration of an operator generating wedge states, we are ableto find analytic expressions for the eigenvalues and eigenvectors of theNeumann matrices and for the spectral density. The spectrum of M^{11} iscontinuous in the range [-1/3, 0) with degenerate twist even and twist oddeigenvectors for every eigenvalue except for -1/3.

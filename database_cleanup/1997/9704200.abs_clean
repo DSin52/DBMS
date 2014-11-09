@@ -1,0 +1,11 @@
+Paper: hep-th/9704200
+
+Date: 1997-04-29
+
+Title: Bi-Graded Markovian Matrices as Non-Local Dirac Operators and a New
+
+Quantum EvolutionAuthors: E. Atzmon
+
+Comments: 22 pages, latex, epsf, amssymbols, 1 figures
+
+and SolitonsMeasuring distances on a lattice in noncommutative geometry involves square,symmetric and real ``three-diagonal'' matrices, with the sum of their elementsobeying a supremum condition, together with a constraint forcing the absolutevalue of the maximal eigenvalue to be equal to 1. In even dimensions, thesematrices are unipotent of order two, while in odd dimensions only their squaresare Markovian. We suggest that these bi-graded Markovian matrices (i.e.consisting in the square roots of Markovian matrices) can be thought of asnon-local Dirac operators. The eigenvectors of these matrices are spinors.Treating these matrices as determining the stochastic time evolution of statesmight explain why one observes only left handed neutrinos. Some other physicalinterpretations are suggested. We end by presenting a mathematical conjectureapplying to q-graded Markovian matrices.

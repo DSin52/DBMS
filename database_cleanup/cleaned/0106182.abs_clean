@@ -1,0 +1,13 @@
+Paper: hep-th/0106182
+
+Date: 2001-06-20
+
+Title: Integrable Lattice Realizations of Conformal Twisted Boundary Conditions
+
+Authors: C. H. Otto Chui, Christian Mercat, Will Orrick, Paul A. Pearce (Math &
+
+Stats Dept, the University of Melbourne)Comments: 11 pages, LaTeX. Added some references
+
+Journal-ref: Phys.Lett. B517 (2001) 429-435
+
+We construct integrable realizations of conformal twisted boundary conditionsfor ^sl(2) unitary minimal models on a torus. These conformal field theoriesare realized as the continuum scaling limit of critical A-D-E lattice modelswith positive spectral parameter. The integrable seam boundary conditions arelabelled by (r,s,\zeta) in (A_{g-2},A_{g-1},\Gamma) where \Gamma is the groupof automorphisms of G and g is the Coxeter number of G. Taking symmetries intoaccount, these are identified with conformal twisted boundary conditions ofPetkova and Zuber labelled by (a,b,\gamma) in (A_{g-2}xG, A_{g-2}xG,Z_2) andassociated with nodes of the minimal analog of the Ocneanu quantum graph. Ourresults are illustrated using the Ising (A_2,A_3) and 3-state Potts (A_4,D_4)models.

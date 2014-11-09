@@ -1,0 +1,11 @@
+Paper: hep-th/0210207
+
+Date: 2002-10-22
+
+Title: General Superfield Quantization Method. I. General Superfield Theory of
+
+Authors: A.A.Reshetnyak
+
+Comments: 43 pages, corrected typos
+
+The rules for constructing Lagrangian formulation for general superfieldtheory of fields (GSTF) are introduced and considered on the whole in theframework of proposed here new general superfield quantization method forgeneral gauge theories.Algebraic, group-theoretic and analytic description aspects forsupervariables over (Grassmann) algebras containing anticommuting generatingelement $\theta$ and interpreted further in particular as an "odd" time areexamined.Superfunction $S_{L}(\theta) \equiv S_{L}({\cal A}(\theta), \frac{d{{\calA}}(\theta)} {d\theta\phantom{xx}}, \theta)$ and its global symmetries aredefined on the extended space (supermanifold) $T_{odd}{\cal M}_{cl} \timesA}}^{\imath}(\theta), \frac{d{{\cal A}}^{\imath}(\theta)}{d\theta\phantom{xxx}}, \theta$. Extremality properties of the superfunctional $Z[{\calA}]=\int d\theta S_{L}(\theta)$ are analyzed together with properties ofcorresponding Euler-Lagrange equations. System of definitions for Lagrangianformulation of GSTF is suggested.Component (on $\theta$) formulation for GSTF variables and operations isproduced. Analogy between objects and relations of the ordinary classicalmechanics and GSTF in Lagrangian formulation is proposed. Realization of theconstructions of GSTF is demonstrated on two concrete models.

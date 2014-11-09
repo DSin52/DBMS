@@ -1,0 +1,13 @@
+Paper: hep-th/9907039
+
+Date: 1999-07-07
+
+Title: A Quantum Field Theory with Infinite Resonance States
+
+Authors: G. Mussardo and S. Penati
+
+Comments: LATEX file, 62 pages, 11 figures
+
+Journal-ref: Nucl.Phys. B567 (2000) 454-492
+
+We study an integrable quantum field theory of a single stable particle withan infinite number of resonance states. The exact $S$--matrix of the model isexpressed in terms of Jacobian elliptic functions which encode the resonancepoles inherently. In the limit $l \to 0$, with $l$ the modulus of the Jacobianelliptic function, it reduces to the Sinh--Gordon $S$--matrix. We address theproblem of computing the Form Factors of the model by studying their monodromyand recursive equations. These equations turn out to possess infinitely manysolutions for any given number of external particles. This infinite spectrum ofsolutions may be related to the irrational nature of the underlying ConformalField Theory reached in the ultraviolet limit. We also discuss an ellipticversion of the thermal massive Ising model which is obtained by a particularvalue of the coupling constant.

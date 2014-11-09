@@ -1,0 +1,9 @@
+Paper: hep-th/9312075
+
+Date: 1993-12-09
+
+Title: Quantum Groups, Non-Commutative Differential Geometry and Applications
+
+Comments: 137 pages, PhD thesis
+
+The topic of this thesis is the development of a versatile and geometricallymotivated differential calculus on non-commutative or quantum spaces, providingpowerful but easy-to-use mathematical tools for applications in physics andrelated sciences. A generalization of unitary time evolution is proposed andstudied for a simple 2-level system, leading to non-conservation of microscopicentropy, a phenomenon new to quantum mechanics. A Cartan calculus that combinesfunctions, forms, Lie derivatives and inner derivations along general vectorfields into one big algebra is constructed for quantum groups and then extendedto quantum planes. The construction of a tangent bundle on a quantum groupmanifold and an BRST type approach to quantum group gauge theory are given asI studies vector fields on quantum groups, emphasizing Hopf algebraicstructures, but also introducing a `quantum geometric' construction. Using ageneralized semi-direct product construction we combine the dual Hopf algebras\A\ of functions and \U\ of left-invariant vector fields into one fullybicovariant algebra of differential operators. The pure braid group isintroduced as the commutant of $\Delta (\U)$. It provides invariant maps $\A\to \U$ and thereby bicovariant vector fields, casimirs and metrics. Thisconstruction allows the translation of undeformed matrix expressions into theirless obvious quantum algebraic counter parts. We study this in detail forquasitriangular Hopf algebras, giving the determinant and

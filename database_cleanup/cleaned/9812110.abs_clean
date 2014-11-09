@@ -1,0 +1,11 @@
+Paper: hep-th/9812110
+
+Date: 1998-12-14
+
+Title: Modular Invariants, Graphs and $\alpha$-Induction for Nets of
+
+Subfactors. IIIComments: 59 pages, latex2e; final version, minor changes
+
+Journal-ref: Commun.Math.Phys. 205 (1999) 183-228
+
+In this paper we further develop the theory of $\alpha$-induction for nets ofsubfactors, in particular in view of the system of sectors obtained by mixingthe two kinds of induction arising from the two choices of braiding. Weconstruct a relative braiding between the irreducible subsectors of the two``chiral'' induced systems, providing a proper braiding on their intersection.We also express the principal and dual principal graphs of the local subfactorsin terms of the induced sector systems. This extended theory is again appliedto conformal or orbifold embeddings of SU(n) WZW models. A simple formula forthe corresponding modular invariant matrix is established in terms of the twoinductions, and we show that it holds if and only if the sets of irreduciblesubsectors of the two chiral induced systems intersect minimally on the set ofmarked vertices i.e. on the ``physical spectrum'' of the embedding theory, orif and only if the canonical endomorphism sector of the conformal or orbifoldinclusion subfactor is in the full induced system. We can prove eithercondition for all simple current extensions of SU(n) and many conformalinclusions, covering in particular all type I modular invariants of SU(2) andSU(3), and we conjecture that it holds also for any other conformal inclusionof SU(n) as well. As a by-product of our calculations, the dual principal graphfor the conformal inclusion $SU(3)_5 \subset SU(6)_1$ is computed for the firsttime.

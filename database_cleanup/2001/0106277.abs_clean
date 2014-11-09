@@ -1,0 +1,13 @@
+Paper: hep-th/0106277
+
+Date: 2001-06-29
+
+Title: Gauging dual symmetry
+
+Authors: Akira Kato, Doug Singleton
+
+Comments: 6 pages, RevTeX 4
+
+Journal-ref: Int.J.Theor.Phys. 41 (2002) 1563-1572
+
+The idea of gauging (i.e. making local) symmetries of a physical system is acentral feature of many modern field theories. Usually, one starts with aLagrangian for some scalar or spinor matter fields, with the Lagrangian beinginvariant under a global phase symmetry transformation of the matter fields.Making this global phase symmetry local results in the introduction of vectorfields. The vector fields can be said to arise as a result of the gaugegauging the electric-magnetic dual symmetry of a Lagrangian which originallycontains only the vector gauge fields we find that it is necessary to introducematter fields (scalar fields in our example). In this gauging of theelectric-magnetic dual symmetry the traditional roles of the vector fields andthe matter fields are interchanged.

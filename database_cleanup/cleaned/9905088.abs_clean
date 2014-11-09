@@ -1,0 +1,11 @@
+Paper: hep-th/9905088
+
+Date: 1999-05-13
+
+Title: Renormalization-group Method for Reduction of Evolution Equations;
+
+invariant manifolds and envelopesComments: 67 pages. No figures. v2
+
+motion in the the double-well potential are given in the text and theappendix added. Some references are also added. Introduction is somewhatreshapedFormation and Solitons; Exactly Solvable and Integrable SystemsJournal-ref: Annals Phys. 280 (2000) 236-298
+
+The renormalization group (RG) method as a powerful tool for reduction ofevolution equations is formulated in terms of the notion of invariantmanifolds. We start with derivation of an exact RG equation which is analogousto the Wilsonian RG equations in statistical physics and quantum field theory.It is clarified that the perturbative RG method constructs invariant manifoldssuccessively as the initial value of evolution equations, thereby the meaningto set $t_0=t$ is naturally understood where $t_0$ is the arbitrary initialtime. We show that the integral constants in the unperturbative solutionconstitutes natural coordinates of the invariant manifold when the linearoperator $A$ in the evolution equation has no Jordan cell; when $A$ has aJordan cell, a slight modification is necessary because the dimension of theinvariant manifold is increased by the perturbation. The RG equation determinesthe slow motion of the would-be integral constants in the unperturbativesolution on the invariant manifold. We present the mechanical procedure toconstruct the perturbative solutions hence the initial values with which the RGequation gives meaningful results. The underlying structure of the reduction bythe RG method as formulated in the present work turns out to completely fit tothe universal one elucidated by Kuramoto some years ago. We indicate that thereduction procedure of evolution equations has a good correspondence with therenormalization procedure in quantum field theory; the counter part of theuniversal structure of reduction elucidated by Kuramoto may be the Polchinski'stheorem for renormalizable field theories. We apply the method to interfacedynamics such as kink-anti-kink and soliton-soliton interactions in the latterof which a linear operator having a Jordan-cell structure appears.

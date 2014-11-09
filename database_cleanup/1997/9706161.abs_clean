@@ -1,0 +1,11 @@
+Paper: hep-th/9706161
+
+Date: 1997-06-23
+
+Title: Excited-state energies and supersymmetric indices
+
+Authors: Paul Fendley
+
+Comments: 20 pages, 6 figures, amslatex. Revision adds appendix describing
+
+analogous calculation for a free Dirac fermion. To appear in Advances inTheoretical and Mathematical PhysicsWe study multi-soliton states in two-dimensional N=2 supersymmetric theories.We calculate their energy exactly as a function of mass and volume in thesimplest integrable N=2 theory, the sine-Gordon model at a particular coupling.These energies are related to the expectation value $I= tr [\exp(in\pi F)\exp(-H/T)]$, where F is the fermion number. For n=1, this is Witten's index;for n an odd integer, we argue that $I$ is an index in the sense that it isindependent of all D-term variations.

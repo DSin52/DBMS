@@ -1,0 +1,13 @@
+Paper: hep-th/0007151
+
+Date: 2000-07-19
+
+Title: Correspondence between the XXZ model in roots of unity and the
+
+one-dimensional quantum Ising chain with different boundary conditionsAuthors: F. C. Alcaraz, A. A. Belavin, R. A. Usmanov
+
+Comments: 23 pages,LaTeX,3 tables,corrected some typos
+
+Journal-ref: J.Phys. A34 (2001) 211-226
+
+We consider the integrable XXZ model with special open boundary conditionsthat renders its Hamiltonian ${SU(2)}_q$ symmetric, and the one-dimensionalquantum Ising model with four different boundary conditions. We show that foreach boundary condition the Ising quantum chain is exactly given by the MinimalModel of integrable lattice theory $LM(3, 4)$. This last theory is obtained asthe result of the quantum group reduction of the XXZ model at anisotropy$\Delta=(q + q^{-1})/2=\sqrt{2}/2$, with a number of sites in the latterdefined by the type of boundary conditions.

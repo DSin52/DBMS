@@ -1,0 +1,11 @@
+Paper: hep-th/9902025
+
+Date: 1999-02-02
+
+Title: Bound States in Models of Asymtotic Freedom
+
+Authors: S. G. Rajeev
+
+Comments: Latex 63 pages, one eps figure
+
+We describe a new formalism which expresses asymtotically free thories in amanifestly finite way, after renormalization and dimensional transmutation. Thetime evolution is NOT differentiable in these systems, so the hamiltonian doesnot exist. Instead, there is a new operator, the `Principal Operator', (whichis roughly speaking the logarithm of the hamiltonian) which is finite (cut-offindependent). We construct the Principal operator in several examples,including the Many body Problem of bosons in two dimensions with a short rangeattractive interaction. This allows us to estimate the ground state energy of atwo-dimensional Bose condensate (with an attractive interaction). The groundstate energy depends exponentially on the number of particles.

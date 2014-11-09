@@ -1,0 +1,13 @@
+Paper: hep-th/9401153
+
+Date: 1994-01-28
+
+Title: Nonperturbative Light-Front QCD
+
+Authors: K. G. Wilson, T. Walhout, A. Harindranath, W. M. Zhang, R. J. Perry
+
+and S. GlazekComments: 56 pages (REVTEX), Report OSU-NT-94-28. (figures not included,
+
+available via anaonymous ftp from pacific.mps.ohio-state.edu in subdirectorypub/infolight/qcd)Journal-ref: Phys.Rev. D49 (1994) 6720-6766
+
+In this work the determination of low-energy bound states in QuantumChromodynamics is recast so that it is linked to a weak-coupling problem. Thisallows one to approach the solution with the same techniques which solvemany-body quantum mechanics. The key to eliminating necessarily nonperturbativeeffects is the use of a bare Hamiltonian in which quarks and gluons havenonzero constituent masses rather than the zero masses of the current picture.The use of constituent masses cuts off the growth of the running couplingconstant and makes it possible that the running coupling never leaves theperturbative domain. For stabilization purposes an artificial potential isadded to the Hamiltonian, but with a coefficient that vanishes at the physicalvalue of the coupling constant. The weak-coupling approach potentiallyreconciles the simplicity of the Constituent Quark Model with the complexitiesof Quantum Chromodynamics. The penalty for achieving this perturbative pictureis the necessity of formulating the dynamics of QCD in light-front coordinatesand of dealing with the complexities of renormalization which such aformulation entails. We describe the renormalization process first using aqualitative phase space cell analysis, and we then set up a precise similarityrenormalization scheme with cutoffs on constituent momenta and exhibitcalculations to second order. We outline further computations that remain to becarried out. There is an initial nonperturbative but nonrelativisticcalculation of the hadronic masses that determines the artificial potential,with binding energies required to be fourth order in the coupling as in QED.Next there is a calculation of the leading radiative corrections to thesemasses, which requires our renormalization program. Then the real struggle offinding the right extensions to perturbation theory to study thestrong-coupling behavior of bound states can begin.

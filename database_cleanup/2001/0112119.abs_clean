@@ -1,0 +1,13 @@
+Paper: hep-th/0112119
+
+Date: 2001-12-13
+
+Title: Holographic Renormalization
+
+Authors: Massimo Bianchi, Daniel Z. Freedman and Kostas Skenderis
+
+Comments: 46 pages; v2
+
+Journal-ref: Nucl.Phys. B631 (2002) 159-194
+
+We systematically develop the procedure of holographic renormalization for RGflows dual to asymptotically AdS domain walls. All divergences of the on-shellbulk action can be cancelled by adding covariant local boundary countertermsdetermined by the near-boundary behavior of bulk fields. This procedure definesa renormalized action from which correlation functions are obtained byfunctional differentiation. The correlators are finite and well behaved atcoincident points. Ward identities, corrected for anomalies, are satisfied. Thecorrelators depend on parts of the solution of the bulk field equations whichare not determined by near-boundary analysis. In principle a full nonlinearsolution is required, but one can solve linearized fluctuation equations todefine a bulk-to-boundary propagator from which 2-point correlation functionsare easily obtained. We carry out the procedure explicitly for two known RGflows obtained from the maximal gauged D=5 supergravity theory, obtaining newresults on correlators of vector currents and related scalar operators andgiving further details on a recent analysis of the stress tensor sector.

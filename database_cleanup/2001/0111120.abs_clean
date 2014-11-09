@@ -1,0 +1,13 @@
+Paper: hep-th/0111120
+
+Date: 2001-11-13
+
+Title: Renormalon disappearance in Borel sum of the 1/N expansion of the
+
+Gross-Neveu model mass gapAuthors: J.-L. Kneur and D. Reynaud (Montpellier U.)
+
+Comments: 16 pp., 1 figure. v2
+
+and abstract slightly changed, essential results unchangedJournal-ref: JHEP 0301 (2003) 014
+
+The exact mass gap of the O(N) Gross-Neveu model is known, for arbitrary $N$,from non-perturbative methods. However, a "naive" perturbative expansion of thepole mass exhibits an infinite set of infrared renormalons at order 1/N,formally similar to the QCD heavy quark pole mass renormalons, potentiallyleading to large ${\cal O}(\Lambda)$ perturbative ambiguities. We examine theprecise vanishing mechanism of such infrared renormalons, which avoids this(only apparent)contradiction, and operates without need of (Borel) summationcontour prescription, usually preventing unambiguous separation of perturbativecontributions. As a consequence we stress the direct Borel summability of the(1/N) perturbative expansion of the mass gap. We briefly speculate on apossible similar behaviour of analogous non-perturbative QCD quantities.

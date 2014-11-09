@@ -1,0 +1,11 @@
+Paper: hep-th/9507072
+
+Date: 1995-07-13
+
+Title: Polynomial Identities, Indices, and Duality for the N=1 Superconformal
+
+Model SM(2,4\nu)Authors: Alexander Berkovich, Barry M. McCoy and William P. Orrick
+
+Comments: 41 pages, harvmac, no figures; new identities, proofs and comments
+
+added; misprints eliminatedIntegrable SystemsWe prove polynomial identities for the N=1 superconformal model SM(2,4\nu)which generalize and extend the known Fermi/Bose character identities. Ourproof uses the q-trinomial coefficients of Andrews and Baxter on the bosonicside and a recently introduced very general method of producing recursionrelations for q-series on the fermionic side. We use these polynomials todemonstrate a dual relation under q \rightarrow q^{-1} between SM(2,4\nu) andM(2\nu-1,4\nu). We also introduce a generalization of the Witten index which isexpressible in terms of the Rogers false theta functions.

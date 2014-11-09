@@ -1,0 +1,13 @@
+Paper: hep-th/9807210
+
+Date: 1998-07-28
+
+Title: On the quantum Batalin-Vilkovisky formalism and the renormalization of
+
+non linear symmetriesAuthors: Glenn Barnich
+
+Comments: 45 pages Latex file, final published version, separate section with
+
+additional details on elimination of instabilities in the standard modelJournal-ref: JHEP 9903 (1999) 010
+
+The most convenient tool to study the renormalization of a Lagrangian fieldtheory invariant under non linear local or global symmetries is the propersolution to the master equation of the extended antifield formalism. It isshown that, from the knowledge of the BRST cohomology, it is possible toexplicitly construct a further extension of the formalism containing all theobservables of the theory and satisfying an extended master equation, with someof the features of the quantum Batalin-Vilkovisky master equation alreadypresent at the classical level. This solution has the remarkable property thatall its infinitesimal deformations can be extended to complete deformations.The deformed solutions differs from the original one through the addition ofterms related to coupling constant and anticanonical field-antifieldredefinitions. As a consequence, all theories admitting an invariantregularization scheme are shown to be renormalizable while preserving thesymmetries, in the sense that both the subtracted and the effective actionsatisfy the extended master equation, and this independently of power countingrestrictions. The anomalous case is also studied and a suitable definition ofthe Batalin-Vilkovisky ``Delta'' operator in the context of dimensionalrenormalization is proposed.

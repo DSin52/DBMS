@@ -1,0 +1,13 @@
+Paper: hep-th/9603103
+
+Date: 1996-03-15
+
+Title: Quasi-Exactly Solvable Potentials on the Line and Orthogonal Polynomials
+
+Authors: Federico Finkel, Artemio Gonzalez-Lopez, Miguel A. Rodriguez (Dept. of
+
+Theoretical Physics II, Universidad Complutense, Madrid)Comments: 22 pages, plain TeX. Please typeset only the file orth.tex
+
+Journal-ref: J.Math.Phys. 37 (1996) 3954-3972
+
+In this paper we show that a quasi-exactly solvable (normalizable orperiodic) one-dimensional Hamiltonian satisfying very mild conditions defines afamily of weakly orthogonal polynomials which obey a three-term recursionrelation. In particular, we prove that (normalizable) exactly-solvableone-dimensional systems are characterized by the fact that their associatedpolynomials satisfy a two-term recursion relation. We study the properties ofthe family of weakly orthogonal polynomials defined by an arbitraryone-dimensional quasi-exactly solvable Hamiltonian, showing in particular thatits associated Stieltjes measure is supported on a finite set. From this wededuce that the corresponding moment problem is determined, and that the $k$-thmoment grows like the $k$-th power of a constant as $k$ tends to infinity. Wealso show that the moments satisfy a constant coefficient linear differenceequation, and that this property actually characterizes weakly orthogonalpolynomial systems.

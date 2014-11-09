@@ -1,0 +1,13 @@
+Paper: hep-th/0201219
+
+Date: 2002-01-28
+
+Title: Spectral Asymptotics of Eigen-value Problems with Non-linear Dependence
+
+on the Spectral ParameterAuthors: D.V. Fursaev
+
+Comments: latex, 20 pages
+
+Journal-ref: Class.Quant.Grav. 19 (2002) 3635-3652; Erratum-ibid. 20 (2003) 565
+
+We study asymptotic distribution of eigen-values $\omega$ of a quadraticoperator polynomial of the following form $(\omega^2-L(\omega))\phi_\omega=0$,where $L(\omega)$ is a second order differential positive elliptic operatorwith quadratic dependence on the spectral parameter $\omega$. We deriveasymptotics of the spectral density in this problem and show how to computecoefficients of its asymptotic expansion from coefficients of the asymptoticexpansion of the trace of the heat kernel of $L(\omega)$. The leading term inthe spectral asymptotics is the same as for a Laplacian in a cavity. Theresults have a number of physical applications. We illustrate them by examplesof field equations in external stationary gravitational and gauge backgrounds.

@@ -1,0 +1,11 @@
+Paper: hep-th/9711071
+
+Date: 1997-11-10
+
+Title: A Technique for Calculating Quantum Corrections to Solitons
+
+Authors: Chris Barnes, Neil Turok
+
+Comments: 8 pages, RevTex, 5 figures included. Submitted to Physics Letters B
+
+We present a numerical scheme for calculating the first quantum correctionsto the properties of static solitons. The technique is applicable to solitonsof arbitrary shape, and may be used in 3+1 dimensions for multiskyrmions orother complicated solitons. We report on a test computation in 1+1 dimensions,where we accurately reproduce the analytical result with minimal numericaleffort.

@@ -1,0 +1,13 @@
+Paper: hep-th/0108159
+
+Date: 2001-08-22
+
+Title: Renormalization Group Method Applied to Kinetic Equations
+
+initial values and timeAuthors: Y. Hatta and T. Kunihiro
+
+Comments: The detailed derivations are added to section 5 (fluiddynamical limit
+
+of Boltzmann equation) and to Appendix B (Adiabatic elimination of fastvariables in Fokker-Planck equation) which is moved to the text as a section.Other minor corrections are made all over the text including typosJournal-ref: Annals Phys. 298 (2002) 24-57
+
+The so-called renormalization group (RG) method is applied to derive kineticand transport equations from the respective microscopic equations. The derivedequations include Boltzmann equation in classical mechanics, Fokker-Planckequation, a rate equation in a quantum field theoretical model. Utilizing theformulation of the RG method which elucidates the important role played by thechoice of the initial conditions, the general structure and the underlyingassumptions in the derivation of kinetic equations in the RG method isclarified. It is shown that the present formulation naturally leads to thechoice for the initial value of the microscopic distribution function atarbitrary time $t_0$ to be on the averaged distribution function to bedetermined. The averaged distribution function may be thought as an integralconstant of the solution of microscopic evolution equation; the RG equationgives the slow dynamics of the would-be initial constant, which is actually thekinetic equation governing the averaged distribution function. It is furthershown that the averaging as given above gives rise to a coarse-graining of thetime-derivative which is expressed with the initial time $t_0$, thereby leadsto time-irreversible equations even from a time-reversible equation. It isshown that a further reduction of Boltzmann equation to fluid dynamicalequations and the adiabatic elimination of fast variables in Fokker-Planckequation are also performed in a unified way in the present method.

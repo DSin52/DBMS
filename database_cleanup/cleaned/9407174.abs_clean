@@ -1,0 +1,13 @@
+Paper: hep-th/9407174
+
+Date: 1994-07-26
+
+Title: Differential Equations for Definition and Evaluation of Feynman
+
+IntegralsAuthors: F.A.Lunev
+
+Comments: pages, LaTEX, MSU-PHYS-HEP-Lu2/94
+
+Journal-ref: Phys.Rev. D50 (1994) 6589-6593
+
+It is shown that every Feynman integral can be interpreted as Green functionof some linear differential operator with constant coefficients. Thisdefinition is equivalent to usual one but needs no regularization andapplication of $R$-operation. It is argued that presented formalism isconvenient for practical calculations of Feynman integrals.

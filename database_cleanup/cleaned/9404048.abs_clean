@@ -1,0 +1,13 @@
+Paper: hep-th/9404048
+
+Date: 1994-04-08
+
+Title: $L$-functions in Scattering on $p$-adic Multiloop Surfaces
+
+Authors: L.Chekhov
+
+Comments: 18 pp. in LaTeX, [12pt], Steklov Math. Inst. prepr. #10
+
+Journal-ref: J.Math.Phys. 36 (1995) 414-425
+
+We study scattering processes on $p$-adic multiloop surfaces represented asmultiloop infinite graphs with total valence in each vertex equal $p+1$. Theyall are spaces of the constant negative curvature since they are quotients ofthe $p$-adic hyperbolic plane over free acting discrete subgroup of $PGL(2,{\bf Q}_p)$. Releasing the closed part of this graph containing all loops whichis called reduced graph $T_{red}$ we can obtain $L$-function corresponding tothis closed graph. For the total graph we introduce the notion of the sphericalfunctions being eigenfunctions of the Laplace operator acting on the graph andconsider $s$--wave scattering processes therefore defining scattering matrices$c_i$. The number of possibilities coincides with $|\T_{red}|$ --- the numberof vertices of the reduced graph. Taking the product over all $c_i$ we definethe total scattering matrix which appears to be essentially presented as a$L$ itself depends only on the shape of $\Tr$ and not on the initial infinitegraph, and the only dependence of initial $p$ is contained in arguments$\alpha_\pm$ defined by $p$ and eigenvalue $t$ of the Laplacian. We alsopresent a proof by H.Bass of the theorem expressing $L$--functions on arbitraryfinite graphs via determinants of some local operators on these graphs.

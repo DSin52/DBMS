@@ -1,0 +1,13 @@
+Paper: hep-th/0201075
+
+Date: 2002-01-14
+
+Title: Calculating the Prepotential by Localization on the Moduli Space of
+
+InstantonsAuthors: Timothy J. Hollowood
+
+Comments: 24 pages, JHEP.cls, more references and extra discussion on N_F=2N
+
+caseJournal-ref: JHEP 0203 (2002) 038
+
+We describe a new technique for calculating instanton effects insupersymmetric gauge theories applicable on the Higgs or Coulomb branches. Inthese situations the instantons are constrained and a potential is generated onthe instanton moduli space. Due to existence of a nilpotent fermionic symmetrythe resulting integral over the instanton moduli space localizes on thecritical points of the potential. Using this technology we calculate the one-and two-instanton contributions to the prepotential of SU(N) gauge theory withN=2 supersymmetry and show how the localization approach yields the predictionextracted from the Seiberg-Witten curve. The technique appears to extend toarbitrary instanton number in a tractable way.

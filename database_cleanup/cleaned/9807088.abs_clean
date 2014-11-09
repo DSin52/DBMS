@@ -1,0 +1,13 @@
+Paper: hep-th/9807088
+
+Date: 1998-07-13
+
+Title: Gauge parameter dependence in the background field gauge and the
+
+construction of an invariant chargeAuthors: Rainer Haeussling (1), Elisabeth Kraus (2), Klaus Sibold (1) ((1)
+
+Univ. Leipzig, (2) Univ. Bonn)Comments: 29 pages, LaTeX
+
+Journal-ref: Nucl.Phys. B539 (1999) 691-719
+
+By using the enlarged BRS transformations we control the gauge parameterdependence of Green functions in the background field gauge. We show that it isunavoidable -- also if we consider the local Ward identity -- to introduce thenormalization gauge parameter $\xi_o$, which enters the Green functions ofhigher orders similarly to the normalization point $\kappa$. The dependence ofGreen functions on $\xi_o$ is governed by a further partial differentialequation. By modifying the Ward identity we are able to construct in 1-looporder a gauge parameter independent combination of 2-point vector andbackground vector functions. By explicit construction of the next orders weshow that this combination can be used to construct a gauge parameterindependent RG-invariant charge. However, it is seen that this RG-invariantcharge does not satisfy the differential equation of the normalization gaugeparameter $\xi_o$, and, hence, is not $\xi_o$-independent as required.

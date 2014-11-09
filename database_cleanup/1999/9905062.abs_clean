@@ -1,0 +1,13 @@
+Paper: hep-th/9905062
+
+Date: 1999-05-10
+
+Title: Holomorphic effective potential in general chiral superfield model
+
+Authors: I.L. Buchbinder and A.Yu. Petrov (Department of Theoretical Physics,
+
+Tomsk State Pedagogical University, Tomsk, Russia)Comments: LaTeX, 10 pages
+
+Journal-ref: Phys.Lett. B461 (1999) 209-217
+
+We study a holomorphic effective potential $W_{eff}(\Phi)$ in chiralsuperfield model defined in terms of arbitrary k\"{a}hlerian potential$K(\bar{\Phi},\Phi)$ and arbitrary chiral potential $W(\Phi)$. Such a modelnaturally arises as an ingredient of low-energy limit of superstring theory andit is called here the general chiral superfield model. Generic procedure forcalculating the chiral loop corrections to effective action is developed. Wefind lower two-loop correction in the form $W^{(2)}_{eff}(\Phi)= 6/(4\pi)^4\bar{W}^{'''2}(0){(\frac{W^{''}(\Phi)}{K^2_{\Phi\bar{\Phi}(0,\Phi)}})}^3$ where$K_{\Phi\bar{\Phi}}(0,\Phi)=\frac{\partial^2 K(\bar{\Phi},\Phi)}{\partial\Phi\partial\bar{\Phi}}|_{\bar{\Phi}=0}$ and $\zeta(x)$ be Riemannianzeta-function. This correction is finite at any $K(\bar{\Phi},\Phi), W(\Phi)$.

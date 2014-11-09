@@ -1,0 +1,13 @@
+Paper: hep-th/9912270
+
+Date: 1999-12-29
+
+Title: Yang-Lee Zeros of the Ising model on Random Graphs of Non Planar
+
+TopologyAuthors: Luiz C. de Albuquerque, Nelson A. Alves and D. Dalmazi
+
+Comments: 19 pages, 7 figures ,1 reference and a note added ,To Appear in
+
+Nucl.Phys BJournal-ref: Nucl.Phys. B580 (2000) 739-756
+
+We obtain in a closed form the 1/N^2 contribution to the free energy of thetwo Hermitian N\times N random matrix model with non symmetric quarticpotential. From this result, we calculate numerically the Yang-Lee zeros of the2D Ising model on dynamical random graphs with the topology of a torus up ton=16 vertices. They are found to be located on the unit circle on the complexfugacity plane. In order to include contributions of even higher topologies wecalculated analytically the nonperturbative (sum over all genus) partitionfunction of the model Z_n = \sum_{h=0}^{\infty} \frac{Z_n^{(h)}}{N^{2h}} forthe special cases of N=1,2 and graphs with n\le 20 vertices. Once again theYang-Lee zeros are shown numerically to lie on the unit circle on the complexfugacity plane. Our results thus generalize previous numerical results onrandom graphs by going beyond the planar approximation and strongly indicatethat there might be a generalization of the Lee-Yang circle theorem fordynamical random graphs.

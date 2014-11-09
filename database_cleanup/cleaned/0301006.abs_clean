@@ -1,0 +1,13 @@
+Paper: hep-th/0301006
+
+Date: 2003-01-02
+
+Title: Phases of N=1 Supersymmetric Gauge Theories and Matrices
+
+Authors: Freddy Cachazo, Nathan Seiberg and Edward Witten
+
+Comments: 68 pages. Clarifications and references added. Misprints fixed
+
+Journal-ref: JHEP 0302 (2003) 042
+
+N=1 supersymmetric U(N) gauge theory with adjoint matter $\Phi$ and apolynomial superpotential $\Tr W(\Phi)$ has been much studied recently. Theclassical theory has several vacua labeled by integers $(N_1,N_2,...,N_k)$,with the classical unbroken gauge group $\prod_i U(N_i)$. Quantum mechanically,each classical vacuum leads to $\prod_i N_i$ different vacua. As the parametersof $W(\Phi)$ are varied, these vacua change in a continuous (and holomorphic)fashion. We find that vacua associated with $(N_1,N_2,...,N_k)$ can becontinuously transformed to vacua with $(\tilde N_1,\tilde N_2,...,\tildeN_k)$, thus leading to a new kind of duality. Traditional order parameters,like the Wilson loop and 't Hooft loop, sometimes distinguish different phases.We also find phases that are not distinguished by conventional orderparameters. The whole picture of the phase diagram is reminiscent of the phasediagram of $M$-theory.

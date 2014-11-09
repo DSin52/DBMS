@@ -1,0 +1,11 @@
+Paper: hep-th/0208135
+
+Date: 2002-08-19
+
+Title: Order $1/N^2$ test of the Maldacena conjecture II
+
+one-loop contribution to the boundary Weyl anomalyAuthors: Paul Mansfield, David Nolland and Tatsuya Ueno
+
+Comments: LaTeX, 6pp
+
+We compute the complete bulk one-loop contribution to the Weyl anomaly of theboundary theory for IIB Supergravity compactified on $ AdS_5\times S^5$. Theresult, that $\delta {\cal A}=(E+I)/(2\pi^2)$, reproduces the subleading termin the exact expression ${\cal A}=-(N^2-1)(E+I)/(2\pi^2)$ for the Weyl anomalyof ${\cal N}=4$ Super-Yang-Mills theory, confirming the Maldacena conjecture.The anomaly receives contributions from all multiplets casting doubt on thepossibility of describing the boundary theory beyond leading order in $N$ by aconsistent truncation to the `massless' multiplet of IIB Supergravity.

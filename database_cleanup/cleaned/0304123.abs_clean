@@ -1,0 +1,11 @@
+Paper: hep-th/0304123
+
+Date: 2003-04-12
+
+Title: Quivers via anomaly chains
+
+Authors: Roberto Casero, Enrico Trincherini (Milan Bicocca U.)
+
+Comments: 32 pages, latex; v2
+
+We study quivers in the context of matrix models. We introduce chains ofgeneralized Konishi anomalies to write the quadratic and cubic equations thatconstrain the resolvents of general affine and non-affine quiver gaugetheories, and give a procedure to calculate all higher-order relations. Forthese theories we also evaluate, as functions of the resolvents, VEV's ofchiral operators with two and four bifundamental insertions. As an example ofthe general procedure we explicitly consider the two simplest quivers A2 andA1(affine), obtaining in the first case a cubic algebraic curve, and for theaffine theory the same equation as that of U(N) theories with adjoint matter,successfully reproducing the RG cascade result.

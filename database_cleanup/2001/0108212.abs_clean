@@ -1,0 +1,11 @@
+Paper: hep-th/0108212
+
+Date: 2001-08-28
+
+Title: The critical dimension of bosonic string theory in AdS space-time
+
+Authors: Ian Davies, Paul Mansfield
+
+Comments: LaTeX, 21 pages, 7 eps figures
+
+The Polyakov bosonic string is quantised in Euclidean Anti-de Sitterspace-time using functional methods. Regularisation of the functionaldeterminants using both heat-kernel and zeta function techniques shows that theAdS_{D+1} string reduces to the Liouville field theory, as in the flatspace-time case. A Feynman graph expansion is used to evaluate (approximately)the coefficient multiplying the Liouville action; this then gives the criticaldimension for this space-time as 22 (that is, 21 flat directions plus oneradial direction).

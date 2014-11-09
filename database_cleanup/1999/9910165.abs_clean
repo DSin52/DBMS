@@ -1,0 +1,13 @@
+Paper: hep-th/9910165
+
+Date: 1999-10-21
+
+Title: Effective Energy Approach to Collectively Quantized Systems
+
+Authors: Sergei V. Bashinsky (MIT, LNS)
+
+Comments: 26 pages, 3 figures
+
+Journal-ref: Phys.Rev. D61 (2000) 105003
+
+We generalize effective energy variational techniques to study appropriatelyquantized solitonic field configurations. Our approach rests on collectivequantization ideas and is specifically designed for the numerical evaluation ofsoliton parameters. We employ this method to obtain the one-loop quantumcorrections to the soliton mass and form factor. Special attention is given tothe regularization of the physical observables in the solitonic sector of thetheory. The numerical implementation of the method is demonstrated for a simpleone-dimensional scalar field example.

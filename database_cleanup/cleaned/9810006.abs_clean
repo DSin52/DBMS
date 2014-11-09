@@ -1,0 +1,13 @@
+Paper: hep-th/9810006
+
+Date: 1998-10-01
+
+Title: Non-unitarity in quantum affine Toda theory and perturbed conformal
+
+field theoryAuthors: G. Takacs (INFN Sez. di Bologna), G.M.T. Watts (King's College,
+
+London)Comments: 29 pp, LaTex2e, 6 eps and 1 ps figures
+
+Journal-ref: Nucl.Phys. B547 (1999) 538-568
+
+There has been some debate about the validity of quantum affine Toda fieldtheory at imaginary coupling, owing to the non-unitarity of the action, andconsequently of its usefulness as a model of perturbed conformal field theory.Drawing on our recent work, we investigate the two simplest affine Todatheories for which this is an issue - a2(1) and a2(2). By investigating theS-matrices of these theories before RSOS restriction, we show that quantum Todatheory, (with or without RSOS restriction), indeed has some fundamentalproblems, but that these problems are of two different sorts. For a2(1), thescattering of solitons and breathers is flawed in both classical and quantumtheories, and RSOS restriction cannot solve this problem. For a2(2) however,while there are no problems with breather-soliton scattering there are insteaddifficulties with soliton-excited soliton scattering in the unrestrictedtheory. After RSOS restriction, the problems with kink-excited kink may becured or may remain, depending in part on the choice of gradation, as we foundin [12]. We comment on the importance of regradations, and also on the survivalof R-matrix unitarity and the S-matrix bootstrap in these circumstances.

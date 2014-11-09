@@ -1,0 +1,13 @@
+Paper: hep-th/9510090
+
+Date: 1995-10-13
+
+Title: The interplay between mass, volume, \theta, and <\psibar\psi> in
+
+N-flavor QED_2Authors: J.E. Hetrick (Arizona), Y. Hosotani (Minnesota), and S. Iso (Tokyo)
+
+Comments: LaTeX + 5 figures (4 PS + 1 eepic); uses RevTeX, epsf, eepic
+
+Journal-ref: Phys.Rev. D53 (1996) 7255-7259
+
+The Schwinger model (QED_2) with N flavors of massive fermions on a circle ofcircumference L, or equivalently at finite temperature T, is reduced to aquantum mechanical system of N-1 degrees of freedom. With degenerate fermionmasses (m) the chiral condensate develops a cusp singularity at $\theta=\pm\pi$ in the limit L -> $\infty$ or T -> 0, which is removed by a largeasymmetry in the fermion masses. Physical quantities sensitively depend on theparameter mL or m/T, and the m -> 0 and L -> $\infty$ (or T -> 0) limits do notcommute. A detailed analysis is given for N=3.

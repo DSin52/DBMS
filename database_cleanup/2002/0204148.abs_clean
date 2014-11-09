@@ -1,0 +1,11 @@
+Paper: hep-th/0204148
+
+Date: 2002-04-18
+
+Title: TFT construction of RCFT correlators I
+
+Authors: J\"urgen Fuchs, Ingo Runkel, Christoph Schweigert
+
+Comments: 123 pages, table of contents, several figures. v2
+
+in sections 3.2 and 3.3 stated more explicitly; remark on Brauer groups addedin section 3.5We formulate rational conformal field theory in terms of a symmetric specialFrobenius algebra A and its representations. A is an algebra in the modulartensor category of Moore-Seiberg data of the underlying chiral CFT. Themultiplication on A corresponds to the OPE of boundary fields for a singleboundary condition. General boundary conditions are A-modules, and(generalised) defect lines are A-A-bimodules.The relation with three-dimensional TFT is used to express CFT data, likestructure constants or torus and annulus coefficients, as invariants of linksin three-manifolds. We compute explicitly the ordinary and twisted partitionfunctions on the torus and the annulus partition functions. We prove that theysatisfy consistency conditions, like modular invariance and NIM-rep properties.We suggest that our results can be interpreted in terms of non-commutativegeometry over the modular tensor category of Moore-Seiberg data.

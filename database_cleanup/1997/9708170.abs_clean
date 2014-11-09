@@ -1,0 +1,11 @@
+Paper: hep-th/9708170
+
+Date: 1997-08-29
+
+Title: Symplectic forms in the theory of solitons
+
+Authors: I.M. Krichever, D.H.Phong
+
+Comments: 76 pages, Tex, no figures
+
+We develop a Hamiltonian theory for 2D soliton equations. In particular, weidentify the spaces of doubly periodic operators on which a full hierarchy ofcommuting flows can be introduced, and show that these flows are Hamiltonianwith respect to a universal symplectic form $\omega={1\over 2}\r_{\infty}<\Psi_0^*\delta L\wedge\delta\Psi_0>\d k$. We also construct other higher ordersymplectic forms and compare our formalism with the case of 1D solitons.Restricted to spaces of finite-gap solitons, the universal symplectic formagrees with the symplectic forms which have recently appeared in non-linear WKBtheory, topological field theory, and Seiberg-Witten theories. We take theopportunity to survey some developments in these areas where symplectic formshave played a major role.

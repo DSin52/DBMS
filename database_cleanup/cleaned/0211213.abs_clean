@@ -1,0 +1,11 @@
+Paper: hep-th/0211213
+
+Date: 2002-11-22
+
+Title: Seiberg-Witten Curve for E-String Theory Revisited
+
+Authors: Tohru Eguchi, Kazuhiro Sakai
+
+Comments: 35 pages, 2 figures, LaTeX2e
+
+We discuss various properties of the Seiberg-Witten curve for the E-stringtheory which we have obtained recently in hep-th/0203025. Seiberg-Witten curvefor the E-string describes the low-energy dynamics of a six-dimensional (1,0)SUSY theory when compactified on R^4 x T^2. It has a manifest affine E_8 globalsymmetry with modulus \tau and E_8 Wilson line parameters {m_i},i=1,2,...,8which are associated with the geometry of the rational elliptic surface. Whenthe radii R_5,R_6 of the torus T^2 degenerate R_5,R_6 --> 0, E-string curve isreduced to the known Seiberg-Witten curves of four- and five-dimensional gaugetheories. In this paper we first study the geometry of rational ellipticsurface and identify the geometrical significance of the Wilson lineparameters. By fine tuning these parameters we also study degenerations of ourcurve corresponding to various unbroken symmetry groups. We also find a new wayof reduction to four-dimensional theories without taking a degenerate limit ofT^2 so that the SL(2,Z) symmetry is left intact. By setting some of the Wilsonline parameters to special values we obtain the four-dimensional SU(2)Seiberg-Witten theory with 4 flavors and also a curve by Donagi and Wittendescribing the dynamics of a perturbed N=4 theory.

@@ -1,0 +1,13 @@
+Paper: hep-th/0108170
+
+Date: 2001-08-22
+
+Title: A uniqueness theorem for the adS soliton
+
+Authors: G.J. Galloway, S. Surya, E. Woolgar
+
+Comments: Revtex, 4 pages; Matches published version. More detail in Abstract
+
+and one equation corrected. For details of proofs and further results, seehep-th/0204081Journal-ref: Phys.Rev.Lett. 88 (2002) 101102
+
+The stability of physical systems depends on the existence of a state ofleast energy. In gravity, this is guaranteed by the positive energy theorem.For topological reasons this fails for nonsupersymmetric Kaluza-Kleincompactifications, which can decay to arbitrarily negative energy. For relatedreasons, this also fails for the AdS soliton, a globally static, asymptoticallytoroidal $\Lambda<0$ spacetime with negative mass. Nonetheless, arguing fromthe AdS/CFT correspondence, Horowitz and Myers (hep-th/9808079) proposed a newpositive energy conjecture, which asserts that the AdS soliton is the uniquestate of least energy in its asymptotic class. We give a new structure theoremfor static $\Lambda<0$ spacetimes and use it to prove uniqueness of the AdSsoliton. Our results offer significant support for the new positive energyconjecture and add to the body of rigorous results inspired by the AdS/CFTcorrespondence.

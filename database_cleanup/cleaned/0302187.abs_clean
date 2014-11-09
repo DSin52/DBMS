@@ -1,0 +1,11 @@
+Paper: hep-th/0302187
+
+Date: 2003-02-24
+
+Title: Schr\"odinger invariance and space-time symmetries
+
+Authors: Malte Henkel and Jeremie Unterberger
+
+Comments: Latex2e, 27 pages, 3 figures
+
+The free Schr\"odinger equation with mass M can be turned into a non-massiveKlein-Gordon equation via Fourier transformation with respect to M. Thekinematic symmetry algebra sch_d of the free d-dimensional Schr\"odingerequation with M fixed appears therefore naturally as a parabolic subalgebra ofthe complexified conformal algebra conf_d+2 in d+2 dimensions. The explicitclassification of the parabolic subalgebras of conf_3 yields physicallyinteresting dynamic symmetry algebras. This allows us to propose a new dynamicsymmetry group relevant for the description of ageing far from thermalequilibrium, with a dynamical exponent z=2. The Ward identities resulting fromthe invariance under conf_d+2 and its parabolic subalgebras are derived and thecorresponding free-field energy-momentum tensor is constructed. We also derivethe scaling form and the causality conditions for the two- and three-pointfunctions and their relationship with response functions in the context ofMartin-Siggia-Rose theory.

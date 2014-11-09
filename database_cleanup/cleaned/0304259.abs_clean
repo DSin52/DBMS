@@ -1,0 +1,11 @@
+Paper: hep-th/0304259
+
+Date: 2003-04-30
+
+Title: Tadpoles and Closed String Backgrounds in Open String Field Theory
+
+Authors: Ian Ellwood (MIT), Jessie Shelton (MIT), Washington Taylor (MIT)
+
+Comments: 51 pages, 11 eps figures, Latex
+
+We investigate the quantum structure of Witten's cubic open bosonic stringfield theory by computing the one-loop contribution to the open string tadpoleusing both oscillator and conformal field theory methods. We find divergencesand a breakdown of BRST invariance in the tadpole diagram arising fromtachyonic and massless closed string states, and we discuss ways of treatingthese problems. For a Dp-brane with sufficiently many transverse dimensions,the tadpole can be rendered finite by analytically continuing the closed stringtachyon by hand; this diagram then naturally incorporates the (linearized)shift of the closed string background due to the presence of the brane. Weobserve that divergences at higher loops will doom any straightforward attemptat analyzing general quantum effects in bosonic open string field theory on aDp-brane of any dimension, but our analysis does not uncover any potentialobstacles to the existence of a sensible quantum open string field theory inthe supersymmetric case.

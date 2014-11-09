@@ -1,0 +1,9 @@
+Paper: hep-th/9604180
+
+Date: 1996-04-29
+
+Title: The Quantum Gauge Principle
+
+Comments: 10 pages (Latex); AMS fonts, dina4p.sty and citesort.sty are needed
+
+We consider the evolution of quantum fields on a classical backgroundspace-time, formulated in the language of differential geometry. Time evolutionalong the worldlines of observers is described by parallel transport operatorsin an infinite-dimensional vector bundle over the space-time manifold. The timeevolution equation and the dynamical equations for the matter fields areinvariant under an arbitrary local change of frames along the restriction ofthe bundle to the worldline of an observer, thus implementing a ``quantum gaugeprinciple''. We derive dynamical equations for the connection and a complexscalar quantum field based on a gauge field action. In the limit of vanishingcurvature of the vector bundle, we recover the standard equation of motion of ascalar field in a curved background space-time.

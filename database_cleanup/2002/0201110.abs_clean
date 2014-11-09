@@ -1,0 +1,13 @@
+Paper: hep-th/0201110
+
+Date: 2002-01-15
+
+Title: Quantum Field Theory with Extra Dimensions
+
+Authors: Laurent Baulieu
+
+Comments: Latex file
+
+Journal-ref: Les Houches Proceedings, August 2001
+
+We explain that a bulk with arbitrary dimensions can be added to the spaceover which a quantum field theory is defined. This gives a TQFT such that itscorrelation functions in a slice are the same as those of the original quantumfield theory. This generalizes the stochastic quantization scheme, where thebulk is one dimensional.

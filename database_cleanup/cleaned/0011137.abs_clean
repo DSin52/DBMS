@@ -1,0 +1,13 @@
+Paper: hep-th/0011137
+
+Date: 2000-11-15
+
+Title: Generating All Wigner Functions
+
+Authors: Thomas Curtright, Tsuneo Uematsu, and Cosmas Zachos
+
+Comments: LaTex2e, 21 pages
+
+Statistics and ProbabilityJournal-ref: J.Math.Phys. 42 (2001) 2396
+
+In the context of phase-space quantization, matrix elements and observablesresult from integration of c-number functions over phase space, with Wignerfunctions serving as the quasi-probability measure. The complete sets of Wignerfunctions necessary to expand all phase-space functions include off-diagonalWigner functions, which may appear technically involved. Nevertheless, it isshown here that suitable generating functions of these complete sets can oftenbe constructed, which are relatively simple, and lead to compact evaluations ofmatrix elements. New features of such generating functions are detailed andexplored for integer-indexed sets, such as for the harmonic oscillator, as wellas continuously indexed ones, such as for the linear potential and theLiouville potential. The utility of such generating functions is illustrated inthe computation of star functions, spectra, and perturbation theory in phasespace.

@@ -1,0 +1,9 @@
+Paper: hep-th/9706189
+
+Date: 1997-06-26
+
+Title: The Dirac Operator over Abelian Finite Groups
+
+Comments: 15 pages, LaTeX 2e, amsmath and amssymb packages
+
+In this paper we show how to construct a Dirac operator on a lattice incomplete analogy with the continuum. In fact we consider a more generalproblem, that is, the Dirac operator over an abelian finite group (for which alattice is a particular example). Our results appear to be in direct connexionwith the so called fermion doubling problem. In order to find this Diracoperator we need to introduce an algebraic structure (that generalizes theClifford algebras) where we have quantities that work as square-root of thetranslation operator. Quantities like these square-roots have been usedrecently in order to provide an approach to fermions on the lattice that isfree from doubling and has chiral invariance in the massless limit, and ourstudies seem to give a mathematical basis to it.

@@ -1,0 +1,13 @@
+Paper: hep-th/0104110
+
+Date: 2001-04-11
+
+Title: Superstring BRST Cohomology
+
+Authors: Friedemann Brandt, Alexander Kling, Maximilian Kreuzer
+
+Comments: LaTeX2e, 44 pages, minor corrections
+
+Journal-ref: JHEP 0108 (2001) 023
+
+We first derive all world-sheet action functionals for NSR superstring modelswith (1,1) supersymmetry and any number of abelian gauge fields, for gaugetransformations of the standard form. Then we prove for these models that theBRST cohomology groups $H^g(s)$, $g<4$ (with the antifields taken into account)are isomorphic to those of the corresponding bosonic string models, whosecohomology is fully known. This implies that the nontrivial global symmetries,Noether currents, background charges, consistent deformations and candidategauge anomalies of an NSR (1,1) superstring model are in one-to-onecorrespondence with their bosonic counterparts.

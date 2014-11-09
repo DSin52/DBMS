@@ -1,0 +1,13 @@
+Paper: hep-th/9606068
+
+Date: 1996-06-12
+
+Title: Null-vectors in Integrable Field Theory
+
+Authors: O. Babelon, D. Bernard, F.A. Smirnov
+
+Comments: 36 pages, Latex
+
+Journal-ref: Commun.Math.Phys. 186 (1997) 601-648
+
+The form factor bootstrap approach allows to construct the space of localfields in the massive restricted sine-Gordon model. This space has to beisomorphic to that of the corresponding minimal model of conformal fieldtheory. We describe the subspaces which correspond to the Verma modules ofprimary fields in terms of the commutative algebra of local integrals of motionand of a fermion (Neveu-Schwarz or Ramond depending on the particular primaryfield). The description of null-vectors relies on the relation between formfactors and deformed hyper-elliptic integrals. The null-vectors correspond tothe deformed exact forms and to the deformed Riemann bilinear identity. In theoperator language, the null-vectors are created by the action of two operators$\CQ$ (linear in the fermion) and $\CC$ (quadratic in the fermion). We showthat by factorizing out the null-vectors one gets the space of operators withthe correct character. In the classical limit, using the operators $\CQ$ and$\CC$ we obtain a new, very compact, description of the KdV hierarchy. We alsodiscuss a beautiful relation with the method of Whitham.

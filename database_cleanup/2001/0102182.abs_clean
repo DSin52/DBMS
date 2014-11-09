@@ -1,0 +1,11 @@
+Paper: hep-th/0102182
+
+Date: 2001-02-26
+
+Title: Noncommutative instantons
+
+Authors: Albert Schwarz
+
+Journal-ref: Commun.Math.Phys. 221 (2001) 433-450
+
+We discuss instantons on noncommutative four-dimensional Euclidean space. Incommutative case one can consider instantons directly on Euclidean space, thenwe should restrict ourselves to the gauge fields that are gauge equivalent tothe trivial field at infinity. However, technically it is more convenient towork on four-dimensional sphere.We will show that the situation in noncommutative case is quite similar. Onecan analyze instantons taking as a starting point the algebra of smoothfunctions vanishing at infinity, but it is convenient to add a unit element tothis algebra (this corresponds to a transition to a sphere at the level oftopology). Our approach is more rigorous than previous considerations ; itseems that it is also simpler and more transparent. In particular, we obtainthe ADHM equations in a very simple way.

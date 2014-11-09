@@ -1,0 +1,11 @@
+Paper: hep-th/9706205
+
+Date: 1997-06-27
+
+Title: A Diffeomorphism-Invariant Cut-Off Regularization of the Determinant of
+
+a Scalar Particle in a Euclidean Gravitational FieldAuthors: Paul Federbush (University of Michigan)
+
+Comments: 15 pages, LaTeX
+
+Continuing the thrust of our recent work, but with an important new idea, wefind a cut-off regularization of the determinant of a scalar particle in aclassical Euclidean gravitational field. The field is assumed asymptoticallyflat, and the regularization is diffeomorphism-invariant under coordinatechanges that are the identity at infinity. The scalar field is expanded in termof variables that depend on the gravitational field, with wavelet localizationof each variable. A renormalization group structure is thus automaticallypresent. A similar construction is carried out for the determinant of a scalarfield in a background Yang-Mills field.

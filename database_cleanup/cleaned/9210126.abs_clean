@@ -1,0 +1,13 @@
+Paper: hep-th/9210126
+
+Date: 1992-10-23
+
+Title: A Multi-Grid Method for the Resolution of Thermodynamic Bethe Ansatz
+
+EquationsAuthors: A. Borzi, A.Koubek
+
+Comments: SISSA-123/92/FM, 15pp
+
+Journal-ref: Comput.Phys.Commun. 74 (1993) 118-126; Comput.Phys.Commun. 75
+
+(1993) 118-126We present a multi-grid algorithm in order to solve numerically thethermodynamic Bethe ansatz equations. We specifically adapt the program tocompute the data of the conformal field theory reached in the ultravioletlimit. Submitted to Computer Physics Communications

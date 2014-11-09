@@ -1,0 +1,13 @@
+Paper: hep-th/9811157
+
+Date: 1998-11-16
+
+Title: Implicit Regularisation Technique
+
+$\phi^4_4$-theory $\beta$-functionAuthors: A.Brizola, O.A.Battistel, Marcos Sampaio, M.C.Nemes (UFMG-Brazil)
+
+Comments: 7 pages, LaTeX, 2 figures (eps), Text reorganised and new reference
+
+Journal-ref: Mod.Phys.Lett. A14 (1999) 1509-1518
+
+We propose an implicit regularisation scheme. The main advantage is thatsince no explicit use of a regulator is made, one can in principle avoidundesirable symmetry violations related to its choice. The divergent amplitudesare split into basic divergent integrals which depend only on the loop momentaand finite integrals. The former can be absorbed by a renormalisation procedurewhereas the latter can be evaluated without restrictions. We illustrate withthe calculation of the $QED$ and $\phi^4_4$-theory $\beta$-function to one andtwo-loop order, respectively.

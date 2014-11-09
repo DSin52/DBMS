@@ -1,0 +1,11 @@
+Paper: hep-th/0108128
+
+Date: 2001-08-17
+
+Title: Yang-Mills Matrix Theory
+
+Authors: Peter Austing
+
+Comments: PhD thesis, 78 pages, reference added
+
+We discuss bosonic and supersymmetric Yang-Mills matrix models with compactsemi-simple gauge group. We begin by finding convergence conditions for thepartition and correlation functions. Moving on, we specialise to the SU(N)models with large N. In both the Yang-Mills and cohomological formulations, wefind all quantities which are invariant under the supercharges. Finally, weapply the deformation method of Moore, Nekrasov and Shatashvili directly to theYang-Mills model. We find a deformation of the action which generates massterms for all the matrix fields whilst preserving some supersymmetry. Thisallows us to rigorously integrate over a BRST quartet and arrive at the wellknown formula of MNS.

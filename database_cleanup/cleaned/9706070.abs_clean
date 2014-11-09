@@ -1,0 +1,13 @@
+Paper: hep-th/9706070
+
+Date: 1997-06-10
+
+Title: Non-perturbative regularization and renormalization
+
+from non-relativistic quantum mechanicsAuthors: Daniel R. Phillips, Silas R. Beane, and Thomas D. Cohen (University of
+
+Maryland)Comments: 19 pages, LaTeX, uses epsf.tex
+
+Journal-ref: Annals Phys. 263 (1998) 255-275
+
+We examine several zero-range potentials in non-relativistic quantummechanics. The study of such potentials requires regularization andrenormalization. We contrast physical results obtained using dimensionalregularization and cutoff schemes and show explicitly that in certain casesdimensional regularization fails to reproduce the results obtained using cutoffregularization. First we consider a delta-function potential in arbitrary spacedimensions. Using cutoff regularization we show that for $d \ge 4$ therenormalized scattering amplitude is trivial. In contrast, dimensionalregularization can yield a nontrivial scattering amplitude for odd dimensionsgreater than or equal to five. We also consider a potential consisting of adelta function plus the derivative-squared of a delta function in threedimensions. We show that the renormalized scattering amplitudes obtained usingthe two regularization schemes are different. Moreover we find that in thecutoff-regulated calculation the effective range is necessarily negative in thelimit that the cutoff is taken to infinity. In contrast, in dimensionalregularization the effective range is unconstrained. We discuss how thesediscrepancies arise from the dimensional regularization prescription that allpower-law divergences vanish. We argue that these results demonstrate thatdimensional regularization can fail in a non-perturbative setting.

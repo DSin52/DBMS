@@ -1,0 +1,13 @@
+Paper: hep-th/0002028
+
+Date: 2000-02-03
+
+Title: On the nonlinear KK reductions on spheres of supergravity theories
+
+Authors: Horatiu Nastase and Diana Vaman (YITP Stony Brook)
+
+Comments: 26 pages, latex, no figures, references added, typos corrected
+
+Journal-ref: Nucl.Phys. B583 (2000) 211-236
+
+We address some issues related to the construction of general Kaluza-Klein(KK) ans\"atze for the compactification of a supergravity (sugra) theory on asphere $S_m$. We first reproduce various ans\"atze for compactification to 7dfrom the ansatz for the full nonlinear KK reduction of 11d sugra on$AdS_7\times S_4$. As a side result, we obtain a lagrangian formulation of 7d${\cal N}=2$ gauged sugra, which so far had only a on-shell formulation,through field equations and constraints. The $AdS_7\times S_4$ ansatzgeneralizes therefore all previous sphere compactifications to 7d. Then weconsider the case when the scalars in the lower dimensional theory are in acoset $Sl(m+1)/SO(m+1)$, and we keep the maximal gauge group $SO(m+1)$. The11-dimensional sugra truncated on $S_4$ fits precisely the case underconsideration, and serves as a model for our construction. We find that themetric ansatz has a universal expression, with the internal space deformed bythe scalar fluctuations to a conformally rescaled ellipsoid. We also find theansatz for the dependence of the antisymmetric tensor on the scalars. Wecomment on the fermionic ansatz, which will contain a matrix $U$ interpolatingbetween the spinorial $SO(m+1)$ indices of the spherical harmonics and the$R$-symmetry indices of the fermionic fields in the lower dimensional sugratheory. We derive general conditions which the matrix $U$ has to satisfy and wegive a formula for the vielbein in terms of $U$. As an application of ourmethods we obtain the full ansatz for the metric and vielbein for 10d sugra on$AdS_5\times S_5$ (with no restriction on any fields).

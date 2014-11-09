@@ -1,0 +1,13 @@
+Paper: hep-th/9605225
+
+Date: 1996-05-31
+
+Title: Gravitational Quantum Cohomology
+
+Authors: Tohru Eguchi, Kentaro Hori and Chuan-Sheng Xiong
+
+Comments: 41 pages, LaTeX, one figure
+
+Journal-ref: Int.J.Mod.Phys. A12 (1997) 1743-1782
+
+We discuss how the theory of quantum cohomology may be generalized to``gravitational quantum cohomology'' by studying topological sigma modelscoupled to two-dimensional gravity. We first consider sigma models defined on ageneral Fano manifold $M$ (manifold with a positive first Chern class) andderive new recursion relations for its two point functions. We then derivebi-Hamiltonian structures of the theories and show that they are completelyintegrable at least at the level of genus $0$. We next consider the subspace ofthe phase space where only a marginal perturbation (with a parameter $t$) isturned on and construct Lax operators (superpotentials) $L$ whose residueintegrals reproduce correlation functions. In the case of $M=CP^N$ the Laxoperator is given by $L= Z_1+Z_2+\cdots +Z_N+e^tZ_1^{-1}Z_2^{-1}\cdotsZ_N^{-1}$ and agrees with the potential of the affine Toda theory of the $A_N$type. We also obtain Lax operators for various Fano manifolds; Grassmannians,rational surfaces etc. In these examples the number of variables of the Laxoperators is the same as the dimension of the original manifold. Our resultshows that Fano manifolds exhibit a new type of mirror phenomenon where mirrorpartner is a non-compact Calabi-Yau manifold of the type of an algebraic torus$C^{*N}$ equipped with a specific superpotential.

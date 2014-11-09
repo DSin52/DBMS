@@ -1,0 +1,13 @@
+Paper: hep-th/9312210
+
+Date: 1993-12-31
+
+Title: Generalized Kazakov-Migdal-Kontsevich Model
+
+Authors: S.Kharchev, A.Marshakov, A.Mironov, A.Morozov
+
+Comments: 29 pages, UUITP-10/93, FIAN/TD-07/93, ITEP-M4/93
+
+SystemsJournal-ref: Int. J. Mod. Phys. A10 (1995) 2015
+
+The Kazakov-Migdal model, if considered as a functional of external fields,can be always represented as an expansion over characters of $GL$ group. Theintegration over "matter fields" can be interpreted as going over the {\itmodel} (the space of all highest weight representations) of $GL$. In the caseof compact unitary groups the integrals should be substituted by {\it discrete}sums over weight lattice. The $D=0$ version of the model is the GeneralizedKontsevich integral, which in the above-mentioned unitary (discrete) situationcoincides with partition function of the $2d$ Yang-Mills theory with the targetspace of genus $g=0$ and $m=0,1,2$ holes. This particular quantity is always abilinear combination of characters and appears to be a Toda-lattice$\tau$-function. (This is generalization of the classical statement thatindividual $GL$ characters are always singular KP $\tau$-functions.) Thecorresponding element of the Universal Grassmannian is very simple and somewhatsimilar to the one, arising in investigations of the $c=1$ string models.However, under certain circumstances the formal sum over representations shouldbe evaluated by steepest descent method and this procedure leads to some morecomplicated elements of Grassmannian. This "Kontsevich phase" as opposed to thesimple "character phase" deserves further investigation.

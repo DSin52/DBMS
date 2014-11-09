@@ -1,0 +1,13 @@
+Paper: hep-th/9905192
+
+Date: 1999-05-26
+
+Title: Direct Algebraic Restoration of Slavnov-Taylor Identities in the Abelian
+
+Higgs-Kibble ModelAuthors: Ruggero Ferrari (1), Pietro Antonio Grassi (2), Andrea Quadri (1) ((1)
+
+Milan Univ., (2) Max-Planck-Inst. Munich)Comments: 10 pages, Latex and packages amsfonts, amssymb and amsthm
+
+Journal-ref: Phys.Lett. B472 (2000) 346-356
+
+A purely algebraic method is devised in order to recover Slavnov-Tayloridentities (STI), broken by intermediate renormalization. The counterterms areevaluated order by order in terms of finite amplitudes computed at zeroexternal momenta. The evaluation of the breaking terms of the STI is avoidedand their validity is imposed directly on the vertex functional. The method isapplied to the abelian Higgs-Kibble model. An explicit mass term for the gaugefield is introduced, in order to check the relevance of nilpotency. We showthat, since there are no anomalies, the imposition of the STI turns out to beequivalent to the solution of a linear problem. The presence of ST invariantsimplies that there are many possible solutions, corresponding to differentnormalization conditions. Moreover, we find more equations than unknowns(over-determined problem). This leads us to the consideration of consistencyconditions, that must be obeyed if the restoration of STI is possible.

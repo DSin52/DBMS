@@ -1,0 +1,11 @@
+Paper: hep-th/0212152
+
+Date: 2002-12-13
+
+Title: Non-perturbative approach for the time-dependent symmetry breaking
+
+Authors: Hyeong-Chan Kim and Jae Hyung Yee
+
+Comments: 8 pages, 3 figures
+
+We present a variational method which uses a quartic exponential function asa trial wave-function to describe time-dependent quantum mechanical systems. Weintroduce a new physical variable $y$ which is appropriate to describe theshape of wave-packet, and calculate the effective action as a function of boththe dispersion $\sqrt{< \hat{q}^2>}$ and $y$. The effective potentialsuccessfully describes the transition of the system from the false vacuum tothe true vacuum. The present method well describes the long time evolution ofthe wave-function of the system after the symmetry breaking, which is shown incomparison with the direct numerical computations of wave-function.

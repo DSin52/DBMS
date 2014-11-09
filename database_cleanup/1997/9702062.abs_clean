@@ -1,0 +1,11 @@
+Paper: hep-th/9702062
+
+Date: 1997-02-07
+
+Title: Pedagogical Introduction to Hamiltonian BRST formalism
+
+Authors: Naohisa Ogawa
+
+Comments: 8 pages, No figures, Latex, One small mistake of equation has been
+
+repaired from the first versionHamiltonian BRST formalism (FV formalism) includes many auxiliary fieldswithout explanation. Its path-integration has a simple form by using BRSTcharge, but its construction is quite mechanically and hard to understandphysical meaning. In this paper we perform the phase space path-integral withrequiring BRST invariance for action and measure, and show that the resultantform is equivalent to the Hamiltonian BRST (FV) formalism in gravitationaltheory. This explains why so many auxiliary fields are necessary to beintroduced. We also find the gauge fixing is automatically done by requiringthe BRST invariance of the path-integral measure. This is a pedagogicalintroduction to Hamiltonian BRST formalism.

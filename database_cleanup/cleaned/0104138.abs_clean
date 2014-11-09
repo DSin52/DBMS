@@ -1,0 +1,13 @@
+Paper: hep-th/0104138
+
+Date: 2001-04-17
+
+Title: On free energy of 2-d black hole in bosonic string theory
+
+Authors: V.A. Kazakov and A.A. Tseytlin
+
+Comments: 25 pages, lanlmac
+
+Journal-ref: JHEP 0106 (2001) 021
+
+Trying to interpret recent matrix model results (hep-th/0101011) we discusscomputation of classical free energy of exact dilatonic 2-d black hole from theeffective action of string theory. The euclidean space-time action evaluated onthe black hole background is divergent due to linear dilaton vacuumcontribution, and its finite part depends on a subtraction procedure. Thethermodynamic approach based on subtracting the vacuum contribution for fixedvalues of temperature and dilaton charge at the "wall" gives (as in theleading-order black hole case) S= M/T for the entropy and zero value for thefree energy F. We suggest that in order to establish a correspondence with anon-vanishing matrix model result for F one may need an alternativereparametrization-invariant subtraction procedure using analogy withnon-critical string theory (i.e. replacing the spatial coordinate by thedilaton field). The subtraction of the dilaton divergence then produces afinite value for the free energy. We also propose a microscopic estimate forthe entropy and energy of the black hole based on the contribution ofnon-singlet states of the matrix model.

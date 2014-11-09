@@ -1,0 +1,13 @@
+Paper: hep-th/9612165
+
+Date: 1996-12-16
+
+Title: Observing Quantum Tunneling in Perturbation Series
+
+Authors: Hiroshi Suzuki and Hirofumi Yasuta (Ibaraki University)
+
+Comments: 12 pages, 2 figures. Phyzzx, Tables.tex, The final version to appear
+
+in Phys. Lett. BJournal-ref: Phys.Lett. B400 (1997) 341-345
+
+We apply Borel resummation method to the conventional perturbation series ofground state energy in a metastable potential, $V(x)=x^2/2-gx^4/4$. We observenumerically that the discontinuity of Borel transform reproduces the imaginarypart of energy eigenvalue, i.e., total decay width due to the quantumtunneling. The agreement with the exact numerical value is remarkable in thewhole tunneling regime $0<g\lsim0.7$.

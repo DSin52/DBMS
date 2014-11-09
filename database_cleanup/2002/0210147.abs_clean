@@ -1,0 +1,11 @@
+Paper: hep-th/0210147
+
+Date: 2002-10-16
+
+Title: Icosahedral Skyrmions
+
+Authors: Richard Battye, Conor Houghton and Paul Sutcliffe
+
+Comments: 15 pages, including 4 figures
+
+In this paper we aim to determine the baryon numbers at which the minimalenergy Skyrmion has icosahedral symmetry. By comparing polyhedra which arise asminimal energy Skyrmions with the dual of polyhedra that minimize the energy ofCoulomb charges on a sphere, we are led to conjecture a sequence of magicbaryon numbers, B=7,17,37,67,97,... at which the minimal energy Skyrmion hasicosahedral symmetry and unusually low energy. We present evidence for thisconjecture by applying a simulated annealing algorithm to compute energyminimizing rational maps for all degrees upto 40. Further evidence is providedby the explicit construction of icosahedrally symmetric rational maps ofdegrees 37, 47, 67 and 97. To calculate these maps we introduce two new methodsfor computing rational maps with Platonic symmetries.

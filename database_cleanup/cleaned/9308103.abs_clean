@@ -1,0 +1,13 @@
+Paper: hep-th/9308103
+
+Date: 1993-08-20
+
+Title: Statistical Mechanics of Kinks in (1+1)-Dimensions
+
+Simulations and Double Gaussian ApproximationAuthors: Francis J. Alexander, Salman Habib, and Alex Kovner
+
+Comments: 28 pages (8 Figures not included, hard-copies available), Latex,
+
+LA-UR-93-2765Journal-ref: Phys.Rev. E48 (1993) 4284-4296
+
+We investigate the thermal equilibrium properties of kinks in a classical$\F^4$ field theory in $1+1$ dimensions. From large scale Langevin simulationswe identify the temperature below which a dilute gas description of kinks isvalid. The standard dilute gas/WKB description is shown to be remarkablyaccurate below this temperature. At higher, ``intermediate'' temperatures,where kinks still exist, this description breaks down. By introducing a doubleGaussian variational ansatz for the eigenfunctions of the statistical transferoperator for the system, we are able to study this region analytically. Inparticular, our predictions for the number of kinks and the correlation lengthare in agreement with the simulations. The double Gaussian prediction for thecharacteristic temperature at which the kink description ultimately breaks downis also in accord with the simulations. We also analytically calculate theinternal energy and demonstrate that the peak in the specific heat near thekink characteristic temperature is indeed due to kinks. In the neighborhood ofthis temperature there appears to be an intricate energy sharing mechanismoperating between nonlinear phonons and kinks.

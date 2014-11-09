@@ -1,0 +1,11 @@
+Paper: hep-th/0210015
+
+Date: 2002-10-02
+
+Title: Conformal Field Theories of Stochastic Loewner Evolutions
+
+Authors: Michel Bauer and Denis Bernard
+
+Comments: 38 pages, 3 figures, to appear in Commun. Math. Phys
+
+Physics; Statistical MechanicsStochastic Loewner evolutions (SLE) are random growth processes of sets,called hulls, embedded in the two dimensional upper half plane. We elaborateand develop a relation between SLE evolutions and conformal field theories(CFT) which is based on a group theoretical formulation of SLE processes and onthe identification of the proper hull boundary states. This allows us to definean infinite set of SLE zero modes, or martingales, whose existence is aconsequence of the existence of a null vector in the appropriate Virasoromodules. This identification leads, for instance, to linear systems forgeneralized crossing probabilities whose coefficients are multipoint CFTcorrelation functions. It provides a direct link between conformal correlationfunctions and probabilities of stopping time events in SLE evolutions. We pointout a relation between SLE processes and two dimensional gravity and conjecturea reconstruction procedure of conformal field theories from SLE data.

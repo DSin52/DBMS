@@ -1,0 +1,13 @@
+Paper: hep-th/0111192
+
+Date: 2001-11-21
+
+Title: On the Invariance of Residues of Feynman Graphs
+
+Authors: Isabella Bierenbaum, Richard Kreckel, Dirk Kreimer
+
+Comments: 24 pages, latex generated figures. Minor changes in revised version
+
+Journal-ref: J.Math.Phys. 43 (2002) 4721-4740
+
+We use simple iterated one-loop graphs in massless Yukawa theory and QED tounder a permutation of places to insert subdivergences. The investigationweight transcendental is invariant under such a permutation. For QED thisresult is gauge invariant, ie the permutation invariance holds for any gauge.Computations are done making use of the Hopf algebra structure of graphs andemploying GiNaC to automate the calculations.

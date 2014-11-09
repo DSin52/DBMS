@@ -1,0 +1,13 @@
+Paper: hep-th/9406029
+
+Date: 1994-06-06
+
+Title: Back Reaction of Strings in Self-Consistent String Cosmology
+
+Authors: H.J.de Vega and N. S\'anchez
+
+Comments: 29 pages, revtex, LPTHE-94-21
+
+Journal-ref: Phys.Rev. D50 (1994) 7202-7215
+
+We compute the string energy-momentum tensor and {\bf derive} the stringequation of state from exact string dynamics in cosmological spacetimes.$1+1,~2+1$ and $D$-dimensional universes are treated for any expansion factor$R$. Strings obey the perfect fluid relation $ p = (\gamma -1) \rho $ withgrowing energy density $ \rho \sim R^{2-D} $, {\bf negative} pressure, and $\gamma =(D-2)/(D-1) $; (ii){\it Dual} for $ R \to 0 $, with $ \rho \sim R^{-D}$, {\bf positive} pressure and $\gamma = D/(D-1) $ (as radiation); (iii) {\itStable} for $ R \to \infty $ with $ \rho \sim R^{1-D} $, {\bf vanishing}pressure and $\gamma = 1 $ (as cold matter). We find the back reaction effectof these strings on the spacetime and we take into account the quantum stringdecay through string splitting. This is achieved by considering {\bfself-consistently} the strings as matter sources for the Einstein equations, aswell as for the complete effective string equations. String splittingexponentially suppress the density of unstable strings for large $R$. Theself-consistent solution to the Einstein equations for string dominateduniverses exhibits the realistic matter dominated behaviour $ R \sim(X^0)^{2/(D-1)}\; $ for large times and the radiation dominated behaviour $ R\sim (X^0)^{2/D}\; $ for early times. De Sitter universe does not emerge assolution of the effective string equations. The effective string action(whatever be the dilaton, its potential and the central charge term) is not theappropriate framework in which to address the question of string driveninflation.

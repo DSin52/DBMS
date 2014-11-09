@@ -1,0 +1,11 @@
+Paper: hep-th/0204081
+
+Date: 2002-04-09
+
+Title: On the Geometry and Mass of Static, Asymptotically AdS Spacetimes, and
+
+the Uniqueness of the AdS SolitonAuthors: G.J. Galloway, S. Surya, E. Woolgar
+
+Comments: Accepted version, Commun Math Phys; Added Remark IV.3 and supporting
+
+material dealing with non-uniqueness arising from choice of special cycle onthe boundary at infinity; 2 new citations added; LaTeX 27 pagesWe prove two theorems, announced in hep-th/0108170, for static spacetimesthat solve Einstein's equation with negative cosmological constant. The firstis a general structure theorem for spacetimes obeying a certain convexitycondition near infinity, analogous to the structure theorems of Cheeger andGromoll for manifolds of non-negative Ricci curvature. For spacetimes withRicci-flat conformal boundary, the convexity condition is associated withnegative mass. The second theorem is a uniqueness theorem for the negative massAdS soliton spacetime. This result lends support to the new positive massconjecture due to Horowitz and Myers which states that the unique lowest masssolution which asymptotes to the AdS soliton is the soliton itself. Thisconjecture was motivated by a nonsupersymmetric version of the AdS/CFTcorrespondence. Our results add to the growing body of rigorous mathematicalresults inspired by the AdS/CFT correspondence conjecture. Our techniquesexploit a special geometric feature which the universal cover of the solitonspacetime shares with familiar ``ground state'' spacetimes such as Minkowskispacetime, namely, the presence of a null line, or complete achronal nullgeodesic, and the totally geodesic null hypersurface that it determines. Enroute, we provide an analysis of the boundary data at conformal infinity forthe Lorentzian signature static Einstein equations, in the spirit of theFefferman-Graham analysis for the Riemannian signature case. This leads us togeneralize to arbitrary dimension a mass definition for static asymptoticallyAdS spacetimes given by Chru\'sciel and Simon. We prove equivalence of thismass definition with those of Ashtekar-Magnon and Hawking-Horowitz.

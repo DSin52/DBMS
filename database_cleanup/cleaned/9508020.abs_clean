@@ -1,0 +1,9 @@
+Paper: hep-th/9508020
+
+Date: 1995-08-04
+
+Title: The Kazhdan-Lusztig conjecture for W-algebras
+
+Comments: uuencoded file, 29 pages latex, 5 figures
+
+The main result in this paper is the character formula for arbitraryirreducible highest weight modules of W algebras. The key ingredient is thefunctor provided by quantum Hamiltonian reduction, that constructs the Walgebras from affine Kac-Moody algebras and in a similar fashion W modules fromKM modules. Assuming certain properties of this functor, the W characters aresubsequently derived from the Kazhdan-Lusztig conjecture for KM algebras. Theresult can be formulated in terms of a double coset of the Weyl group of the KMand the Kazhdan-Lusztig polynomials give the multiplicities in the characters.

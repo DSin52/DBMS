@@ -1,0 +1,13 @@
+Paper: hep-th/0010293
+
+Date: 2000-10-31
+
+Title: Vertex Algebras, Mirror Symmetry, And D-Branes
+
+Authors: Anton Kapustin, Dmitri Orlov
+
+Comments: 70 pages, AMS Latex. v2
+
+been filled, and a proof of the "Borcherds formulas" has been addedJournal-ref: Commun.Math.Phys. 233 (2003) 79-136
+
+A vertex algebra is an algebraic counterpart of a two-dimensional conformalfield theory. We give a new definition of a vertex algebra which includeschiral algebras as a special case, but allows for fields which are neithermeromorphic nor anti-meromorphic. To any complex torus equipped with a flatKahler metric and a closed 2-form we associate an N=2 superconformal vertexalgebra (N=2 SCVA) in the sense of our definition. We find a criterion for twodifferent tori to produce isomorphic N=2 SCVA's. We show that for algebraictori isomorphism of N=2 SCVA's implies the equivalence of the derivedcategories of coherent sheaves corresponding to the tori or theirnoncommutative generalizations (Azumaya algebras over tori). We also find acriterion for two different tori to produce N=2 SCVA's related by a mirrormorphism. If the 2-form is of type (1,1), this condition is identical to theone proposed by Golyshev, Lunts, and Orlov, who used an entirely differentapproach inspired by the Homological Mirror Symmetry Conjecture of Kontsevich.sheaves must be replaced with modules over Azumaya algebras, and the Fukayacategory must be ``twisted'' by a closed 2-form. We also describe theimplications of our results for BPS D-branes on Calabi-Yau manifolds.

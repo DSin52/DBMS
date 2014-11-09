@@ -1,0 +1,13 @@
+Paper: hep-th/9503158
+
+Date: 1995-03-23
+
+Title: BRST Operators for Higher-spin Algebras
+
+Authors: H. Lu, C.N. Pope and K.W. Xu
+
+Comments: 9 pages. CTP TAMU-13/95.
+
+Journal-ref: Phys.Lett. B358 (1995) 239-245
+
+In this paper, we construct non-critical BRST operators for matter andLiouville systems whose currents generate two different $W$ algebras. At theclassical level, we construct the BRST operators for $W^{\rm M}_{2,s}\otimesW^{\rm L}_{2,s'}$. The construction is possible for $s=s'$ or $s\ge s'+2$. Wealso obtain the BRST operator for $W^{\rm M}_{2,4}\otimes W^{\rm L}_4$ at theclassical level. We use free scalar realisations for the matter currents in theabove constructions. At the full quantum level, we obtain the BRST operatorsfor $W^{\rm M}_{2,s}\otimes W^{\rm L}_2$ with $s=4,5, 6$, where $W_2$ denotesthe Virasoro algebra. For the first and last cases, the BRST operators areexpressed in terms of abstract matter and Liouville currents. As a by-product,we obtain the $W_{2,4}$ algebra at $c=-24$ and the $W_{2,6}$ algebra at $c=-2$and $-\ft{286}3$, at which values the algebras were previously believed not toexist.

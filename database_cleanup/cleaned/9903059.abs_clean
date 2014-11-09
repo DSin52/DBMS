@@ -1,0 +1,13 @@
+Paper: hep-th/9903059
+
+Date: 1999-03-07
+
+Title: Anomalies, Unitarity and Quantum Irreversibility
+
+Authors: D. Anselmi
+
+Comments: 30 pages, 1 figure; some references added
+
+Journal-ref: Annals Phys. 276 (1999) 361-390
+
+The trace anomaly in external gravity is the sum of three terms atcoefficients, properly normalized, called c, a and a', the latter beingambiguously defined by an additive constant. Considerations about unitarity andpositivity properties of the induced actions allow us to show that the total RGflows of a and a' are equal and therefore the a'-ambiguity can be consistentlyremoved through the identification a'=a. The picture that emerges clarifiesseveral long-standing issues. The interplay between unitarity andrenormalization implies that the flux of the renormalization group isirreversible. A monotonically decreasing a-function interpolating between theappropriate values is naturally provided by a'. The total a-flow is expressednon-perturbatively as the invariant (i.e. scheme-independent) area of the graphof the beta function between the fixed points. We test this prediction to thefourth loop order in perturbation theory, in QCD with Nf ~< 11/2 Nc and insupersymmetric QCD. There is agreement also in the absence of an interactingfixed point (QED and phi^4-theory). Arguments for the positivity of a are alsodiscussed.

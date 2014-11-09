@@ -1,0 +1,13 @@
+Paper: hep-th/0110136
+
+Date: 2001-10-15
+
+Title: Oscillator Representation of the BCFT Construction of D-branes in Vacuum
+
+String Field TheoryAuthors: Partha Mukhopadhyay
+
+Comments: Latex, 43 pages, 3 figures, references added
+
+Journal-ref: JHEP 0112 (2001) 025
+
+Starting from the boundary CFT definition for the D-branes in vacuum stringfield theory (VSFT) given in hep-th/0105168, we derive the oscillatorexpression for the D24-brane solution in the VSFT on D25-brane. We show thatthe state takes the form of a squeezed state, similar to the one found directlyin terms of the oscillators and reported in hep-th/0102112. Both the solutionsare actually one parameter families of solutions. We also find numericalevidence that at least for moderately large values of the parameter $(b)$ inthe oscillator construction the two families of solutions are same under asuitable redefinition of the parameter. Finally we generalize the method tocomputing the oscillator expression for a D-brane solution with constant gaugefield strength turned on along the world volume.

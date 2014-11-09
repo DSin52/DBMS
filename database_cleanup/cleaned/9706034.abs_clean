@@ -1,0 +1,13 @@
+Paper: hep-th/9706034
+
+Date: 1997-06-05
+
+Title: Probability Distributions and Coherent States of $B_r$, $C_r$ and $D_r$
+
+AlgebrasAuthors: Hong Chen Fu and Ryu Sasaki (YITP, Kyoto Univ.)
+
+Comments: 32 pages, LaTeX2e. Two references on generalised Mehler formula are
+
+added. A few sentences in the Abstract, Introduction, Acknowledgements andAppendix are changedJournal-ref: J.Phys. A31 (1998) 901-925
+
+A new approach to probability theory based on quantum mechanical and Liealgebraic ideas is proposed and developed. The underlying fact is theobservation that the coherent states of the Heisenberg-Weyl, $su(2)$,$su(r+1)$, $su(1,1)$ and $su(r,1)$ algebras in certain symmetric (bosonic)representations give the ``probability amplitudes'' (or the ``square roots'')of the well-known Poisson, binomial, multinomial, negative binomial andnegative multinomial distributions in probability theory. New probabilitydistributions are derived based on coherent states of the classical algebras$B_r$, $C_r$ and $D_r$ in symmetric representations. These new probabilitydistributions are simple generalisation of the multinomial distributions withsome added new features reflecting the quantum and Lie algebraic construction.As byproducts, simple proofs and interpretation of addition theorems of Hermitepolynomials are obtained from the `coordinate' representation of the (negative)multinomial states. In other words, these addition theorems are higher rankcounterparts of the well-known generating function of Hermite polynomials,which is essentially the `coordinate' representation of the ordinary(Heisenberg-Weyl) coherent state.

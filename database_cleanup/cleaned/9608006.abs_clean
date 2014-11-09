@@ -1,0 +1,13 @@
+Paper: hep-th/9608006
+
+Date: 1996-08-01
+
+Title: Nonequilibrium dynamics
+
+Authors: Juergen Baacke, Katrin Heitmann, Carsten Patzold (Dortmund University)
+
+Comments: 15 pages, 9 postscript figures, revtex; version published in Phys.
+
+Rev, with minor corrections; improves the first version of 1996 by includingthe discussion of energy momentum tensorJournal-ref: Phys.Rev. D55 (1997) 2320-2330
+
+We present a regularized and renormalized version of the one-loop nonlinearrelaxation equations that determine the non-equilibrium time evolution of aclassical (constant) field coupled to its quantum fluctuations. We obtain acomputational method in which the evaluation of divergent fluctuation integralsand the evaluation of the exact finite parts are cleanly separated so as toallow for a wide freedom in the choice of regularization and renormalizationschemes. We use dimensional regularization here. Within the same formalism weanalyze also the regularization and renormalization of the energy-momentumtensor. The energy density serves to monitor the reliability of our numericalcomputation. The method is applied to the simple case of a scalar phi^4 theory;the results are similar to the ones found previously by other groups.

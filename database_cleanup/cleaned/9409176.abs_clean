@@ -1,0 +1,11 @@
+Paper: hep-th/9409176
+
+Date: 1994-09-28
+
+Title: Solving 1d plasmas and 2d boundary problems using Jack polynomials and
+
+functional relationsAuthors: P. Fendley, F. Lesage and H. Saleur
+
+Comments: 19 pages
+
+The general one-dimensional ``log-sine'' gas is defined by restricting thepositive and negative charges of a two-dimensional Coulomb gas to live on acircle. Depending on charge constraints, this problem is equivalent todifferent boundary field theories. We study the electrically neutral case,which is equivalent to a two-dimensional free boson with an impurity cosinesymmetric functions, and a non-perturbative one based on the thermodynamicBethe ansatz and functional relations. The first method allows us to computeexplicitly all coefficients in the virial expansion of the free energy and theexperimentally-measurable conductance. Some results for correlation functionsare also presented. The second method provides in particular a surprisingfluctuation-dissipation relation between the free energy and the conductance.

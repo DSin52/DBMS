@@ -1,0 +1,13 @@
+Paper: hep-th/0005106
+
+Date: 2000-05-11
+
+Title: Holography and Riemann Surfaces
+
+Authors: Kirill Krasnov (UCSB)
+
+Comments: 36 pages, 10 figures, references added
+
+Journal-ref: Adv.Theor.Math.Phys. 4 (2000) 929-979
+
+We study holography for asymptotically AdS spaces with an arbitrary genuscompact Riemann surface as the conformal boundary. Such spaces can beconstructed from the Euclidean AdS_3 by discrete identifications; the discretegroups one uses are the so-called classical Schottky groups. As we show, thespaces so constructed have an appealing interpretation of ``analyticcontinuations'' of the known Lorentzian signature black hole solutions; it isone of the motivations for our generalization of the holography to this case.We use the semi-classical approximation to the gravity path integral, andcalculate the gravitational action for each space, which is given by the(appropriately regularized) volume of the space. As we show, the regularizedvolume reproduces exactly the action of Liouville theory, as defined onarbitrary Riemann surfaces by Takhtajan and Zograf. Using the results as to theproperties of this action, we discuss thermodynamics of the spaces and analyzethe boundary CFT partition function. Some aspects of our construction, such asthe thermodynamical interpretation of the Teichmuller (Schottky) spaces, may beof interest for mathematicians working on Teichmuller theory.

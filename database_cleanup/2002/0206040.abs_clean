@@ -1,0 +1,11 @@
+Paper: hep-th/0206040
+
+Date: 2002-06-05
+
+Title: CRITICAL (Phi^{4}_{3,\epsilon})
+
+Authors: D. C. Brydges, P. K. Mitter and B. Scoppola
+
+Comments: 49 pages, plain tex, macros included
+
+The Euclidean $(\phi^{4})_{3,\epsilon$ model in $R^3$ corresponds to aperturbation by a $\phi^4$ interaction of a Gaussian measure on scalar fieldswith a covariance depending on a real parameter $\epsilon$ in the range $0\le\epsilon \le 1$. For $\epsilon =1$ one recovers the covariance of a masslessscalar field in $R^3$. For $\epsilon =0$ $\phi^{4}$ is a marginal interaction.For $0\le \epsilon < 1$ the covariance continues to be Osterwalder-Schrader andpointwise positive. After introducing cutoffs we prove that for $\epsilon > 0$,sufficiently small, there exists a non-gaussian fixed point (with one unstabledirection) of the Renormalization Group iterations. These iterations convergeto the fixed point on its stable (critical) manifold which is constructed.

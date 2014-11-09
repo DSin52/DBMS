@@ -1,0 +1,11 @@
+Paper: hep-th/0003229
+
+Date: 2000-03-25
+
+Title: Vacuum Energy and Casimir Force in a Presence of Skin-depth Dependent
+
+Boundary ConditionComments: 8 pages, no figures, latex
+
+Journal-ref: Phys.Atom.Nucl. 64 (2001) 1337-1346; Yad.Fiz. 64 (2001) 1413-1422
+
+The vacuum energy-momentum tensor (EMT) and the vacuum energy correspondingto massive scalar field on $\Re_{t}\times [0,l] \times \Re^{D-2}$ space-timewith boundary condition involving a dimensional parameter ($\delta$) are found.The dependent on the cavity size $l$ Casimir energy $\wt E_{C}$ is a uniquelydeterminable function of mass $m$, size $l$ and "skin-depth" $\delta$. Thisenergy includes the "bulk" and the surface (potential energy) contributions.The latter dominates when $l \sim \delta$. Taking the surface potential energyinto account is crucial for the coincidence between the derivative $-\d \wtE_{C}/\d l$ and the $ll$-component of the vacuum EMT. Casimir energy $\wt E_C$and the bulk contribution to it are interconnected through Legendretransformation, in which the quantity $\delta^{-1}$ is conjugate to the vacuumsurface energy multiplied by $\delta$. The surface singularities of the vacuumEMT do not depend on $l$ and, for even $D$, $\delta =0$ or $\infty$, possessfinite interpretation. The corresponding vacuum energy is finite and retainsknown analytical dependence on the dimension $D$.

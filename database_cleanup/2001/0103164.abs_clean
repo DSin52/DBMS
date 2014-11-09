@@ -1,0 +1,13 @@
+Paper: hep-th/0103164
+
+Date: 2001-03-20
+
+Title: Field Theory on the q-deformed Fuzzy Sphere II
+
+Authors: H. Grosse, J. Madore, H. Steinacker
+
+Comments: LaTex file, 44 pages
+
+Journal-ref: J.Geom.Phys. 43 (2002) 205-240
+
+We study the second quantization of field theory on the q-deformed fuzzysphere for real q. This is performed using a path-integral over the modes,which generate a quasiassociative algebra. The resulting models have a manifestU_q(su(2)) symmetry with a smooth limit q -> 1, and satisfy positivity andtwisted bosonic symmetry properties. A systematic way to calculate n-pointcorrelators in perturbation theory is given. As examples, the 4-pointcorrelator for a free scalar field theory and the planar contribution to thetadpole diagram in \phi^4 theory are computed. The case of gauge fields is alsodiscussed, as well as an operator formulation of scalar field theory in 2_q + 1dimensions. An alternative, essentially equivalent approach using associativetechniques only is also presented. The proposed framework is not restricted to2 dimensions.

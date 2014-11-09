@@ -1,0 +1,13 @@
+Paper: hep-th/9803217
+
+Date: 1998-03-26
+
+Title: Integrable Hierarchies and Contact Terms in u-plane Integrals of
+
+Topologically Twisted Supersymmetric Gauge TheoriesAuthors: Kanehisa Takasaki (Kyoto University)
+
+Comments: latex, 17 pages, no figures; final version for publication
+
+Journal-ref: Int.J.Mod.Phys. A14 (1999) 1001-1014
+
+The $u$-plane integrals of topologically twisted $N = 2$ supersymmetric gaugetheories generally contain contact terms of nonlocal topological observables.This paper proposes an interpretation of these contact terms from the point ofview of integrable hierarchies and their Whitham deformations. This is inspiredby Mari\~no and Moore's remark that the blowup formula of the $u$-planeintegral contains a piece that can be interpreted as a single-time tau functionof an integrable hierarchy. This single-time tau function can be extended to amulti-time version without spoiling the modular invariance of the blowupformula. The multi-time tau function is comprised of a Gaussian factor$e^{Q(t_1,t_2,...)}$ and a theta function. The time variables $t_n$ play therole of physical coupling constants of 2-observables $I_n(B)$ carried by theexceptional divisor $B$. The coefficients $q_{mn}$ of the Gaussian part areidentified to be the contact terms of these 2-observables. This identificationis further examined in the language of Whitham equations. All relevantquantities are written in the form of derivatives of the prepotential.

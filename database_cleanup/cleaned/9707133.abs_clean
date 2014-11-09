@@ -1,0 +1,13 @@
+Paper: hep-th/9707133
+
+Date: 1997-07-14
+
+Title: Holomorphy, Rescaling Anomalies and Exact beta Functions in
+
+Supersymmetric Gauge TheoriesAuthors: Nima Arkani-Hamed and Hitoshi Murayama (UC Berkeley, LBNL)
+
+Comments: 35 pages, LaTeX, no special macros
+
+Journal-ref: JHEP 0006 (2000) 030
+
+There have been known "exact" beta functions for the gauge coupling in N=1supersymmetric gauge theories, the so-called NSVZ beta functions. Shifman andVainshtein (SV) further related these beta functions to the exact 1-looprunning of the "Wilsonian" gauge coupling. All these results, however, remainsomewhat mysterious. We attempt to clarify these issues by presenting newperspectives on the NSVZ beta function. Our interpretation of the results issomewhat different than the one given by SV, having nothing to do with thedistinction between "Wilsonian" and "1PI" effective actions. Throughout we workin the context of the Wilsonian Renormalization Group; namely, as the cutoff ofthe theory is changed from M to M', we determine the appropriate changes in thebare couplings needed to keep the low energy physics fixed. The entire analysisis therefore free of infrared subtleties. When the bare Lagrangian given at thecutoff is manifestly holomorphic in the gauge coupling, we show that therequired change in the holomorphic gauge coupling is exhausted at 1-loop to allorders of perturbation theory, and even non-perturbatively in some cases. Onthe other hand, when the bare Lagrangian has canonically normalized kineticterms, we find that the required change in the gauge coupling is given by theNSVZ beta function. The higher order contributions in the NSVZ beta functionare due to anomalous Jacobians under the rescaling of the fields done inpassing from holomorphic to canonical normalization. We also give prescriptionsfor regularizing certain N=1 theories with an ultraviolet cutoff M preservingmanifest holomorphy, starting from finite N=4 and N=2 theories. It is then inprinciple possible to check the validity of the exact beta function by higherorder calculations in these theories.

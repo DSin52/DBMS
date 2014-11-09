@@ -1,0 +1,13 @@
+Paper: hep-th/9204063
+
+Date: 1992-04-21
+
+Title: Solving Virasoro Constraints on Integrable Hierarchies via the
+
+Kontsevich-Miwa TransformAuthors: A.M.Semikhatov
+
+Comments: 23pp (REVISED VERSION, 10 April 1992)
+
+Journal-ref: Nucl.Phys. B386 (1992) 139-165
+
+We solve Virasoro constraints on the KP hierarchy in terms of minimalconformal models. The constraints we start with are implemented by the Virasorogenerators depending on a background charge $Q$. Then the solutions to theconstraints are given by the theory which has the same field content as thebackground charge $Q$, dressed with an extra `Liouville' scalar. Theconstruction is based on a generalization of the Kontsevich parametrization ofthe KP times achieved by introducing into it Miwa parameters which depend onthe value of $Q$. Under the thus defined Kontsevich-Miwa transformation, theVirasoro constraints are proven to be equivalent to a master equation dependingon the parameter $Q$. The master equation is further identified with anull-vector decoupling equation. We conjecture that $W^{(n)}$ constraints onthe KP hierarchy are similarly related to a level-$n$ decoupling equation. Wealso consider the master equation for the $N$-reduced KP hierarchies. Severalcomments are made on a possible relation of the generalized master equation to{\it scaled} Kontsevich-type matrix integrals and on the form the equationtakes in higher genera.

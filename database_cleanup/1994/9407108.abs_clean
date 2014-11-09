@@ -1,0 +1,13 @@
+Paper: hep-th/9407108
+
+Date: 1994-07-18
+
+Title: Quantisation of the SU(N) WZW Model at Level $k$
+
+Authors: M. Chu and P. Goddard
+
+Comments: DAMTP-94-42, 21 pages
+
+Journal-ref: Nucl.Phys. B445 (1995) 145-168
+
+The quantisation of the Wess-Zumino-Witten model on a circle is discussed inthe case of $SU(N)$ at level $k$. The quantum commutation of the chiral vertexoperators is described by an exchange relation with a braiding matrix, $Q$.Using quantum consistency conditions, the braiding matrix is found explicitlyin the fundamental representation. This matrix is shown to be related to theRacah matrix for $U_t(SL(N))$. From calculating the four-point functions withthe Knizhnik-Zamolodchikov equations, the deformation parameter $t$ is shown tobe $t=\exp({i\pi /(k+N)})$ when the level $k\ge 2$. For $k=1$, there are twopossible types of braiding, $t=\exp({i\pi /(1+N)})$ or $t=\exp(i\pi)$. In thelatter case, the chiral vertex operators are constructed explicitly byextending the free field realisation a la Frenkel-Kac and Segal. Thisconstruction gives an explicit description of how to chirally factorise the$SU(N)_{k=1}$ WZW model.

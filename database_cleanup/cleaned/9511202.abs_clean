@@ -1,0 +1,9 @@
+Paper: hep-th/9511202
+
+Date: 1995-11-28
+
+Title: Poisson Distributions for Sharp-Time Fields
+
+Comments: 33 pages, LaTeX, no figures, revised version of preprint
+
+Standard lattice-space formulations of quartic self-coupled Euclidean scalarquantum fields become trivial in the continuum limit for sufficiently highspace-time dimensions, and in particular the moment generating functional forspace-time smeared fields becomes a Gaussian appropriate to that of a (possiblygeneralized) free field. For sharp-time fields this fact implies that theground-state expectation functional also becomes Gaussian in the continuumlimit. To overcome these consequences of the central limit theorem, anauxiliary, nonclassical potential is appended to the original lattice form ofthe model and parameters are tuned so that a generalized Poisson fielddistribution emerges in the continuum limit for the ground-state probabilitydistribution. As a consequence, the sharp-time expectation functional isinfinitely divisible, but the Hamiltonian operator is such, in the generalcase, that the generating functional for the space-time smeared field is notinfinitely divisible in Minkowski space. This feature permits the models inquestion to escape a manifestly trivial scattering matrix imposed on allinfinitely divisible covariant Minkowski fields. Two sequentially relatedproposals for an alternative lattice formulation of interacting covariantmodels in four and more space-time dimensions are analyzed in some detail.

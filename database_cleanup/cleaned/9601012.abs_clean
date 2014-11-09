@@ -1,0 +1,11 @@
+Paper: hep-th/9601012
+
+Date: 1996-01-04
+
+Title: Quantum Bosonic String Energy-Momentum Tensor in Minkowski Space-Time
+
+Authors: E. J. Copeland, H. J. de Vega and A. V\'{a}zquez
+
+Comments: Latex, 15 pages
+
+The quantum energy-momentum tensor ${\hat T}^{\mu\nu}(x)$ is computed forstrings in Minkowski space-time. We compute its expectation value for differentphysical string states both for open and closed bosonic strings. The statesconsidered are described by normalizable wave-packets in the center of masscoordinates. We find in particular that ${\hat T}^{\mu\nu}(x)$ is {\bf finite}which could imply that the classical divergence that occurs in string theory aswe approach the string position is removed at the quantum level as the stringposition is smeared out by quantum fluctuations. For massive string states theexpectation value of ${\hat T}^{\mu\nu}(x)$ vanishes at leading order (genuszero). For massless string states it has a non-vanishing value which weexplicitly compute and analyze for both spherically and cylindrically symmetricwave packets. The energy-momentum tensor components propagate outwards as amassless lump peaked at $ r = t $.

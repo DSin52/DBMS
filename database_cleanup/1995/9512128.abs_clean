@@ -1,0 +1,13 @@
+Paper: hep-th/9512128
+
+Date: 1995-12-18
+
+Title: Instantons in Burgers Equation
+
+Authors: V. Gurarie and A. Migdal
+
+Comments: 11 pages, LATEX
+
+Journal-ref: Phys.Rev. E54 (1996) 4908-4914
+
+The instanton solution for the forced Burgers equation is found. Thissolution describes the exponential tail of the probability distributionfunction of velocity differences in the region where shock waves are absent.The results agree with the one found recently by Polyakov, who used theoperator product conjecture. If this conjecture is true, then our WKBasymptotics of the Wyld functional integral is exact to all orders of theperturbative expansion around the instanton solution. We explicitly checkedthis in the first order. We also generalized our solution for the arbitrarydimension of Burgers (=KPZ) equation. As a result we found the angulardependence of the velocity difference PDF.

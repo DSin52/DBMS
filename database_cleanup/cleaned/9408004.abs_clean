@@ -1,0 +1,13 @@
+Paper: hep-th/9408004
+
+Date: 1994-08-01
+
+Title: The boundary sine-Gordon theory
+
+Authors: H.Saleur, S.Skorik and N.P.Warner
+
+Comments: 19 pages, 5 figures. Preprint USC-94-013. (Numerical mistake
+
+corrected.)Journal-ref: Nucl.Phys. B441 (1995) 421-436
+
+We consider the sine-Gordon model on a half-line, with an additionalpotential term of the form $-M\cos{\beta\over 2}(\varphi-\varphi_0)$ at theboundary. We compute the classical time delay for general values of $M$,$\beta$ and $\varphi_0$ using $\tau$-function methods and show that in theclassical limit, the method of images still works, despite the non-linearity ofthe problem. We also perform a semi-classical analysis, and find agreement withthe exact quantum S-matrix conjectured by Ghoshal and Zamolodchikov.

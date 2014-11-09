@@ -1,0 +1,13 @@
+Paper: hep-th/0101032
+
+Date: 2001-01-05
+
+Title: Wick type deformation quantization of Fedosov manifolds
+
+Authors: V.A. Dolgushev, S.L. Lyakhovich, A.A. Sharapov (Tomsk State Univ.)
+
+Comments: 20 pages, no figures
+
+Journal-ref: Nucl.Phys. B606 (2001) 647-672
+
+A coordinate-free definition for Wick-type symbols is given for symplecticmanifolds by means of the Fedosov procedure. The main ingredient of thisapproach is a bilinear symmetric form defined on the complexified tangentbundle of the symplectic manifold and subject to some set of algebraic anddifferential conditions. It is precisely the structure which describes adeviation of the Wick-type star-product from the Weyl one in the first order inthe deformation parameter. The geometry of the symplectic manifolds equipped bysuch a bilinear form is explored and a certain analogue of theNewlander-Nirenberg theorem is presented. The 2-form is explicitly identifiedwhich cohomological class coincides with the Fedosov class of the Wick-typestar-product. For the particular case of K\"ahler manifold this class is shownto be proportional to the Chern class of a complex manifold. We also show thatthe symbol construction admits canonical superextension, which can be thoughtof as the Wick-type deformation of the exterior algebra of differential formson the base (even) manifold. Possible applications of the deformed superalgebrato the noncommutative field theory and strings are discussed.

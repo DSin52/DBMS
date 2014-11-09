@@ -1,0 +1,11 @@
+Paper: hep-th/0204042
+
+Date: 2002-04-04
+
+Title: Gradient formula for linearly self-interacting branes
+
+Authors: Brandon Carter, Richard A. Battye and Jean-Philippe Uzan
+
+Comments: 23 pages
+
+The computation of long range linear self-interaction forces in string andhigher dimensional brane models requires the evaluation of the gradients ofregularised values of divergent self-interaction potentials. It is shown thatthe appropriately regularised gradient in directions orthogonal to the branesurface will always be obtainable simply by multiplying the regularisedpotential components by just half the trace of the second fundamental tensor,except in the hypermembrane case for which the method fails. Whatever thedimension of the background this result is valid provided the codimension istwo (the hyperstring case) or more, so it can be used for investigatingbrane-world scenarios with more than one extra space dimension.

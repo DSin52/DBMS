@@ -1,0 +1,11 @@
+Paper: hep-th/9905190
+
+Date: 1999-05-26
+
+Title: On the Quantization of the Gravitational Field
+
+Comments: 32 pages, LATEX2E
+
+Journal-ref: Class.Quant.Grav. 17 (2000) 319-344
+
+We present a new point of view on the quantization of the gravitationalfield, namely we use exclusively the quantum framework of the secondquantization. More explicitly, we take as one-particle Hilbert space,$H_{graviton}$ the unitary irreducible representation of the Poincar\'e groupcorresponding to a massless particle of helicity 2 and apply the secondquantization procedure with Einstein-Bose statistics. The resulting Hilbertspace ${\cal F}^{+}(H_{graviton})$ is, by definition, the Hilbert space of thegravitational field. Then we prove that this Hilbert space is canonicallyisomorphic to a space of the type $Ker(Q)/Im(Q)$ where $Q$ is a superchargedefined in an extension of the Hilbert space ${\cal F}^{+} (H}_{graviton})$ byare vector fields and a Bosonic ghost $\Phi$ which is a scalar field. This hasto be contrasted to the usual approaches where only the Fermion ghosts areconsidered. However, a rigorous proof that this is, indeed, possible seems tobe lacking from the literature.

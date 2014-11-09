@@ -1,0 +1,13 @@
+Paper: hep-th/0109202
+
+Date: 2001-09-26
+
+Title: Regularized Quantum Master Equation in the Wilsonian Renormalization
+
+GroupAuthors: Yuji Igarashi, Katsumi Itoh and Hiroto So
+
+Comments: 18 pages
+
+Journal-ref: JHEP 0110 (2001) 032
+
+Using the Pauli-Villars regularization, we make a perturbative analysis ofthe quantum master equation (QME), $\Sigma =0$, for the Wilsonian effectiveaction. It is found that the QME for the UV action determines whether exactgauge symmetry is realized along the renormalization group (RG) flow. The basictask of solving the QME can be reduced to compute the Troost-vanNiuwenhuizen-Van Proyen jacobian factor for the classical UV action. When theQME cannot be satisfied, the non-vanishing $\Sigma$ is proportional to a BRSanomaly, which is shown to be preserved along the RG flow. To see how the UVaction fulfills the QME in anomaly free theory, we calculate the jacobianfactor for a pure Yang-Mills theory in four dimensions.

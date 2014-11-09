@@ -1,0 +1,11 @@
+Paper: hep-th/0302177
+
+Date: 2003-02-22
+
+Title: Toward the construction of a C^* algebra in string field theory
+
+Authors: A. Parodi (SISSA)
+
+Comments: 35 pages, no figures, report-no added
+
+In string field theory there is a fundamental object, the algebra of stringfield states \A, that must be understood better from a mathematical point ofview. In particular we are interested in finding, if possible, a C^* structureover it, or possibly over a subalgebra U \subset \A. In this paper we define a* operation on \A, and then using a particular description of Witten's starproduct, the Moyal's star product, we find an appropriate pre C^* algebraS(R^{2n}) on a finite dimensional manifold, where the finite dimensionality isobtained with a cutoff procedure on the string oscillators number. Then we showthat using an inductive limit we obtain a pre C^* algebra S \subset \A that canbe completed to a C^* algebra.

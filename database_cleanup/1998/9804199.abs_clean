@@ -1,0 +1,13 @@
+Paper: hep-th/9804199
+
+Date: 1998-04-30
+
+Title: Finite Yang-Mills Integrals
+
+Authors: Werner Krauth and Matthias Staudacher
+
+Comments: 7 pages, LaTeX, REVTEX
+
+Journal-ref: Phys.Lett. B435 (1998) 350-355
+
+We use Monte Carlo methods to directly evaluate D-dimensional SU(N)Yang-Mills partition functions reduced to zero Euclidean dimensions, with andwithout supersymmetry. In the non-supersymmetric case, we find that theintegrals exist for D=3, N>3 and D=4, N>2 and, lastly, D >= 5, N >= 2. Weconclude that the D=3 and D=4 integrals exist in the large N limit, andtherefore lead to a well-defined, new type of Eguchi-Kawai reduced gaugetheory. For the supersymmetric case, we check, up to SU(5), recently proposedexact formulas for the D=4 and D=6 D-instanton integrals, including theexplicit form of the normalization factor needed to interpret the integrals asthe bulk contribution to the Witten index.

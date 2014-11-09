@@ -1,0 +1,13 @@
+Paper: hep-th/9304128
+
+Date: 1993-04-26
+
+Title: Quantum Black Hole Evaporation
+
+Authors: Kareljan Schoutens, Erik Verlinde and Herman Verlinde
+
+Comments: 37 pages (figs 2 and 3 included as uuencoded compressed tar file),
+
+Latex, needs epsf.tex, PUPT-1395, IASSNS-HEP-93/25 (revised version has minorcorrections, one reference added)Journal-ref: Phys.Rev. D48 (1993) 2670-2685
+
+We investigate a recently proposed model for a full quantum description oftwo-dimensional black hole evaporation, in which a reflecting boundarycondition is imposed in the strong coupling region. It is shown that in thismodel each initial state is mapped to a well-defined asymptotic out-state,provided one performs a certain projection in the gravitational zero modesector. We find that for an incoming localized energy pulse, the correspondingout-going state contains approximately thermal radiation, in accordance withsemi-classical predictions. In addition, our model allows for certain acausalstrong coupling effects near the singularity, that give rise to corrections tothe Hawking spectrum and restore the coherence of the out-state. To anasymptotic observer these corrections appear to originate from behind thereceding apparent horizon and start to influence the out-going state longbefore the black hole has emitted most of its mass. Finally, by putting thesystem in a finite box, we are able to derive some algebraic properties of thescattering matrix and prove that the final state contains all initialinformation.

@@ -1,0 +1,11 @@
+Paper: hep-th/9812194
+
+Date: 1998-12-21
+
+Title: Intertwining Operator Realization of the AdS/CFT Correspondence
+
+Comments: 25 pages, TEX file using harvmac.tex; v2
+
+appear in Nuclear Physics BJournal-ref: Nucl.Phys. B553 (1999) 559-582
+
+We give a group-theoretic interpretation of the AdS/CFT correspondence asrelation of representation equivalence between representations of the conformalgroup describing the bulk AdS fields $\phi$ and the coupled boundary fields$\phi_0$ and ${\cal O}$. We use two kinds of equivalences. The first kind isequivalence between bulk fields and boundary fields and is established here.The second kind is the equivalence between coupled boundary fields. Operatorsrealizing the first kind of equivalence for special cases were given by Wittenand others - here they are constructed in a more general setting from therequirement that they are intertwining operators. The intertwining operatorsrealizing the second kind of equivalence are provided by the standard conformaltwo-point functions. Using both equivalences we find that the bulk field has infact two boundary fields, namely, the coupled boundary fields. Thus, from theviewpoint of the bulk-boundary correspondence the coupled fields are on anequal footing. Our setting is more general since our bulk fields are describedby representations of the Euclidean conformal group $G=SO(d+1,1)$, induced fromrepresentations $\tau$ of the maximal compact subgroup $SO(d+1)$ of $G$. Fromthese large reducible representations we can single out representations whichare equivalent to conformal boundary representations labelled by the conformalweight and by arbitrary representations $\mu$ of the Euclidean Lorentz group$M=SO(d)$, such that $\mu$ is contained in the restriction of $\tau$ to $M$.Thus, our boundary-to-bulk operators can be compared with those in theliterature only when for a fixed $\mu$ we consider a 'minimal' representation$\tau=\tau(\mu)$ containing $\mu$.

@@ -1,0 +1,11 @@
+Paper: hep-th/0110268
+
+Date: 2001-10-29
+
+Title: Deformation Quantization and Quantum Field Theory on Curved Spaces
+
+Case of Two-SphereAuthors: Chengang Zhou
+
+Comments: 23 pages
+
+We study the scalar quantum field theory on a generic noncommutativetwo-sphere as a special case of noncommutative curved space, which is describedby the deformation quantization algebra obtained from symplectic reduction andparametrized by $H^2(S^2, \QR)$. The fuzzy sphere is included as a special caseparametrized by the integer two-cohomology class $H^2(S^2, \QZ)$, which hasfinite number of degrees of freedom and the field theory has a well definedHilbert space. When the two-cohomology class is not integer valued, the scalarsignature of the inner product on the space of functions is indefinite. Hencethe existence of deformation quantization does not guarantee a physicallyacceptable deformed geometric background. For the deformation quantization on ageneral curved space, this obstruction of unitarity can be given by an explicittopological formula.

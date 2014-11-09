@@ -1,0 +1,13 @@
+Paper: hep-th/0011258
+
+Date: 2000-11-28
+
+Title: Mode regularization of the susy sphaleron and kink
+
+discrete gauge symmetryAuthors: Alfred Scharff Goldhaber, Andrei Litvintsev, Peter van Nieuwenhuizen
+
+Comments: 32 pages, 5 figures
+
+Journal-ref: Phys.Rev. D64 (2001) 045013
+
+To obtain the one-loop corrections to the mass of a kink by moderegularization, one may take one-half the result for the mass of a widelyseparated kink-antikink (or sphaleron) system, where the two bosonic zero modescount as two degrees of freedom, but the two fermionic zero modes as only onedegree of freedom in the sums over modes. For a single kink, there is onebosonic zero mode degree of freedom, but it is necessary to average over foursets of fermionic boundary conditions in order (i) to preserve the fermionicZ$_2$ gauge invariance $\psi \to -\psi$, (ii) to satisfy the basic principle ofmode regularization that the boundary conditions in the trivial and the kinksector should be the same, (iii) in order that the energy stored at theboundaries cancels and (iv) to avoid obtaining a finite, uniformly distributedenergy which would violate cluster decomposition. The average number offermionic zero-energy degrees of freedom in the presence of the kink is thenindeed 1/2. For boundary conditions leading to only one fermionic zero-energysolution, the Z$_2$ gauge invariance identifies two seemingly distinct `vacua'as the same physical ground state, and the single fermionic zero-energysolution does not correspond to a degree of freedom. Other boundary conditionslead to two spatially separated $\omega \sim 0 $ solutions, corresponding toone (spatially delocalized) degree of freedom. This nonlocality is consistentwith the principle of cluster decomposition for correlators of observables.

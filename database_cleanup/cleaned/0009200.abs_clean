@@ -1,0 +1,9 @@
+Paper: hep-th/0009200
+
+Date: 2000-09-26
+
+Title: Some Remarks about Duality, Analytic Torsion and Gaussian Integration in
+
+Antisymmetric Field TheoriesUniversit\'e Blaise Pascal (Clermont II), France)Comments: 15 pages, LaTeX
+
+From a path integral point of view (e.g. \cite{Q98}) physicists have shownhow {\it duality} in antisymmetric quantum field theories on a closedspace-time manifold $M$ relies in a fundamental way on Fourier Transformationsof formal infinite-dimensional volume measures. We first review these factsfrom a measure theoretical point of view, setting the importance of the Hodgedecomposition theorem in the underlying geometric picture, ignoring the localsymmetry which lead to degeneracies of the action. To handle these degeneracieswe then apply Schwarz's Ansatz showing how duality leads to a factorization ofthe analytic torsion of $M$ in terms of the partition functions associated todegenerate "dual" actions, which in the even dimensional case corresponds tothe identification of these partition functions.

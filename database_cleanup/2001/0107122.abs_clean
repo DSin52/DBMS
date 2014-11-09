@@ -1,0 +1,13 @@
+Paper: hep-th/0107122
+
+Date: 2001-07-13
+
+Title: Aging, phase ordering and conformal invariance
+
+Authors: Malte Henkel, Michel Pleimling, Claude Godreche and Jean-Marc Luck
+
+Comments: 4 pp, 2 figs. Introduction extended, Refs. added; Phys. Rev. Lett. in
+
+pressJournal-ref: Phys. Rev. Lett. 87, 265701 (2001)
+
+In a variety of systems which exhibit aging, the two-time response functionscales as $R(t,s)\approx s^{-1-a} f(t/s)$. We argue that dynamical scaling canbe extended towards conformal invariance, obtaining thus the explicit form ofthe scaling function $f$. This quantitative prediction is confirmed in severalspin systems, both for $T<T_c$ (phase ordering) and $T=T_c$ (non-equilibriumcritical dynamics). The 2D and 3D Ising models with Glauber dynamics arestudied numerically, while exact results are available for the spherical modelwith a non-conserved order parameter, both for short-ranged and long-rangedinteractions, as well as for the mean-field spherical spin glass.

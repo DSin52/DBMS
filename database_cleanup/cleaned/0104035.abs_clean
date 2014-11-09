@@ -1,0 +1,13 @@
+Paper: hep-th/0104035
+
+Date: 2001-04-04
+
+Title: Gauge Invariant Effective Lagrangian for Kaluza-Klein Modes
+
+Authors: Christopher T. Hill, Stefan Pokorski, Jing Wang
+
+Comments: 21 pages, 4 figures
+
+Journal-ref: Phys.Rev. D64 (2001) 105005
+
+We construct a manifestly gauge invariant Lagrangian in 3+1 dimensions for NKaluza-Klein modes of an SU(m) gauge theory in the bulk. For example, if thebulk is 4+1, the effective theory is \Pi_{i=1}^{N+1} SU(m)_i with N chiral(\bar{m},m) fields connecting the groups sequentially. This can be viewed as aWilson action for a transverse lattice in x^5, and is shown explicitly to matchthe continuum 4+1 compactifed Lagrangian truncated in momentum space. Scaledependence of the gauge couplings is described by the standard renormalizationgroup technique with threshold matching, leading to effective power lawrunning. We also discuss the unitarity constraints, and chiral fermions.

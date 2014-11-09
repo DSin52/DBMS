@@ -1,0 +1,13 @@
+Paper: hep-th/9509100
+
+Date: 1995-09-12
+
+Title: Quantum Chains of Hopf Algebras with Quantum Double Cosymmetry
+
+Authors: Florian Nill and Kornel Szlachanyi
+
+Comments: Latex, 48 pages, no figures, extended version of hep-th/9507174, but
+
+without the field algebra construction, contains full proofs of the slightlyshortened article published in Commun.Math.Phys., the revision only concernssome misprints and an update of the literatureJournal-ref: Commun.Math.Phys. 187 (1997) 159-200
+
+Given a finite dimensional C^*-Hopf algebra H and its dual H^ we constructthe infinite crossed product A=... x H x H^ x H ... and study itssuperselection sectors in the framework of algebraic quantum field theory. A isthe observable algebra of a generalized quantum spin chain with H-order andH^-disorder symmetries, where by a duality transformation the role of order anddisorder may also appear interchanged. If H=\CC G is a group algebra then Abecomes an ordinary G-spin model. We classify all DHR-sectors of A --- relativeto some Haag dual vacuum representation --- and prove that their symmetry isdescribed by the Drinfeld double D(H). To achieve this we construct localizedproperty to prove that they are universal amplimorphisms on A. In this way thedouble D(H) can be recovered from the observable algebra A as a universalcosymmetrty.

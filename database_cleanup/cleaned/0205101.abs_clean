@@ -1,0 +1,13 @@
+Paper: hep-th/0205101
+
+Date: 2002-05-10
+
+Title: String Propagation in the Presence of Cosmological Singularities
+
+Authors: Ben Craps, David Kutasov, Govindan Rajesh
+
+Comments: harvmac, 43 pages, 2 figures; v2
+
+addedJournal-ref: JHEP 0206 (2002) 053
+
+We study string propagation in a spacetime with positive cosmologicalconstant, which includes a circle whose radius approaches a finite value as|t|\to\infty, and goes to zero at t=0. Near this cosmological singularity, thespacetime looks like R^{1,1}/Z. In string theory, this spacetime must beextended by including four additional regions, two of which are compact. Theother two introduce new asymptotic regions, corresponding to early and latetimes, respectively. States of quantum fields in this spacetime are defined inthe tensor product of the two Hilbert spaces corresponding to the early timeasymptotic regions, and the S-matrix describes the evolution of such states tostates in the tensor product of the two late time asymptotic regions. We showthat string theory provides a unique continuation of wavefunctions past thecosmological singularities, and allows one to compute the S-matrix. Theincoming vacuum evolves into an outgoing state with particles. We also discussinstabilities of asymptotically timelike linear dilaton spacetimes, and thequestion of holography in such spaces. Finally, we briefly comment on therelation of our results to recent discussions of de Sitter space.

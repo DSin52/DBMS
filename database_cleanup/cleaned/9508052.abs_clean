@@ -1,0 +1,13 @@
+Paper: hep-th/9508052
+
+Date: 1995-08-11
+
+Title: Coarse graining and decoherence in quantum field theory
+
+Authors: Fernando Lombardo and Francisco Mazzitelli
+
+Comments: 21 pages (RevTeX) and 5 encapsulated postscript figures
+
+Journal-ref: Phys.Rev. D53 (1996) 2001-2011
+
+We consider a $\lambda \phi^4$ theory in Minkowski spacetime. We compute a"coarse grained effective action" by integrating out the field modes withwavelength shorter than a critical value. From this effective action we obtainthe evolution equation for the reduced density matrix (master equation). Wecompute the diffusion coefficients of this equation and analyze the decoherenceinduced on the long- wavelength modes. We generalize the results to the case ofa conformally coupled scalar field in DeSitter spacetime. We show that thedecoherence is effective as long as the critical wavelength is taken to be notshorter than the Hubble radius.

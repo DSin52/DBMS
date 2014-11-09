@@ -1,0 +1,13 @@
+Paper: hep-th/0210204
+
+Date: 2002-10-22
+
+Title: Defining < A^2 > in the finite volume hamiltonian formalism
+
+Authors: L. Stodolsky, Pierre van Baal and V.I. Zakharov
+
+Comments: 13 pages, 2 figures (in 3 parts). Amended references. Modified
+
+introduction. Version accepted for publicationJournal-ref: Phys.Lett. B552 (2003) 214-222
+
+It is shown how in principle for non-abelian gauge theories it is possible inthe finite volume hamiltonian framework to make sense of calculating theexpectation value of ||A||^2=\int d^3x(A^a_i(x))^2. Gauge invariance requiresone to replace ||A||^2 by its minimum over the gauge orbit, which makes it ahighly non-local quantity. We comment on the difficulty of finding a gaugeinvariant expression for ||A||^2_{min} analogous to that found for the abeliancase, and the relation of this question to Gribov copies. We deal with theseissues by implementing the hamiltonian on the so-called fundamental domain,with appropriate boundary conditions in field space, essential to correctlyrepresent the physics of the problem.

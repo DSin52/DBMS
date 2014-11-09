@@ -1,0 +1,11 @@
+Paper: hep-th/9810015
+
+Date: 1998-10-02
+
+Title: The large-N limit of QCD and the collective field of the Hitchin
+
+fibrationComments: Paper as published in JHEP011999006, new references on duality added,
+
+misprint corrected, minor changesJournal-ref: JHEP 9901 (1999) 006
+
+By means of a certain exact non-abelian duality transformation, we show thatthere is a natural embedding, dense in the sense of the distributions in thelarge-N limit, of parabolic Higgs bundles of rank N on a fiber two-dimensionaltorus into the QCD functional integral, fiberwise over the base two-dimensionaltorus of the trivial elliptic fibration on which the four-dimensional theory isdefined. The moduli space of parabolic Higgs bundles of rank N is an integrableHamiltonian system, that admits a foliation by the moduli of holomorphic linebundles over N-sheeted spectral covers (or, what is the same, over a space of Ngauge-invariant polynomials), the Hitchin fibration. According to Hitchin, theHiggs bundles can be recovered from the spectral covers and the line bundles.If the N invariant polynomials together with the abelian connection on the linebundles are chosen as the N+1 collective fields of the Hitchin fibration, allthe entropy of the functional integration over the moduli of the Higgs bundlesis absorbed, in the large-N limit, into the Jacobian determinant of the changeof variables to the collective fields of the Hitchin fibration. Hence, thelarge-N limit is dominated by the saddle-point of the effective action as invector-like models.

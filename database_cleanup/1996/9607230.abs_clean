@@ -1,0 +1,11 @@
+Paper: hep-th/9607230
+
+Date: 1996-07-30
+
+Title: A Renormalisation Group Study of Three Dimensional Turbulence
+
+Authors: Ph. Brax (DAMTP-University of Cambridge-UK)
+
+Comments: 8 pages , tex file
+
+We study the three dimensional Navier-Stokes equation with a random Gaussianforce acting on large wavelengths. Our work has been inspired by Polyakov'sanalysis of steady states of two dimensional turbulence. We investigate thetime evolution of the probability law of the velocity potential. Assuming thatthis probability law is initially defined by a statistical field theory in thebasin of attraction of a renormalisation fixed point, we show that its timeevolution is obtained by averaging over small scale features of the velocitypotential. The probability law of the velocity potential converges to the fixedpoint in the long time regime. At the fixed point, the scaling dimension of thevelocity potential is determined to be ${-{4\over 3}}$. We give conditions forthe existence of such a fixed point of the renormalisation group describing thelong time behaviour of the velocity potential. At this fixed point, the energyspectrum of three dimensional turbulence coincides with a Kolmogorov spectrum.

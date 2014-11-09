@@ -1,0 +1,13 @@
+Paper: hep-th/9909013
+
+Date: 1999-09-02
+
+Title: Wilson Loops as Precursors
+
+Authors: Leonard Susskind and Nicolaos Toumbas
+
+Comments: 23 pages, no figures
+
+Journal-ref: Phys.Rev. D61 (2000) 044001
+
+There is substantial evidence that string theory on AdS_5 x S_5 is aholographic theory in which the number of degrees of freedom scales as the areaof the boundary in Planck units. Precisely how the theory can describe bulkphysics using only surface degrees of freedom is not well understood. Aparticularly paradoxical situation involves an event deep in the interior ofthe bulk space. The event must be recorded in the (Schroedinger Picture) statevector of the boundary theory long before a signal, such as a gravitationalwave, can propagate from the event to the boundary. In a previous paper withPolchinski, we argued that the "precursor" operators which carry informationstored in the wave during the time when it vanishes in a neighborhood of theboundary are necessarily non-local. In this paper we argue that the precursorscannot be products of local gauge invariant operators such as the energymomentum tensor. In fact gauge theories have a class of intrinsically non-localoperators which cannot be built from local gauge invariant objects. These arethe Wilson loops. We show that the precursors can be identified with Wilsonloops whose spatial size is dictated by the UV-IR connection.

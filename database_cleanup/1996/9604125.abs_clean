@@ -1,0 +1,13 @@
+Paper: hep-th/9604125
+
+Date: 1996-04-21
+
+Title: Dimensional Crossover and Effective Exponents
+
+Authors: Sen-Ben Liao, Michael Strickland
+
+Comments: 24 pages, TeX, 8 figures in separate file, Updated version to appear
+
+in Nucl. Phys. BJournal-ref: Nucl.Phys. B497 (1997) 611-638
+
+We investigate the critical behavior of the lambda phi^4 theory defined onS^1 x R^d having two finite length scales beta, the circumference of S^1, andk^{-1}, the blocking scale introduced by the renormalization grouptransformation. By numerically solving the coupled differential RG equationsfor the finite-temperature blocked potential U_{beta,k}(Phi) and thewavefunction renormalization constant Z_{beta,k}(Phi), we demonstrate how thefinite-size scaling variable betabar = beta k determines whether the phasetransition is (d+1)- or d-dimensional in the limits betabar >> 1 and betabar <<1, respectively. For the intermediate values of betabar, finite-size effectsplay an important role. We also discuss the failure of the polynomial expansionof the effective potential near criticality.

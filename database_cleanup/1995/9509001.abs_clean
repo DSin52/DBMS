@@ -1,0 +1,9 @@
+Paper: hep-th/9509001
+
+Date: 1995-09-01
+
+Title: Matrix Models and Geometry of Moduli Spaces
+
+Comments: 40pp., LaTeX, no macros needed, 8 figures in text
+
+We give the description of discretized moduli spaces (d.m.s.) $\Mcdisc$introduced in \cite{Ch1} in terms of discrete de Rham cohomologies for modulispaces $\Mgn$. The generating function for intersection indices (cohomologicalclasses) of d.m.s. is found. Classes of highest degree coincide with the onesfor the continuum moduli space $\Mc$. To show it we use a matrix modeltechnique. The Kontsevich matrix model is the generating function in thecontinuum case, and the matrix model with the potential $N\alpha \tr {\bigl(-\fr 14 \L X\L X -\fr12\log (1-X)-\fr12X\bigr)}$ is the one for d.m.s. In thelatest case the effects of Deligne--Mumford reductions become relevant, and weuse the stratification procedure in order to express integrals over open spaces$\Mdisc$ in terms of intersection indices, which are to be calculated oncompactified spaces $\Mcdisc$. We find and solve constraint equations on$t^\pm_m=\tr \fr{\d^m}{\d\l^m}\fr1{\e^\l-1}$. It appears that $\cal Z$ dependsonly on even times and ${\cal Z}[t^\pm_\cdot]=C(\aa N) \e^{\calA}\e^{F(\{t^{-}_{2n}\}) +F(\{-t^{+}_{2n}\})}$, where $F(\{t^\pm_{2n}\})$ is alogarithm of the partition function of the Kontsevich model, $\cal A$ being aquadratic differential operator in $\dd{t^\pm_{2n}}$.

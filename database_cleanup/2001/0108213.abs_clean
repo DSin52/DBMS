@@ -1,0 +1,13 @@
+Paper: hep-th/0108213
+
+Date: 2001-08-28
+
+Title: Fusion bases as facets of polytopes
+
+Authors: L. B\'egin, C. Cummins, L. Lapointe and P. Mathieu
+
+Comments: Harvmac, 31 pages; typos corrected, symmetry analysis made more
+
+precise, conclusion expanded, and references addedJournal-ref: J.Math.Phys. 43 (2002) 4180-4201
+
+A new way of constructing fusion bases (i.e., the set of inequalitiesgoverning fusion rules) out of fusion elementary couplings is presented. Itare associated to the vertices of the polytope while the inequalities definingthe fusion basis are the facets. The symmetry group of the polytope associatedto the lowest rank affine Lie algebras is found; it has order 24 for $\su(2)$,432 for $\su(3)$ and quite surprisingly, it reduces to 36 for $\su(4)$, whileit is only of order 4 for $\sp(4)$. This drastic reduction in the order of thesymmetry group as the algebra gets more complicated is rooted in the presenceof many linear relations between the elementary couplings that break most ofthe potential symmetries. For $\su(2)$ and $\su(3)$, it is shown that thefusion-basis defining inequalities can be generated from few (1 and 2respectively) elementary ones. For $\su(3)$, new symmetries of the fusioncoefficients are found.

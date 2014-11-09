@@ -1,0 +1,13 @@
+Paper: hep-th/0112237
+
+Date: 2001-12-26
+
+Title: Quantum Corrections to the Reissner-Nordstr\"{o}m and Kerr-Newman
+
+MetricsAuthors: John F. Donoghue, Barry R. Holstein, Bj\"{o}rn Garbrecht, and Thomas
+
+KonstandinComments: 16 page latex file with two figures
+
+Journal-ref: Phys.Lett. B529 (2002) 132-142
+
+We use effective field theory techniques to examine the quantum correctionsto the gravitational metrics of charged particles, with and without spin. Inmomentum space the masslessness of the photon implies the presence ofnonanalytic pieces $\sim \sqrt{-q^2},q^2\log -q^2$ etc. in the form factors ofthe energy-momentum tensor. We show how the former reproduces the classicalnon-linear terms of the Reissner-Nordstr\"{o}m and Kerr-Newman metrics whilethe latter can be interpreted as quantum corrections to these metrics, of order$G\alpha\hbar/mr^3$

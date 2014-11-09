@@ -1,0 +1,13 @@
+Paper: hep-th/9906118
+
+Date: 1999-06-15
+
+Title: A Simple Particle Action from a Twistor Parametrization of AdS_5
+
+Authors: Piet Claus, J. Rahmfeld, Yonatan Zunger
+
+Comments: 11 pages, LaTeX
+
+Journal-ref: Phys.Lett. B466 (1999) 181-189
+
+The SO(4,2) isometries of AdS_5 are realized non-linearly on itshorospherical coordinates (x^m,\rho). On the other hand, Penrose twistors havelong been known to linearly realize these symmetries on 4-dimensional Minkowskispace, the boundary of AdS_5, parametrized by x^m. Here we extend the twistorconstruction and define a pair of twistors, allowing us to include a radialcoordinate in the construction. The linear action of SO(4,2) on the twistorsinduces the correct isometries of AdS_5. We apply this new construction to thestudy of the dynamics of a massive particle in AdS_5. We show that in terms ofthe twistor variables the action takes a simple form of a 1-dimensional gaugetheory. Our result might open up the possibility to find a simple worldvolumeaction also for the string propagating on AdS_5.

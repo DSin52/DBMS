@@ -1,0 +1,13 @@
+Paper: hep-th/0112160
+
+Date: 2001-12-18
+
+Title: Ten-Dimensional Supergravity Constraints from the Pure Spinor Formalism
+
+for the SuperstringAuthors: Nathan Berkovits and Paul Howe
+
+Comments: 30 pages latex
+
+Journal-ref: Nucl.Phys. B635 (2002) 75-105
+
+It has recently been shown that the ten-dimensional superstring can bequantized using the BRST operator $Q=\oint\lambda^\alpha d_\alpha$ where$\lambda^\alpha$ is a pure spinor satisfying $\lambda \gamma^m \lambda=0$ and$d_\alpha$ is the fermionic supersymmetric derivative. In this paper, the purespinor version of superstring theory is formulated in a curved supergravitybackground and it is shown that nilpotency and holomorphicity of the purespinor BRST operator imply the on-shell superspace constraints of thesupergravity background. This is shown to lowest order in $\alpha'$ for theheterotic and Type II superstrings, thus providing a compact pure spinorversion of the ten-dimensional superspace constraints for N=1, Type IIA andType IIB supergravities. Since quantization is straightforward using the purespinor version of the superstring, it is expected that these methods can alsobe used to compute higher-order $\alpha'$ corrections to the ten-dimensionalsuperspace constraints.

@@ -1,0 +1,11 @@
+Paper: hep-th/0302068
+
+Date: 2003-02-11
+
+Title: Topological interpretation of the horizon temperature
+
+Authors: T.Padmanabhan
+
+Comments: 4 pages; revtex; 2 figs
+
+A class of metrics $g_{ab}(x^i)$ describing spacetimes with horizons (andassociated thermodynamics) can be thought of as a limiting case of a family ofmetrics $g_{ab}(x^i;\lambda)$ {\it without horizons} when $\lambda\to 0$. Iconstruct specific examples in which the curvature corresponding$g_{ab}(x^i;\lambda)$ becomes a Dirac delta function and gets concentrated onthe horizon when the limit $\lambda\to 0$ is taken, but the action remainsfinite. When the horizon is interpreted in this manner, one needs to remove thecorresponding surface from the Euclidean sector, leading to winding numbers andthermal behaviour. In particular, the Rindler spacetime can be thought of asthe limiting case of (horizon-free) metrics of the form[$g_{00}=\epsilon^2+a^2x^2; g_{\mu\nu}=-\delta_{\mu\nu}$] or [$g_{00} = -g^{xx} = (\epsilon^2 +4 a^2 x^2)^{1/2}, g_{yy}=g_{zz}=-1]$ when $\epsilon\to0$. In the Euclidean sector, the curvature gets concentrated on the origin of$t_E-x$ plane in a manner analogous to Aharanov-Bohm effect (in which the thevector potential is a pure gauge everywhere except at the origin) and thecurvature at the origin leads to nontrivial topological features and windingnumber.

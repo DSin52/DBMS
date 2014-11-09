@@ -1,0 +1,13 @@
+Paper: hep-th/9907048
+
+Date: 1999-07-08
+
+Title: On the path integral representation for the Wilson loop and the
+
+non-Abelian Stokes theoremAuthors: M. Faber, A.N. Ivanov, N.I. Troitskaya and M. Zach
+
+Comments: 33 pages, no figures, Latex, the explicit evaluations of the path
+
+integrals suggested by Diakonov and Petrov for the Wilson loop are added. Itis shown that path integrals have been evaluated by Diakonov and Petrovincorrectly and the path integral representation for the Wilson loop iserroneous. Therefore, the path integral representation for the Wilson loopinvented by Diakonov and Petrov cannot give "a new way to check confinementin lattice"Journal-ref: Phys.Rev. D62 (2000) 025019
+
+We discuss the derivation of the path integral representation over gaugedegrees of freedom for Wilson loops in SU(N) gauge theory and 4-dimensionalEuclidean space-time by using well-known properties of group characters. Adiscretized form of the path integral is naturally provided by the propertiesof group characters and does not need any artificial regularization. We showthat the path integral over gauge degrees of freedom for Wilson loops derivedby Diakonov and Petrov (Phys. Lett. B224 (1989) 131) by using a specialregularization is erroneous and predicts zero for the Wilson loop. Thisproperty is obtained by direct evaluation of path integrals for Wilson loopsdefined for pure SU(2) gauge fields and Z(2) center vortices with spatialazimuthal symmetry. Further we show that both derivations given by Diakonov andPetrov for their regularized path integral, if done correctly, predict alsozero for Wilson loops. Therefore, the application of their path integralrepresentation of Wilson loops cannot give "a new way to check confinement inlattice" as has been declared by Diakonov and Petrov (Phys. Lett. B242 (1990)425). From the path integral representation which we consider we conclude thatno new non-Abelian Stokes theorem can exist for Wilson loops except theold-fashioned one derived by means of the path-ordering procedure.

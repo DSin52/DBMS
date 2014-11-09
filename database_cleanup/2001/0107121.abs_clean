@@ -1,0 +1,13 @@
+Paper: hep-th/0107121
+
+Date: 2001-07-13
+
+Title: The Existence and Stability of Noncommutative Scalar Solitons
+
+Authors: Bergfinnur Durhuus, Thordur Jonsson and Ryszard Nest
+
+Comments: 36 pages, 1 figure
+
+Journal-ref: Commun.Math.Phys. 233 (2003) 49-78
+
+We establish existence and stabilty results for solitons in noncommutativescalar field theories in even space dimension $2d$. In particular, for anyfinite rank spectral projection $P$ of the number operator ${\mathcal N}$ ofthe $d$-dimensional harmonic oscillator and sufficiently large noncommutativityparameter $\theta$ we prove the existence of a rotationally invariant solitonwhich depends smoothly on $\theta$ and converges to a multiple of $P$ as$\theta\to\infty$.In the two-dimensional case we prove that these solitons are stable at large$\theta$, if $P=P_N$, where $P_N$ projects onto the space spanned by the $N+1$lowest eigenstates of ${\mathcal N}$, and otherwise they are unstable. We alsodiscuss the generalisation of the stability results to higher dimensions. Inparticular, we prove stability of the soliton corresponding to $P=P_0$ for all$\theta$ in its domain of existence.Finally, for arbitrary $d$ and small values of $\theta$, we prove withoutassuming rotational invariance that there do not exist any solitons dependingsmoothly on $\theta$.

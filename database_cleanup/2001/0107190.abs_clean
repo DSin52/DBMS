@@ -1,0 +1,11 @@
+Paper: hep-th/0107190
+
+Date: 2001-07-23
+
+Title: "Gauging" the Fluid
+
+Authors: Subir Ghosh (Indian Statistical Institute)
+
+Comments: Version to appear in J.Phys. A
+
+A consistent framework has been put forward to quantize the isentropic,compressible and inviscid fluid model in the Hamiltonian framework, using theClebsch parameterization. The naive quantization is hampered by thenon-canonical (in particular field dependent) Poisson Bracket algebra. Toovercome this problem, the Batalin-Tyutin \cite{12} quantization formalism isadopted in which the original system is converted to a local gauge theory andis embedded in a {\it canonical} extended phase space. In a different reducedphase space scheme \cite{vy} also the original model is converted to a gaugetheory and subsequently the two distinct gauge invariant formulations of thefluid model are related explicitly. This strengthens the equivalence betweenthe relativistic membrane (where a gauge invariance is manifest) and the fluid(where the gauge symmetry is hidden). Relativistic generalizations of theextended model is also touched upon.

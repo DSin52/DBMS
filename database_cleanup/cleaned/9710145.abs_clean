@@ -1,0 +1,13 @@
+Paper: hep-th/9710145
+
+Date: 1997-10-17
+
+Title: Hard-Soft Renormalization and the Exact Renormalization Group
+
+Authors: M. Pernici, M. Raciti and F. Riva
+
+Comments: 20 pages, RevTex; changes in Abstract, Introduction and Conclusions;
+
+Note added in proof; to be published in Nucl.Phys.BJournal-ref: Nucl.Phys. B520 (1998) 469-492
+
+The Wilsonian exact renormalization group gives a natural framework in whichultraviolet and infrared divergences can be treated separately. In massless QEDwe introduce, as the only mass parameter, a renormalization scale $\L_R > 0$.We prove, using the flow equation technique, that infrared convergence is anecessary consequence of any zero-momentum renormalization condition at $\L_R$compatible with the effective Ward identities and axial symmetry. The sameformalism is applied to renormalize gauge-invariant composite operators and toprove their infrared finiteness; in particular we consider the case of theaxial current operator and its anomaly.

@@ -1,0 +1,11 @@
+Paper: hep-th/9806152
+
+Date: 1998-06-18
+
+Title: Absence of Zero Energy States in the Simplest d=3 (d=5?) Matrix Models
+
+Authors: Jens Hoppe, Shing-Tung Yau
+
+Comments: 4 pages, LaTex file
+
+The method introduced in [hep-th/9805020] is simplified, and used tocalculate the asymptotic form of all SU(2) \times SO(d=3, resp. 5) invariantwave functions satisfying $Q_{\hat{\beta}} \Psi = 0, \hat{\beta} = 1 ... 4$resp. 8, where $Q_{\hat{\beta}}$ are the supercharges of the SU(2) matrix modelrelated to supermembranes in d+2=5 (resp. 7) space-time dimensions. For d=3,there exist 2 asymptotic solutions, both of which are constant (hencenon-normalizable) in the flat directions, confirming previous arguments thatgauge-invariant zero energy states should not exist for d<9. For d=5, however,out of 4 asymptotic singlet solutions (3 with orbital angular momentum $l=0$,one having $l=1$) the one with $l=1$ does fall off fast enough to beasymptotically normalizable, hence requiring further analysis to be excluded asbeing extendable to a global solution.

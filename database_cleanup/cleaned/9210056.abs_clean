@@ -1,0 +1,9 @@
+Paper: hep-th/9210056
+
+Date: 1992-10-09
+
+Title: Simple Approach to Thermal Bethe Ansatz
+
+Comments: 12 pages, phyzzx
+
+We report on a new approach to the calculation of thermodynamic functions forcrossing-invariant models solvable by Bethe Ansatz. In the case of the XXZHeisenberg chain we derive, for arbitrary values of the anysotropy, a singlenon-linear integral equation from which the free energy can be exactlycalculated.These equations are shown to be equivalent to an infinite set ofalgebraic equations of Bethe type which provide alternatively thethermodinamics.The high-temperature expansion follows in a sistematic and relatively simpleway from our non-linear integral equations. For low temperatures we obtain thecorrect central charge and predict the analytic structure of the full expansionaround T=0. Furthermore, we derive a single non-linear integral equationdescribing the finite-size ground-state energy of the Sine-Gordon quantum fieldtheory.

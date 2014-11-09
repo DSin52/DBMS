@@ -1,0 +1,11 @@
+Paper: hep-th/9807105
+
+Date: 1998-07-15
+
+Title: Exact solutions for some sigma models in quantum field theory
+
+Authors: P. Tran-Ngoc-Bich
+
+Comments: 216 pages, LATEX, 4 figures, use various AMS options, Ph. D.
+
+dissertation in frenchWe invistigate exact solutions for the two-dimensional quantum field theoriescalled Wess-Zumino-Novikov-Witten (WZNW) models. A WZNW model is a sigma modelwhose classical fields are applications from a bidimensional space-time (aRiemann surface in the euclidian case) to a Lie group, the target space. Weconstruct (and we compute in genus zero and one) the metric connection, calledthe Knizhnik-Zamolodchikov-Bernard (KZB) connection, on the bundle of conformalblocks of the WZNW model. The KZB connection may be viewed as a quantization ofHitchin integrable systems whose configuration space is the moduli space ofprincipal holomorphic bundles over a Riemann surface and whose phase space isthe (holomorphic) cotangent bundle to the configuration space. For thesesystems, we construct explicitly a complete familly of Hamiltonians ininvolution in genus zero, one and two, with (complex) group SL(2) for the lastcase. The main result is the self-duality property of the Hitchin system atgenus two, that is the invariance of the Hamiltonians with respect to theinterchange of positions and momenta in the phase space. We finally realize the(geometric) quantization of the Hitchin systems.

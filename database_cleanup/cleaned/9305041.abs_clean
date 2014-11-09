@@ -1,0 +1,13 @@
+Paper: hep-th/9305041
+
+Date: 1993-05-11
+
+Title: Matrix Models on Large Graphs
+
+Authors: Mark Wexler
+
+Comments: 19pp. (uses harvmac and epsf), PUPT-1398
+
+Journal-ref: Nucl.Phys. B410 (1993) 377-394
+
+We consider the spherical limit of multi-matrix models on regular targetgraphs, for instance single or multiple Potts models, or lattices of arbitrarydimension. We show, to all orders in the low temperature expansion, that whenthe degree of the target graph $\Delta\to\infty$, the free energy becomesindependent of the target graph, up to simple transformations of the mattercoupling constant. Furthermore, this universal free energy containscontributions only from those surfaces which are made up of ``baby universes''glued together into trees, all non-universal and non-tree contributions beingsuppressed by inverse powers of $\Delta$. Each order of the free energy is putinto a simple, algebraic form.

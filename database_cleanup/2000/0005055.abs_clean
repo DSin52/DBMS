@@ -1,0 +1,13 @@
+Paper: hep-th/0005055
+
+Date: 2000-05-05
+
+Title: Anti-Periodic Boundary Conditions in Supersymmetric DLCQ
+
+Authors: S. Pinsky, U. Trittmann
+
+Comments: 9pp, 2 figures
+
+Journal-ref: Phys.Rev. D62 (2000) 087701
+
+It is of considerable importance to have a numerical method for solvingsupersymmetric theories that can support a non-zero central charge. The centralcharge in supersymmetric theories is in general a boundary integral andtherefore vanishes when one uses periodic boundary conditions. One is thereforeprevented from studying BPS states in the standard supersymmetric formulationof DLCQ (SDLCQ). We present a novel formulation of SDLCQ where the fieldssatisfy anti-periodic boundary conditions. The Hamiltonian is written as theanti-commutator of two charges, as in SDLCQ. The anti-periodic SDLCQ weconsider breaks supersymmetry at finite resolution, but requires norenormalization and becomes supersymmetric in the continuum limit. Inprinciple, this method could be used to study BPS states. However, we find itsconvergence to be disappointingly slow.

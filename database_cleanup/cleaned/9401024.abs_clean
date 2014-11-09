@@ -1,0 +1,11 @@
+Paper: hep-th/9401024
+
+Date: 1994-01-06
+
+Title: On the Hamiltonian Approach and Path Integration for a Point Particle
+
+Minimally Coupled to ElectromagnetismAuthors: K. Skenderis and P. van Nieuwenhuizen
+
+Comments: 35 pages, ITP-SB-93-86
+
+We {\em derive} the exact configuration space path integral, together withthe way how to evaluate it, from the Hamiltonian approach for any quantummechanical system in flat spacetime whose Hamiltonian has at most two momentumoperators. Starting from a given, covariant or non-covariant, Hamiltonian, wego from the time-discretized path integral to the continuum path integral byintroducing Fourier modes. We prove that the limit $N \rightarrow \infty$ forthe terms in the perturbation expansion (``Feynman graphs'') exists, bydemonstrating that the series involved are uniformly convergent. {\em All}terms in the expansion of the exponent in $<x| \exp (- \Delta t \hat{H} /\hbar) |y>$ contribute to the propagator (even at order $\Delta t$!). However,in the time-discretized path integral the only effect of the terms with$\hat{H}^2$ and higher is to cancel terms which naively seem to vanish for $N\rightarrow \infty$, but, in fact, are nonvanishing. The final result is thatthe naive correspondence between the Hamiltonian and the Lagrangian approach iscorrect, after all. We explicitly work through the example of a point particlecoupled to electromagnetism. We compute the propagator to order $(\Delta t)^2$both with the Hamiltonian and the path integral approach and find agreement.

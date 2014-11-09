@@ -1,0 +1,11 @@
+Paper: hep-th/9906209
+
+Date: 1999-06-28
+
+Title: Zero Locus Reduction of the BRST Differential
+
+Authors: M A Grigoriev (Lebedev Physics Institute)
+
+Comments: 11 pages, LaTeX2e
+
+I point out an unexpected relation between the BV (Batalin-Vilkovisky) andthe BFV (Batalin-Fradkin-Vilkovisky) formulations of the same pure gauge(topological) theory. The nonminimal sector in the BV formulation of thetopological theory allows one to construct the Poisson bracket and the BRSTcharge on some Lagrangian submanifold of the BV configuration space; thisLagrangian submanifold can be identified with the phase space of the BFVformulation of the same theory in the minimal sector of ghost variables. TheBFV Poisson bracket is induced by a natural even Poisson bracket on thestationary surface of the master action, while the BRST charge originates fromthe BV gauge-fixed BRST transformation defined on a gauge-fixing surface. Theinverse construction allows one to arrive at the BV formulation of thetopological theory starting with the BFV formulation. This correspondence givesan intriguing geometrical interpretation of the nonminimal variables andclarifies the relation between the Hamiltonian and Lagrangian quantization ofgauge theories.This is an extended version of the talk given at the QFTHEP-99 workshop inMoscow, May 27 -June 2, 1999.

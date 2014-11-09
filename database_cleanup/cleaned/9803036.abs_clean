@@ -1,0 +1,13 @@
+Paper: hep-th/9803036
+
+Date: 1998-03-04
+
+Title: Fourth-Order Operators on Manifolds with Boundary
+
+Authors: Giampiero Esposito and Alexander Yu. Kamenshchik
+
+Comments: 25 pages, plain Tex. In the revised version, equations (3.11)--(3.13)
+
+have been amendedJournal-ref: Class.Quant.Grav. 16 (1999) 1097-1111
+
+Recent work in the literature has studied fourth-order elliptic operators onmanifolds with boundary. This paper proves that, in the case of the squaredLaplace operator, the boundary conditions which require that the eigenfunctionsand their normal derivative should vanish at the boundary lead toself-adjointness of the boundary-value problem. On studying, for simplicity,the squared Laplace operator in one dimension, on a closed interval of the realline, alternative conditions which also ensure self-adjointness set to zero atthe boundary the eigenfunctions and their second derivatives, or their firstand third derivatives, or their second and third derivatives, or requireperiodicity, i.e. a linear relation among the values of the eigenfunctions atthe ends of the interval. For the first four choices of boundary conditions,the resulting one-loop divergence is evaluated for a real scalar field on theportion of flat Euclidean four-space bounded by a three-sphere, or by twoconcentric three-spheres.

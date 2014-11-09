@@ -1,0 +1,13 @@
+Paper: hep-th/9903113
+
+Date: 1999-03-12
+
+Title: Eisenstein Series and String Thresholds
+
+Authors: N.A. Obers (Nordita and NBI) and B. Pioline (Ecole Polytechnique)
+
+Comments: Latex2e, 60 pages; v2
+
+clarified, eq (3.3) and minor typos corrected, final version to appear inComm. Math. PhysJournal-ref: Commun.Math.Phys. 209 (2000) 275-324
+
+We investigate the relevance of Eisenstein series for representing certain$G(Z)$-invariant string theory amplitudes which receive corrections from BPSstates only. $G(Z)$ may stand for any of the mapping class, T-duality andU-duality groups $Sl(d,Z)$, $SO(d,d,Z)$ or $E_{d+1(d+1)}(Z)$ respectively.Using $G(Z)$-invariant mass formulae, we construct invariant modular functionson the symmetric space $K\backslash G(R)$ of non-compact type, with $K$ themaximal compact subgroup of $G(R)$, that generalize the standardnon-holomorphic Eisenstein series arising in harmonic analysis on thefundamental domain of the Poincar\'e upper half-plane. Comparing theasymptotics and eigenvalues of the Eisenstein series under second orderdifferential operators with quantities arising in one- and $g$-loop stringamplitudes, we obtain a manifestly T-duality invariant representation of thelatter, conjecture their non-perturbative U-duality invariant extension, andanalyze the resulting non-perturbative effects. This includes the $R^4$ and$R^4 H^{4g-4}$ couplings in toroidal compactifications of M-theory to anydimension $D\geq 4$ and $D\geq 6$ respectively.

@@ -1,0 +1,13 @@
+Paper: hep-th/9805036
+
+Date: 1998-05-07
+
+Title: Universality of low-energy scattering in (2+1) dimensions
+
+Authors: Khosrow Chadan, N.N. Khuri, Andre Martin, Tai Tsun Wu
+
+Comments: 23 pages, Latex
+
+Journal-ref: Phys.Rev. D58 (1998) 025014
+
+We prove that, in (2+1) dimensions, the S-wave phase shift, $ \delta_0(k)$,k being the c.m. momentum, vanishes as either $\delta_0 \to {c\over \ln (k/m)}or \delta_0 \to O(k^2)$ as $k\to 0$. The constant $c$ is universal and$c=\pi/2$. This result is established first in the framework of theSchr\"odinger equation for a large class of potentials, second for a massivefield theory from proved analyticity and unitarity, and, finally, we look atperturbation theory in $\phi_3^4$ and study its relation to ournon-perturbative result. The remarkable fact here is that in n-th order theperturbative amplitude diverges like $(\ln k)^n$ as $k\to 0$, while the fullamplitude vanishes as $(\ln k)^{-1}$. We show how these two facts can bereconciled.

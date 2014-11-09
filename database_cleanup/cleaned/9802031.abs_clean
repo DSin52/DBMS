@@ -1,0 +1,13 @@
+Paper: hep-th/9802031
+
+Date: 1998-02-05
+
+Title: Quantum Field Theory in the Limit x << 1
+
+Authors: C. R. Stephens, A. Weber, J. C. Lopez Vieyra and P. O. Hess
+
+Comments: 39 pages, 3 postscript figures, uses LaTeX2e with feynmf, amssymb and
+
+psfig (processing comments at the beginning of the main file)Journal-ref: Int.J.Mod.Phys. A15 (2000) 1773-1816
+
+The asymptotic high momentum behaviour of quantum field theories with cubicinteractions is investigated using renormalization group techniques in theasymmetric limit x << 1. Particular emphasis is paid to theories withinteractions involving more than one field where it is found that a matrixrenormalization is necessary. Asymptotic scaling forms, in agreement with Reggetheory, are derived for the elastic two-particle scattering amplitude andverified in one-loop renormalization group improved perturbation theory,corresponding to the summation of leading logs to all orders. We give explicitforms for the Regge trajectories of different scalar theories in thisapproximation and determine the signatures.

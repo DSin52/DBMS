@@ -1,0 +1,11 @@
+Paper: hep-th/0002251
+
+Date: 2000-02-29
+
+Title: The diagonalization of quantum field Hamiltonians
+
+Labs)Comments: 12 pages, 8 figures, new material added
+
+Journal-ref: Phys.Lett. B503 (2001) 223-235
+
+We introduce a new diagonalization method called quasi-sparse eigenvectordiagonalization which finds the most important basis vectors of the low energyeigenstates of a quantum Hamiltonian. It can operate using any basis, eitherorthogonal or non-orthogonal, and any sparse Hamiltonian, either Hermitian,non-Hermitian, finite-dimensional, or infinite-dimensional. The method is partof a new computational approach which combines both diagonalization and MonteCarlo techniques.

@@ -1,0 +1,13 @@
+Paper: hep-th/9510162
+
+Date: 1995-10-23
+
+Title: Orbit spaces of reflection groups with 2, 3, and 4 basic polynomial
+
+invariantsAuthors: G. Sartori and G. Valente
+
+Comments: 42 pages, latex, accepted by Journal of Physics A, Mathematical and
+
+GeneralJournal-ref: J.Phys. A29 (1996) 193-224
+
+Covariant or invariant functions under a compact linear group can beexpressed in terms of functions defined in the orbit space of the group. Thesemialgebraic relations defining the orbit spaces of all finite coregular reallinear groups with at most 4 basic invariants are determined. For each group$G$ acting in $\real^n$, the results are obtained through the computation of ametric matrix $\widehat P(p)$, which is defined only in terms of the scalarproducts between the gradients of a set of basic polynomial invariants$p_1(x),\dots p_q(x),\x\in\real^n$ of $G$; the semi-positivity conditions$\widehat P(p)\ge 0$ are known to determine all the equalities and inequalitiesdefining the orbit space $\real^n/G$ of $G$ as a semi-algebraic variety in thespace $\real^q$ spanned by the variables $p_1,\dots ,p_q$. In a recent paper,the $\widehat P$-matrices, for $q\le 4$, have been determined in an alternativeway, as solutions of a universal differential equation;the present paper yieldsa partial, but significant, check on the correctness and completeness of thesesolutions. Our results can be widely exploited,e.g. in the determination ofpatterns of spontaneous symmetry breaking, in the analysis of structural phasetransitions (Landau's theory),in covariant bifurcation theory,in crystal fieldtheory and in solid state theory where symmetry adapted functions are used.

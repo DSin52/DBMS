@@ -1,0 +1,13 @@
+Paper: hep-th/9706041
+
+Date: 1997-06-06
+
+Title: Chiral Determinant Formulae and Subsingular Vectors for the N=2
+
+Superconformal AlgebrasAuthors: Beatriz Gato-Rivera and Jose Ignacio Rosado
+
+Comments: Latex, 36 pages. Minor improvements in some paragraphs, typo in
+
+eq.(5.10) corrected, ref.[23] corrected and some references added. Verysimilar to the version published in Nucl. Phys. B503 (97) 447Geometry; Functional Analysis; Quantum AlgebraJournal-ref: Nucl.Phys. B503 (1997) 447-478
+
+We derive conjectures for the N=2 "chiral" determinant formulae of theTopological algebra, the Antiperiodic NS algebra, and the Periodic R algebra,corresponding to incomplete Verma modules built on chiral topologicalprimaries, chiral and antichiral NS primaries, and Ramond ground states,respectively. Our method is based on the analysis of the singular vectors inchiral Verma modules and their spectral flow symmetries, together with somecomputer exploration and some consistency checks. In addition, and as aconsequence, we uncover the existence of subsingular vectors in these algebras,giving examples (subsingular vectors are non-highest-weight null vectors whichare not descendants of any highest-weight singular vectors).

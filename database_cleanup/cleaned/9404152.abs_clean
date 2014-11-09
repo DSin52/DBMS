@@ -1,0 +1,13 @@
+Paper: hep-th/9404152
+
+Date: 1994-04-25
+
+Title: Thermodynamics of Non-Relativistic Scattering Theory
+
+Authors: Changrim Ahn, Kong-Ju-Bock Lee, and Soonkeon Nam
+
+Comments: 12 pages
+
+Journal-ref: J.Korean Phys.Soc. 28 (1995) 783-787
+
+We use thermodynamic Bethe ansatz to study nonrelativistic scattering theoryof low energy excitations of 1D Hubbard model, using the $S$-matrices proposedby E\ss ler and Korepin. This model can be described by two types of excitationstates, holons and spinons, as asymptotic states. In the attractive regime, thespinon is massive while the holon is massless. The situation is reversed with arepulsive coupling. We derive that the central charge of the Hubbard model inthe IR limit is $c=1$ while it vanishes in the UV limit. The contribution isdue to the massless degree of freedom, i.e. the holon for the attractiveregime, and the massive mode decouples completely. This result is consistentwith various known results based on lattice Bethe ansatz computations. Ourresults make it possible to use the $S$-matrices of the excitations to computemore interesting quantities like correlation functions.

@@ -1,0 +1,11 @@
+Paper: hep-th/9509075
+
+Date: 1995-09-14
+
+Title: Covariant approximation schemes for calculation of the heat kernel in
+
+quantum field theoryComments: 19 pages, Plain TeX, 51 KB, no figures
+
+Journal-ref: in
+
+Scientific, 1997) pp. 61-78This paper is an overview on our recent results in the calculation of theheat kernel in quantum field theory and quantum gravity. We introduce adeformation of the background fields (including the metric of a curvedspacetime manifold) and study various asymptotic expansions of the heat kerneldiagonal associated with this deformation. Especial attention is payed to thelow-energy approximation corresponding to the strong slowly varying backgroundfields. We develop a new covariant purely algebraic approach for calculatingthe heat kernel diagonal in low-energy approximation by taking into account afinite number of low-order covariant derivatives of the background fields, andneglecting all covariant derivatives of higher orders. Then there exist a setof covariant differential operators that together with the background fieldsand their low-order derivatives generate a finite dimensional Lie algebra. Inthe zeroth order of the low-energy perturbation theory, determined bycovariantly constant background, we use this algebraic structure to present theheat operator in the form of an average over the corresponding Lie group. Thissimplifies considerably the calculations and allows to obtain closed explicitlycovariant formulas for the heat kernel diagonal. These formulas serve as thegenerating functions for the whole sequence of the Hadamard-Minakshisundaram-De Witt-Seeley coefficients in the low-energy approximation.

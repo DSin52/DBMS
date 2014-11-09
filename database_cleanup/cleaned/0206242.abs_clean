@@ -1,0 +1,11 @@
+Paper: hep-th/0206242
+
+Date: 2002-06-27
+
+Title: D-Brane Monodromies, Derived Categories and Boundary Linear Sigma Models
+
+Authors: Jacques Distler, Hans Jockers and Hyukjae Park
+
+Comments: 28pp, 1 eps figure. LaTeX2e, utarticle.cls, dcpic.sty, utphys.bst
+
+An important subclass of D-branes on a Calabi-Yau manifold, X, are in 1-1correspondence with objects in D(X), the derived category of coherent sheaveson X. We study the action of the monodromies in Kaehler moduli space on theseD-branes. We refine and extend a conjecture of Kontsevich about the form of oneof the generators of these monodromies (the monodromy about the "conifold"locus) and show that one can do quite explicit calculations of the monodromyaction in many examples. As one application, we verify a prediction of Mayrabout the action of the monodromy about the Landau-Ginsburg locus of thequintic. Prompted by the result of this calculation, we propose a modificationof the derived category which implements the physical requirement that theshift-by-6 functor should be the identity. Boundary Linear sigma-Models proveto be a very nice physical model of many of these derived category ideas, andwe explain the correspondence between these two approaches

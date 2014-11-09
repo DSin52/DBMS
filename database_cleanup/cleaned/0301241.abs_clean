@@ -1,0 +1,11 @@
+Paper: hep-th/0301241
+
+Date: 2003-01-29
+
+Title: Odd coset quantum mechanics
+
+Authors: Evgeny Ivanov, Luca Mezincescu, Anatoly Pashnev and Paul K. Townsend
+
+Comments: Latex, 14pp. Revised to include additional references. Further
+
+revision to incorporate further refsThe standard quantum states of $n$ complex Grassmann variables with afree-particle Lagrangian transform as a spinor of SO(2n). However, the same`free-fermion' model has a non-linearly realized $SU(n|1)$ symmetry; it can beviewed as the mechanics of a `particle' on the Grassmann-odd coset space$SU(n|1)/U(n)$. We implement a quantization of this model for which the stateswith non-zero norm transform as a representation of $SU(n|1)$, therepresentation depending on the U(1) charge of the wave-function. For $n=2$ thewave-function can be interpreted as a BRST superfield.

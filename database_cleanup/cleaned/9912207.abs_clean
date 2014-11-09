@@ -1,0 +1,13 @@
+Paper: hep-th/9912207
+
+Date: 1999-12-21
+
+Title: Three-dimensional QCD in the adjoint representation and random matrix
+
+theoryAuthors: U. Magnea
+
+Comments: LaTeX, 19 pages. Minor corrections, added comments, to appear on
+
+Phys. Rev. DJournal-ref: Phys.Rev. D62 (2000) 016005
+
+In this paper we complete the derivations of finite volume partitionfunctions for QCD using random matrix theories by calculating the effectivelow-energy partition function for three-dimensional QCD in the adjointrepresentation from a random matrix theory with the same global symmetries. Asexpected, this case corresponds to Dyson index $\beta =4$, that is, the Diracoperator can be written in terms of real quaternions. After discussing theissue of defining Majorana fermions in Euclidean space, the actual matrix modelcalculation turns out to be simple. We find that the symmetry breaking patternis $O(2N_f) \to O(N_f) \times O(N_f)$, as expected from the correspondencebetween symmetric (super)spaces and random matrix universality classes found byZirnbauer. We also derive the first Leutwyler--Smilga sum rule.

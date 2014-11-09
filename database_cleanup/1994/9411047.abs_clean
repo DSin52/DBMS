@@ -1,0 +1,13 @@
+Paper: hep-th/9411047
+
+Date: 1994-11-07
+
+Title: The Dilaton Theorem and Closed String Backgrounds
+
+Authors: Oren Bergman and Barton Zwiebach
+
+Comments: 51 pages, plain tex with phyzzx, two uuencoded figures
+
+Journal-ref: Nucl.Phys. B441 (1995) 76-118
+
+The zero-momentum ghost-dilaton is a non-primary BRST physical state presentin every bosonic closed string background. It is given by the action of theBRST operator on another state $\x$, but remains nontrivial in the semirelativeBRST cohomology. When local coordinates arise from metrics we show that dilatonand $\x$ insertions compute Riemannian curvature and geodesic curvaturerespectively. A proper definition of a CFT deformation induced by the dilatonrequires surface integrals of the dilaton and line integrals of $\x$.Surprisingly, the ghost number anomaly makes this a trivial deformation. Whiledilatons cannot deform conformal theories, they actually deform conformalstring backgrounds, showing in a simple context that a string background is notnecessarily the same as a CFT. We generalize the earlier proof of quantumbackground independence of string theory to show that a dilaton shift amountsto a shift of the string coupling in the field-dependent part of the quantumstring action. Thus the ``dilaton theorem'', familiar for on-shell stringamplitudes, holds off-shell as a consequence of an exact symmetry of the stringaction.

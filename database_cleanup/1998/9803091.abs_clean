@@ -1,0 +1,11 @@
+Paper: hep-th/9803091
+
+Date: 1998-03-11
+
+Title: Massive 3-loop Feynman diagrams reducible to SC* primitives of algebras
+
+of the sixth root of unityComments: 41 pages, LaTeX
+
+Journal-ref: Eur.Phys.J. C8 (1999) 311-333
+
+In each of the 10 cases with propagators of unit or zero mass, the finitepart of the scalar 3-loop tetrahedral vacuum diagram is reduced to 4-letter(\lambda^{-p}-z)$, where $\lambda$ is the sixth root of unity. Three diagramsyield only $\zeta(\Omega^3\omega_0)=1/90\pi^4$. In two cases $\pi^4$ combineswith the Euler-Zagier sum $\zeta(\Omega^2\omega_3\omega_0)=\sum_{m>n>0}(-1)^{m+n}/m^3n$; in three cases it combines with the square of Clausen's$Cl_2(\pi/3)=\Im \zeta(\Omega\omega_1)=\sum_{n>0}\sin(\pi n/3)/n^2$. The casewith 6 masses involves no further constant; with 5 masses a\sum_{m>n>0}(-1)^m\cos(2\pi n/3)/m^3n$. The previously unidentified term in the3-loop rho-parameter of the standard model is merely $D_3=6\zeta(3)-6Cl_2^2(\pi/3)-{1/24}\pi^4$. The remarkable simplicity of these results stemsintegrals. Each diagram evaluates to 10 000 digits in seconds, because theprimitive words are transformable to exponentially convergent single sums, asrecently shown for $\zeta(3)$ and $\zeta(5)$, familiar in QCD. Those areSC$^*(2)$ constants, whose base of super-fast computation is 2. Mass involvesthe novel base-3 set SC$^*(3)$. All 10 diagrams reduce to SC$^*(3)\cup$SC$^*(2)$ constants and their products. Only the 6-mass case entails both bases.

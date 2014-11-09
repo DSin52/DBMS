@@ -1,0 +1,11 @@
+Paper: hep-th/9909224
+
+Date: 1999-09-30
+
+Title: Elliptic analog of the Toda lattice
+
+Authors: I. M. Krichever (Columbia University and Landau Institute for
+
+Theoretical Physics)Comments: 25 pages, LaTeX
+
+The action-angle variables for N-particle Hamiltonian system with theHamiltonian $H=\sum_{n=0}^{N-1} \ln sh^{-2}(p_n/2)+\ln(\wp(x_n-x_{n+1})-\wp(x_n+x_{n+1})), x_N=x_0,$ are constructed, and the system is solved in termsof the Riemann $\theta$-functions. It is shown that this system describes poledynamics of the elliptic solutions of 2D Toda lattice corresponding to spectralcurves defined by the equation $w^2-P_{N}^{el}(z)w+\Lambda^{2N}=0$, where$P_{N}^{el}(z)$ is an elliptic function with pole of order N at the point z=0.

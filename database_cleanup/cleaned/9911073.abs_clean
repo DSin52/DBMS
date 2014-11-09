@@ -1,0 +1,13 @@
+Paper: hep-th/9911073
+
+Date: 1999-11-10
+
+Title: The propagator for a general form field in $AdS_{d+1}$
+
+Authors: Iosif Bena
+
+Comments: Extra chapter added on massive p-forms. 10 pages, REVTEX
+
+Journal-ref: Phys.Rev. D62 (2000) 126008
+
+Using the known propagator equations for 0,1 and 2 forms in AdS_{d+1}, wefind the p-form field propagator equations in dimensions where the forms arePoincare dual. Since the general equation obeyed by the propagators is linearin dimension, this gives us the equation obeyed by the propagators for any d.Furthermore, based on the Poincare duality formulas for 0,1,2 and 3 forms weconjecture the general form of the Poincare duality formulas, and check themagainst the previously found propagator equations. The whole structure isself-consistent. Once we have the equations, we can easily obtain all thep-form field propagators in AdS_{d+1}. The generalization to massive p-formscan also be easily done.

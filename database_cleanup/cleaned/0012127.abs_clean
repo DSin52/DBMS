@@ -1,0 +1,13 @@
+Paper: hep-th/0012127
+
+Date: 2000-12-14
+
+Title: Energy bounds for the spinless Salpeter equation
+
+Authors: Richard L. Hall, Wolfgang Lucha, and Franz F. Schoeberl
+
+Comments: 8 pages, 1 figure
+
+Journal-ref: J.Phys. A34 (2001) 5059-5064
+
+We study the eigenvalues E_{n\ell} of the Salpeter Hamiltonian H =\beta\sqrt(m^2 + p^2) + vr^2, v>0, \beta > 0, in three dimensions. By usinggeometrical arguments we show that, for suitable values of P, here provided,the simple semi-classical formula E = min_{r > 0} {v(P/r)^2 + \beta\sqrt(m^2 +r^2)} provides both upper and lower energy bounds for all the eigenvalues ofthe problem.

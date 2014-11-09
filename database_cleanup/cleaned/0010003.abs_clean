@@ -1,0 +1,13 @@
+Paper: hep-th/0010003
+
+Date: 2000-10-01
+
+Title: Running couplings and triviality of field theories on non-commutative
+
+spacesAuthors: Emil T. Akhmedov, Philip DeBoer and Gordon W. Semenoff
+
+Comments: Latex, 9p, Minor changes, references and clarifications are added
+
+Journal-ref: Phys.Rev. D64 (2001) 065005
+
+We examine the issue of renormalizability of asymptotically free fieldtheories on non-commutative spaces. As an example, we solve the non-commutativeO(N) invariant Gross-Neveu model at large N. On commutative space this is arenormalizable model with non-trivial interactions. On the noncommutativespace, if we take the translation invariant ground state, we find that themodel is non-renormalizable. Removing the ultraviolet cutoff yields a trivialnon-interacting theory.

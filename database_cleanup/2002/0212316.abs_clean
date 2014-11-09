@@ -1,0 +1,13 @@
+Paper: hep-th/0212316
+
+Date: 2002-12-27
+
+Title: A New First Class Algebra, Homological Perturbation and Extension of
+
+Pure Spinor Formalism for SuperstringAuthors: Yuri Aisaka and Yoichi Kazama
+
+Comments: 38 pages, no figure. Proof of triviality of delta-homology improved
+
+and a reference addedJournal-ref: JHEP 0302 (2003) 017
+
+Based on a novel first class algebra, we develop an extension of the purespinor (PS) formalism of Berkovits, in which the PS constraints are removed. Byusing the homological perturbation theory in an essential way, the BRST-likecharge $Q$ of the conventional PS formalism is promoted to a bona fidenilpotent charge $\hat{Q}$, the cohomology of which is equivalent to theconstrained cohomology of $Q$. This construction requires only a minimum number(five) of additional fermionic ghost-antighost pairs and the vertex operatorsfor the massless modes of open string are obtained in a systematic way.Furthermore, we present a simple composite "$b$-ghost" field $B(z)$ whichrealizes the important relation $T(z) = \{\hat{Q}, B(z)\} $, with $T(z)$ theVirasoro operator, and apply it to facilitate the construction of theintegrated vertex. The present formalism utilizes U(5) parametrization and themanifest Lorentz covariance is yet to be achieved.

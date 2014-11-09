@@ -1,0 +1,13 @@
+Paper: hep-th/0106193
+
+Date: 2001-06-20
+
+Title: Wave functions and properties of massive states in three-dimensional
+
+supersymmetric Yang-Mills theoryAuthors: J.R. Hiller, S. Pinsky, U. Trittmann
+
+Comments: RevTeX, 25 pages, 16 figures
+
+Journal-ref: Phys.Rev. D64 (2001) 105027
+
+We apply supersymmetric discrete light-cone quantization (SDLCQ) to the studyof supersymmetric Yang-Mills theory on R x S^1 x S^1. One of the compactdirections is chosen to be light-like and the other to be space-like. Since theSDLCQ regularization explicitly preserves supersymmetry, this theory is totallyfinite, and thus we can solve for bound-state wave functions and massesnumerically without renormalizing. We present an overview of all the massivestates of this theory, and we see that the spectrum divides into two distinctand disjoint sectors. In one sector the SDLCQ approximation is only valid up tointermediate coupling. There we find a well defined and well behaved set ofstates, and we present a detailed analysis of these states and theirproperties. In the other sector, which contains a completely different set ofstates, we present a much more limited analysis for strong coupling only. Wefind that, while these state have a well defined spectrum, their masses growwith the transverse momentum cutoff. We present an overview of these states andtheir properties.

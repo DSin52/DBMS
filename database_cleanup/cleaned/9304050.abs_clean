@@ -1,0 +1,13 @@
+Paper: hep-th/9304050
+
+Date: 1993-04-13
+
+Title: Massless Flows I
+
+Authors: P. Fendley, H. Saleur and Al. B. Zamolodchikov
+
+Comments: 39 pages, 7 uuencoded figures, BUHEP-93-5, USC-93/003, LPM-93-07
+
+Journal-ref: Int.J.Mod.Phys. A8 (1993) 5717-5750
+
+The massless flow between successive minimal models of conformal field theoryis related to a flow within the sine-Gordon model when the coefficient of thecosine potential is imaginary. This flow is studied, partly numerically, fromthree different points of view. First we work out the expansion close to theKosterlitz-Thouless point, and obtain roaming behavior, with the central chargegoing up and down in between the UV and IR values of $c=1$. Next weanalytically continue the Casimir energy of the massive flow (i.e. with realcosine term). Finally we consider the lattice regularization provided by theO(n) model in which massive and massless flows correspond to high- andlow-temperature phases. A detailed discussion of the case $n=0$ is then givenusing the underlying N=2 supersymmetry, which is spontaneously broken in thelow-temperature phase. The ``index'' $\tr F(-1)^F$ follows from the PainleveIII differential equation, and is shown to have simple poles in this phase.These poles are interpreted as occuring from level crossing (one-dimensionalphase transitions for polymers). As an application, new exact results for theconnectivity constants of polymer graphs on cylinders are obtained.

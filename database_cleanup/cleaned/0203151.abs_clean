@@ -1,0 +1,13 @@
+Paper: hep-th/0203151
+
+Date: 2002-03-16
+
+Title: A Non-Perturbative Study of Gauge Theory on a Non-Commutative Plane
+
+Authors: W. Bietenholz, F. Hofheinz and J. Nishimura
+
+Comments: 18 pages, 6 figures, final version published in JHEP
+
+Journal-ref: JHEP 0209 (2002) 009
+
+We perform a non-perturbative study of pure gauge theory in a two dimensionalnon-commutative (NC) space. On the lattice, it is equivalent to the twistedEguchi-Kawai model, which we simulated at N ranging from 25 to 515. We observea clear large-N scaling for the 1- and 2-point function of Wilson loops, aswell as the 2-point function of Polyakov lines. The 2-point functions agreewith a universal wave function renormalization. Based on a Morita equivalence,the large-N double scaling limit corresponds to the continuum limit of NC gaugetheory, so the observed large-N scaling demonstrates the non-perturbativerenormalizability of this NC field theory. The area law for the Wilson loopsholds at small physical area as in commutative 2d planar gauge theory, but atlarge areas we find an oscillating behavior instead. In that regime the phaseof the Wilson loop grows linearly with the area. This agrees with theAharonov-Bohm effect in the presence of a constant magnetic field, identifiedwith the inverse non-commutativity parameter.

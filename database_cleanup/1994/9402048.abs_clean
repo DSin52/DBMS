@@ -1,0 +1,13 @@
+Paper: hep-th/9402048
+
+Date: 1994-02-09
+
+Title: Standard Model in Differential Geometry on Discrete Space M4*Z3
+
+Authors: Yoshitaka Okumura
+
+Comments: 27 pages, CHU9402
+
+Journal-ref: Prog.Theor.Phys. 92 (1994) 625-644
+
+Standard model is reconstructed using the generalized differential calculusextended on the discrete space $M_4\times Z_3$. $Z_3$ is necessary for theinclusion of strong interaction. Our starting point is the generalized gaugefield expressed as $A(x,y)=\!\sum_{i}a^\dagger_{i}(x,y){\bf d}a_i(x,y),(y=0,\pm)$, where $a_i(x,y)$ is the square matrix valued function defined on$M_4\times Z_3$ and ${\bf d}=d+{\chi}$ is generalized exterior derivative. Wecan construct the consistent algebra of $d_{\chi}$ with the introduction of thesymmetry breaking function $M(y)$ and the spontaneous breakdown of gaugesymmetry is coded in ${d_{\chi}}$.The gauge field $A_\mu(x,y)$ and Higgs field $\Phi(x,y)$ are written in termsof $a_i(x,y)$ and $M(y)$, which might suggest $a_i(x,y)$ to be more fundamentalobject. The unified picture of the gauge field and Higgs field as thegeneralized connection in non-commutative geometry is realized. Not onlyYang-Mills-Higgs lagrangian but also Dirac lagrangian, invariant against thegauge transformation, are reproduced through the inner product between thedifferential forms. Two model constructions are presented, which aredistinguished in the particle assignment of Higgs field $\Phi(x,y)$.

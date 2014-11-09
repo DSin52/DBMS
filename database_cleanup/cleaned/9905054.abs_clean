@@ -1,0 +1,9 @@
+Paper: hep-th/9905054
+
+Date: 1999-05-10
+
+Title: Conformal field theory of the integer quantum Hall plateau transition
+
+Comments: LateX, 63 pages, several points clarified, references added
+
+A solution to the long-standing problem of identifying the conformal fieldtheory governing the transition between quantized Hall plateaus of a disorderednoninteracting 2d electron gas, is proposed. The theory is a nonlinear sigmamodel with a Wess-Zumino-Novikov-Witten term, and fields taking values in aRiemannian symmetric superspace based on H^3 x S^3. Essentially the sameconformal field theory appeared in very recent work on string propagation inAdS_3 backgrounds. We explain how the proposed theory manages to obey a numberof tight constraints, two of which are constancy of the partition function andnoncriticality of the local density of states. An unexpected feature is theexistence of a truly marginal deformation, restricting the extent to whichuniversality can hold in critical quantum Hall systems. The marginal couplingis fixed by matching the short-distance singularity of the conductance betweentwo interior contacts to the classical conductivity sigma_xx = 1/2 of theChalker-Coddington network model. For this value, perturbation theory predictsa critical exponent 2/pi for the typical point-contact conductance, inagreement with numerical simulations. The irrational exponent is tolerated bythe fact that the symmetry algebra of the field theory is Virasoro but notaffine Lie algebraic.

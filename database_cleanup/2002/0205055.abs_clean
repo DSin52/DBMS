@@ -1,0 +1,13 @@
+Paper: hep-th/0205055
+
+Date: 2002-05-07
+
+Title: Can the clustered dark matter and the smooth dark energy arise from the
+
+same scalar field ?Authors: T. Padmanabhan and T. Roy Choudhury
+
+Comments: Revised to match the published version. Minor changes and a reference
+
+addedJournal-ref: Phys.Rev. D66 (2002) 081301
+
+Cosmological observations suggest the existence of two different kinds ofenergy densities dominating at small ($ \lesssim 500$ Mpc) and large ($\gtrsim1000 $ Mpc) scales. The dark matter component, which dominates at small scales,contributes $\Omega_m \approx 0.35$ and has an equation of state $p=0$ whilethe dark energy component, which dominates at large scales, contributes$\Omega_V \approx 0.65$ and has an equation of state $p\simeq -\rho$. It isusual to postulate wimps for the first component and some form of scalar fieldor cosmological constant for the second component. We explore the possibilityof a scalar field with a Lagrangian $L =- V(\phi) \sqrt{1 - \del^i \phi \del_i\phi}$ acting as {\it both} clustered dark matter and smoother dark energy andhaving a scale dependent equation of state. This model predicts a relationbetween the ratio $ r = \rho_V/\rho_{\rm DM}$ of the energy densities of thetwo dark components and expansion rate $n$ of the universe (with $a(t) \proptot^n$) in the form $n = (2/3) (1+r) $. For $r \approx 2$, we get $n \approx 2$which is consistent with observations.

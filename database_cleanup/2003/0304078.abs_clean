@@ -1,0 +1,11 @@
+Paper: hep-th/0304078
+
+Date: 2003-04-08
+
+Title: Classical paths in systems of fermions
+
+Authors: David H. Oaknin
+
+Comments: to appear in Pys. Rev. D
+
+We implement in systems of fermions the formalism of pseudoclassical pathsthat we recently developed for systems of bosons and show that quantum statesof fermionic fields can be described, in the Heisenberg picture, as linearcombinations of randomly distributed paths that do not interfere betweenthemselves and obey classical Dirac equations. Every physical observable isassigned a time-dependent value on each path in a way that respects theanticommutative algebra between quantum operators and we observe that thesevalues on paths do not necessarily satisfy the usual algebraic relationsbetween classical observables. We use these pseudoclassical paths to define thedynamics of quantum fluctuations in systems of fermions and show that, as wefound for systems of bosons, the dynamics of fluctuations of a wide class ofobservables that we call "collective" observables can be approximatelydescribed in terms of classical stochastic concepts. Finally, we apply thisformalism to describe the dynamics of local fluctuations of globally conservedfermion numbers.

@@ -1,0 +1,11 @@
+Paper: hep-th/9710075
+
+Date: 1997-10-08
+
+Title: Computing the spectrum of black hole radiation in the presence of high
+
+Comments: 26 pages, plain latex, 6 figures included using psfig
+
+Journal-ref: Phys.Rev. D57 (1998) 6280-6291
+
+We present a method for computing the spectrum of black hole radiation of ascalar field satisfying a wave equation with high frequency dispersion. Themethod involves a combination of Laplace transform and WKB techniques forfinding approximate solutions to ordinary differential equations. The modifiedwave equation is obtained by adding a higher order derivative term suppressedby powers of a fundamental momentum scale $k_0$ to the ordinary wave equation.Depending on the sign of this new term, high frequency modes propagate eithersuperluminally or subluminally. We show that the resulting spectrum of createdparticles is thermal at the Hawking temperature, and further that the out-stateis a thermal state at the Hawking temperature, to leading order in $k_0$, foreither modification.

@@ -1,0 +1,13 @@
+Paper: hep-th/0008143
+
+Date: 2000-08-17
+
+Title: Loop integrals in three outstanding gauges
+
+CoulombAuthors: Alfredo T. Suzuki, Alexandre G. M. Schmidt
+
+Comments: 12 pages, 2 figures, style files included
+
+Journal-ref: J.Comput.Phys. 168 (2001) 207-218
+
+We apply negative dimensional integration method (NDIM) to three outstandinga very suitable technique to deal with loop integrals, being them originatedfrom any gauge choice. In Feynman gauge we perform scalar two-loop four-pointmassless integrals; in the light-cone gauge we calculate scalar two-loopintegrals contributing for two-point functions without any kind ofprescriptions, since NDIM can abandon such devices -- this calculation is thefirst test of our prescriptionless method beyond one-loop order; finally, forthe Coulomb gauge we consider a four propagator massless loop integral, in thesplit dimensional regularization context.

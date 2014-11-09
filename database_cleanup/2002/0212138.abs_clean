@@ -1,0 +1,11 @@
+Paper: hep-th/0212138
+
+Date: 2002-12-12
+
+Title: A universal result on central charges in the presence of double-trace
+
+deformationsAuthors: Steven S. Gubser and Igor R. Klebanov
+
+Comments: 15 pages, latex2e, no figures. v2
+
+We study large N conformal field theories perturbed by relevant double-tracedeformations. Using the auxiliary field trick, or Hubbard-Stratonovichtransformation, we show that in the infrared the theory flows to another CFT.The generating functionals of planar correlators in the ultraviolet andinfrared CFT's are shown to be related by a Legendre transform. Our main resultis a universal expression for the difference of the scale anomalies between theultraviolet and infrared fixed points, which is of order 1 in the large Nexpansion. Our computations are entirely field theoretic, and the results areshown to agree with predictions from AdS/CFT. We also remark that a certaintwo-point function can be computed for all energy scales on both sides of theduality, with full agreement between the two and no scheme dependence.

@@ -1,0 +1,9 @@
+Paper: hep-th/9309076
+
+Date: 1993-09-13
+
+Title: A theory of tensor products for module categories for a vertex operator
+
+algebra, IComments: 65 pages. To appear in Selecta Mathematica. The introduction is
+
+substantially expanded, references are updated, and a few misprints arecorrectedThis is the first part in a series of papers developing a tensor producttheory for modules for a vertex operator algebra. The goal of this theory is toconstruct a ``vertex tensor category'' structure on the category of modules fora suitable vertex operator algebra. The notion of vertex tensor category isessentially a ``complex analogue'' of the notion of symmetric tensor category,and in fact a vertex tensor category produces a braided tensor category in anatural way. The theory applies in particular to many familiar ``rational''vertex operator algebras, including those associated with WZNW models, minimalmodels and the moonshine module. In this paper (Part I), we introduce thenotions of $P(z)$- and $Q(z)$-tensor product, where $P(z)$ and $Q(z)$ are twospecial elements of the moduli space of spheres with punctures and localcoordinates, and we present the fundamental properties and constructions of$Q(z)$-tensor products.

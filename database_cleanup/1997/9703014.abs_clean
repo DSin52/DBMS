@@ -1,0 +1,13 @@
+Paper: hep-th/9703014
+
+Date: 1997-03-02
+
+Title: Quasi-Topological Field Theories in Two Dimensions as Soluble Models
+
+Authors: Bruno G. Carneiro da Cunha, P. Teotonio-Sobrinho
+
+Comments: 23 pages, 16 figures, uses psbox.tex
+
+Journal-ref: Int.J.Mod.Phys. A13 (1998) 3667-3690
+
+We study a class of lattice field theories in two dimensions that includesgauge theories. Given a two dimensional orientable surface of genus $g$, thepartition function $Z$ is defined for a triangulation consisting of $n$triangles of area $\epsilon$. The reason these models are calledquasi-topological is that $Z$ depends on $g$, $n$ and $\epsilon$ but not onthe details of the triangulation. They are also soluble in the sense that thecomputation of their partition functions can be reduced to a soluble onedimensional problem. We show that the continuum limit is well defined if themodel approaches a topological field theory in the zero area limit, i.e.,$\epsilon \to 0$ with finite $n$. We also show that the universalityclasses of such quasi-topological lattice field theories can be easilyclassified. Yang-Mills and generalized Yang-Mills theories appear as particularexamples of such continuum limits.

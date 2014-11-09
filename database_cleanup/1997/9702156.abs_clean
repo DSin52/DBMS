@@ -1,0 +1,13 @@
+Paper: hep-th/9702156
+
+Date: 1997-02-21
+
+Title: Renormalisation Group Flow and Geodesics in the O(N) Model for Large N
+
+Authors: Brian P. Dolan
+
+Comments: 24 pages, plain TeX, 6 figures. Includes an expanded discussion of
+
+the metric and some minor correctionsJournal-ref: Nucl.Phys. B528 (1998) 553-576
+
+A metric is introduced on the space of parameters (couplings) describing thelarge N limit of the O(N) model in Euclidean space. The geometry associatedwith this metric is analysed in the particular case of the infinite volumelimit in 3 dimensions and it is shown that the Ricci curvature diverges at theultra-violet (Gaussian) fixed point but is finite and tends to constantnegative curvature at the infra-red (Wilson-Fisher) fixed point. Therenormalisation group flow is examined in terms of geodesics of the metric. Thecritical line of cross-over from the Wilson-Fisher fixed point to the Gaussianfixed point is shown to be a geodesic but all other renormalisation grouptrajectories, which are repulsed from the Gaussian fixed point in theultra-violet, are not geodesics. The geodesic flow is interpreted in terms of amaximisation principle for the relative entropy.

@@ -1,0 +1,11 @@
+Paper: hep-th/9901112
+
+Date: 1999-01-23
+
+Title: Bering's proposal for boundary contribution to the Poisson bracket
+
+Authors: Vladimir O. Soloviev
+
+Comments: 18 pages, LaTeX, amssymb
+
+It is shown that the Poisson bracket with boundary terms recently proposed byBering (hep-th/9806249) can be deduced from the Poisson bracket proposed by thepresent author (hep-th/9305133) if one omits terms free of Euler-Lagrangederivatives ("annihilation principle"). This corresponds to another definitionof the formal product of distributions (or, saying it in other words, toanother definition of the pairing between 1-forms and 1-vectors in the formalvariational calculus). We extend the formula (initially suggested by Beringonly for the ultralocal case with constant coefficients) onto the generalnon-ultralocal brackets with coefficients depending on fields and their spatialderivatives. The lack of invariance under changes of dependent variables (fieldredefinitions) seems a drawback of this proposal.

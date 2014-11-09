@@ -1,0 +1,13 @@
+Paper: hep-th/0107222
+
+Date: 2001-07-25
+
+Title: Minimal representations, spherical vectors, and exceptional theta series
+
+IAuthors: D. Kazhdan, B. Pioline, A. Waldron
+
+Comments: 41 pages, uses JHEP.cls, form and mathematica files at
+
+spherical vector and adelic formulation of theta series in sec 2.3,discussion of standard minimal rep improved in sec 3.1, complex sphericalvector obtained in sec 4.5, plus various cosmetic changes. Final version toappear in CMPJournal-ref: Commun.Math.Phys. 226 (2002) 1-40
+
+Theta series for exceptional groups have been suggested as a possibledescription of the eleven-dimensional quantum supermembrane. We presentexplicit formulae for these automorphic forms whenever the underlying Lie group$G$ is split (or complex) and simply laced. Specifically, we review andconstruct explicitly the minimal representation of $G$, generalizing theSchr\"odinger representation of symplectic groups. We compute the sphericalvector in this representation, i.e. the wave function invariant under themaximal compact subgroup, which plays the role of the summand in theautomorphic theta series. We also determine the spherical vector over thecomplex field. We outline how the spherical vector over the $p$-adic numberfields provides the summation measure in the theta series, postponing itsdetermination to a sequel of this work. The simplicity of our result issuggestive of a new Born-Infeld-like description of the membrane whereU-duality is realized non-linearly. Our results may also be used inconstructing quantum mechanical systems with spectrum generating symmetries.

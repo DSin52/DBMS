@@ -1,0 +1,9 @@
+Paper: hep-th/9407138
+
+Date: 1994-07-21
+
+Title: Drinfel'd algebra deformations, homotopy comodules and the associahedra
+
+Comments: 44 pages
+
+The aim of this work is to construct a cohomology theory controlling thedeformations of a general Drinfel'd algebra. The task is accomplished in threesteps. The first step is the construction of a modified cobar complex adaptedto a non-coassociative comultiplication. The following two steps each involve anew, highly non-trivial, construction. The first construction, essentiallycombinatorial, defines a differential graded Lie algebra structure on thesimplicial chain complex of the associahedra. The second construction, of amore algebraic nature, is the definition of map of differential graded Liealgebras from the complex defined above to the algebra of derivations on thebar resolution. Using the existence of this map and the acyclicity of theassociahedra we can define a so-called homotopy comodule structure on the barresolution of a general Drinfeld algebra. This in turn allows us to define thedesired cohomology theory in terms of a complex which consists, roughlyspeaking, of the bimodule and bicomodule maps from the bar resolution to themodified cobar resolution. The complex is bigraded but not a bicomplex as inthe Gerstenhaber-Schack theory for bialgebra deformations. The new componentsof the coboundary operator are defined via the constructions mentioned above.As an application we show that the Drinfel'd deformation of the universalenveloping algebra of a simple Lie algebra is not a jump deformation. Theresults of the paper were announced in the paper "Drinfel'd algebradeformations and the associahedra" (IMRN, Duke Math. Journal, 4(1994), 169-176,appeared also as preprint hep-th/9312196).

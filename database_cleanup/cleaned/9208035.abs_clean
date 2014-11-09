@@ -1,0 +1,13 @@
+Paper: hep-th/9208035
+
+Date: 1992-08-12
+
+Title: Calculation of Green-Schwarz Superstring Amplitudes Using the N=2
+
+Twistor-String FormalismAuthors: Nathan Berkovits
+
+Comments: 46 pages plain Tex, ITP-SB-92-42
+
+Journal-ref: Nucl. Phys. B395 (1993) 77
+
+The manifestly SU(4)xU(1) super-Poincare invariant free-field N=2 twistor-string action for the ten-dimensional Green-Schwarz superstring is quantizedusing standard BRST methods. Unlike the light-cone and semi-light-conegauge-fixed Green-Schwarz actions, the twistor-string action does not requireinteraction-point operators at the zeroes of the light-cone momentum, $\dzx^+$, which complicated all previous calculations. After defining the vertexoperator for the massless physical supermultiplet, as well as twopicture-changing operators and an instanton-number-changing operator,scattering amplitudes for an arbitrary number of loops and external masslessstates are explicitly calculated by evaluating free-field correlation functionsof these operators on N=2 super-Riemann surfaces of the appropriate topology,and integrating over the global moduli. Although there is no sum over spinstructures, only discrete values of the global U(1) moduli contribute to theamplitudes. Because the spacetime supersymmetry generators do not contain ghostfields, the amplitudes are manifestly spacetime supersymmetric, there is nomultiloop ambiguity, and the non-renormalization theorem is easily proven. Bychoosing the picture-changing operators to be located at the zeroes of $\dzx^+$, these amplitudes are shown to agree with amplitudes obtained using themanifestly unitary light-cone gauge formalism.

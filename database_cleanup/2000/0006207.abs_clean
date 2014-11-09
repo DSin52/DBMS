@@ -1,0 +1,11 @@
+Paper: hep-th/0006207
+
+Date: 2000-06-27
+
+Title: A Canonical Formalism For Lagrangians With Nonlocality Of Finite Extent
+
+Comments: 15 pages, LaTeX 2 epsilon. Replacement notes important previous work
+
+on the general problem by Llosa and VivesJournal-ref: Phys.Rev. A62 (2000) 052105
+
+I consider Lagrangians which depend nonlocally in time but in such a way thatthere is no mixing between times differing by more than some finite value$\Delta t$. By considering these systems as the limits of ever higherderivative theories I obtain a canonical formalism in which the coordinates arethe dynamical variable from $t$ to $t + {\Delta t}$. A simple formula for theconjugate momenta is derived in the same way. This formalism makes apparent thevirulent instability of this entire class of nonlocal Lagrangians. As anexample, the formalism is applied to a nonlocal analog of the harmonicoscillator.

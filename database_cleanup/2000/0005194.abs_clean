@@ -1,0 +1,13 @@
+Paper: hep-th/0005194
+
+Date: 2000-05-22
+
+Title: Anti-self-dual Yang-Mills equations on noncommutative spacetime
+
+Authors: Kanehisa Takasaki
+
+Comments: latex2e using packages amsmath and amssymb, 24 pages, no figure; (v2)
+
+a comment and references on the Nahm equations are added; (v3) minor errorsare corrected, and two references are added; (v4) final version forpublicationSolvable and Integrable SystemsJournal-ref: J.Geom.Phys. 37 (2001) 291-306
+
+By replacing the ordinary product with the so called $\star$-product, one canconstruct an analogue of the anti-self-dual Yang-Mills (ASDYM) equations on thenoncommutative $\bbR^4$. Many properties of the ordinary ASDYM equations turnout to be inherited by the $\star$-product ASDYM equation. In particular, thetwistorial interpretation of the ordinary ASDYM equations can be extended tothe noncommutative $\bbR^4$, from which one can also derive the fundamentalstrutures for integrability such as a zero-curvature representation, anassociated linear system, the Riemann-Hilbert problem, etc. These propertiesare further preserved under dimensional reduction to the principal chiral fieldmodel and Hitchin's Higgs pair equations. However, some structures relying onfinite dimensional linear algebra break down in the $\star$-product analogues.

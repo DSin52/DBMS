@@ -1,0 +1,11 @@
+Paper: hep-th/9512186
+
+Date: 1995-12-21
+
+Title: A Class of Exact Solutions For N-Anyons in a N-body Potential
+
+Comments: 10 pages, no figure, latex file
+
+Journal-ref: Phys.Lett. A221 (1996) 365-369
+
+A class of exact solutions are obtained for the problem of N-anyonsinteracting via the N-body potential $V (\vec x_1,\vec x_2,...,\vec x_N)$ =$-{e^2\over\sqrt{{1\over N}\sum_{i<j} (\vec x_i-\vec x_j)^2}}$ Unlike theoscillator case the resulting spectrum is not linear in the anyon parameter$\alpha (0\leq \alpha\leq 1)$. However, a la oscillator case, cross-overbetween the ground states is shown to occur for N-anyons $(N\geq 3)$experiencing the above potential.

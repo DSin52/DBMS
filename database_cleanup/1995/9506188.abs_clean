@@ -1,0 +1,11 @@
+Paper: hep-th/9506188
+
+Date: 1995-06-28
+
+Title: Variational Solution of the Gross-Neveu model I. the Large-$N$ Limit
+
+Authors: C. Arvanitis (Lab. de Phys. Math., Montpellier II-CNRS and Theor.
+
+Phys. Dept. Imperial College, London), F. Geniet (Lab. de Phys. Math.,Montpellier II-CNRS), A. Neveu (Lab. de Phys. Math., Montpellier II-CNRS andLawrence Berkeley Lab., Univ. of California, Berkeley.)Comments: 20 pages, includes 4-uuencoded figures, uses revtex one minor
+
+corection in the tex source to include properly figIn this first paper we begin the application of variational methods torenormalisable asymptotically free field theories, using the Gross-Neveu modelas a laboratory. This variational method has been shown to lead to anumerically convergent sequence of approximations for the anharmonicoscillator. Here we perform a sample calculation in lowest orders, which showsthe superficially disastrous situation of variational calculations in quantumfield theory, and how in the large-$N$ limit all difficulties go away, as awarm up exercise for the finite-$N$ case and for QCD.

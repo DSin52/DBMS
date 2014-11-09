@@ -1,0 +1,13 @@
+Paper: hep-th/9809048
+
+Date: 1998-09-08
+
+Title: Fluctuation-dissipation theorem and quantum tunneling with dissipation
+
+at finite temperatureAuthors: Kazuo Fujikawa and Hiroaki Terashima (Department of Physics,
+
+University of Tokyo)Comments: 19 pages. Phys. Rev. E (in press)
+
+Journal-ref: Phys.Rev. E58 (1998) 7063-7070
+
+A reformulation of the fluctuation-dissipation theorem of Callen and Weltonis presented in such a manner that the basic idea of Feynman-Vernon andCaldeira -Leggett of using an infinite number of oscillators to simulate thedissipative medium is realized manifestly without actually introducingoscillators. If one assumes the existence of a well defined dissipativecoefficient $R(\omega)$ which little depends on the temperature in the energyregion we are interested in, the spontanous and induced emissions as well asinduced absorption of these effective oscillators with correct Bosedistribution automatically appears.Combined with a dispersion relation, we reproduce the tunneling formula inthe presence of dissipation at finite temperature without referring to anexplicit model Lagrangian. The fluctuation-dissipation theorem of Callen-Weltonis also generalized to the fermionic dissipation (or fluctuation) which allowsa transparent physical interpretation in terms of second quantized fermionicoscillators. This fermionic version of fluctuation-dissipation theorem maybecome relevant in the analyses of, for example, fermion radiation from a blackhole and also supersymmetry at the early universe.

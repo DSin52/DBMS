@@ -1,0 +1,13 @@
+Paper: hep-th/9803238
+
+Date: 1998-03-28
+
+Title: Weak Field Expansion of Gravity
+
+Authors: Shoichi Ichinose and Noriaki Ikeda
+
+Comments: 41pages, 26 figures, Latex, epsf.sty
+
+Journal-ref: Int.J.Mod.Phys. A14 (1999) 2705-2744
+
+We present some approaches to the perturbative analysis of the classical andquantum gravity. First we introduce a graphical representation for a globalSO(n) tensor $(\pl)^d h_\ab$, which generally appears in the weak fieldrepresentation, we explain 1) Generating function of graphs (Feynman diagramapproach), 2) Adjacency matrix (Matrix approach), 3) Graphical classificationin terms of "topology indices" (Topology approach), 4) The Young tableau(Symmetric group approach). We systematically construct the global SO(n)invariants. How to show the independence and completeness of those invariantsis the main theme. We explain it taking simple examples of $\pl\pl h-, {and}(\pl\pl h)^2-$ invariants in the text. The results are applied to the analysisof the independence of general invariants and (the leading order of) the Weylanomalies of scalar-gravity theories in "diverse" dimensions (2,4,6,8,10dimensions).

@@ -1,0 +1,13 @@
+Paper: hep-th/0206172
+
+Date: 2002-06-19
+
+Title: Polynomials Associated with Equilibrium Positions in Calogero-Moser
+
+SystemsAuthors: S. Odake and R. Sasaki
+
+Comments: 41 pages. A Mathematica file "poly.m" is attached
+
+Journal-ref: J.Phys. A35 (2002) 8283-8314
+
+In a previous paper (Corrigan-Sasaki), many remarkable properties ofclassical Calogero and Sutherland systems at equilibrium are reported. Forexample, the minimum energies, frequencies of small oscillations and theeigenvalues of Lax pair matrices at equilibrium are all "integer valued". Theequilibrium positions of Calogero and Sutherland systems for the classical rootsystems (A_r, B_r, C_r and D_r) correspond to the zeros of Hermite, Laguerre,Jacobi and Chebyshev polynomials. Here we define and derive the correspondingpolynomials for the exceptional (E_6, E_7, E_8, F_4 and G_2) andnon-crystallographic (I_2(m), H_3 and H_4) root systems. They do not haveorthogonality but share many other properties with the above mentionedclassical polynomials.

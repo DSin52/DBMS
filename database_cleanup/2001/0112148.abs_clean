@@ -1,0 +1,13 @@
+Paper: hep-th/0112148
+
+Date: 2001-12-17
+
+Title: Exact One-Loop Thermal Free Energies of Solitons
+
+Authors: N. Graham
+
+Comments: 8 pages, 4 figures, uses RevTeX4; v2 fixed formatting (no changes to
+
+text)Journal-ref: Phys.Lett. B529 (2002) 178-185
+
+I show how to compute the exact one-loop thermal correction to the freeenergy of a soliton. The method uses the effective potential as an auxiliarystep to ensure that the soliton is quantized around the appropriate vacuum. Theexact result is then computed using scattering theory techniques, and includesall orders in the derivative expansion. It can be efficiently combined with acalculation of the exact quantum correction to yield the full free energy toone loop. I demonstrate this technique with explicit computations in $\phi^4$models, obtaining the free energy for a kink in 1+1 dimensions and a domainwall in 2+1 dimensions.

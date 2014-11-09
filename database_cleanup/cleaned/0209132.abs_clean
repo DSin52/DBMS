@@ -1,0 +1,11 @@
+Paper: hep-th/0209132
+
+Date: 2002-09-16
+
+Title: Kosterlitz-Thouless-like deconfinement mechanism in the 2+1 dimensional
+
+Abelian Higgs modelAuthors: Hagen Kleinert, Flavio S. Nogueira, and Asle Sudbo
+
+Comments: 42 pages, no figures
+
+We point out that the permanent confinement in a compact 2+1-dimensional U(1)Abelian Higgs model is destroyed by matter fields in the fundamentalrepresentation. The deconfinement transition is Kosterlitz-Thouless like. Thedual theory is shown to describe a three-dimensional gas of point charges withlogarithmic interactions which arises from an anomalous dimension of the gaugefield caused by critical matter field fluctuations. The theory is equivalent toa sine-Gordon-like theory in 2+1 dimensions with an anomalous gradient energyproportional to $k^3$. The Callan-Symanzik equation is used to demonstrate thatthis theory has a massless and a massive phase. The renormalization groupequations for the fugacity $y(l)$ and stiffness parameter $K(l)$ of the theoryshow that the renormalization of $K(l)$ induces an anomalous scaling dimension$\eta_y$ of $y(l)$. The stiffness parameter of the theory has a universal jumpat the transition determined by the dimensionality and $\eta_y$. As a byproductof our analysis, we relate the critical coupling of the sine-Gordon-like theoryto an {\it a priori} arbitrary constant that enters into the computation ofcritical exponents in the Abelian Higgs model at the charged infrared-stablefixed point of the theory, enabling a determination of this parameter. Thisfacilitates the computation of the critical exponent $\nu$ at the charged fixedpoint in excellent agreement with one-loop renormalization group calculationsfor the three-dimensional XY-model, thus confirming expectations based onduality transformations.

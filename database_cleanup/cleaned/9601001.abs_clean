@@ -1,0 +1,9 @@
+Paper: hep-th/9601001
+
+Date: 1996-01-02
+
+Title: Integrable Z_n-Chiral Potts Model
+
+RelationComments: 8 pages, LaTeX with sprocl.sty (included), 3 postscript figures
+
+included using psfig.styThe McCoy-Roan integral representation for gaps of the integrable Z_n-symmetric Chiral Potts quantum chain is used to calculate the boundary of theincommensurable phase for various n. In the limit n -> \infty an analyticformula for this phase boundary is obtained. The McCoy-Roan formula gives thegaps in terms of a rapidity. For the lowest gap we conjecture the relation ofthis rapidity to the physical momentum in the high-temperature limit usingsymmetry properties and comparing the McCoy-Roan formula to high-temperatureexpansions and finite-size data.

@@ -1,0 +1,13 @@
+Paper: hep-th/9806002
+
+Date: 1998-05-30
+
+Title: A Lie Algebra for Closed Strings, Spin Chains and Gauge Theories
+
+Authors: C.-W. H. Lee and S. G. Rajeev
+
+Comments: 52 pages, 8 eps figures, LaTeX2.09; this is the published version
+
+Solvable and Integrable SystemsJournal-ref: J.Math.Phys. 39 (1998) 5199-5230
+
+We consider quantum dynamical systems whose degrees of freedom are describedby $N \times N$ matrices, in the planar limit $N \to \infty$. Examples aregauge theoires and the M(atrix)-theory of strings. States invariant under U(N)are `closed strings', modelled by traces of products of matrices. We havediscovered that the U(N)-invariant opertors acting on both open and closedstring states form a remarkable new Lie algebra which we will call the heterixalgebra. (The simplest special case, with one degree of freedom, is anextension of the Virasoro algebra by the infinite-dimensional general linearalgebra.) Furthermore, these operators acting on closed string states only forma quotient algebra of the heterix algebra. We will call this quotient algebrathe cyclix algebra. We express the Hamiltonian of some gauge field theories(like those with adjoint matter fields and dimensionally reduced pure QCDmodels) as elements of this Lie algebra. Finally, we apply this cyclix algebrato establish an isomorphism between certain planar matrix models and quantumspin chain systems. Thus we obtain some matrix models solvable in the planarlimit; e.g., matrix models associated with the Ising model, the XYZ model,models satisfying the Dolan-Grady condition and the chiral Potts model. Thusour cyclix Lie algebra described the dynamical symmetries of quantum spin chainsystems, large-N gauge field theories, and the M(atrix)-theory of strings.

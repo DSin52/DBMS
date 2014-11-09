@@ -1,0 +1,13 @@
+Paper: hep-th/9811102
+
+Date: 1998-11-11
+
+Title: Gauge Model With Extended Field Transformations in Euclidean Space
+
+Authors: D. G. C. McKeon, T. N. Sherry
+
+Comments: 31 pages, Plain LaTeX
+
+Journal-ref: Int.J.Mod.Phys. A15 (2000) 227-250
+
+An SO(4) gauge invariant model with extended field transformations isexamined in four dimensional Euclidean space. The gauge field is$(A^\mu)^{\alpha\beta} = 1/2 t^{\mu\nu\lambda} (M^{\nu\lambda})^{\alpha\beta}$where $M^{\nu\lambda}$ are the SO(4) generators in the fundamentalrepresentation. The SO(4) gauge indices also participate in the Euclidean spaceSO(4) transformations giving the extended field transformations. We provide thedecomposition of the reducible field $t^{\mu\nu\lambda}$ in terms of fieldsirreducible under SO(4). The SO(4) gauge transformations for the irreduciblefields mix fields of different spin. Reducible matter fields are introduced inthe form of a Dirac field in the fundamental representation of the gauge groupand its decomposition in terms of irreducible fields is also provided. Theapproach is shown to be applicable also to SO(5) gauge models in fivedimensional Euclidean space.

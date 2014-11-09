@@ -1,0 +1,13 @@
+Paper: hep-th/9903006
+
+Date: 1999-02-28
+
+Title: Consistent sigma-models in N=1 supergravity
+
+Authors: S. Groot Nibbelink and J.W. van Holten
+
+Comments: 39 pages, LaTeX, no figures
+
+Journal-ref: Nucl.Phys. B588 (2000) 57-89
+
+A consistent N=1 supersymmetric $\sigma$-model can be constructed, given aK\"ahler manifold by adding chiral matter multiplets. Their scalar componentsare covariant tensors on the underlying K\"ahler manifold. The K\"ahlerU(1)-charges can be adjusted such that the anomalies cancel, using theholomorphic functions in which the K\"ahler potential transforms. Thearbitrariness of the U(1)-charges of matter multiplets is related to theirWeyl-weights in superconformal gravity, before it is reduced to supergravity.The covariance of the K\"ahler potential forces the superpotential to becovariant as well. This relates the cut-off, the Planck scale and the mattercharges to each other. A non-vanishing VEV of the covariant superpotentialbreaks the K\"ahler U(1) spontaneously. If this VEV vanishes, the gravitino ismassless and depending on the above mentioned parameters there may beadditional internal symmetry breaking. The separation of the differentrepresentations of chiral multiplets can be achieved by covariantizations ofderivatives and fermions. Using non-holomorphic transformations, the fullK\"ahler metric can be block-diagonalized and the necessary covariantizationscome out naturally. Various aspects are illustrated by applying them toGrassmannian coset models. In particular a consistent model of coset$SU(5)/SU(2)\times U(1) \times SU(3)$ with the field content of the standardmodel is constructed. The phenomenology of this model is analyzed.

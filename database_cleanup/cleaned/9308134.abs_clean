@@ -1,0 +1,13 @@
+Paper: hep-th/9308134
+
+Date: 1993-08-27
+
+Title: The Many Faces of the Quantum Liouville Exponentials
+
+Authors: Jean-Loup Gervais, Jens Schnittger
+
+Comments: (23 pages, Latex file) preprint LPTENS-93/30
+
+Journal-ref: Nucl.Phys. B413 (1994) 433-460
+
+First, it is proven that the three main operator-approaches to the quantumLiouville exponentials --- that is the one of Gervais-Neveu (more recentlydeveloped further by Gervais), Braaten-Curtright-Ghandour-Thorn, and Otto-Weigtthe Fock space of the free field depending upon the zero-mode only. Second, theGN-G expressions for quantum Liouville exponentials, where the $U_q(sl(2))$quantum group structure is manifest, are shown to be given by q-binomial sumsover powers of the chiral fields in the $J=1/2$ representation. Third, theLiouville exponentials are expressed as operator tau-functions, whose chiralexpansion exhibits a q Gauss decomposition, which is the direct quantumanalogue of the classical solution of Leznov and Saveliev. It involves qexponentials of quantum group generators with group "parameters" equal tochiral components of the quantum metric. Fourth, we point out that the OPE ofthe $J=1/2$ Liouville exponential provides the quantum version of the Hirotabilinear equation.

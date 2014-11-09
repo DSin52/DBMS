@@ -1,0 +1,13 @@
+Paper: hep-th/9606007
+
+Date: 1996-06-03
+
+Title: Projection Operator Approach to Constrained Systems
+
+Authors: Jan Govaerts (Univ. of Louvain, Belgium)
+
+Comments: LateX file, 17 pages. Includes additional references and a correction
+
+in Sect.4Journal-ref: J.Phys. A30 (1997) 603-617
+
+Recently, within the context of the phase space coherent state path integralquantisation of constrained systems, John Klauder introduced a reproducingkernel for gauge invariant physical states, which involves a projectionoperator onto the reduced Hilbert space of physical states, avoids any gaugefixing conditions, and leads to a specific measure for the integration overLagrange multipliers. Here, it is pointed out that this approach is also devoidof any Gribov problems and always provides for an effectively admissibleintegration over all gauge orbits of gauge invariant systems. This importantaspect of Klauder's proposal is explicitly confirmed by two simple examples.

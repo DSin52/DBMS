@@ -1,0 +1,13 @@
+Paper: hep-th/0005269
+
+Date: 2000-05-29
+
+Title: One-Loop Quantum Energy Densities of Domain Wall Field Configurations
+
+Authors: Andrei Parnachev, Laurence G. Yaffe
+
+Comments: RevTex, 29 pages, 1 figure, minor corrections, references added
+
+Journal-ref: Phys.Rev. D62 (2000) 105034
+
+We discuss a simple procedure for computing one-loop quantum energies of anystatic field configuration that depends non-trivially on only a single spatialcoordinate. We specifically focus on domain wall-type field configurations thatconnect two distinct minima of the effective potential, and may or may not bethe solutions of classical field equations. We avoid the conventional summationof zero-point energies, and instead exploit the relation between functionaldeterminants and solutions of associated differential equations. This approachallows ultraviolet divergences to be easily isolated and extracted using any$\phi^4$ theory, and three-dimensional scalar electrodynamics with spontaneoussymmetry breaking at the one-loop level.

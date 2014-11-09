@@ -1,0 +1,13 @@
+Paper: hep-th/0103194
+
+Date: 2001-03-22
+
+Title: Anisotropic scaling and generalized conformal invariance at Lifshitz
+
+pointsAuthors: Michel Pleimling, Malte Henkel
+
+Comments: 4 pages, Latex, 2 figures
+
+PhysicsJournal-ref: Phys. Rev. Lett. 87, 125702 (2001)
+
+The behaviour of the 3D axial next-nearest neighbour Ising (ANNNI) model atthe uniaxial Lifshitz point is studied using Monte Carlo techniques. A newvariant of the Wolff cluster algorithm permits the analysis of systems farlarger than in previous studies. The Lifshitz point critical exponents are$\alpha=0.18(2)$, $\beta=0.238(5)$ and $\gamma=1.36(3)$. Data for the spin-spincorrelation function are shown to be consistent with the explicit scalingfunction derived from the assumption of local scale invariance, which is ageneralization of conformal invariance to the anisotropic scaling {\em at} theLifshitz point.

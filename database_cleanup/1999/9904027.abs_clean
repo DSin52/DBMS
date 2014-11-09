@@ -1,0 +1,13 @@
+Paper: hep-th/9904027
+
+Date: 1999-04-05
+
+Title: The Perils of `Soft' SUSY Breaking
+
+Authors: F.Antonuccio, O.Lunin and S.Pinsky
+
+Comments: 11 pages, Latex; 2 figures (EPS); Numerical results extended;
+
+conclusions revisedJournal-ref: Phys.Lett. B459 (1999) 159-164
+
+We consider a two dimensional SU(N) gauge theory coupled to an adjointMajorana fermion, which is known to be supersymmetric for a particular value offermion mass. We investigate the `soft' supersymmetry breaking of the discretelight cone quantization (DLCQ) of this theory. There are several DLCQformulations of this theory currently in the literature and they naively appearto behave differently under `soft' supersymmetry breaking at finite resolution.We show that all these formulations nevertheless yield identical bound statemasses in the decompactification limit of the light-like circle. Moreover, weare able to show that the supersymmetry-inspired version of DLCQ (so called`SDLCQ') provides the best rate of convergence of DLCQ bound state massestowards the actual continuum values, except possibly near or at the criticalfermion mass. In this last case, we discuss improved extrapolation schemes thatmust supplement the DLCQ algorithm in order to obtain correct continuum boundstate masses. Interestingly, when we truncate the Fock space to two particles,the SDLCQ prescription presented here provides a scheme for improving the rateof convergence of the massive t'Hooft model. Thus the supersymmetry-inspiredSDLCQ prescription is applicable to theories without supersymmetry.

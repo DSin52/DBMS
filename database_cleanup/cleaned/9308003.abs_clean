@@ -1,0 +1,11 @@
+Paper: hep-th/9308003
+
+Date: 1993-08-02
+
+Title: On Feynman's Approach to the Foundations of Gauge Theory
+
+Authors: M. C. Land, N. Shnerb, and L. P. Horwitz
+
+Comments: This is a complete re-write of our paper, using new techniques, with
+
+a new section on non-Abelian gauge fields. (36 pages, latex, no figures)In 1948, Feynman showed Dyson how the Lorentz force and Maxwell equationscould be derived from commutation relations coordinates and velocities. Severalauthors noted that the derived equations are not Lorentz covariant and so arenot the standard Maxwell theory. In particular, Hojman and Shepley proved thatthe existence of commutation relations is a strong assumption, sufficient todetermine the corresponding action, which for Feynman's derivation is ofNewtonian form. Tanimura generalized Feynman's derivation to a Lorentzcovariant form, however, this derivation does not lead to the standard Maxwelltheory either. Tanimura's force equation depends on a fifth ({\it scalar})electromagnetic potential, and the invariant evolution parameter cannot beconsistently identified with the proper time of the particle motion. Moreover,the derivation cannot be made reparameterization invariant; the scalarpotential causes violations of the mass-shell constraint which this invarianceshould guarantee. In this paper, we examine Tanimura's derivation in theframework of the proper time method in relativistic mechanics, and use thetechnique of Hojman and Shepley to study the unconstrained commutationrelations. We show that Tanimura's result then corresponds to thefive-dimensional electromagnetic theory previously derived from aStueckelberg-type quantum theory in which one gauges the invariant parameter inthe proper time method. This theory provides the final step in Feynman'sprogram of deriving the Maxwell theory from commutation relations; the Maxwelltheory emerges as the ``correlation limit'' of a more general gauge theory, inwhich it is properly contained.

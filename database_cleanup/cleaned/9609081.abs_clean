@@ -1,0 +1,13 @@
+Paper: hep-th/9609081
+
+Date: 1996-09-10
+
+Title: Geometry of N=1 Super Yang-Mills Theory in Curved Superspace
+
+Authors: A. Konechny, A. Schwarz
+
+Comments: 16 pages, Latex
+
+Journal-ref: J.Geom.Phys. 23 (1997) 97-110
+
+We give a new description of N=1 super Yang-Mills theory in curvedsuperspace. It is based on the induced geometry approach to a curved superspacein which it is viewed as a surface embedded into C(4|2). The complex structureon C(4|2) supplied with a standard volume element induces a specialCauchy-Riemann (SCR)-structure on the embedded surface. We give an explicitconstruction of SYM theory in terms of intrinsic geometry of the superspacedefined by this SCR-structure and a CR-bundle over the superspace. We write amanifestly SCR-covariant Lagrangian for SYM coupled with matter. We also showthat in a special gauge our formulation coincides with the standard one whichuses Lorentz connections. Some useful auxiliary results about the integrationover surfaces in superspace are obtained.

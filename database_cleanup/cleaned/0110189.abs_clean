@@ -1,0 +1,13 @@
+Paper: hep-th/0110189
+
+Date: 2001-10-21
+
+Title: Energy and the AdS/CFT Correspondence
+
+Authors: Pablo Minces, Victor O. Rivelles
+
+Comments: 64 pages, LaTeX, v2 one reference added and minor changes v3 minor
+
+changes and correctionsJournal-ref: JHEP 0112 (2001) 010
+
+We consider a scalar field theory on AdS in both minimally and non-minimallycoupled cases. We show that there exist constraints which arise in thequantization of the scalar field theory on AdS which cannot be reproducedthrough the usual AdS/CFT prescription. We argue that the usual energy, definedthrough the stress-energy tensor, is not the natural one to be considered inthe context of the AdS/CFT correspondence. We analyze a new definition of theenergy which makes use of the Noether current corresponding to timedisplacements in global coordinates. We compute the new energy for Dirichlet,Neumann and mixed boundary conditions on the scalar field and for both theminimally and non-minimally coupled cases. Then, we perform the quantization ofthe scalar field theory on AdS showing that, for `regular' and `irregular'modes, the new energy is conserved, positive and finite. We show that thequantization gives rise, in a natural way, to a generalized AdS/CFTprescription which maps to the boundary all the information contained in thebulk. In particular, we show that the divergent local terms of the on-shellaction contain information about the Legendre transformed generatingfunctional, and that the new constraints for which the irregular modespropagate in the bulk are the same constraints for which such divergent localterms cancel out. In this situation, the addition of counterterms is notrequired. We also show that there exist particular cases for which theunitarity bound is reached, and the conformal dimension becomes independent ofthe effective mass. This phenomenon has no bulk counterpart.

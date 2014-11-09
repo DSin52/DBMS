@@ -1,0 +1,13 @@
+Paper: hep-th/9906125
+
+Date: 1999-06-16
+
+Title: Instanton contributions to Wilson loops with general winding number in
+
+two dimensions and the spectral densityAuthors: A. Bassetto, L. Griguolo and F. Vian
+
+Comments: RevTeX, 40 pages, 14 eps-figures
+
+Journal-ref: Nucl.Phys. B559 (1999) 563-590
+
+The exact expression for Wilson loop averages winding n times on a closedcontour is obtained in two dimensions for pure U(N) Yang-Mills theory and,rather surprisingly, it displays an interesting duality in the exchange $n\leftrightarrow N$. The large-N limit of our result is consistent with previouscomputations. Moreover we discuss the limit of small loop area ${\cal A}$,keeping $n^2 {\cal A}$ fixed, and find it coincides with the zero-instantonapproximation. We deduce that small loops, both at finite and infinite"volume", are blind to instantons. Next we check the non-perturbative result byresumming 't Hooft-CPV and Wu-Mandelstam-Leibbrandt (WML)-prescribedperturbative series, the former being consistent with the exact result, thelatter reproducing the zero-instanton contribution. A curious interplay betweengeometry and algebraic invariants is observed. Finally we compute the spectraldensity of the Wilson loop operator, at large $N$, via its Fourierand coincide when the theory is considered on the sphere $S^2$.

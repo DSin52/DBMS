@@ -1,0 +1,11 @@
+Paper: hep-th/0104144
+
+Date: 2001-04-17
+
+Title: The superintegrable chiral Potts quantum chain and generalized Chebyshev
+
+polynomialsAuthors: G. von Gehlen and Shi-shyr Roan
+
+Comments: 18 pages, LaTeX, no figures
+
+Finite-dimensional representations of Onsager's algebra are characterized bythe zeros of truncation polynomials. The Z_N-chiral Potts quantum chainhamiltonians (of which the Ising chain hamiltonian is the N=2 case) are themain known interesting representations of Onsager's algebra and thecorresponding polynomials have been found by Baxter and Albertini, McCoy andPerk in 1987-89 considering the Yang-Baxter-integrable 2-dimensional chiralPotts model. We study the mathematical nature of these polynomials. We findthat for N>2 and fixed charge Q these don't form classical orthogonal setsbecause their pure recursion relations have at least N+1-terms. However,several basic properties are very similar to those required for orthogonalChebyshev polynomials the coefficients are independent of the degree. We find aremarkable partial orthogonality, for N=3,5 with respect to Jacobi-, and forN=4,6 with respect to Chebyshev weight functions. The separation properties ofthe zeros known from orthogonal polynomials are violated only by the extremezero at one end of the interval.

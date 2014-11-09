@@ -1,0 +1,11 @@
+Paper: hep-th/0211222
+
+Date: 2002-11-25
+
+Title: Intersecting D3-branes and Holography
+
+Authors: Neil R. Constable, Johanna Erdmenger, Zachary Guralnik and Ingo Kirsch
+
+Comments: 45 pages, 5 figures. Latex
+
+We study a defect conformal field theory describing D3-branes intersectingover two space-time dimensions. This theory admits an exact Lagrangiandescription which includes both two- and four-dimensional degrees of freedom,has (4,4) supersymmetry and is invariant under global conformaltransformations. Both two- and four-dimensional contributions to the action areconveniently obtained in a two-dimensional (2,2) superspace. In a suitablelimit, the theory has a dual description in terms of a probe D3-brane wrappingan AdS_3 x S^1 slice of AdS_5 x S^5. We consider the AdS/CFT dictionary forthis set-up. In particular we find classical probe fluctuations correspondingto the holomorphic curve wy=c\alpha^{\prime}. These fluctuations are dual todefect fields containing massless two-dimensional scalars which parameterizethe classical Higgs branch, but do not correspond to states in the Hilbertspace of the CFT. We also identify probe fluctuations which are dual to BPSsuperconformal primary operators and to their descendants. Anon-renormalization theorem is conjectured for the correlators of theseoperators, and verified to order g^2.

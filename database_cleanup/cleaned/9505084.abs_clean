@@ -1,0 +1,11 @@
+Paper: hep-th/9505084
+
+Date: 1995-05-15
+
+Title: Improved Convergence Proof of the Delta Expansion and Order Dependent
+
+MappingsComments: some bugs of uuencoded postscript figures are fixed
+
+Journal-ref: Annals Phys. 249 (1996) 109-145
+
+We improve and generalize in several accounts the recent rigorous proof ofconvergence of delta expansion - order dependent mappings (variationalperturbation expansion) for the energy eigenvalues of anharmonic oscillator.For the single-well anharmonic oscillator the uniformity of convergence in$g\in[0,\infty]$ is proven. The convergence proof is extended also to complexvalues of $g$ lying on a wide domain of the Riemann surface of $E(g)$. Via thescaling relation \`a la Symanzik, this proves the convergence of deltaexpansion for the double well in the strong coupling regime (where the standardperturbation series is non Borel summable), as well as for the complex ``energyeigenvalues'' in certain metastable potentials. Sufficient conditions for theconvergence of delta expansion are summarized in the form of three theorems,which should apply to a wide class of quantum mechanical and higher dimensionalfield theoretic systems.

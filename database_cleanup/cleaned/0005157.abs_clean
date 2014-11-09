@@ -1,0 +1,11 @@
+Paper: hep-th/0005157
+
+Date: 2000-05-17
+
+Title: Numerical Analysis of the Double Scaling Limit in the IIB Matrix Model
+
+Authors: S.Horata, H.S.Egawa
+
+Comments: 9pages, latex, 4 figures, uses psfig.sty, corrected some typos and
+
+referencesThe bosonic IIB matrix model is studied using a numerical method. This modelcontains the bosonic part of the IIB matrix model conjectured to be anon-perturbative definition of the type IIB superstring theory. The large Nscaling behavior of the model is shown performing a Monte Carlo simulation. Theexpectation value of the Wilson loop operator is measured and the stringtension is estimated. The numerical results show the prescription of the doublescaling limit.

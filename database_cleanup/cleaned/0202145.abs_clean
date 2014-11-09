@@ -1,0 +1,11 @@
+Paper: hep-th/0202145
+
+Date: 2002-02-21
+
+Title: Unconstrained SU(2) Yang-Mills Theory with Topological Term in the
+
+Long-Wavelength ApproximationAuthors: A.M. Khvedelidze, D.M. Mladenov, H.-P. Pavel, and G. R\"opke
+
+Comments: 29 pages Latex, no figures. Several improvements have been made, in
+
+particular an appendix B on the existence of the "symmetric gauge" has beenaddedThe Hamiltonian reduction of SU(2) Yang-Mills theory for arbitrary\theta-angle to an unconstrained nonlocal theory of a self-interacting positivedefinite symmetric 3 \times 3 matrix field S(x) is performed. It is shown that,after exact projection to reduced phase space, the density of the Pontryaginindex remains a pure divergence, proving the \theta-independence of theobtained unconstrained theory. Expansion of the nonlocal kinetic part of theHamiltonian in powers of inverse coupling constant and truncation to lowestorder, however, leads to violation of the \theta-independence of the theory. Inorder to maintain this property on the level of the local approximate theory, amodified expansion in inverse coupling constant is suggested, which forvanishing \theta-angle coincides with the original expansion. The correspondingapproximate Lagrangian up to second order in derivatives is derived and theexplicit form of the unconstrained analog of the Chern-Simons current linear inderivatives is given. Finally, for the case of degenerate field configurationsS(x) with rank|S|=1, a nonlinear \sigma-model type model is obtained, with thePontryagin topological term reducing to the Hopf invariant of the mapping fromthe 3-sphere S^3 to the unit 2-sphere S^2 in the Whitehead form.

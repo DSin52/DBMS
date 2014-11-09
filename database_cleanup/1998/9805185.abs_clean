@@ -1,0 +1,13 @@
+Paper: hep-th/9805185
+
+Date: 1998-05-27
+
+Title: Exact Form Factors in Integrable Quantum Field Theories
+
+ModelAuthors: H. Babujian, A. Fring, M. Karowski and A. Zapletal
+
+Comments: 55 pages, 7 figures, LaTeX
+
+SystemsJournal-ref: Nucl.Phys. B538 (1999) 535-586
+
+We provide detailed arguments on how to derive properties of generalized formfactors, originally proposed by one of the authors (M.K.) and Weisz twentyyears ago, solely based on the assumption of "minimal analyticity" and thevalidity of the LSZ reduction formalism. These properties constituteconsistency equations which allow the explicit evaluation of the n-particleform factors once the scattering matrix is known. The equations give rise to amatrix Riemann-Hilbert problem. Exploiting the "off-shell" Bethe ansatz wepropose a general formula for form factors for an odd number of particles. Forthe Sine-Gordon model alias the massive Thirring model we exemplify the generalsolution for several operators. We carry out a consistency check for thesolution of the three particle form factor against the Thirring modelperturbation theory and thus confirm the general formalism.

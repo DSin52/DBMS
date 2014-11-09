@@ -1,0 +1,11 @@
+Paper: hep-th/0002074
+
+Date: 2000-02-09
+
+Title: p-Gerbes and Extended Objects in String Theory
+
+Authors: Yonatan Zunger (Stanford University)
+
+Comments: 17 pages, uses amsfonts; minor corrections, references added
+
+p-Gerbes are a generalization of bundles that have (p+2)-form fieldstrengths. We develop their properties and use them to show that every theoryof p-gerbes can be reinterpreted as a gauge theory containing p-dimensionalextended objects. In particular, we show that every closed (p+2)-form withinteger cohomology is the field strength for a gerbe, and that every p-gerbe isequivalent to a bundle with connection on the space of p-dimensionalsubmanifolds of the original space. We also show that p-gerbes are equivalentto sheaves of (p-1)-gerbes, and use this to define a K-theory of gerbes. ThisK-theory classifies the charges of (p+1)-form connections in the same way thatbundle K-theory classifies 1-form connections.

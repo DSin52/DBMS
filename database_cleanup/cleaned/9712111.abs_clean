@@ -1,0 +1,13 @@
+Paper: hep-th/9712111
+
+Date: 1997-12-11
+
+Title: Universal amplitude ratios in the two-dimensional $q$-state Potts model
+
+and percolation from quantum field theoryAuthors: G. Delfino and J.L. Cardy
+
+Comments: 35 pages, latex
+
+Journal-ref: Nucl.Phys. B519 (1998) 551-578
+
+We consider the scaling limit of the two-dimensional $q$-state Potts modelfor $q\leq 4$. We use the exact scattering theory proposed by Chim andZamolodchikov to determine the one and two-kink form factors of the energy,order and disorder operators in the model. Correlation functions and universalcombinations of critical amplitudes are then computed within the two-kinkapproximation in the form factor approach. Very good agreement is foundwhenever comparison with exact results is possible. We finally consider thelimit $q\to 1$ which is related to the isotropic percolation problem. Althoughthis case presents a serious technical difficulty, we predict a value close to74 for the ratio of the mean cluster size amplitudes above and below thepercolation threshold. Previous estimates for this quantity range from 14 to220.

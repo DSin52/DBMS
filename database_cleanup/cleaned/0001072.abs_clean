@@ -1,0 +1,13 @@
+Paper: hep-th/0001072
+
+Date: 2000-01-12
+
+Title: Twistors and Actions on Coset Manifolds
+
+Authors: Yonatan Zunger (Dept. of Physics, Stanford University)
+
+Comments: 10 pages; section 2 rewritten for clarity. To appear in Phys. Rev. D
+
+Journal-ref: Phys.Rev. D62 (2000) 024030
+
+Particle and string actions on coset spaces typically lack a quadratickinetic term, making their quantization difficult. We define a notion oftwistors on these spaces, which are hypersurfaces in a vector space thattransform linearly under the isometry group of the coset. By associating thepoints of the coset space with these hypersurfaces, and the internalcoordinates of these hypersurfaces with momenta, it is possible to constructmanifestly symmetric actions with leading quadratic terms. We give a generalalgorithm and work out the case of a particle on AdS_p explicitly. In thiscase, the resulting action is a world-line gauge theory with sources, (thegauge group depending on p) which is equivalent to a nonlocal world-linesigma-model.

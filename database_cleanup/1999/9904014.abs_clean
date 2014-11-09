@@ -1,0 +1,13 @@
+Paper: hep-th/9904014
+
+Date: 1999-04-02
+
+Title: Runge-Kutta methods and renormalization
+
+Authors: Christian Brouder
+
+Comments: LaTeX file with FeynMF package. 21 pages, no figure
+
+Journal-ref: Eur.Phys.J. C12 (2000) 521-534
+
+A connection between the algebra of rooted trees used in renormalizationtheory and Runge-Kutta methods is pointed out. Butcher's group and B-series areshown to provide a suitable framework for renormalizing a toy model of fieldthe ory, following Kreimer's approach. Finally B-series are used to solve aclass of non-linear partial differential equations.

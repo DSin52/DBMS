@@ -1,0 +1,9 @@
+Paper: hep-th/9903110
+
+Date: 1999-03-12
+
+Title: Two Conjectures on Gauge Theories, Gravity, and Infinite Dimensional
+
+Kac-Moody GroupsComments: 54pp LaTeX, Added references, changed subsection (8.2)
+
+We propose that the structure of gauge theories, the $(2,0)$ andlittle-string theories is encoded in a unique function on the real groupmanifold $E_{10}(R)$. The function is invariant under the maximal compactsubgroup $K$ acting on the right and under the discrete U-duality subgroup$E_{10}(Z)$ on the left. The manifold $E_{10}(Z)\backslash E_{10}(R) /K$contains an infinite number of periodic variables. The partition function ofU(n), N=4 Super-Yang-Mills theory on $T^4$, with generic SO(6) R-symmetrytwists, for example, is derived from the $n^{th}$ coefficient of the Fouriertransform of the function with respect to appropriate periodic variables,setting other variables to the R-symmetry twists and the radii of $T^4$. Inparticular, the partition function of nonsupersymmetric Yang-Mills theory is aspecial case, obtained from the twisted $(2,0)$ or little-string theories. Thefunction also seems to encode the answer to questions about M-theory on anarbitrary $T^8$. The second conjecture that we wish to propose is that thisfunction is harmonic with respect to the $E_{10}(R)$ invariant metric. In asimilar fashion, we propose that there exists a function on the infiniteKac-Moody group $DE_{18}$ that encodes the twisted partition functions of the$E_8$ 5+1D theories as well as answers to questions about the heterotic stringon $T^7$.

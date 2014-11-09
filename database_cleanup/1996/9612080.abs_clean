@@ -1,0 +1,13 @@
+Paper: hep-th/9612080
+
+Date: 1996-12-07
+
+Title: Gauge-Invariant and Gauge-Fixed D-Brane Actions
+
+Authors: Mina Aganagic, Costin Popescu, and John H. Schwarz
+
+Comments: 33 pages, latex, no figures; revised as requested by referee
+
+Journal-ref: Nucl.Phys. B495 (1997) 99-126
+
+The first part of this paper presents actions for Dirichlet p-branes embeddedin a flat 10-dimensional space-time. The fields of the (p+1)-dimensionalworld-volume theories are the 10d space-time coordinates $ X^m$, a pair ofMajorana-Weyl spinors $\theta_1$ and $\theta_2$, and a U(1) gauge field$A_{\mu}$. The N = 2A or 2B super-Poincare group in ten dimensions is realizedas a global symmetry. In addition, the theories have local symmetriesconsisting of general coordinate invariance of the world volume, a localfermionic symmetry (called ``kappa''), and U(1) gauge invariance. A detailedproof of the kappa symmetry is given that applies to all cases (p = 0,1, . . .,9). The second part of the paper presents gauge-fixed versions of thesetheories. The fields of the 10d (p = 9) gauge-fixed theory are a singleMajorana-Weyl spinor $\lambda$ and the U(1) gauge field $A_{\mu}$. Thistheory, whose action turns out to be surprisingly simple, is a supersymmetricrepresents an unbroken symmetry, and the second corresponds to a brokensymmetry for which $\lambda$ is the Goldstone fermion. The gauge-fixedsupersymmetric D-brane theories with $p<9$ can be obtained from the 10d one bydimensional reduction.

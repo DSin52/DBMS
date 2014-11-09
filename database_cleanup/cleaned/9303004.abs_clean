@@ -1,0 +1,11 @@
+Paper: hep-th/9303004
+
+Date: 1993-03-01
+
+Title: Symmetries of the Self-Similar Potentials
+
+Authors: V.Spiridonov
+
+Comments: 9 pp., Latex (to appear in Comm.Theor.Phys.)
+
+An application of the particular type of nonlinear operator algebras tospectral problems is outlined. These algebras are associated with a set ofone-dimensional self-similar potentials, arising due to the q-periodic closuref_{j+N}(x)=qf_j(qx), k_{j+N}=q^2 k_j of a chain of coupled Riccati equations(dressing chain). Such closure describes q-deformation of the finite-gap andrelated potentials. The N=1 case corresponds to the q-oscillator spectrumgenerating algebra. At N=2 one gets a q-conformal quantum mechanics, and N=3set of equations describes a deformation of the Painleve IV transcendent.

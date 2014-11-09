@@ -1,0 +1,11 @@
+Paper: hep-th/0011224
+
+Date: 2000-11-24
+
+Title: On the construction of corrected Light-Front Hamiltonian for QED_2
+
+Authors: S.A. Paston, E.V. Prokhvatilov, V.A. Franke
+
+Comments: LaTex 2.09, 49 pages
+
+The counterterms, which must be included into Light-Front Hamiltonian of$QED_2$ to get the equivalence with conventional Lorentz-covariant formulation,are found. This is done to all orders of perturbation theory in fermion mass,using the bosonization at intermediate steps and comparing Light-Front andLorentz-covariant perturbation theories for bosonized model. The obtainedLight-Front Hamiltonian contains all terms, present in the $QED_2$ theory,canonically (naively) quantized on the Light-Front (in the Light-Front gauge)and an unusual counterterm. This counterterm is proportional to linearcombination of fermion zero modes (which are multiplied by some operatorfactors neutralizing their charge and fermionic number). The coefficientsbefore these zero mode operators are UV finite and depend on condensateparameter in the $\theta$-vacuum. These coefficients are proportional tofermion mass, when this mass goes to zero.

@@ -1,0 +1,11 @@
+Paper: hep-th/0208221
+
+Date: 2002-08-30
+
+Title: Final steps towards a proof of the Riemann hypothesis
+
+Authors: Carlos Castro, Jorge Mahecha
+
+Comments: Latex file, 18 pages, revised text, stronger and improved arguments
+
+with a figure are added, submitted to Annals of MathematicsPhysicsA proof of the Riemann's hypothesis (RH) about the non-trivial zeros of theRiemann zeta-function is presented. It is based on the construction of aninfinite family of operators D^{(k,l)} in one dimension, and their respectiveeigenfunctions \psi_s (t), parameterized by continuous real indexes k and l.Orthogonality of the eigenfunctions is connected to the zeros of the Riemannzeta-function. Due to the fundamental Gauss-Jacobi relation and the Riemannfundamental relation Z (s') = Z (1-s'), one can show that there is a directconcatenation among the following symmetries, t goes to 1/t, s goes to \beta -s (\beta a real), and s' goes to 1 - s', which establishes a one-to-onecorrespondence between the label s of one orthogonal state to a unique vacuumstate, and a zero s' of the \zeta. It is shown that the RH is a directconsequence of these symmetries, by arguing in particular that an exclusion ofa continuum of the zeros of the Riemann zeta function results in the discreteset of the zeros located at the points s_n = 1/2 + i \lambda_n in the complexplane.

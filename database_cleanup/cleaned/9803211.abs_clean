@@ -1,0 +1,13 @@
+Paper: hep-th/9803211
+
+Date: 1998-03-25
+
+Title: Infrared divergence in QED$_3$ at finite temperature
+
+Authors: Dominic Lee, Georgios Metikas
+
+Comments: 37 pages, 12 figures, typos corrected, references added, Introduction
+
+rewrittenJournal-ref: Int.J.Mod.Phys. A14 (1999) 2921-2948
+
+We consider various ways of treating the infrared divergence which appears inthe dynamically generated fermion mass, when the transverse part of the photonpropagator in N flavour $QED_{3}$ at finite temperature is included in theMatsubara formalism. This divergence is likely to be an artefact of taking intoaccount only the leading order term in the $1 \over N$ expansion when wecalculate the photon propagator and is handled here phenomenologically by meansof an infrared cutoff. Inserting both the longitudinal and the transverse partof the photon propagator in the Schwinger-Dyson equation we find the dependenceof the dynamically generated fermion mass on the temperature and the cutoffparameters. It turns out that consistency with certain statistical physicsarguments imposes conditions on the cutoff parameters. For parameters in theallowed range of values we find that the ratio $r=2*Mass(T=0)/criticaltemperature$ is approximately 6, consistently with previous calculations whichneglected the transverse photon contribution.

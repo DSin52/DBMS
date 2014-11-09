@@ -1,0 +1,13 @@
+Paper: hep-th/9205077
+
+Date: 1992-05-20
+
+Title: Edge Currents and Vertex Operators for Chern-Simons Gravity
+
+Authors: G. Bimonte, K. S. Gupta, A. Stern
+
+Comments: 42 pages, UAHEP 925, SU-4240-508, INFN-NA-IV-92/12
+
+Journal-ref: Int. J. Mod. Phys. A8 (1993) 653
+
+We apply elementary canonical methods for the quantization of 2+1 dimensionalgravity, where the dynamics is given by E. Witten's $ISO(2,1)$ Chern-Simonsaction. As in a previous work, our approach does not involve choice of gauge orclever manipulations of functional integrals. Instead, we just require theGauss law constraint for gravity to be first class and also to be everywheredifferentiable. When the spatial slice is a disc, the gravitational fields caneither be unconstrained or constrained at the boundary of the disc. Theunconstrained fields correspond to edge currents which carry a representationof the $ISO(2,1)$ Kac-Moody algebra. Unitary representations for such analgebra have been found using the method of induced representations. In thecase of constrained fields, we can classify all possible boundary conditions.For several different boundary conditions, the field content of the theoryreduces precisely to that of 1+1 dimensional gravity theories. We extend theabove formalism to include sources. The sources take into account self-interactions. This is done by punching holes in the disc, and erecting an$ISO(2,1)$ Kac-Moody algebra on the boundary of each hole. If the hole isoriginally sourceless, a source can be created via the action of a vertexoperator $V$. We give an explicit expression for $V$. We shall show that whenacting

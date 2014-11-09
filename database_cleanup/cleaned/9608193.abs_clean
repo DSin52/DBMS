@@ -1,0 +1,13 @@
+Paper: hep-th/9608193
+
+Date: 1996-08-29
+
+Title: Two-Loop Diagrams in Causal Perturbation Theory
+
+Authors: A. Aste and G. Scharf
+
+Comments: 16 pages, latex, the figures can be ordered at the first authors
+
+address (A.Aste), the necessary macros are included in the latex-fileJournal-ref: Annals Phys. 257 (1997) 158
+
+The scalar two-loop master diagram is revisited in the massive casesneeded for the computation of boson and fermion propagators in QED and QCD. Bymeans of the causal method it is possible in a straightforward manner toexpress the propagators as double integrals. In the case of vacuum polarizationboth integrations can be carried out in terms of polylogarithms, whereas thelast integral in the fermion propagator cannot be expressed by known specialfunctions. The advantage of the method in comparison with Feynman integralcalculations is indicated.

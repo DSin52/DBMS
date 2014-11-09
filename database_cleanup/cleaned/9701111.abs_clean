@@ -1,0 +1,11 @@
+Paper: hep-th/9701111
+
+Date: 1997-01-22
+
+Title: Multicomponent WKB on arbitrary symplectic manifolds
+
+approachAuthors: C. Emmrich, H. Roemer
+
+Comments: 21 pages, Latex, uses amssymb.sty
+
+It is known that in the WKB approximation of multicomponent systems likeDirac equation or Born-Oppenheimer approximation, an additional phase appearsapart from the Berry phase. So far, this phase was only examined in specialcases, or under certain restrictive assumptions, namely that the eigenspaces ofthe matrix or endomorphism valued symbol of the Hamiltonian form trivialbundles.We give a completely global derivation of this phase which does not depend onany choice of local trivializing sections. This is achieved using a starproduct approach to quantization. Furthermore, we give a systematic and globalapproach to a reduction of the problem to a problem defined completely on thedifferent ``polarizations''. Finally, we discuss to what extent it is actuallypossible to reduce the problem to a really scalar one, and make some commentson obstructions to the existence of global quasiclassical states.

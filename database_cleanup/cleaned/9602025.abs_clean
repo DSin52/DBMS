@@ -1,0 +1,13 @@
+Paper: hep-th/9602025
+
+Date: 1996-02-06
+
+Title: Meanders and the Temperley-Lieb algebra
+
+Authors: P. Di Francesco, O. Golinelli and E. Guitter
+
+Comments: 85p, uuencoded, uses harvmac (l mode) and epsf, 88 figures
+
+Journal-ref: Commun.Math.Phys. 186 (1997) 1-59
+
+The statistics of meanders is studied in connection with the Temperley-Liebalgebra. Each (multi-component) meander corresponds to a pair of reducedelements of the algebra. The assignment of a weight $q$ per connected componentof meander translates into a bilinear form on the algebra, with a Gram matrixencoding the fine structure of meander numbers. Here, we calculate theassociated Gram determinant as a function of $q$, and make use of theorthogonalization process to derive alternative expressions for meander numbersas sums over correlated random walks.

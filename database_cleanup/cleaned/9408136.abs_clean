@@ -1,0 +1,11 @@
+Paper: hep-th/9408136
+
+Date: 1994-08-25
+
+Title: Exceptional structure of the dilute A$_3$ model
+
+Rogers--Ramanujan identitiesComments: 9 pages, 1 postscript figure
+
+SystemsJournal-ref: J.Phys. A27 (1994) L891-L898
+
+The dilute A$_3$ lattice model in regime 2 is in the universality classof the Ising model in a magnetic field. Here we establish directly theexistence of an E$_8$ structure in the dilute A$_3$ model in this regime byexpressing the 1-dimensional configuration sums in terms of fermionic sumswhich explicitly involve the E$_8$ root system.  In the thermodynamiclimit, these polynomial identities yield a proof of the E$_8$Rogers--Ramanujan identity recently conjectured by Kedem {\em et al}.The polynomial identities also apply to regime 3, which is obtained bytransforming the modular parameter by $q\to 1/q$. In this case we find anA$_1\times\mbox{E}_7$ structure and prove a Rogers--Ramanujan identity ofA$_1\times\mbox{E}_7$ type. Finally, in the critical $q\to 1$ limit, wegive some intriguing expressions for the number of $L$-step paths on theA$_3$ Dynkin diagram with tadpoles in terms of the E$_8$ Cartan matrix. Allour findings confirm the E$_8$ and E$_7$ structure of the dilute A$_3$model found recently by means of the thermodynamic Bethe Ansatz.

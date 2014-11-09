@@ -1,0 +1,13 @@
+Paper: hep-th/0007128
+
+Date: 2000-07-17
+
+Title: Two-loop beta-function from the exact renormalization group
+
+Authors: Peter Kopietz
+
+Comments: 37 pages, 2 figures. Two more references added
+
+Journal-ref: Nucl.Phys. B595 (2001) 493-518
+
+We calculate the two-loop renormalization group (RG) beta-function of amassless scalar field theory from the irreducible version of Polchinski's exactRG flow equation. To obtain the correct two-loop result within this method, itis necessary to take the full momentum-dependence of the irreducible four-pointvertex and the six-point vertex into account. Although the same calculationwithin the orthodox field theory method is less tedious, the flow equationmethod makes no assumptions about the renormalizability of the theory, andpromises to be useful for performing two-loop calculations fornon-renormalizable condensed-matter systems. We pay particular attention to theproblem of the field rescaling and the effect of the associated exponent eta onthe RG flow.

@@ -1,0 +1,13 @@
+Paper: hep-th/9605089
+
+Date: 1996-05-13
+
+Title: Cosmological Analogues of the Bartnik--McKinnon Solutions
+
+Authors: M.S. Volkov, N. Straumann, G. Lavrelashvili, M. Heusler and O.
+
+BrodbeckComments: 16 pages, LaTeX, 9 Postscript figures, uses epsf.sty
+
+Journal-ref: Phys.Rev. D54 (1996) 7243-7251
+
+We present a numerical classification of the spherically symmetric, staticsolutions to the Einstein--Yang--Mills equations with cosmological constant$\Lambda$. We find three qualitatively different classes of configurations,where the solutions in each class are characterized by the value of $\Lambda$and the number of nodes, $n$, of the Yang--Mills amplitude. For sufficientlysmall, positive values of the cosmological constant, $\Lambda < \Llow(n)$, thesolutions generalize the Bartnik--McKinnon solitons, which are now surroundedby a cosmological horizon and approach the deSitter geometry in the asymptoticregion. For a discrete set of values $\Lambda_{\rm reg}(n) > \Lambda_{\rmcrit}(n)$, the solutions are topologically $3$--spheres, the ground state$(n=1)$ being the Einstein Universe. In the intermediate region, that is for$\Llow(n) < \Lambda < \Lhig(n)$, there exists a discrete family of globalsolutions with horizon and ``finite size''.

@@ -1,0 +1,13 @@
+Paper: hep-th/9512099
+
+Date: 1995-12-13
+
+Title: Hamilton-Jacobi formulation for singular systems with second order
+
+LagrangiansAuthors: B. M. Pimentel and R. G. Teixeira
+
+Comments: Latex, 21 pages, no figures (Changes made to solve problems, caused
+
+by a macro, that some users had to Tex the paper. The paper itself has nochanges.)Journal-ref: Nuovo Cim. B111 (1996) 841-854
+
+Recently the Hamilton-Jacobi formulation for first order constrained systemshas been developed. In such formalism the equations of motion are written astotal differential equations in many variables. We generalize theHamilton-Jacobi formulation for singular systems with second order Lagrangiansand apply this new formulation to Podolsky electrodynamics, comparing with theresults obtained through Dirac's method.

@@ -1,0 +1,11 @@
+Paper: hep-th/9602143
+
+Date: 1996-02-27
+
+Title: Canonical Structure of the Non-Linear Sigma-Model in a Polynomial
+
+FormulationAuthors: C. D. Fosco, T. Matsuyama
+
+Comments: 20 pages, Latex
+
+We study the canonical structure of the $SU(N)$ non-linear Sigma-model in apolynomial, first-order representation. The fundamental variables in thisdescription are a non-Abelian vector field L_mu and a non-Abelian antisymmetrictensor field theta_{mu nu}, which constrains L_{mu} to be a `pure gauge' (F_{munu}(L) = 0) field. The second-class constraints that appear as a consequence ofthe first-order nature of the Lagrangian are solved, and the reducedphase-space variables explicitly found. We also treat the first-classconstraints due to the gauge-invariance under transformations of theantisymmetric tensor field, constructing the corresponding most generalgauge-invariant functionals, which are used to describe the dynamics of thephysical degrees of freedom. We present these results in 1+1, 2+1 and 3+1dimensions, mentioning some properties of the (d+1)-dimensional case. We showthat there is a kind of duality between this description of the non-linear$\sigma$-model and the massless Yang-Mills theory. This duality is furtherextended to more general first-class systems.

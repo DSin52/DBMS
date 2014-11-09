@@ -1,0 +1,11 @@
+Paper: hep-th/0304061
+
+Date: 2003-04-07
+
+Title: Nonperturbative Superpotentials and Compactification to Three Dimensions
+
+Authors: Rutger Boels, Jan de Boer, Robert Duivenvoorden and Jeroen Wijnhout
+
+Comments: LaTeX, 45 pages, uses AmsMath
+
+We consider four-dimensional N=2 supersymmetric gauge theories with gaugegroup U(N) on R^3 x S^1, in the presence of a classical superpotential. Thelow-energy quantum superpotential is obtained by simply replacing the adjointscalar superfield in the classical superpotential by the Lax matrix of theintegrable system that underlies the 4d field theory. We verify in a number ofexamples that the vacuum structure obtained in this way matches precisely thatin 4d, although the degrees of freedom that appear are quite distinct. Severalfeatures of 4d field theories, such as the possibility of lifting vacua fromU(N) to U(tN), become particularly simple in this framework. It turns out thatsupersymmetric vacua give rise to a reduction of the integrable system whichcontains information about the field theory but also about the Dijkgraaf-Vafamatrix model. The relation between the matrix model and the quantumsuperpotential on R^3 x S^1 appears to involve a novel kind of mirror symmetry.

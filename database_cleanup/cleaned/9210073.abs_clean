@@ -1,0 +1,13 @@
+Paper: hep-th/9210073
+
+Date: 1992-10-13
+
+Title: Introduction to Random Matrices
+
+Authors: Craig A. Tracy and Harold Widom
+
+Comments: 44 pages
+
+Systems; Mathematical PhysicsJournal-ref: Springer Lecture Notes in Physics 424 (1993) 103-130
+
+These notes provide an introduction to the theory of random matrices. Thecentral quantity studied is $\tau(a)= det(1-K)$ where $K$ is the integraloperator with kernel $1/\pi} {\sin\pi(x-y)\over x-y} \chi_I(y)$. Here$I=\bigcup_j(a_{2j-1},a_{2j})$ and $\chi_I(y)$ is the characteristic functionof the set $I$. In the Gaussian Unitary Ensemble (GUE) the probability that noeigenvalues lie in $I$ is equal to $\tau(a)$. Also $\tau(a)$ is a tau-functionand we present a new simplified derivation of the system of nonlinearcompletely integrable equations (the $a_j$'s are the independent variables)that were first derived by Jimbo, Miwa, M{\^o}ri, and Sato in 1980. In the caseof a single interval these equations are reducible to a Painlev{\'e} Vequation. For large $s$ we give an asymptotic formula for $E_2(n;s)$, which isthe probability in the GUE that exactly $n$ eigenvalues lie in an interval oflength $s$.

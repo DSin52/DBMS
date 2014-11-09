@@ -1,0 +1,13 @@
+Paper: hep-th/0001141
+
+Date: 2000-01-21
+
+Title: Closed constraint algebras and path integrals for loop group actions
+
+Authors: A.Y. Alekseev, V. Schomerus, T. Strobl
+
+Comments: 16 pages
+
+Journal-ref: J.Math.Phys. 42 (2001) 2144-2155
+
+In this note we study systems with a closed algebra of second classconstraints. We describe a construction of the reduced theory that resemblesthe conventional treatment of first class constraints. It suggests, inparticular, to compute the symplectic form on the reduced space by a fiberintegral of the symplectic form on the original space. This approach is thenapplied to a class of systems with loop group symmetry. The chiral anomaly ofthe loop group action spoils the first class character of the constraints butnot their closure. Proceeding along the general lines described above, weobtain a 2-form from a fiber (path)integral. This form is not closed as arelict of the anomaly. Examples of such reduced spaces are provided by D-braneson group manifolds with WZW action.

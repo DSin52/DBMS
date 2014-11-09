@@ -1,0 +1,11 @@
+Paper: hep-th/9503194
+
+Date: 1995-03-28
+
+Title: Extended Dualization
+
+Systems in Arbitrary DimensionComments: Revised version including major changes in section 3, to be published
+
+in Phys. Rev. DJournal-ref: Phys.Rev. D53 (1996) 5952-5962
+
+The technique of extended dualization developed in this paper is used tobosonize quantized fermion systems in arbitrary dimension $D$ in the low energyregime. In its original (minimal) form, dualization is restricted to modelswherein it is possible to define a dynamical quantized conserved charge. Wegeneralize the usual dualization prescription to include systems with dynamicalnon--conserved quantum currents. Bosonization based on this extendeddualization requires the introduction of an additional rank $0$ (scalar) fieldtogether with the usual antisymmetric tensor field of rank $(D-2)$. Ourgeneralized dualization prescription permits one to clearly distinguish thearbitrariness in the bosonization from the arbitrariness in the quantization ofthe system. We study the bosonization of four--fermion interactions with largemass in arbitrary dimension. First, we observe that dualization permits one toformally bosonize these models by invoking the bosonization of the free massiveDirac fermion and adding some extra model--dependent bosonic terms. Secondly,we explore the potential of extended dualization by considering the particularcase of \underbar{chiral} four--fermion interactions. Here minimal dualizationis inadequate for calculating the extra bosonic terms. We demonstrate theutility of extended dualization by successfully completing the bosonization ofthis chiral model. Finally, we consider two examples in two dimensions whichilluminate the utility of using extended dualization by showing howquantization ambiguities in a fermionic theory propagate into the bosonizedversion. An explicit parametrization of the quantization ambiguities of thechiral current in the Chiral Schwinger model is obtained. Similarly, for thesine--Gordon interaction in the massive Thirring model the quantization

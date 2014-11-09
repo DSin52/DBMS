@@ -1,0 +1,13 @@
+Paper: hep-th/9510003
+
+Date: 1995-10-02
+
+Title: Gribov horizon, contact terms and \v{C}ech- De Rham cohomology in 2D
+
+topological gravityAuthors: C.M. Becchi and C. Imbimbo
+
+Comments: Uses harvmac, 33 pages (big) or 20 pages (little)
+
+Journal-ref: Nucl.Phys. B462 (1996) 571-599
+
+We point out that averages of equivariant observables of 2D topologicalgravity are not globally defined forms on moduli space, when one uses thefunctional measure corresponding to the formulation of the theory as a 2Dsuperconformal model. This is shown to be a consequence of the existence of theGribov horizon {\it and} of the dependence of the observables on derivatives ofthe super-ghost field. By requiring the absence of global BRS anomalies, it isnevertheless possible to associate global forms to correlators of observablesby resorting to the \v{C}ech-De Rham notion of form cohomology. To this end, wederive and solve the ``descent'' of local Ward identities which characterizethe functional measure. We obtain in this way an explicit expression for the\v{C}ech-De Rham cocycles corresponding to arbitrary correlators ofobservables. This provides the way to compute and understand contact terms instring theory from first principles.

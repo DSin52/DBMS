@@ -1,0 +1,13 @@
+Paper: hep-th/9310160
+
+Date: 1993-10-24
+
+Title: Kac and New Determinants for Fractional Superconformal Algebras
+
+Authors: Zurab Kakushadze and S.-H. Henry Tye
+
+Comments: 33 pages, Revtex 3.0, Cornell preprint CLNS 93/1243
+
+Journal-ref: Phys.Rev. D49 (1994) 4122-4138
+
+We derive the Kac and new determinant formulae for an arbitrary (integer)level $K$ fractional superconformal algebra using the BRST cohomologytechniques developed in conformal field theory. In particular, we reproduce theKac determinants for the Virasoro ($K=1$) and superconformal ($K=2$) algebras.For $K\geq3$ there always exist modules where the Kac determinant factorizesinto a product of more fundamental new determinants. Using our results forgeneral $K$, we sketch the non-unitarity proof for the $SU(2)$ minimal series;as expected, the only unitary models are those already known from the cosetconstruction. We apply the Kac determinant formulae for the spin-4/3parafermion current algebra ({\em i.e.}, the $K=4$ fractional superconformalalgebra) to the recently constructed three-dimensional flat Minkowskispace-time representation of the spin-4/3 fractional superstring. We prove theno-ghost theorem for the space-time bosonic sector of this theory; that is, itsphysical spectrum is free of negative-norm states.

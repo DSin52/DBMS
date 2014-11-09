@@ -1,0 +1,9 @@
+Paper: hep-th/9407094
+
+Date: 1994-07-15
+
+Title: Vector Braids
+
+Comments: 39 pages
+
+In this paper we define a new family of groups which generalize the {\itclassical braid groups on} $\C $. We denote this family by $\{B_n^m\}_{n \gem+1}$ where $n,m \in \N$. The family $\{ B_n^1 \}_{n \in \N}$ is the set ofclassical braid groups on $n$ strings. The group $B_n^m$ is the set of motionsof $n$ unordered points in $\C^m$, so that at any time during the motion, each$m+1$ of the points span the whole of $\C^m$ as an affine space. There is a mapfrom $B_n^m$ to the symmetric group on $n$ letters. We let $P_n^m$ denote thekernel of this map. In this paper we are mainly interested in understanding$P_n^2$. We give a presentation of a group $PL_n$ which maps surjectively onto$P_n^2$. We also show the surjection $PL_n \to P_n^2$ induces an isomorphism onfirst and second integral homology and conjecture that it is an isomorphism. Wethen find an infinitesimal presentation of the group $P_n^2$. Finally, we alsoconsider the analagous groups where points lie in $\P^m$ instead of $\C^m$.These groups generalize of the classical braid groups on the sphere.

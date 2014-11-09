@@ -1,0 +1,13 @@
+Paper: hep-th/9712248
+
+Date: 1997-12-29
+
+Title: Center vortices and confinement vs. screening
+
+Authors: John M. Cornwall
+
+Comments: 29 pages, LaTex, 1 figure. Minor changes; references added;
+
+discussion of factorization sharpened. Major conclusions unchangedJournal-ref: Phys.Rev. D57 (1998) 7589-7600
+
+We study adjoint and fundamental Wilson loops in the center-vortex picture ofconfinement, for gauge group SU(N) with general N. There are N-1 distinctvortices, whose properties, including collective coordinates and actions, westudy. In d=2 we construct a center-vortex model by hand so that it has asmooth large-N limit of fundamental-representation Wilson loops and find, asexpected, confinement. Extending an earlier work by the author, we constructthe adjoint Wilson-loop potential in this d=2 model for all N, as an expansionin powers of $\rho/M^2$, where $\rho$ is the vortex density per unit area and Mis the vortex inverse size, and find, as expected, screening. The leading termof the adjoint potential shows a roughly linear regime followed by stringbreaking when the potential energy is about 2M. This leading potential is auniversal (N-independent at fixed fundamental string tension $K_F$) of the form$(K_F/M)U(MR)$, where R is the spacelike dimension of a rectangular Wilsonloop. The linear-regime slope is not necessarily related to $K_F$ by Casimirscaling. We show that in d=2 the dilute vortex model is essentially equivalentto true d=2 QCD, but that this is not so for adjoint representations; argumentsto the contrary are based on illegal cumulant expansions which fail torepresent the necessary periodicity of the Wilson loop in the vortex flux. Mostof our arguments are expected to hold in d=3,4 also.

@@ -1,0 +1,11 @@
+Paper: hep-th/9302095
+
+Date: 1993-02-19
+
+Title: Algebras in Higher Dimensional Statistical Mechanics - the Exceptional
+
+Partition (MEAN Field) AlgebrasAuthors: Paul Martin and Hubert Saleur
+
+Comments: 4 pages
+
+We determine the structure of the partition algebra $P_n(Q)$ (a generalizedTemperley-Lieb algebra) for specific values of $Q \in \C$, focusing on thequotient which gives rise to the partition function of $n$ site $Q$-state Pottsmodels (in the continuous $Q$ formulation) in arbitrarily high latticedimensions (the mean field case). The algebra is non-semi-simple iff $Q$ is anon-negative integer less than $n$. We determine the dimension of the keyirreducible representation in every specialization.

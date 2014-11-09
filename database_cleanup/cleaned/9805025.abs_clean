@@ -1,0 +1,11 @@
+Paper: hep-th/9805025
+
+Date: 1998-05-05
+
+Title: A dilogarithmic 3-dimensional Ising tetrahedron
+
+Comments: 8 pages, LaTeX; Eq(25) simplified; Eqs(27,33) and refs[3,18] added
+
+Journal-ref: Eur.Phys.J. C8 (1999) 363-366
+
+In 3 dimensions, the Ising model is in the same universality class as$\phi^4$-theory, whose massive 3-loop tetrahedral diagram, $C^{Tet}$, was of anunknown analytical nature. In contrast, all single-scale 4-dimensionaltetrahedra were reduced, in hep-th/9803091, to special values of exponentiallyconvergent polylogarithms. Combining dispersion relations with theinteger-relation finder PSLQ, we find that $C^{Tet}/2^{5/2} = Cl_2(4\alpha)1,000-digit precision and readily yields 50,000 digits of $C^{Tet}$, aftertransformation to an exponentially convergent sum, akin to those studied inmath.CA/9803067. It appears that this 3-dimensional result entails apolylogarithmic ladder beginning with the classical formula for $\pi/\sqrt2$,in the manner that 4-dimensional results build on that for $\pi/\sqrt3$.

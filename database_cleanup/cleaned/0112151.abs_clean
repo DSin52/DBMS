@@ -1,0 +1,13 @@
+Paper: hep-th/0112151
+
+Date: 2001-12-17
+
+Title: Simulation of Dimensionally Reduced SYM-Chern-Simons Theory
+
+Authors: J.R. Hiller, S.S. Pinsky, and U. Trittmann
+
+Comments: 18pp. 7 figures, uses REVTeX
+
+Journal-ref: Phys.Rev. D65 (2002) 085046
+
+A supersymmetric formulation of a three-dimensional SYM-Chern-Simons theoryusing light-cone quantization is presented, and the supercharges are calculatedin light-cone gauge. The theory is dimensionally reduced by requiring allfields to be independent of the transverse dimension. The result is anon-trivial two-dimensional supersymmetric theory with an adjoint scalar and anadjoint fermion. We perform a numerical simulation of this SYM-Chern-Simonstheory in 1+1 dimensions using SDLCQ (Supersymmetric Discrete Light-ConeQuantization). We find that the character of the bound states of this theory isvery different from previously considered two-dimensional supersymmetric gaugetheories. The low-energy bound states of this theory are very ``QCD-like.'' Thewave functions of some of the low mass states have a striking valencestructure. We present the valence and sea parton structure functions of thesestates. In addition, we identify BPS-like states which are almost independentof the coupling. Their masses are proportional to their parton number in thelarge-coupling limit.

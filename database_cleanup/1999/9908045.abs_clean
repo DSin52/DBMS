@@ -1,0 +1,13 @@
+Paper: hep-th/9908045
+
+Date: 1999-08-06
+
+Title: Kappa-Symmetry of Green-Schwarz Actions in Coset Superspaces
+
+Authors: I.N. McArthur
+
+Comments: Latex, 25 pages, embarrassing omission of `=0' in abstract corrected,
+
+references updated, section on kappa-symmetry for flat superspaces addedJournal-ref: Nucl.Phys. B573 (2000) 811-829
+
+The nature of $\kappa$-symmmetry transformations is examined for p-branesembedded in a class of coset superspaces G/H, where G is an appropriatesupergroup and H is the Lorentz subgroup. It is shown that one of theconditions $\delta Z^M E_M{}^a = 0$ which characterizes $\kappa$-symmetrytransformations arises very naturally if they are implemented in terms of aright action of a subgroup of the supergroup G on the supergroup elementswhich represent the coset. Unlike the global left action of G on G/H (whichgives rise to supersymmetry on the coset superspace), there is no canonicallydefined right action of G on G/H. However, an interpretation of this rightaction involving an enlargement of the isotropy group from the Lorentz subgroupto a subgroup of G with generators which include some of the fermionicgenerators of G is suggested. Closure of the generators of this largersubgroup under commutation leads to the usual `brane scan' for p-braneswhich have bosonic degrees of freedom which are worldvolume scalars.

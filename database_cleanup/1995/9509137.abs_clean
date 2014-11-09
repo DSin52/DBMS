@@ -1,0 +1,9 @@
+Paper: hep-th/9509137
+
+Date: 1995-09-25
+
+Title: (Perturbed) Conformal Field Theory Applied To 2D Disordered Systems
+
+IntroductionComments: 41 pages, latex, uuencoded file with 2 figues included
+
+We describe applications of (perturbed) conformal field theories to{\it A direct method} in which we compute the explicit disorder dependence ofthe correlation functions for any sample of the disorder. This method seems tobe specific to two dimensions. The examples we use are disordered versions ofthe Abelian and non-Abelian WZW models. We show that the disordered WZW modelover the Lie group $\CG$ at level $k$ is equivalent at large impurity densityto the product of the WZW model over the coset space $\CG^C/\CG$ at level$(-2h^v)$ times an arbitrary number of copies of the original WZW model. (ii){\it The supersymmetric method} is introduced using the random bond Ising modeland the random Dirac theory as examples. In particular, we show that therelevent algebra is the affine $OSp(2N|2N)$ Lie superalgebra, an algebra withzero superdimension. (iii) {\it The replica method} is introduced using therandom phase sine-Gordon model as example. We describe particularities of itsrenormalization group flow. (iv) {\it A variationnal approach} is alsopresented using the random phase sine-Gordon model as example. Lecturespresented at the '95 Cargese Summer School on "Low dimensional application ofquantum field theory".

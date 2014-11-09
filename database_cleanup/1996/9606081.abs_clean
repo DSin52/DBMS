@@ -1,0 +1,13 @@
+Paper: hep-th/9606081
+
+Date: 1996-06-13
+
+Title: Gauge Dependence in Chern-Simons Theory
+
+Authors: F.A. Dilkes, L.C. Martin, D.G.C. McKeon, T.N.Sherry
+
+Comments: 17 pp (including 3 figures). Uses REVTeX 3.0 and epsfig.sty
+
+(available from LANL). Latex thriceJournal-ref: Int.J.Mod.Phys. A14 (1999) 463-480
+
+We compute the contribution to the modulus of the one-loop effective actionin pure non-Abelian Chern-Simons theory in an arbitrary covariant gauge. Wefind that the results are dependent on both the gauge parameter ($\alpha$) andthe metric required in the gauge fixing. A contribution arises that has notbeen previously encountered; it is of the form $(\alpha / \sqrt{p^2}) \epsilon_{\mu \lambda \nu} p^\lambda$. This is possible as in three dimensions $\alpha$is dimensionful. A variant of proper time regularization is used to renderthese integrals well behaved (although no divergences occur when theregularization is turned off at the end of the calculation). Since the originalLagrangian is unaltered in this approach, no symmetries of the classical theoryare explicitly broken and $\epsilon_{\mu \lambda \nu}$ is handled unambiguouslysince the system is three dimensional at all stages of the calculation. Theresults are shown to be consistent with the so-called Nielsen identities whichpredict the explicit gauge parameter dependence using an extension of BRSsymmetry. We demonstrate that this $\alpha$ dependence may potentiallycontribute to the vacuum expectation values of products of Wilson loops.

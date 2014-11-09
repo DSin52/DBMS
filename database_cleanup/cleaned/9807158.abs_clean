@@ -1,0 +1,13 @@
+Paper: hep-th/9807158
+
+Date: 1998-07-21
+
+Title: Probing negative dimensional integration
+
+one-loop light-cone integralsAuthors: A. T. Suzuki, A. G. M. Schmidt, and R. Bent\'{\i}n
+
+Comments: 17 pages, 3 ps figures, Revtex
+
+Journal-ref: Nucl.Phys. B537 (1999) 549-560
+
+Negative dimensional integration method (NDIM) seems to be a very promisingtechnique for evaluating massless and/or massive Feynman diagrams. It is uniquein the sense that the method gives solutions in different regions of externalmomenta simultaneously. Moreover, it is a technique whereby the difficultiesassociated with performing parametric integrals in the standard approach aretransferred to a simpler solving of a system of linear algebraic equations,thanks to the polynomial character of the relevant integrands. We employ thismethod to evaluate a scalar integral for a massless two-loop three-point vertexwith all the external legs off-shell, and consider several special cases forit, yielding results, even for distinct simpler diagrams. We also consider thepossibility of NDIM in non-covariant gauges such as the light-cone gauge and dosome illustrative calculations, showing that for one-degree violation ofcovariance (i.e., one external, gauge-breaking, light-like vector $n_{\mu}$)the ensuing results are concordant with the ones obtained via either the usualdimensional regularization technique, or the use of principal valueprescription for the gauge dependent pole, while for two-degree violation ofcovariance --- i.e., two external, light-like vectors $n_{\mu}$, thegauge-breaking one, and (its dual) $n^{\ast}_{\mu}$ --- the ensuing results areconcordant with the ones obtained via causal constraints or the use of theso-called generalized Mandelstam-Leibbrandt prescription.

@@ -1,0 +1,13 @@
+Paper: hep-th/9508066
+
+Date: 1995-08-15
+
+Title: Quantum fields in disequilibrium
+
+inhomogeneous perturbationsAuthors: Mark Burgess
+
+Comments: 23 pages revtex
+
+Journal-ref: Phys.Rev. D52 (1995) 7103-7120
+
+Using Schwinger's quantum action principle, dispersion relations are obtainedfor neutral scalar mesons interacting with bi-local sources. These relationsare used as the basis of a method for representing the effect of interactionsin the Gaussian approximation to field theory, and it is argued that a markedinhomogeneity, in space-time dependence of the sources, forces a discretespectrum on the field. The development of such a system is characterized byfeatures commonly associated with chaos and self-organization (localization bydomain or cell formation). The Green functions play the role of an iterativemap in phase space. Stable systems reside at the fixed points of the map. Thepresent work can be applied to self-interacting theories by choosing suitableproperties for the sources. Rapid transport leads to a second order phasetransition and anomalous dispersion. Finally, it is shown that there is acompact representation of the non-equilibrium dynamics in terms of generalizedchemical potentials, or equivalently as a pseudo-gauge theory, with animaginary charge. This analogy shows, more clearly, how dissipation and entropyproduction are related to the source picture and transform a flip-flop likebehaviour between two reservoirs into the Landau problem in a constant`magnetic field'. A summary of conventions and formalism is provided as a basisfor future work.

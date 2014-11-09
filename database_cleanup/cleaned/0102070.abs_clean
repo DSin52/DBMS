@@ -1,0 +1,13 @@
+Paper: hep-th/0102070
+
+Date: 2001-02-13
+
+Title: Hard Non-commutative Loops Resummation
+
+Authors: Luca Griguolo (Parma University) and Massimo Pietroni (INFN Padova)
+
+Comments: 4 pages, 3 figures. The resummation procedure is now discussed also
+
+at finite ultraviolet cut-off. Minor changes in abstract and references.Final version to be published in Physical Review LettersJournal-ref: Phys.Rev.Lett. 88 (2002) 071601
+
+The non-commutative version of the euclidean $g^2\phi^4$ theory isconsidered. By using Wilsonian flow equations the ultraviolet renormalizabilitycan be proved to all orders in perturbation theory. On the other hand, theinfrared sector cannot be treated perturbatively and requires a resummation ofthe leading divergencies in the two-point function. This is analogous to whatis done in the Hard Thermal Loops resummation of finite temperature fieldtheory. Next-to-leading order corrections to the self-energy are computed,resulting in $O(g^3)$ contributions in the massless case, and $O(g^6\log g^2)$in the massive one.

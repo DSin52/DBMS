@@ -1,0 +1,13 @@
+Paper: hep-th/9903080
+
+Date: 1999-03-10
+
+Title: AdS/CFT Correspondence and Quotient Space Geometry
+
+Authors: Yi-hong Gao
+
+Comments: 28 pages, Latex, no figures. Minor changes, version to appear in JHEP
+
+Journal-ref: JHEP 9904 (1999) 005
+
+We consider a version of the $AdS_{d+1}/CFT_{d}$ correspondence, in which thebulk space is taken to be the quotient manifold $AdS_{d+1} /\Gamma$ with afairly generic discrete group $\Gamma$ acting isometrically on $AdS_{d+1}$. Weaddress some geometrical issues concerning the holographic principle and theUV/IR relations. It is shown that certain singular structures on the quotientboundary ${\bf S}^{d}/\Gamma$ can affect the underlying physical spectrum. Inparticular, the conformal dimension of the most relevant operators in theboundary CFT can increase as $\Gamma$ becomes ``large''. This phenomenon alsohas a natural explanation in terms of the bulk supergravity theory. The scalartwo-point function is computed using this quotient version of the AdS/CFTcorrespondence, which agrees with the expected result derived from conformalinvariance of the boundary theory.

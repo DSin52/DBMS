@@ -1,0 +1,13 @@
+Paper: hep-th/9605079
+
+Date: 1996-05-10
+
+Title: Systematic $1/N$ corrections for bosonic and fermionic vector models
+
+without auxiliary fieldsAuthors: Robert de Mello Koch and Jo\~ao P. Rodrigues
+
+Comments: 24 pages, uses REVTEX macros. Replaced with final version to appear
+
+in Phys. Rev. DJournal-ref: Phys.Rev. D54 (1996) 7794-7814
+
+In this paper, colorless bilocal fields are employed to study the large $N$limit of both fermionic and bosonic vector models. The Jacobian associated withthe change of variables from the original fields to the bilocals is computedexactly, thereby providing an exact effective action. This effective action isshown to reproduce the familiar perturbative expansion for the two and fourpoint functions. In particular, in the case of fermionic vector models, theeffective action correctly accounts for the Fermi statistics. The theory isalso studied non-perturbatively. The stationary points of the effective actionare shown to provide the usual large $N$ gap equations. The homogeneousequation associated with the quadratic (in the bilocals) action is simply thetwo particle Bethe Salpeter equation. Finally, the leading correction in$1\over N$ is shown to be in agreement with the exact $S$ matrix of the model.

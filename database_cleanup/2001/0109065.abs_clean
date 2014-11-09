@@ -1,0 +1,13 @@
+Paper: hep-th/0109065
+
+Date: 2001-09-07
+
+Title: Three-Point Functions of Quarter BPS Operators in N=4 SYM
+
+Authors: Eric D'Hoker, Anton V. Ryzhov
+
+Comments: 44 pages, Latex, eps figures, uses epsfig.sty; references added
+
+Journal-ref: JHEP 0202 (2002) 047
+
+In a recent paper hep-th/0109064, quarter-BPS chiral primaries wereconstructed in the fully interacting four dimensional N=4 Super-Yang-Millstheory with gauge group SU(N). These operators are annihilated by foursupercharges, and at order g^2 have protected scaling dimension andnormalization. Here, we compute three-point functions involving thesequarter-BPS operators along with half-BPS operators. The combinatorics of thecorrelators < half half BPS > of two half-BPS primaries with an arbitrarychiral primary; (2) certain classes of < half quarter quarter > and < quarterquarter quarter > three-point functions; (3) three-point functions involvingthe Delta < 8 operators found in hep-th/0109064; (4) < half quarter quarter>correlators with the special quarter-BPS operator made of single and doubletrace operators only. The analysis in cases (1)-(3) is valid for general N,while (4) is a large N approximation. Order g^2 corrections to all three-pointfunctions considered in this paper are found to vanish.In the AdS/CFT correspondence, quarter-BPS chiral primaries are dual tothreshold bound states of elementary supergravity excitations. We present asupergravity discussion of two- and three-point correlators involving thesebound states.

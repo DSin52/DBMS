@@ -1,0 +1,11 @@
+Paper: hep-th/0303162
+
+Date: 2003-03-18
+
+Title: Massive Feynman diagrams and inverse binomial sums
+
+Authors: A.I. Davydychev, M.Yu. Kalmykov
+
+Comments: 29 pages, LaTeX, 2 eps-figures
+
+Analysis and ODEs; General MathematicsWhen calculating higher terms of the epsilon-expansion of massive Feynmandiagrams, one needs to evaluate particular cases of multiple inverse binomialsums. These sums are related to the derivatives of certain hypergeometricfunctions with respect to their parameters. We explore this connection andanalytically calculate a number of such infinite sums, for an arbitrary valueof the argument which corresponds to an arbitrary value of the off-shellexternal momentum. In such a way, we find a number of new results forphysically important two-loop two- and three-point Feynman diagrams. Theresults are presented in terms of generalized polylogarithmic functions.

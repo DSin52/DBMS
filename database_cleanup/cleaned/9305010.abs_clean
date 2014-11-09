@@ -1,0 +1,13 @@
+Paper: hep-th/9305010
+
+Date: 1993-05-04
+
+Title: Derivation of the Verlinde Formula from Chern-Simons Theory and the G/G
+
+modelAuthors: M. Blau and G. Thompson
+
+Comments: 47 pages (in A4 format), LaTex file, (original was truncated by the
+
+mailer - apologies, m.b.), IC/93/83Journal-ref: Nucl.Phys. B408 (1993) 345-390
+
+We give a derivation of the Verlinde formula for the $G_{k}$ WZW model fromChern-Simons theory, without taking recourse to CFT, by calculating explicitlythe partition function $Z_{\Sigma\times S^{1}}$ of $\Sigma\times S^{1}$ with anarbitrary number of labelled punctures. By a suitable gauge choice,$Z_{\Sigma\times S^{1}}$ is reduced to the partition function of an Abeliantopological field theory on $\Sigma$ (a deformation of non-Abelian BF andYang-Mills theory) whose evaluation is straightforward. This relates theVerlinde formula to the Ray-Singer torsion of $\Sigma\times S^{1}$. We derivethe $G_{k}/G_{k}$ model from Chern-Simons theory, proving their equivalence,and give an alternative derivation of the Verlinde formula by calculating the$G_{k}/G_{k}$ path integral via a functional version of the Weyl integralformula. From this point of view the Verlinde formula arises from thecorresponding Jacobian, the Weyl determinant. Also, a novel derivation of theshift $k\ra k+h$ is given, based on the index of the twisted Dolbeault complex.

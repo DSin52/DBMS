@@ -1,0 +1,11 @@
+Paper: hep-th/0211134
+
+Date: 2002-11-14
+
+Title: Dimensional regularization for N=1 susy sigma models and the worldline
+
+formalismAuthors: Fiorenzo Bastianelli, Olindo Corradini, Andrea Zirotti
+
+Comments: 29 pages, 7 figures, LaTeX; improved text, references added, title
+
+and abstract slightly changedWe generalize the worldline formalism to include spin 1/2 fields coupled togravity. To this purpose we first extend dimensional regularization tosupersymmetric nonlinear sigma models in one dimension. We consider a finitepropagation time and find that dimensional regularization is a manifestlysupersymmetric regularization scheme, since the classically supersymmetricaction does not need any counterterm to preserve worldline supersymmetry. Weapply this regularization scheme to the worldline description of Dirac fermionscoupled to gravity. We first compute the trace anomaly of a Dirac fermion in 4dimensions, providing an additional check on the regularization with finitepropagation time. Then we come to the main topic and consider the one-loopeffective action for a Dirac field in a gravitational background. We describehow to represent this effective action as a worldline path integral and computeexplicitly the one- and two-point correlation functions, i.e. the spin 1/2particle contribution to the graviton tadpole and graviton self-energy. Theseresults are presented for the general case of a massive fermion. It isinteresting to note that in the worldline formalism the coupling to gravity canbe described entirely in terms of the metric, avoiding the introduction of avielbein. Consequently, the fermion--graviton vertices are always linear in thegraviton, just like the standard coupling of fermions to gauge fields.

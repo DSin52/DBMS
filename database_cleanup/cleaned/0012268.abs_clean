@@ -1,0 +1,13 @@
+Paper: hep-th/0012268
+
+Date: 2000-12-29
+
+Title: Correlation functions in the non-commutative Wess-Zumino-Witten model
+
+Authors: Adri\'{a}n R. Lugo
+
+Comments: 21 pages, latex, no figures, shortened version to appear in Physics
+
+Letters BJournal-ref: Phys.Lett. B511 (2001) 101-111
+
+We develop a systematic perturbative expansion and compute the one-looptwo-points, three-points and four-points correlation functions in anon-commutative version of the U(N) Wess-Zumino-Witten model in differentregimes of the $\theta$-parameter showing in the first case a kind of phasetransition around the value $\theta_c = \frac{\sqrt{p^2 + 4 m^2}}{\Lambda^2p}$, where $\Lambda$ is a ultraviolet cut-off in a Schwinger regularizationscheme. As a by-product we obtain the functions of the renormalization group,showing they are essentially the same as in the commutative case but applied tothe whole U(N) fields; in particular there exists a critical point where theyare null, in agreement with a recent background field computation of thebeta-function, and the anomalous dimension of the Lie algebra-valued fieldoperator agrees with the current algebra prediction. The non-renormalization ofthe level $k$ is explicitly verified from the four-points correlator, where aleft-right non-invariant counter-term is needed to render finite the theory,that it is however null on-shell. These results give support to the equivalenceof this model with the commutative one.

@@ -1,0 +1,13 @@
+Paper: hep-th/9908035
+
+Date: 1999-08-04
+
+Title: ADHM and D-instantons in orbifold AdS/CFT duality
+
+Authors: Timothy J. Hollowood and Valentin V. Khoze
+
+Comments: 30 pages, JHEP.cls amsmath amssymb, section added on instanton
+
+contributions to 16 fermion correlation functionsJournal-ref: Nucl.Phys. B575 (2000) 78-106
+
+We consider ADHM instantons in product group gauge theories that arise fromD3-branes located at points in the orbifold R^6/Z_p. At finite N we argue thatthe ADHM construction and collective coordinate integration measure can bededuced from the dynamics of D-instantons in the D3-brane background. For thelarge-N conformal field theories of this type, we compute a saddle-pointapproximation of the ADHM integration measure and show that it is proportionalto the partition function of D-instantons in the dual AdS_5 x S^5/Z_pbackground, in agreement with the orbifold AdS/CFT correspondence. Matching theexpected behaviour of D-instantons, we find that when S^5/Z_p is smooth asaddle-point solution only exists in the sector where the instanton charges ineach gauge group factor are the same. However, when S^5/Z_p is singular, theinstanton charges at large N need not be the same and the space of saddle-pointsolutions has a number of distinct branches which represent the possiblefractionations of D-instantons at the singularity. For the theories with a type0B dual the saddle-point solutions manifest two types of D-instantons.

@@ -1,0 +1,13 @@
+Paper: hep-th/0111067
+
+Date: 2001-11-07
+
+Title: Inverse Scattering, the Coupling Constant Spectrum, and the Riemann
+
+HypothesisAuthors: N. N. Khuri
+
+Comments: 107 pages, 1 figure, Latex
+
+PDEs; Number TheoryJournal-ref: Math.Phys.Anal.Geom. 5 (2002) 1-63
+
+We use inverse scattering methods, generalized for a specific class ofcomplex potentials, to construct a one parameter family of complex potentialsV(s, r) which have the property that the zero energy s-wave Jost function, as afunction of s alone, is identical to Riemann's $\xi$ function whose zeros arethe non-trivial zeros of the zeta function. These potentials have an asymptoticexpansion in inverse powers of s(s-1) with real coefficients V_n(r) which areexplicitly calculated. We show that the validity of the Riemann hypothesisdepends essentially on simple integrability properties of the first ordercoefficient, V_1(r). In the case studied in this paper, this coefficient doesnot satisfy these conditions, but proof of that fact does indicate severalpossibilities for proceeding further.

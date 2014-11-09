@@ -1,0 +1,11 @@
+Paper: hep-th/9709169
+
+Date: 1997-09-23
+
+Title: Vacuum-Bounded States and the Entropy of Black Hole Evaporation
+
+Authors: Ken D. Olum
+
+Comments: MIT thesis. 79 pages. LaTex with MIT thesis style (included). 11
+
+figures with epsf. Most of this material (but not chapter 2) has previouslyappeared in somewhat different form in hep-th/9710086 and hep-th/9709041We call a state ``vacuum bounded'' if every measurement performed outside aspecified interior region gives the same result as in the vacuum. We computethe maximum entropy of a vacuum-bounded state with a given energy for aone-dimensional model, with the aid of numerical calculations on a lattice. Forlarge energies we show that a vacuum-bounded system with length $L_in$ and agiven energy has entropy no more than $S^rb + (1/6) \ln S^rb$, where $S^rb$ isthe entropy in a rigid box with the same size and energy. Assuming that thestate resulting from the evaporation of a black hole is similar to avacuum-bounded state, and that the similarity between vacuum-bounded and rigidbox problems extends from 1 to 3 dimensions, we apply these results to theblack hole information paradox. Under these assumptions we conclude that largeamounts of information cannot be emitted in the final explosion of a blackhole.We also consider vacuum-bounded states at very low energies and come to thesurprising conclusion that the entropy of such a state can be much higher thanthat of a rigid box state with the same energy. For a fixed $E$ we let $L_in'$be the length of a rigid box which gives the same entropy as a vacuum-boundedstate of length $L_in$. In the $E\to 0$ limit we conjecture that the ratio$L_in'/L_in$ grows without bound and support this conjecture with numericalcomputations.

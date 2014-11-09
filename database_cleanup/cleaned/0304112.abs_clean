@@ -1,0 +1,11 @@
+Paper: hep-th/0304112
+
+Date: 2003-04-11
+
+Title: An O(N) symmetric extension of the Sine-Gordon Equation
+
+Authors: Fred Cooper, Pasquale Sodano, Andrea Trombettoni and Alan Chodos
+
+Comments: 21 pages, Latex (Revtex4) v3
+
+We discuss an O(N) exension of the Sine-Gordon (S-G)equation which allows usto perform an expansion around the leading order in large-N result usingPath-Integral methods. In leading order we show our methods agree with theresults of a variational calculation at large-N. We discuss the strikingdifferences for a non-polynomial interaction between the form for the effectivepotential in the Gaussian approximation that one obtains at large-N whencompared to the N=1 case. This is in contrast to the case when the classicalpotential is a polynomial in the field and no such drastic differences occur.We find for our large-N extension of the Sine-Gordon model that the unbrokenground state is unstable as one increases the coupling constant (as it is forthe original S-G equation) and we determine the stability criteria.

@@ -1,0 +1,13 @@
+Paper: hep-th/9204013
+
+Date: 1992-04-06
+
+Title: Matrix Models and One Dimensional Open String Theory (Revised)
+
+Authors: Joseph A. Minahan
+
+Comments: 17 pages
+
+Journal-ref: Int. J. Mod. Phys. A8 (1993) 3599-3614
+
+We propose a random matrix model as a representation for $D=1$ open strings.We show that the model is equivalent to $N$ fermions with spin in a centralpotential that also includes a long-range ferromagnetic interaction between thefermions that falls off as $1/(r_{ij})^2$. We find two interesting scalinglimits and calculate the free energy for both situations. One limit correspondsto Dirichlet boundary conditions for the dual graphs and the other correspondsto Neumann conditions. We compute the boundary cosmological constant and showthat it is of order $1/\log(\beta)$. We also briefly discuss a possible analogof the Das-Jevicki field for the open string tachyon. (n.b. This is a revisedversion of paper previously submitted to xxx@lanl.gov. The original versionmisidentified the Dirichlet and Neumann cases. This version also includesreferences to work by Yang that was missing in the original.)

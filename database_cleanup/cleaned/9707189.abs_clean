@@ -1,0 +1,13 @@
+Paper: hep-th/9707189
+
+Date: 1997-07-22
+
+Title: The Higher Derivative Expansion of the Effective Action by the String
+
+Inspired Method. Part IIAuthors: D. Fliegner (Heidelberg U., ITP), P. Haberl (RWTH Aachen, ITP), M.G.
+
+Schmidt (Heidelberg U., ITP), C. Schubert (Humboldt U. Berlin)Comments: 37 pages, LaTeX, 3 figures, typos corrected, to appear in Ann. Phys.
+
+(N.Y.)Journal-ref: Annals Phys. 264 (1998) 51-74
+
+We apply the string inspired worldline formalism to the calculation of thehigher derivative expansion of one-loop effective actions in non-Abelian gaugetheory. For this purpose, we have completely computerized the method, using thesymbolic manipulation programs FORM, PERL and M. Explicit results are given tosixth order in the inverse mass expansion, reduced to a minimal basis ofinvariants specifically adapted to the method. Detailed comparisons are madewith other gauge-invariant algorithms for calculating the same expansion. Thisincludes an explicit check of all coefficients up to fifth order.

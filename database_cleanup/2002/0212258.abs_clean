@@ -1,0 +1,11 @@
+Paper: hep-th/0212258
+
+Date: 2002-12-20
+
+Title: Non--Commutative Field Theories beyond Perturbation Theory
+
+Authors: W. Bietenholz, F. Hofheinz and J. Nishimura
+
+Comments: 8 pages, 8 figures, talk presented at 35th Ahrenshoop Symposium
+
+We investigate two models in non-commutative (NC) field theory by means ofMonte Carlo simulations. Even if we start from the Euclidean latticeformulation, such simulations are only feasible after mapping the systems ontodimensionally reduced matrix models. Using this technique, we measure Wilsonloops in 2d NC gauge theory of rank 1. It turns out that they arenon-perturbatively renormalizable, and the phase follows an Aharonov-Bohmeffect if we identify \theta = 1/B. Next we study the 3d \lambda \phi^{4} modelwith two NC coordinates, where we present new results for the correlators andthe dispersion relation. We further reveal the explicit phase diagram. Theordered regime splits into a uniform and a striped phase, as it wasqualitatively conjectured before. We also confirm the recent observation byAmbjorn and Catterall that such stripes occur even in d=2, although they implythe spontaneous breaking of translation symmetry. However, in d=3 and d=2 weobserve only patterns of two stripes to be stable in the range of parametersinvestigated.

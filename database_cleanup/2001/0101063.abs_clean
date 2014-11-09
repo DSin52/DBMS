@@ -1,0 +1,11 @@
+Paper: hep-th/0101063
+
+Date: 2001-01-11
+
+Title: Relativistic Gamow Vectors I Derivation from Poles of the S-Matrix
+
+Authors: A.Bohm, H.Kaldass, S.Wickramasekara
+
+Comments: 40 pages, 3 figures
+
+A state vector description for relativistic resonances is derived from thefirst order pole of the $j$-th partial $S$-matrix at the invariant square massvalue $\sm_R=(m-i\Gamma/2)^2$ in the second sheet of the Riemann energysurface. To associate a ket, called Gamow vector, to the pole, we use thegeneralized eigenvectors of the four-velocity operators in place of thecustomary momentum eigenkets of Wigner, and we replace the conventional Hilbertspace assumptions for the in- and out-scattering states with the new hypothesisthat in- and out-states are described by two different Hardy spaces withcomplementary analyticity properties. The Gamow vectors have the following- They are simultaneous generalized eigenvectors of the four velocityoperators with real eigenvalues and of the self-adjoint invariant mass operator$M=(P_\mu P^\mu)^{1/2}$ with complex eigenvalue $\sqrt{\sm_R}$.- They have a Breit-Wigner distribution in the invariant square mass variable$\sm$ and lead to an exactly exponential law for the decay rates andprobabilities.

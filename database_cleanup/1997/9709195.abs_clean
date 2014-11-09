@@ -1,0 +1,13 @@
+Paper: hep-th/9709195
+
+Date: 1997-09-26
+
+Title: An Approximate Large $N$ Method for Lattice Chiral Models
+
+Authors: Stuart Samuel (MPI, Columbia University and City College of New York)
+
+Comments: Latex file, 19 pages
+
+Journal-ref: Phys.Rev. D56 (1997) 1470-1474
+
+An approximation is used that permits one to explicitly solve the two-pointSchwinger-Dyson equations of the U(N) lattice chiral models. The approximatesolution correctly predicts a phase transition for dimensions $d$ greater thantwo. For $d \le 2 $, the system is in a single disordered phase with a massgap. The method reproduces known $N=\infty$ results well for $d=1$. For $d=2$,there is a moderate difference with $N=\infty$ results only in the intermediatecoupling constant region.

@@ -1,0 +1,11 @@
+Paper: hep-th/0207151
+
+Date: 2002-07-16
+
+Title: Continuous and discrete global anomalies and the null-cone of
+
+supersymmetric gauge theoriesAuthors: Gustavo Dotti
+
+Comments: 31 pages, 3 figures
+
+A stronger version of an anomaly matching theorem is proven. It allows toanticipate the matching of continuous and discrete global anomalies, and can beapplied at field configurations where the gauge group is not necessarilycompletely broken. The theorem is used to show that discrete anomaly matchingis mathematically unrelated to continuous anomaly matching and thus offer atruly independent test on a given spectrum. It is also applied to the wideclass of theories with unconstrained basic gauge invariants, including theorieswith an affine moduli space and theories in a Coulomb phase, for which aninteresting connection is found between anomaly matching and the geometry ofthe null-cone, the union set of orbits of the complexified gauge group $G^c$having zero in its boundary. The existence of $G^c$ orbits of maximum dimensionin the null-cone implies the matching of continuous anomalies (between theelementary fields and the basic invariants), whereas the distance to the originof weight space of a hyperplane containing the weights of a point in such anorbit determines the matching of discrete anomalies. The examples worked out indetail are SO(N) with a symmetric tensor, SO(N) with (N-4) vectors, the ISSmodel, SO(N) with (N-3) vectors, and the Seiberg Witten theories, one flavor ofmatter in the adjoint of a simple gauge group.

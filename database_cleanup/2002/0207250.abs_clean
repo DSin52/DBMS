@@ -1,0 +1,11 @@
+Paper: hep-th/0207250
+
+Date: 2002-07-27
+
+Title: Invariant Relativistic Electrodynamics. Clifford Algebra Approach
+
+Authors: Tomislav Ivezic
+
+Comments: 30 pages, Poynting's theorem is added (Sec. III.B), Secs. IIID, IV.B
+
+and D are enlargedIn the usual Clifford algebra formulation of electrodynamics the Faradaybivector field F is decomposed into the observer dependent sum of a relativevector E and a relative bivector e_5 B by making a space-time split, whichdepends on the observer velocity. (E corresponds to the three-dimensionalelectric field vector, B corresponds to the three-dimensional magnetic fieldvector and e_5 is the (grade-4) pseudoscalar.) In this paper it is proved thatthe space-time split and the relative vectors are not relativistically correct,which means that the ordinary Maxwell equations with E and B and the fieldequations (FE) with F are not physically equivalent. Therefore we present theobserver independent decomposition of F by using the 1-vectors of electric Eand magnetic B fields. The equivalent, invariant, formulations of relativisticelectrodynamics (independent of the reference frame and of the chosencoordinatization for that frame) which use F, E and B, the real multivector Psi= E - e_5 cB and the complex 1-vector Psi = E - icB are developed and presentedhere. The new observer independent FE are presented in formulations with E andB, with real and complex Psi. When the sources are absent the FE with real andcomplex Psi become Dirac like relativistic wave equations for the free photon.The expressions for the observer independent stress-energy vector T(v)(1-vector), energy density U (scalar), the Poynting vector S and the momentumdensity g (1-vectors), the angular momentum density M (bivector) and theLorentz force K (1-vector) are directly derived from the FE. The localconservation laws are also directly derived from the FE and written in aninvariant way.

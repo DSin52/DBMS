@@ -1,0 +1,13 @@
+Paper: hep-th/0005089
+
+Date: 2000-05-10
+
+Title: Loop Transfer Matrix and Loop Quantum Mechanics
+
+Authors: G.K.Savvidy
+
+Comments: 22 pages, Latex, psfig,epsf
+
+Journal-ref: JHEP 0009 (2000) 044
+
+We extend the previous construction of loop transfer matrix to the case ofnonzero self-intersection coupling constant $\kappa$. The loop generalizationof Fourier transformation allows to diagonalize transfer matrices depending onsymmetric difference of loops and express all eigenvalues of $3d$ loop transfermatrix through the correlation functions of the corresponding 2d statisticalsystem. The loop Fourier transformation allows to carry out analogy withquantum mechanics of point particles, to introduce conjugate loop momentum Pand to define loop quantum mechanics. We also consider transfer matrix on $4d$lattice which describes propagation of memebranes. This transfer matrix canalso be diagonalized by using generalized Fourier transformation, and all itseigenvalues are equal to the correlation functions of the corresponding $3d$statistical system.

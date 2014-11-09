@@ -1,0 +1,11 @@
+Paper: hep-th/9806025
+
+Date: 1998-06-03
+
+Title: The D-Gauge
+
+in QED3 in the Matsubara formalismAuthors: D.J. Lee
+
+Comments: 19 pages including 3 diagrams
+
+A serious problem with the Schwinger-Dyson approach to dynamical massgeneration in QED3 at finite temperature is that the contribution from thetransverse part of the photon propagator, in the Landau gauge, leads toinfrared divergences in both the mass function and the wavefunctionrenormalisation. We show how, by using a simple choice of vertex anatz and achoice of non-local gauge (the `D-gauge') both quantities can be made finite.We formulate an equation for the physical mass M. and show that it reduces tothe coresponding equation obtained in the constant physical mass approximationM=M(0,pi T) (which is finite). There for at finite temperature, we are able tojustify a `constant' mass approximation for M, and show that the value of r(the ratio of twice the physical mass at zero temperature to the criticaltemperature) remains close to the value obtained in previous calculations withretardation.

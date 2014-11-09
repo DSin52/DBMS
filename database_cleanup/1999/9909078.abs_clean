@@ -1,0 +1,11 @@
+Paper: hep-th/9909078
+
+Date: 1999-09-13
+
+Title: On Statistical Mechanics of Instantons in the CP^{N_c-1} Model
+
+Comments: 38 pages, LaTeX
+
+Journal-ref: Nucl.Phys. B571 (2000) 91-119
+
+We introduce an explicit form of the multi-instanton weight including alsoinstanton--anti-instanton interactions for arbitrary $N_c$ in thetwo-dimensional $CP^{N_c-1}$ model. To that end, we use the parametrization ofmulti-instantons in terms of instanton `constituents' which we call `zindons'for short. We study the statistical mechanics of zindons analytically (by meansof the Debye-H\"uckel approximation) and numerically (running a Metropolisalgorithm). Though the zindon parametrization allows for a complete `melting'of instantons we find that, through a combination of dynamical and purelygeometric factors, a dominant portion of topological charge is residing inwell-separated instantons and anti-instantons.

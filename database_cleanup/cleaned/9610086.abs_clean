@@ -1,0 +1,13 @@
+Paper: hep-th/9610086
+
+Date: 1996-10-11
+
+Title: Entropy of Localized States and Black Hole Evaporation
+
+Authors: Ken D. Olum
+
+Comments: 27 pages, ReVTeX, 5 postscript figures using epsf. Miscellaneous
+
+cleanups, one section rewritten for clarityJournal-ref: Phys.Rev. D55 (1997) 6168-6180
+
+We call a state "vacuum-bounded" if every measurement performed outside aspecified interior region gives the same result as in the vacuum. We computethe maximum entropy of a vacuum-bounded state with a given energy for aone-dimensional model, with the aid of numerical calculations on a lattice. Themaximum entropy is larger than it would be for rigid wall boundary conditionsby an amount $\delta S$ which for large energies is less than or approximately$(1/6) ln (L_in T)$, where L_in is the length of the interior region. Assumingthat the state resulting from the evaporation of a black hole is similar to avacuum-bounded state, and that the similarity between vacuum-bounded andrigid-wall-bounded problems extends from 1 to 3 dimensions, we apply theseresults to the black hole information paradox. We conclude that large amountsof information cannot be emitted in the final explosion of a black hole.

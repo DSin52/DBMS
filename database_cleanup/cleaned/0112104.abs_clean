@@ -1,0 +1,13 @@
+Paper: hep-th/0112104
+
+Date: 2001-12-12
+
+Title: Conformal Orbifold Partition Functions from Topologically Massive Gauge
+
+TheoryAuthors: P. Castelo Ferreira, I.I. Kogan and R.J. Szabo
+
+Comments: 47 pages LaTeX, 3 figures, uses amsfonts and epsfig; v2
+
+corrected, reference added, clarifying comments on modular invariancein JHEPHWM-01-40, EMPG-01-19Journal-ref: JHEP 0204 (2002) 035
+
+We continue the development of the topological membrane approach to open andunoriented string theories. We study orbifolds of topologically massive gaugetheory defined on the geometry $[0,1]\times\Sigma$, where $\Sigma$ is a genericcompact Riemann surface. The orbifold operations are constructed by gauging thediscrete symmetries of the bulk three-dimensional field theory. Multi-loopbosonic string vacuum amplitudes are thereby computed as bulk correlationfunctions of the gauge theory. It is shown that the three-dimensionalcorrelators naturally reproduce twisted and untwisted sectors in the case ofclosed worldsheet orbifolds, and Neumann and Dirichlet boundary conditions inthe case of open ones. The bulk wavefunctions are used to explicitly constructthe characters of the underlying extended Kac-Moody group for arbitrary genus.The correlators for both the original theory and its orbifolds give theexpected modular invariant statistical sums over the characters.

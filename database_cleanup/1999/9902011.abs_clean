@@ -1,0 +1,13 @@
+Paper: hep-th/9902011
+
+Date: 1999-02-01
+
+Title: The ultraviolet Behaviour of Integrable Quantum Field Theories, Affine
+
+Toda Field TheoryAuthors: A. Fring, C. Korff and B.J. Schulz
+
+Comments: 37 pp Latex, 5 figures
+
+Journal-ref: Nucl.Phys. B549 (1999) 579-612
+
+We investigate the thermodynamic Bethe ansatz (TBA) equations for a system ofparticles which dynamically interacts via the scattering matrix of affine Todafield theory and whose statistical interaction is of a general Haldane type. Upto the first leading order, we provide general approximated analyticalexpressions for the solutions of these equations from which we derive generalformulae for the ultraviolet scaling functions for theories in which theunderlying Lie algebra is simply laced. For several explicit models we comparethe quality of the approximated analytical solutions against the numericalsolutions. We address the question of existence and uniqueness of the solutionsof the TBA-equations, derive precise error estimates and determine the rate ofconvergence for the applied numerical procedure. A general expression for theFourier transformed kernels of the TBA-equations allows to derive the relatedY-systems and a reformulation of the equations into a universal form.

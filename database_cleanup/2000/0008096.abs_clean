@@ -1,0 +1,13 @@
+Paper: hep-th/0008096
+
+Date: 2000-08-11
+
+Title: Light-Cone Quantization
+
+Authors: T. Heinzl (FSU Jena)
+
+Comments: Lectures delivered at the 39th Schladming Winter School `Methods of
+
+Quantization' (to appear in the Proceedings), 90 pages, 11 figures, useslamuphys.sty and chicago-sp.sty (included); references addedJournal-ref: Lect.Notes Phys. 572 (2001) 55-142
+
+These lecture notes review the foundations and some applications oflight-cone quantization. First I explain how to choose a time in specialrelativity. Inclusion of Poincare invariance naturally leads to Dirac's formsof relativistic dynamics. Among these, the front form, being the basis forlight-cone quantization, is my main focus. I explain a few of its peculiarfeatures such as boost and Galilei invariance or separation of relative andcenter-of-mass motion. Combining light-cone dynamics and field quantizationresults in light-cone quantum field theory. As the latter represents afirst-order system, quantization is somewhat nonstandard. I address this issueusing Schwinger's quantum action principle, the method of Faddeev and Jackiw,and the functional Schroedinger picture. A finite-volume formulation,discretized light-cone quantization, is analysed in detail. I point out someproblems with causality, which are absent in infinite volume. Finally, thetriviality of the light-cone vacuum is established. Coming to applications, Iintroduce the notion of light-cone wave functions as the solutions of thelight-cone Schroedinger equation. I discuss some examples, among themnonrelativistic Coulomb systems and model field theories in two dimensions.Vacuum properties (like chiral condensates) are reconstructed from the particlespectrum obtained by solving the light-cone Schroedinger equation. In a lastapplication, I make contact with phenomenology by calculating the pion wavefunction within the Nambu and Jona-Lasinio model. I am thus able to predict anumber of observables like the pion charge and core radius, the r.m.s.transverse momentum, the pion structure function and the pion distributionamplitude. The latter turns out to be the asymptotic one.

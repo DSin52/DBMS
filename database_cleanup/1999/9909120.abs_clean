@@ -1,0 +1,11 @@
+Paper: hep-th/9909120
+
+Date: 1999-09-16
+
+Title: Discrete Torsion and Gerbes II
+
+Authors: Eric R. Sharpe
+
+Comments: 75 pages, must LaTeX 3x; v2
+
+minor upgradesIn a previous paper we outlined how discrete torsion can be understoodgeometrically as an analogue of orbifold U(1) Wilson lines. In this paper weshall prove the remaining details. More precisely, in this paper we describegerbes in terms of objects known as stacks (essentially, sheaves ofcategories), and develop much of the basic theory of gerbes in such language.Then, once the relevant technology has been described, we give afirst-principles geometric derivation of discrete torsion. In other words, wedefine equivariant gerbes, and classify equivariant structures on gerbes and ongerbes with connection. We prove that in general, the set of equivariantstructures on a gerbe with connection is a torsor under a group which includesH^2(G,U(1)), where G is the orbifold group. In special cases, such as trivialgerbes, the set of equivariant structures can furthermore be canonicallyidentified with the group.

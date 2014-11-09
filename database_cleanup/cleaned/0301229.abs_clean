@@ -1,0 +1,11 @@
+Paper: hep-th/0301229
+
+Date: 2003-01-28
+
+Title: Organizing boundary RG flows
+
+Authors: Stefan Fredenhagen
+
+Comments: 51 pages, 22 figures, uses pstricks
+
+We show how a large class of boundary RG flows in two-dimensional conformalfield theories can be summarized in a single rule. This rule is ageneralization of the 'absorption of the boundary spin'-principle of Affleckand Ludwig and applies to all theories which have a description as a cosetmodel. We give a formulation for coset models with arbitrary modular invariantpartition function and present evidence for the conjectured rule. The secondhalf of the article contains an illustrated section of examples where the ruleis applied to unitary minimal models of the A- and D-series, in particular the3-state Potts model, and to parafermion theories. We demonstrate how the rulecan be used to compute brane charge groups in the example of N=2 minimalmodels.

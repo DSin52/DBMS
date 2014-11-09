@@ -1,0 +1,13 @@
+Paper: hep-th/9407078
+
+Date: 1994-07-14
+
+Title: Bosonization in Higher Dimensions
+
+Authors: C.P. Burgess, C.A. L\"utken and F. Quevedo
+
+Comments: (We had omitted some references and had misspelled `aficionados')
+
+plain TeX, 11 pages, McGill-94/33, NEIP-94-006, OSLO-TP 10-94Journal-ref: Phys.Lett. B336 (1994) 18-24
+
+Using the recently discovered connection between bosonization and dualitytransformations (hep-th/9401105 and hep-th/9403173), we give an explicitpath-integral representation for the bosonization of a massive fermion coupledto a U(1) gauge potential (such as electromagnetism) in d space (D=d+1spacetime) dimensions. The bosonic theory is described by a rank d-1antisymmetric Kalb-Ramond-type gauge potential. We construct the bosonizedlagrangian explicitly in the limit of large fermion mass. We find that theresulting action is local for d=2 (and given by a Chern-Simons action), butnonlocal for d larger than 3. By coupling to a statistical Chern-Simons fieldfor d=2, we obtain a bosonized formulation of anyons. The bosonic theory may befurther dualized to a theory involving purely scalars, for any d, and we showthis to be governed by a higher-derivative lagrangian for which the scalardecouples from the U(1) gauge potential.

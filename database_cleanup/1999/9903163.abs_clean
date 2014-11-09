@@ -1,0 +1,11 @@
+Paper: hep-th/9903163
+
+Date: 1999-03-18
+
+Title: Counting BPS Blackholes in Toroidal Type II String Theory
+
+Authors: Juan Maldacena, Gregory Moore and Andrew Strominger
+
+Comments: 23 pages, harvmac. References added
+
+We derive a $U$-duality invariant formula for the degeneracies of BPSmultiplets in a D1-D5 system for toroidal compactification of the type IIstring. The elliptic genus for this system vanishes, but it is found that BPSstates can nevertheless be counted using a certain topological partitionfunction involving two insertions of the fermion number operator. This ispossible due to four extra toroidal U(1) symmetries arising from a Wignercontraction of a large $\CN=4$ algebra $\CA_{\kappa,\kappa'}$ for $\kappa' \to\infty$. We also compare the answer with a counting formula derived fromsupergravity on $AdS_3\times S^3 \times T^4$ and find agreement within theexpected range of validity.

@@ -1,0 +1,13 @@
+Paper: hep-th/9803118
+
+Date: 1998-03-13
+
+Title: Bulk and Boundary S Matrices for the SU(N) Chain
+
+Authors: Anastasia Doikou and Rafael I. Nepomechie
+
+Comments: 28 pages, LaTeX, 5 LaTeX figures
+
+SystemsJournal-ref: Nucl.Phys. B521 (1998) 547-572
+
+We consider both closed and open integrable antiferromagnetic chainsconstructed with the SU(N)-invariant R matrix. For the closed chain, we extendthe analyses of Sutherland and Kulish-Reshetikhin by considering also complex``string'' solutions of the Bethe Ansatz equations. Such solutions areessential to describe general multiparticle excited states. We also explicitlydetermine the SU(N) quantum numbers of the states. In particular, the model hasparticle-like excitations in the fundamental representations [k] of SU(N), withk = 1, ..., N-1. We directly compute the complete two-particle S matrices forthe cases [1] X [1] and [1] X [N-1]. For the open chain with diagonal boundaryfields, we show that the transfer matrix has the symmetry SU(l) X SU(N-l) XU(1), as well as a new ``duality'' symmetry which interchanges l and N - l.With the help of these symmetries, we compute by means of the Bethe Ansatz forparticles of types [1] and [N-1] the corresponding boundary S matrices.

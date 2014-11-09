@@ -1,0 +1,11 @@
+Paper: hep-th/0110054
+
+Date: 2001-10-05
+
+Title: Renormalization Group Flow of Quantum Gravity in the Einstein-Hilbert
+
+TruncationComments: 58 pages, latex, 24 figures
+
+Journal-ref: Phys.Rev. D65 (2002) 065016
+
+The exact renormalization group equation for pure quantum gravity is used toderive the non-perturbative $\Fbeta$-functions for the dimensionless Newtonconstant and cosmological constant on the theory space spanned by theEinstein-Hilbert truncation. The resulting coupled differential equations areevaluated for a sharp cutoff function. The features of these flow equations arecompared to those found when using a smooth cutoff. The system of equationswith sharp cutoff is then solved numerically, deriving the completerenormalization group flow of the Einstein-Hilbert truncation in $d=4$. Theresulting renormalization group trajectories are classified and their physicalrelevance is discussed. The non-trivial fixed point which, if present in theexact theory, might render Quantum Einstein Gravity nonperturbativelyrenormalizable is investigated for various spacetime dimensionalities.

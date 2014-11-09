@@ -1,0 +1,11 @@
+Paper: hep-th/9809110
+
+Date: 1998-09-15
+
+Title: The Jaynes-Gibbs principle of maximal entropy and the non-equilibrium
+
+propagators of the O(N) phi^4 theory at large NAuthors: P.Jizba and E.S.Tututi (DAMTP-Cambridge)
+
+Comments: 4 pages, REVTeX, no figures, references added, minor corrections in
+
+textWe present a novel procedure for calculating non-equilibrium two-pointGreen's functions in the $O(N) \phi^{4}$ theory at large $N$. Thenon-equilibrium density matrix $\rho$ is constructed via the Jaynes-Gibbsprinciple of maximal entropy and it is directly implemented into theDyson-Schwinger equations through initial value conditions. In the large $N$limit we perform an explicit evaluation of two-point Green's functions for twoillustrative choices of $\rho$.

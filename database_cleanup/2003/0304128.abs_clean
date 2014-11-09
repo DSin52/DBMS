@@ -1,0 +1,11 @@
+Paper: hep-th/0304128
+
+Date: 2003-04-15
+
+Title: The Exact Superconformal R-Symmetry Maximizes a
+
+Authors: Ken Intriligator and Brian Wecht
+
+Comments: 20 pages, 1 figure
+
+An exact and general solution is presented for a previously open problem. Weshow that the superconformal R-symmetry of any 4d SCFT is exactly and uniquelypossibilities, which (locally) maximizes the combination of 't Hooft anomaliesa_{trial}(R) \equiv (9 Tr R^3-3 Tr R)/32. The maximal value of a_{trial} isthen, by a result of Anselmi et. al., the central charge \it{a} of the SCFT.Our a_{trial} maximization principle almost immediately ensures that thecentral charge \it{a} decreases upon any RG flow, since relevant deformationsforce a_{trial} to be maximized over a subset of the previously possibleR-symmetries. Using a_{trial} maximization, we find the exact superconformalR-symmetry (and thus the exact anomalous dimensions of all chiral operators) ina variety of previously mysterious 4d N=1 SCFTs. As a check, we verify that ourexact results reproduce the perturbative anomalous dimensions in allperturbatively accessible RG fixed points.

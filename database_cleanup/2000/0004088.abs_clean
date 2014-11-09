@@ -1,0 +1,11 @@
+Paper: hep-th/0004088
+
+Date: 2000-04-12
+
+Title: Noncommutative Algebraic Equations and Noncommutative Eigenvalue Problem
+
+Comments: 8 pages. Misprints corrected, references added
+
+Journal-ref: Lett.Math.Phys. 52 (2000) 177-184
+
+We analyze the perturbation series for noncommutative eigenvalue problem$AX=X\lambda$ where $\lambda$ is an element of a noncommutative ring, $ A$ is amatrix and $X$ is a column vector with entries from this ring. As a corollarywe obtain a theorem about the structure of perturbation series for Tr $x^r$where $x$ is a solution of noncommutative algebraic equation (for $r=1$ thistheorem was proved by Aschieri, Brace, Morariu, and Zumino, hep-th/0003228, andused to study Born-Infeld lagrangian for the gauge group $U(1)^k$).

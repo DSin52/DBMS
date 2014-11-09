@@ -1,0 +1,11 @@
+Paper: hep-th/0001014
+
+Date: 2000-01-04
+
+Title: Gauge theories in local causal perturbation theory
+
+Authors: Franz-Marc Boas
+
+Comments: PhD thesis, 84 pages
+
+In this thesis quantum gauge theories are considered in the framework oflocal, causal perturbation theory. Gauge invariance is described in terms ofthe BRS formalism. Local interacting field operators are constructedperturbatively and field equations are established. A nilpotent BRStransformation is defined on the local algebra of fields. It allows thedefinition of the algebra of local observables as an operator cohomology. Thisalgebra of local observables can be represented in a Hilbert space.The interacting field operators are defined in terms of time ordered productsof free field operators. For the results above to hold the time orderedproducts must satisfy certain normalization conditions. To formulate theseconditions also for field operators that contain a spacetime derivative asuitable mathematical description of time ordered products is developed.Among the normalization conditions are Ward identities for the ghost currentand the BRS current. The latter are generalizations of a normalizationcondition that is postulated by D"utsch, Hurth, Krahe and Scharf for Yang-Millstheory. It is not yet proven that this condition has a solution in every order.All other normalization conditions can be accomplished simultaneously.A principle for the correspondence between interacting quantum fields andinteracting classical fields is established. Quantum electrodynamics andYang-Mills theory are examined and the results are compared with theliterature.

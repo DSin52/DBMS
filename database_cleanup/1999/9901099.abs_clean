@@ -1,0 +1,13 @@
+Paper: hep-th/9901099
+
+Date: 1999-01-21
+
+Title: Chen's Iterated Integral represents the Operator Product Expansion
+
+Authors: Dirk Kreimer
+
+Comments: 35p, LaTeX, using epsf for four figures. References updated and typos
+
+correctedJournal-ref: Adv.Theor.Math.Phys. 3 (2000) 3; Adv.Theor.Math.Phys. 3 (1999)
+
+627-670The recently discovered formalism underlying renormalization theory, the Hopfalgebra of rooted trees, allows to generalize Chen's lemma. In its generalizedform it describes the change of a scale in Green functions, and hence relatesto the operator product expansion. Hand in hand with this generalization goesthe generalization of the ordinary factorial $n!$ to the tree factorial $t^!$.Various identities on tree-factorials are derived which clarify the relationbetween Connes-Moscovici weights and Quantum Field Theory.

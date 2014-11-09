@@ -1,0 +1,13 @@
+Paper: hep-th/9407193
+
+Date: 1994-07-29
+
+Title: (3+1)-Dimensional Schwinger Terms and Non-commutative Geometry
+
+Authors: Edwin Langmann and Jouko Mickelsson
+
+Comments: 13 pages
+
+Journal-ref: Phys.Lett. B338 (1994) 241-248
+
+We discuss 2-cocycles of the Lie algebra $\Map(M^3;\g)$ of smooth, compactlysupported maps on 3-dimensional manifolds $M^3$ with values in a compact,semi-simple Lie algebra $\g$. We show by explicit calculation that theMickelsson-Faddeev-Shatashvili cocycle $\f{\ii}{24\pi^2}\int\trac{A\ccr{\ddX}{\dd Y}}$ is cohomologous to the one obtained from the cocycle given byMickelsson and Rajeev for an abstract Lie algebra $\gz$ of Hilbert spaceoperators modeled on a Schatten class in which $\Map(M^3;\g)$ can be naturallyembedded. This completes a rigorous field theory derivation of the formercocycle as Schwinger term in the anomalous Gauss' law commutators in chiralQCD(3+1) in an operator framework. The calculation also makes explicit a directrelation of Connes' non-commutative geometry to (3+1)-dimensional gauge theoryand motivates a novel calculus generalizing integration of $\g$-valued forms on3-dimensional manifolds to the non-commutative case.

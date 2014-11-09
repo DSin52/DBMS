@@ -1,0 +1,13 @@
+Paper: hep-th/0003243
+
+Date: 2000-03-27
+
+Title: Polarization-Free Generators and the S-Matrix
+
+Authors: Hans-Juergen Borchers, Detlev Buchholz and Bert Schroer
+
+Comments: Dedicated to the memory of Harry Lehmann, 19 pages; revised version
+
+(proof of Lemma 3.4 corrected)Journal-ref: Commun.Math.Phys. 219 (2001) 125-140
+
+Polarization-free generators, i.e. ``interacting'' Heisenberg operators whichare localized in wedge-shaped regions of Minkowski space and generate singleparticle states from the vacuum, are a novel tool in the analysis and synthesisof two-dimensional integrable quantum field theories. In the present article,the status of these generators is analyzed in a general setting. It is shownthat such operators exist in any theory and in any number of spacetimedimensions. But in more than two dimensions they have rather delicate domainproperties in the presence of interaction. If, for example, they are definedand temperate on a translation-invariant, dense domain, then the underlyingtheory yields only trivial scattering. In two-dimensional theories, thesedomain properties are consistent with non-trivial interaction, but they excludeparticle production. Thus the range of applications of polarization-freegenerators seems to be limited to the realm of two-dimensional theories.

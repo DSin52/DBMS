@@ -1,0 +1,11 @@
+Paper: hep-th/0010110
+
+Date: 2000-10-13
+
+Title: Relative Topological Integrals and Relative Cheeger-Simons Differential
+
+CharactersAuthors: Roberto Zucchini
+
+Comments: 49 pages, Plain TeX, no figures, requires AMS font files AMSSYM.DEF
+
+and amssym.tex; final versionTopological integrals appear frequently in Lagrangian field theories. Onmanifolds without boundary, they can be treated in the framework of (absolute)(co)homology using the formalism of Cheeger--Simons differential characters.String and D--brane theory involve field theoretic models on worldvolumes withboundary. On manifolds with boundary, the proper treatment of topologicalintegrals requires a generalization of the usual differential topological setup and leads naturally to relative (co)homology and relative Cheeger--Simonsdifferential characters. In this paper, we present a construction of relativeCheeger--Simons differential characters which is computable in principle andwhich contains the ordinary Cheeger--Simons differential characters as aparticular case.

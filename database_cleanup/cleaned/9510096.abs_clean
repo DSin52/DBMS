@@ -1,0 +1,11 @@
+Paper: hep-th/9510096
+
+Date: 1995-10-15
+
+Title: Exact Solution of a N-body Problem in One Dimension
+
+Comments: 8 pages, tex file, no figures, sign in the first term on the right
+
+hand side of eq.3 correctedSystemsJournal-ref: J.Phys. A29 (1996) L45-L48; J.Phys. A29 (1996) 6459-6460
+
+Complete energy spectrum is obtained for the quantum mechanical problem of None dimensional equal mass particles interacting via potential$$V(x_1,x_2,...,x_N) = g\sum^N_{i < j}{1\over (x_i-x_j)^2} - {\alpha\over\sqrt{\sum_{i < j} (x_i-x_j)^2}}$$ Further, it is shown that scatteringconfiguration, characterized by initial momenta $p_i (i=1,2,...,N)$ goes overinto a final configuration characterized uniquely by the final momenta $p'_i$with $p'_i=p_{N+1-i}$.

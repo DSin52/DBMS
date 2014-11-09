@@ -1,0 +1,13 @@
+Paper: hep-th/9604114
+
+Date: 1996-04-19
+
+Title: Beta function and infrared renormalons in the exact Wilson
+
+renormalization group in Yang-Mills theoryAuthors: M. Bonini, G. Marchesini and M. Simionato
+
+Comments: 19 pages, 6 figures, LaTex, uses epsfig, rotating
+
+Journal-ref: Nucl.Phys. B483 (1997) 475-494
+
+We discuss the relation between the Gell-Mann-Low beta function and the``flowing couplings'' of the Wilsonian action $S_\L[\phi]$ of the exactrenormalization group (RG) at the scale $\L$. This relation involves theultraviolet region of $\L$ so that the condition of renormalizability isequivalent to the Callan-Symanzik equation. As an illustration, by using theexact RG formulation, we compute the beta function in Yang-Mills theory to oneloop (and to two loops for the scalar case). We also study the infrared (IR)$\L$ plays the r\^ole of a IR cutoff in Feynman diagrams and non-perturbativeeffects could be generated as soon as $\L$ becomes small; $ii$) by asystematical resummation of higher order corrections the Wilsonian flowingcouplings enter directly into the Feynman diagrams with a scale given by theinternal loop momenta; $iii$) these couplings tend to the running coupling athigh frequency, they differ at low frequency and remain finite all the way downto zero frequency.

@@ -1,0 +1,13 @@
+Paper: hep-th/0209235
+
+Date: 2002-09-27
+
+Title: Holography and Quaternionic Taub-NUT
+
+Authors: Konstantinos Zoubos
+
+Comments: 1+36 pages, no figures. Some minor typos corrected
+
+Journal-ref: JHEP 0212 (2002) 037
+
+As a concrete application of the holographic correspondence to manifoldswhich are only asymptotically Anti-de Sitter, we take a closer look at thequaternionic Taub-NUT space. This is a four dimensional, non-compact,inhomogeneous, riemannian manifold with the interesting property of smoothlyinterpolating between two symmetric spaces, AdS_4 itself and the cosetSU(2,1)/U(2). Even more interesting is the fact that the scalar curvature ofthe induced conformal structure at the boundary (corresponding to a squashedthree-sphere) changes sign as we interpolate between these two limiting cases.Using twistor methods, we construct the bulk-to-bulk and bulk-to-boundarypropagators for conformally coupled scalars on quaternionic Taub-NUT. This mayeventually enable us to calculate correlation functions in the dual stronglycoupled CFT on a squashed S^3 using the standard AdS/CFT prescription.

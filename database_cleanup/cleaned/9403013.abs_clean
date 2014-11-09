@@ -1,0 +1,13 @@
+Paper: hep-th/9403013
+
+Date: 1994-03-02
+
+Title: Liouville Theory
+
+GeometryAuthors: Leon Takhtajan
+
+Comments: 8 pages, plain LaTex
+
+Journal-ref: Mod.Phys.Lett. A9 (1994) 2293-2300
+
+We continue the study of quantum Liouville theory through Polyakov'sfunctional integral \cite{Pol1,Pol2}, started in \cite{T1}. We derive theperturbation expansion for Schwinger's generating functional for connectedmulti-point correlation functions involving stress-energy tensor, give the``dynamical'' proof of the Virasoro symmetry of the theory and compute thevalue of the central charge, confirming previous calculation in \cite{T1}. Weshow that conformal Ward identities for these correlation functions containsuch basic facts from K\"{a}hler geometry of moduli spaces of Riemann surfaces,as relation between accessory parameters for the Fuchsian uniformization,Liouville action and Eichler integrals, K\"{a}hler potential for theWeil-Petersson metric, and local index theorem. These results affirm thefundamental role, that universal Ward identities for the generating functionalplay in Friedan-Shenker modular geometry \cite{FS}.

@@ -1,0 +1,11 @@
+Paper: hep-th/0004129
+
+Date: 2000-04-18
+
+Title: String from Large N Gauge Fields via Graph Summation on a P+ - x+
+
+LatticeAuthors: Charles B. Thorn
+
+Comments: latex, 10 pages, 4 figures, Talk presented to the Fifth Workshop on
+
+QCD, Villefranche-sur-Mer, 3-7 January 2000I describe renewed efforts to establish a string description of large N_c QCDby summing large ``fishnet'' diagrams. Earlier work on fishnets indicated thatthe usual relativistic (zero thickness) string theory can arise at strong 'tHooft coupling, at best yielding a highly idealized description, which fails toincorporate such salient features of continuum QCD as asymptotic freedom andpoint-like constituents. The recently conjectured AdS/CFT correspondence iscompatible with such limitations because it also gives a simple picture oflarge N_c gauge theory only at strong coupling. In order to better understandhow string theory could emerge from large N_c QCD at strong coupling, KlausBering, Joel Rozowsky, and I have developed an improved implementation of myeffort of the late seventies to digitize the planar diagrams of large N_clight-cone quantized QCD by discretizing both P+ and x+. This discretizationallows a strong coupling limit of the sum of planar diagrams to be defined andstudied. It also provides a natural framework to explore the possible dualrelationship between QCD in light-cone gauge and string theory quantized on thelight-cone.

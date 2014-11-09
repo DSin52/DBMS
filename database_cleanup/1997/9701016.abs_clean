@@ -1,0 +1,11 @@
+Paper: hep-th/9701016
+
+Date: 1997-01-07
+
+Title: The Scattering Theory of Oscillator Defects in an Optical Fiber
+
+Authors: Robert Konik and Andre LeClair
+
+Comments: 32 pages, TeX with harvmac macros, three postscript figures
+
+We examine harmonic oscillator defects coupled to a photon field in theenvirons of an optical fiber. Using techniques borrowed or extended from thetheory of two dimensional quantum fields with boundaries and defects, we areable to compute exactly a number of interesting quantities. We calculate thescattering S-matrices (i.e. the reflection and transmission amplitudes) of thephotons off a single defect. We determine using techniques derived fromthermodynamic Bethe ansatz (TBA) the thermodynamic potentials of theinteracting photon-defect system. And we compute several correlators ofphysical interest. We find the photon occupancy at finite temperature, thespontaneous emission spectrum from the decay of an excited state, and thecorrelation functions of the defect degrees of freedom. In an extension of thesingle defect theory, we find the photonic band structure that arises from aperiodic array of harmonic oscillators. In another extension, we examine acontinuous array of defects and exactly derive its dispersion relation. Withsome differences, the spectrum is similar to that found for EM wave propagationin covalent crystals. We then add to this continuum theory isolated defects, soas to obtain a more realistic model of defects embedded in a frequencydependent dielectric medium. We do this both with a single isolated defect andwith an array of isolated defects, and so compute how the S-matrices and theband structure change in a dynamic medium.

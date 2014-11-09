@@ -1,0 +1,11 @@
+Paper: hep-th/9707146
+
+Date: 1997-07-16
+
+Title: On Matrix Strings, the Large N Limit and Discretized Light-Cone
+
+QuantizationAuthors: F.Antonuccio, H.C.Pauli and S.Tsujimaru
+
+Comments: 21 pages, LaTex2e; 5 figures (.eps files)
+
+We consider the 1+1 dimensional supersymmetric matrix field theory obtainedfrom a dimensional reduction of ten dimensional ${\cal N} = 1$ superYang-Mills, which is a matrix model candidate for non-perturbative Type IIAstring theory. The gauge group here is U($N$), where $N$ is sent to infinity.We adopt light-cone coordinates to parametrize the string world sheet, andchoose to work in the light-cone gauge. Quantizing this theory via DiscretizedLight-Cone Quantization (DLCQ) introduces an integer, K, which restricts thelight-cone momentum-fraction of constituent quanta to be integer multiples of1/K. We show how a double scaling limit involving the integers $K$ and $N$implies the existence of an extra (free) parameter in the Yang-Mills theory,which plays the role of an effective string coupling constant. The formulationhere provides a natural framework for studying quantitatively string dynamicsand conventional Yang-Mills in a unified setting.

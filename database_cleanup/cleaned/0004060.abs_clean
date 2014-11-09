@@ -1,0 +1,13 @@
+Paper: hep-th/0004060
+
+Date: 2000-04-10
+
+Title: 3D reduction of the N-body Bethe-Salpeter equation
+
+Authors: J. Bijtebier
+
+Comments: 22 pages, 3 figures in one single ps file. In the first revision, the
+
+self-energy corrections to the propagator have been taken into account. Thethree figures were gathered in a single ps file instead of three eps. In thissecond revision (after submission to Nuclear Physics A and refereeing) someexplanations have been added, plus a new subsection about the scattering of aparticle by a bound stateJournal-ref: Nucl.Phys. A696 (2001) 581-604
+
+We perform a 3D reduction of the two-fermion Bethe-Salpeter equation, byseries expansion around a positive-energy instantaneous approximation of theBethe-Salpeter kernel, followed by another series expansion at the 3D level inorder to get a manifestly hermitian 3D potential. It turns out that thispotential does not depend on the choice of the starting approximation of thekernel anymore, and can be written in a very compact form. This result can alsobe obtained directly by starting with an approximation of the free propagator,based on integrals in the relative energies instead of the more usualdelta-constraint. Furthermore, the method can be generalized to a system of Nparticles, consisting in any combination of bosons and fermions. As an example,we write the 3D equation for systems of two or three fermions exchangingphotons, in Feynman or Coulomb's gauge.

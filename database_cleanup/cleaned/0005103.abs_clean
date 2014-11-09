@@ -1,0 +1,11 @@
+Paper: hep-th/0005103
+
+Date: 2000-05-11
+
+Title: K-Theory Torsion
+
+Authors: Volker Braun
+
+Comments: 17 pages, LaTeX; corrected and easier CY example, mini-outline added,
+
+minor changesThe Chern isomorphism determines the free part of the K-groups from ordinarycohomology. Thus to really understand the implications of K-theory for physicsone must look at manifolds with K-torsion. Unfortunately there are not manyexplicit examples, and usually for very symmetric spaces. Cartesian products ofRP^n are examples where the order of the torsion part differs between K-theoryand ordinary cohomology. The dimension of corresponding branes is alsodiscussed. An example for a Calabi-Yau manifold with K-torsion is given.

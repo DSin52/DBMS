@@ -1,0 +1,13 @@
+Paper: hep-th/9912001
+
+Date: 1999-12-01
+
+Title: AdS/CFT and gravity
+
+Authors: Steven S. Gubser
+
+Comments: 27 pages, two figures, latex. v2
+
+further refsJournal-ref: Phys.Rev. D63 (2001) 084017
+
+The radiation-dominated k=0 FRW cosmology emerges as the induced metric on acodimension one hypersurface of constant extrinsic curvature in thefive-dimensional AdS-Schwarzschild solution. That we should get FRW cosmologyin this way is an expected result from AdS/CFT in light of recent commentsregarding the coupling of gravity to "boundary" conformal field theories. Iremark on how this calculation bears on the understanding of Randall andSundrum's "alternative to compactification." A generalization of the AdS/CFTprescription for computing Green's functions is suggested, and it is shown howgravity emerges from it with a strength G_4 = 2 G_5/L. Some numerical boundsare set on the radius of curvature L of AdS_5. One of them comes fromestimating the rate of leakage of visible sector energy into the CFT. That rateis connected via a unitarity relation to deviations from Newton's force law atshort distances. The best bound on L obtained in this paper comes from a matchto the parameters of string theory. It is L < 1 nm if the string scale is 1GeV. Higher string scales imply a tighter bound on L.

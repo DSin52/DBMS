@@ -1,0 +1,13 @@
+Paper: hep-th/9803030
+
+Date: 1998-03-04
+
+Title: Quantum Noether Method
+
+Authors: Tobias Hurth (MPI Munich) and Kostas Skenderis (Leuven U.)
+
+Comments: 53 pages, latex, version to appear in Nuclear Physics B
+
+Journal-ref: Nucl.Phys. B541 (1999) 566-614
+
+We present a general method for constructing consistent quantum fieldtheories with global symmetries. We start from a free non-interacting quantumfield theory with given global symmetries and we determine all consistentperturbative quantum deformations assuming the construction is not obstructedby anomalies. The method is established within the causalBogoliubov-Shirkov-Epstein-Glaser approach to perturbative quantum field theory(which leads directly to a finite perturbative series and does not rely on anintermediary regularization). Our construction can be regarded as a directimplementation of Noether's method at the quantum level. We illustrate themethod by constructing the pure Yang-Mills theory (where the relevant globalsymmetry is BRST symmetry), and the N=1 supersymmetric model of Wess andZumino. The whole construction is done before the so-called adiabatic limit istaken. Thus, all considerations regarding symmetry, unitarity and anomalies arewell-defined even for massless theories.

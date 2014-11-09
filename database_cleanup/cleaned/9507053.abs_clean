@@ -1,0 +1,9 @@
+Paper: hep-th/9507053
+
+Date: 1995-07-08
+
+Title: Massless Boundary Sine-Gordon at the Free Fermion Point
+
+Partition Functions with Applications to Quantum WiresComments: 24 pages; Tex with harvmac macros; 4 Postscript figures, uuencoded
+
+In this report we compute the boundary states (including the boundaryentropy) for the boundary sine-Gordon theory. From the boundary states, wederive both correlation and partition functions. Through the partitionfunction, we show that boundary sine-Gordon maps onto a doubled boundary Isingmodel. With the current-current correlators, we calculate for finite systemsize the ac-conductance of tunneling quantum wires with dimensionless freeconductance 1/2 (or, alternatively interacting quantum Hall edges at fillingfraction 1/2). In the dc limit, the results of C. Kane and M. Fisher, Phys.Rev. B46 (1992) 15233, are reproduced.

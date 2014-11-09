@@ -1,0 +1,13 @@
+Paper: hep-th/0007199
+
+Date: 2000-07-25
+
+Title: The Maximal Kinematical Invariance Group of Fluid Dynamics and
+
+Explosion-Implosion DualityAuthors: L. O'Raifeartaigh and V. V. Sreedhar
+
+Comments: Plain TeX File
+
+Journal-ref: Annals Phys. 293 (2001) 215-227
+
+It has recently been found that supernova explosions can be simulated in thelaboratory by implosions induced in a plasma by intense lasers. A theoreticalx}\to {\bf x}/t$), leaves the Euler equations of fluid dynamics, with standardpolytropic exponent, invariant. This implies that the kinematical invariancegroup of the Euler equations is larger than the Galilei group. In this paper wedetermine, in a systematic manner, the maximal invariance group ${\cal G}$ ofgeneral fluid dynamics and show that it is a semi-direct product ${\cal G} =SL(2,R) \wedge G$, where the $SL(2,R)$ group contains the time-translations,dilations and the inversion $\Sigma$, and $G$ is the static (nine-parameter)Galilei group. A subtle aspect of the inclusion of viscosity fields isdiscussed and it is shown that the Navier-Stokes assumption of constantviscosity breaks the $SL(2, R)$ group to a two-parameter group of timetranslations and dilations in a tensorial way. The 12-parameter group ${\calG}$ is also known to be the maximal invariance group of the free Schr\"odingerequation. It originates in the free Hamilton-Jacobi equation which is centralto both fluid dynamics and the Schr\"odinger equation.

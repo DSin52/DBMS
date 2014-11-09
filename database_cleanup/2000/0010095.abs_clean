@@ -1,0 +1,13 @@
+Paper: hep-th/0010095
+
+Date: 2000-10-12
+
+Title: Towards an accurate determination of the critical exponents with the
+
+Renormalization Group flow equationsAuthors: A. Bonanno and D.Zappal\`a
+
+Comments: minor changes, added referencecs, to appear on Phys. Lett. B
+
+Journal-ref: Phys.Lett. B504 (2001) 181-187
+
+The determination of the critical exponents by means of the ExactRenormalizion Group approach is still a topic of debate. The general flowequation is by construction scheme independent, but the use of the truncatedderivative expansion generates a model dependence in the determination of theuniversal quantities. We derive new nonperturbative flow equations for theone-component, $Z_2$ symmetric scalar field to the next-to-leading order of thederivative expansion by means of a class of proper time regulators. Thecritical exponents $\eta$, $\nu$ and $\omega$ for the Wilson-Fisher fixed pointare computed by numerical integration of the flow equations, without resortingto polynomial truncations. We show that by reducing the width of the cut-offemployed, the critical exponents become rapidly insensitive to the cut-offwidth and their values are in good agreement with the results of entirelydifferent approaches.

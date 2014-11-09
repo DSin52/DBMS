@@ -1,0 +1,13 @@
+Paper: hep-th/9706061
+
+Date: 1997-06-10
+
+Title: Finite size corrections in massive Thirring model
+
+Authors: Takehisa Fujita and Hidenori Takahashi
+
+Comments: 8 pages, Latex, 2 figures
+
+Journal-ref: Phys.Rev. D58 (1998) 085011
+
+We calculate for the first time the finite size corrections in the massiveThirring model. This is done by numerically solving the equations of periodicboundary conditions of the Bethe ansatz solution. It is found that thecorresponding central charge extracted from the $1/L$ term is around 0.4 forthe coupling constant of ${g_0}=-{\pi\over 4} $ and decreases down to zero when${g_0}=-{\pi\over{3}}$. This is quite different from the predicted centralcharge of the sine-Gordon model.

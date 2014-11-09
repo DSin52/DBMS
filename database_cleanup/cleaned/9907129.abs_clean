@@ -1,0 +1,13 @@
+Paper: hep-th/9907129
+
+Date: 1999-07-15
+
+Title: Flat-space scattering and bulk locality in the AdS/CFT correspondence
+
+Authors: Steven B. Giddings
+
+Comments: 25 pages, harvmac. v2
+
+improvements of discussion of locality bounds and string scatteringJournal-ref: Phys.Rev. D61 (2000) 106008
+
+The large radius limit in the AdS/CFT correspondence is expected to provide aholographic derivation of flat-space scattering amplitudes. This suggests thatquestions of locality in the bulk should be addressed in terms of properties ofthe S-matrix and their translation into the conformal field theory. There are,however, subtleties in this translation related to generic growth of amplitudesnear the boundary of anti de-Sitter space. Flat space amplitudes are recoveredafter a delicate projection of CFT correlators onto normal-mode frequencies ofAdS. Once such amplitudes are obtained from the CFT, possible criteria forapproximate bulk locality include bounds on growth of amplitudes at highenergies and reproduction of semiclassical gravitational scattering at longdistances.

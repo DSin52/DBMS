@@ -1,0 +1,13 @@
+Paper: hep-th/0103190
+
+Date: 2001-03-22
+
+Title: New spin Calogero-Sutherland models related to B_N-type Dunkl operators
+
+Authors: F. Finkel, D. Gomez-Ullate, A. Gonzalez-Lopez, M.A. Rodriguez, R.
+
+ZhdanovComments: 18 pages, typeset in LaTeX 2e using revtex 4.0b5 and the amslatex
+
+package Minor changes in content, one reference addedSolvable and Integrable SystemsJournal-ref: Nucl.Phys. B613 (2001) 472-496
+
+We construct several new families of exactly and quasi-exactly solvableBC_N-type Calogero-Sutherland models with internal degrees of freedom. Ourapproach is based on the introduction of two new families of Dunkl operators ofB_N type which, together with the original B_N-type Dunkl operators, are shownto preserve certain polynomial subspaces of finite dimension. We prove that awide class of quadratic combinations involving these three sets of Dunkloperators always yields a spin Calogero-Sutherland model, which is(quasi-)exactly solvable by construction. We show that all the spinCalogero-Sutherland models obtainable within this framework can be expressed ina unified way in terms of a Weierstrass P function with suitable half-periods.This provides a natural spin counterpart of the well-known general formula fora scalar completely integrable potential of BC_N type due to Olshanetsky andPerelomov. As an illustration of our method, we exactly compute several energylevels and their corresponding wavefunctions of an elliptic quasi-exactlysolvable potential for two and three particles of spin 1/2.

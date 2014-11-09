@@ -1,0 +1,13 @@
+Paper: hep-th/9302035
+
+Date: 1993-02-09
+
+Title: The Quantum Group Structure of 2D Gravity and Minimal Models II
+
+Genus-Zero Chiral BootstrapAuthors: E. Cremmer, Jean-Loup Gervais, J.-F. Roussel
+
+Comments: 56 pages, 22 figures. Technical problem only, due to the use of an
+
+old version of uuencode that produces blank characters some times suppressedby the mailer. Same content.Journal-ref: Commun.Math.Phys. 161 (1994) 597-630
+
+The F and B matrices associated with Virasoro null vectors are derived inclosed form by making use of the operator-approach suggested by the Liouvilletheory, where the quantum-group symmetry is explicit.  It is found that theentries of the fusing and braiding matrices are not simply equal toquantum-group symbols, but involve additional coupling constants whosederivation is one aim of the present work. Our explicit formulae are new, toour knowledge, in spite of the numerous studies of this problem.  Therelationship between the quantum-group-invariant (of IRF type) andquantum-group-covariant (of vertex type) chiral operator-algebras is fullyclarified, and connected with the transition to the shadow world forquantum-group symbols. The corresponding 3-j-symbol dressing is shown to reduceto the simpler transformation of Babelon and one of the author (J.-L. G.)  in asuitable infinite limit defined by analytic continuation.  The above two typesof operators are found to coincide when applied to states with Liouvillemomenta going to $\infty$ in a suitable way.  The introduction ofquantum-group-covariant operators in the three dimensional picture gives ageneralisation of the quantum-group version of discrete three-dimensionalgravity that includes tetrahedra associated with 3-j symbols and universalR-matrix elements. Altogether the present work gives the concrete realizationof Moore and Seiberg's scheme that describes the chiral operator-algebra oftwo-dimensional gravity and minimal models.

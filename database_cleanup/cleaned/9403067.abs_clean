@@ -1,0 +1,13 @@
+Paper: hep-th/9403067
+
+Date: 1994-03-10
+
+Title: Finite Quantum Physics and Noncommutative Geometry
+
+Authors: A.P. Balachandran, G. Bimonte, E. Ercolessi, G. Landi, F. Lizzi, G.
+
+Sparano and P.Teotonio-SobrinhoComments: 39 pages, 13 figures (small modifications, FIGURES CORRECTED)
+
+Journal-ref: Nucl.Phys.Proc.Suppl. 37C (1995) 20-45
+
+Conventional discrete approximations of a manifold do not preserve itsnontrivial topological features. In this article we describe an approximationscheme due to Sorkin which reproduces physically important aspects of manifoldtopology with striking fidelity. The approximating topological spaces in thisscheme are partially ordered sets (posets). Now, in ordinary quantum physics ona manifold $M$, continuous probability densities generate the commutativeC*-algebra $\cc(M)$ of continuous functions on $M$. It has a fundamentalphysical significance, containing the information to reconstruct the topologyof $M$, and serving to specify the domains of observables like the Hamiltonian.For a poset, the role of this algebra is assumed by a noncommutative C*-algebra$\ca $. As noncommutative geometries are based on noncommutative C*-algebras,we therefore have a remarkable connection between finite approximations toquantum physics and noncommutative geometries. Various methods for doingquantum physics using $\ca $ are explored. Particular attention is paid todeveloping numerically viable approximation schemes which at the same timepreserve important topological features of continuum physics.

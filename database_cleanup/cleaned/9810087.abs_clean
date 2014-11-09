@@ -1,0 +1,13 @@
+Paper: hep-th/9810087
+
+Date: 1998-10-13
+
+Title: Renormalization automated by Hopf algebra
+
+Authors: D.J.Broadhurst and D.Kreimer (Erwin Schr\"odinger Institute, Vienna)
+
+Comments: 22 pages, latex, epsf for figures
+
+Mathematical PhysicsJournal-ref: J.Symb.Comput. 27 (1999) 581
+
+It was recently shown that the renormalization of quantum field theory isorganized by the Hopf algebra of decorated rooted trees, whose coproductidentifies the divergences requiring subtraction and whose antipode achievesthis. We automate this process in a few lines of recursive symbolic code, whichdeliver a finite renormalized expression for any Feynman diagram. We thusverify a representation of the operator product expansion, which generalizesChen's lemma for iterated integrals. The subset of diagrams whose foreststructure entails a unique primitive subdivergence provides a representation ofthe Hopf algebra ${\cal H}_R$ of undecorated rooted trees. Our undecorated Hopfalgebra program is designed to process the 24,213,878 BPHZ contributions to therenormalization of 7,813 diagrams, with up to 12 loops. We consider 10 models,each in 9 renormalization schemes. The two simplest models reveal a notablefeature of the subalgebra of Connes and Moscovici, corresponding to theit assigns to Feynman diagrams those weights which remove zeta values from thecounterterms of the minimal subtraction scheme. We devise a fast algorithm forthese weights, whose squares are summed with a permutation factor, to giverational counterterms.

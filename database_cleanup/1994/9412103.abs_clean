@@ -1,0 +1,11 @@
+Paper: hep-th/9412103
+
+Date: 1994-12-12
+
+Title: p-Adic Field Theory limit of TGD is free of UV divergences
+
+Authors: Matti Pitk\"anen
+
+Comments: 22 pages,latex. Reason for revision
+
+fermion propagatorThe p-adic description of Higgs mechanism in TGD framework provides excellentpredictions for elementary particle and hadrons masses (hep-th@xxx.lanl.gov9410058-62). The gauge group of TGD is just the gauge group of the standardmodel so that it makes sense to study the p-adic counterpart of the standardmodel as a candidate for low energy effective theory. Momentum eigen states canbe constructed purely number theoretically and the infrared cutoff implied bythe finite size of the convergence cube of p-adic square root function leads toof momentum states associated with a fixed value of the propagator expressionin the loop is integer and has p-adic norm not larger than one so that thecontribution of momentum squared with p-adic norm $p^{k}$ converges as$p^{-2k-2}$ for boson loop. The existence of the action exponential forcesnumber theoretically the decomposition into free and interacting parts. Thefree part is of order $O(p^0)$ and must vanish (and does so by equations ofmotion) and interaction part is at most of order $O(\sqrt{p})$ p-adically.obtained by canonical identification between p-adic and real numbers. Thediscretized version of Feynmann rules of real theory should give S-matrixelements but Feynmann rules guarantee unitarity in formal sense only. Theunexpected result is the upper bound $L_p=L_0/\sqrt{p}$ ($L_0\sim10^4\sqrt{G}$) for the size of p-adic convergence cube from the cancellation ofinfrared divergences so that p-adic field theory doesn't make sense abovelength scale $L_p$.

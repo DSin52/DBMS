@@ -1,0 +1,13 @@
+Paper: hep-th/0002122
+
+Date: 2000-02-15
+
+Title: The Field Theory of the q->4+ Potts Model
+
+Authors: G. Delfino and John Cardy
+
+Comments: 8 pages, 1 figure; latex
+
+Journal-ref: Phys.Lett. B483 (2000) 303-308
+
+The q-state Potts model in two dimensions exhibits a first-order transitionfor q>4. As q->4+ the correlation length at this transition diverges. We arguethat this limit defines a massive integrable quantum field theory whose lowestexcitations are kinks connecting 4+1 degenerate ground states. We construct theS-matrix of this theory and the two-particle form factors, and hence estimate anumber of universal amplitude ratios. These are in very good agreement with theresults of extrapolated series in q^(-1/2) as well as Monte Carlo results forq=5.

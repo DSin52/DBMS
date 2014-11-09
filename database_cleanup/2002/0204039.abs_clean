@@ -1,0 +1,13 @@
+Paper: hep-th/0204039
+
+Date: 2002-04-04
+
+Title: Quantum vs Classical Integrability in Calogero-Moser Systems
+
+Authors: E. Corrigan and R. Sasaki
+
+Comments: LaTeX2e with amsfonts, 63 pages, no figures
+
+Systems; Mathematical PhysicsJournal-ref: J.Phys. A35 (2002) 7017-7062
+
+Calogero-Moser systems are classical and quantum integrable multi-particledynamics defined for any root system $\Delta$. The {\em quantum} Calogerosystems having $1/q^2$ potential and a confining $q^2$ potential and theSutherland systems with $1/\sin^2q$ potentials have "integer" energy spectracharacterised by the root system $\Delta$. Various quantities of thecorresponding {\em classical} systems, {\em e.g.} minimum energy, frequenciesof small oscillations, the eigenvalues of the classical Lax pair matrices, etc.at the equilibrium point of the potential are investigated analytically as wellas numerically for all root systems. To our surprise, most of these classicaldata are also "integers", or they appear to be "quantised". To be more precise,these quantities are polynomials of the coupling constant(s) with integercoefficients. The close relationship between quantum and classicalintegrability in Calogero-Moser systems deserves fuller analytical treatment,which would lead to better understanding of these systems and of integrablesystems in general.

@@ -1,0 +1,9 @@
+Paper: hep-th/9412211
+
+Date: 1994-12-23
+
+Title: Black Hole Entropy
+
+Comments: 16 pages, LaTeX; Talk at the Winnipeg Heat Kernel Conference (Aug,94)
+
+In the talk different definitions of the black hole entropy are discussed andcompared. It is shown that the Bekenstein-Hawking entropy $S^{BH}$ (defined bythe response of the free energy of a system containing a black hole on thechange of the temperature) differs from the statistical- mechanical entropy$S^{SM}=-\mbox{Tr}(\hat{\rho}\ln \hat{\rho})$ (defined by counting internaldegrees of freedom of a black hole). A simple explanation of the universalityof the Bekenstein-Hawking entropy (i.e. its independence of the number andproperties of the fields which might contribute to $S^{SM}$) is given.

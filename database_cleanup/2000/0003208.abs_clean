@@ -1,0 +1,13 @@
+Paper: hep-th/0003208
+
+Date: 2000-03-23
+
+Title: Large N Dynamics of Dimensionally Reduced 4D SU(N) Super Yang-Mills
+
+TheoryAuthors: J. Ambjorn, K. N. Anagnostopoulos, W. Bietenholz, T. Hotta and J.
+
+NishimuraComments: 35 pages, 17 figures
+
+Journal-ref: JHEP 0007 (2000) 013
+
+We perform Monte Carlo simulations of a supersymmetric matrix model, which isobtained by dimensional reduction of 4D SU(N) super Yang-Mills theory. Themodel can be considered as a four-dimensional counterpart of the IIB matrixmodel. We extract the space-time structure represented by the eigenvalues ofbosonic matrices. In particular we compare the large N behavior of thespace-time extent with the result obtained from a low energy effective theory.We measure various Wilson loop correlators which represent string amplitudesand we observe a nontrivial universal scaling in N. We also observe that theEguchi-Kawai equivalence to ordinary gauge theory does hold at least within afinite range of scale. Comparison with the results for the bosonic caseclarifies the role of supersymmetry in the large N dynamics. It does affect themulti-point correlators qualitatively, but the Eguchi-Kawai equivalence isobserved even in the bosonic case.

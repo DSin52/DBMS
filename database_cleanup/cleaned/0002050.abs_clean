@@ -1,0 +1,13 @@
+Paper: hep-th/0002050
+
+Date: 2000-02-07
+
+Title: A non-perturbative Lorentzian path integral for gravity
+
+Authors: J. Ambjorn (Niels Bohr Institute), J. Jurkiewicz (Jagellonian Univ.)
+
+and R. Loll (Albert-Einstein-Institut)Comments: 11 pages, LaTeX, improved discussion of reflection positivity,
+
+conclusions unchanged, references updatedJournal-ref: Phys.Rev.Lett. 85 (2000) 924-927
+
+A well-defined regularized path integral for Lorentzian quantum gravity inthree and four dimensions is constructed, given in terms of a sum overdynamically triangulated causal space-times. Each Lorentzian geometry and itsassociated action have a unique Wick rotation to the Euclidean sector. Allspace-time histories possess a distinguished notion of a discrete proper time.For finite lattice volume, the associated transfer matrix is self-adjoint andbounded. The reflection positivity of the model ensures the existence of awell-defined Hamiltonian. The degenerate geometric phases found previously indynamically triangulated Euclidean gravity are not present. The phase structureof the new Lorentzian quantum gravity model can be readily investigated by bothanalytic and numerical methods.

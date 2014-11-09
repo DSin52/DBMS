@@ -1,0 +1,13 @@
+Paper: hep-th/9405145
+
+Date: 1994-05-23
+
+Title: Finite Temperature Deconfining Transition in the BRST Formalism
+
+Authors: Hiroyuki Hata and Yusuke Taniguchi
+
+Comments: 19 pages, LaTeX, 1 latex figure + 2 uuencoded epsf figures, KUNS-1260
+
+Journal-ref: Prog.Theor.Phys. 93 (1995) 797-812
+
+We present a toy model study of the high temperature deconfining transitionin Yang-Mills theory as a breakdown of the confinement condition proposed byKugo and Ojima. Our toy model is a kind of topological field theory obtainedfrom the Yang-Mills theory by taking the limit of vanishing gauge couplingconstant $g_{\rm YM}\to 0$, and therefore the gauge field $A_\mu$ isconstrained to the pure-gauge configuration $A_\mu=g^{\dagger}\partial_\mu g$.At zero temperature this model has been known to satisfy the confinementcondition of Kugo and Ojima which requires the absence of the masslessNambu-Goldstone-like mode coupled to the BRST-exact color current. In thefinite temperature case based on the real-time formalism, our model in 3+1dimensions is reduced, by the Parisi-Sourlas mechanism, to the ``sum'' ofchiral models in 1+1 dimensions with various boundary conditions of the groupelement $g(t,x)$ at the ends of the time contour. We analyze the effectivepotential of the $SU(2)$ model and find that the deconfining transition in factoccurs due to the contribution of the sectors with non-periodic boundaryconditions.

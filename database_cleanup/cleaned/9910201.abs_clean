@@ -1,0 +1,13 @@
+Paper: hep-th/9910201
+
+Date: 1999-10-26
+
+Title: Cohomological analysis of gauged-fixed gauge theories
+
+Authors: Glenn Barnich, Marc Henneaux, Tobias Hurth and Kostas Skenderis
+
+Comments: 14 pages Latex file
+
+MPI/PhT-97-48; SPIN-1999/24Journal-ref: Phys.Lett. B492 (2000) 376-384
+
+The relation between the gauge-invariant local BRST cohomology involving theantifields and the gauge-fixed BRST cohomology is clarified. It is shown inparticular that the cocycle conditions become equivalent once it is imposed, onthe gauge-fixed side, that the BRST cocycles should yield deformations thatpreserve the nilpotency of the (gauge-fixed) BRST differential. This shows thatthe restrictions imposed on local counterterms by the Quantum Noether conditionin the Epstein--Glaser construction of gauge theories are equivalent to therestrictions imposed by BRST invariance on local counterterms in the standardLagrangian approach.

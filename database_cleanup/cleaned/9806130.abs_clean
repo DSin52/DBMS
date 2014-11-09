@@ -1,0 +1,11 @@
+Paper: hep-th/9806130
+
+Date: 1998-06-16
+
+Title: Making manifest the symmetry enhancement for coincident BPS branes
+
+Authors: Sergei V. Ketov (ITP, University of Hannover, Germany)
+
+Comments: 10 pages, LaTeX; a few comments and references added
+
+We consider g coincident M-5-branes on top of each other, in the KK monopolebackground Q of multiplicity N. The worldvolume of each M-5-brane is supposedto be given by the local product of the four-dimensional spacetime and anelliptic curve. In the coincidence limit, all these curves yield a single(Seiberg-Witten) hyperelliptic curve, while the gauge symmetry is enhanced toU(N). We make this gauge symmetry enhancement manifest by considering thehypermultiplet LEEA which is given by the spacetime N=2 non-linear sigma-model(NLSM) having Q as the target space. The hyper-K"ahler manifold Q is given bythe multicentre Taub-NUT space, which in the coincidence limit amounts to themultiple Eguchi-Hanson (ALE) space Q. The NLSM is most naturally described interms of the hyper-K"ahler coset construction on SU(N,N)/U(N) in harmonicsuperspace, by using the auxiliary (in classical theory) N=2 vector superfieldsas Lagrange multipliers, with FI terms resolving the singularity. The Maldacenalimit, in which the hypermultiplet LEEA becomes extended to the N=4 SYM withthe gauge group U(N), arises in quantum field theory due to a dynamicalgeneration of the N=2 vector and hypermultipet superfields, when sending the FIterms to zero.

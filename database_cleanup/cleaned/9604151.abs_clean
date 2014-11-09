@@ -1,0 +1,13 @@
+Paper: hep-th/9604151
+
+Date: 1996-04-23
+
+Title: Tunneling in a Time Dependent Setting
+
+Authors: Esko Keski-Vakkuri and Per Kraus (Caltech)
+
+Comments: 29 pages, with 9 Postscript figures, uses epsf.tex and fps.sty
+
+Journal-ref: Phys.Rev. D54 (1996) 7407-7420
+
+A standard approach to analyzing tunneling processes in various physicalcontexts is to use instanton or imaginary time path techniques. For systems inwhich the tunneling takes place in a time dependent setting, the standardmethods are often applicable only in special cases, e.g. due to some additionalsymmetries. We consider a collection of time dependent tunneling problems towhich the standard methods cannot be applied directly, and present analgorithm, based on the WKB approximation combined with complex time pathmethods, which can be used to calculate the relevant tunneling probabilities.This collection of problems contains, among others, the spontaneous nucleationof topological defects in an expanding universe, the production of particle -antiparticle pairs in a time dependent electric field, and false vacuum decayin field theory from a coherently oscillating initial state. To demonstrate themethod, we present detailed calculations of the time dependent decay rates forthe last two examples.

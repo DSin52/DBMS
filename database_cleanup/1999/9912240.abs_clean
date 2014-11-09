@@ -1,0 +1,11 @@
+Paper: hep-th/9912240
+
+Date: 1999-12-23
+
+Title: Finite Temperature QED
+
+Thermal Corrections to the Electron Magnetic MomentAuthors: Adrian Muller
+
+Comments: 101 pages, no figures, latex, Sec. 3.3 corrected, Sec. 3.4
+
+generalizedIn this work quantum electrodynamics at T > 0 is considered. For this purposewe use thermo field dynamics and the causal approach to quantum field theoryaccording to Epstein and Glaser, the latter being a rigorous method to avoidthe well-known ultraviolet divergencies of quantum field theory. It will beshown that the theory is infrared divergent if the usual scattering states areused. The same is true if we use more general mixed states. This is incontradiction to the results established in the literature, and we will pointout why these earlier approaches fail to describe the infrared behaviourcorrectly. We also calculate the thermal corrections to the electron magneticmoment in the low temperature approximation k_B T << m_e. This is done byinvestigating the scattering of an electron on a C-number potential in thirdorder in the limit of small momentum transfer p -> q. We reproduce one of thedifferent results reported up to now in literature. In the low temperatureIn contrast to the literature we do not have to introduce a thermal Diracequation or thermal spinors.

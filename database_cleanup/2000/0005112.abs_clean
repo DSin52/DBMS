@@ -1,0 +1,13 @@
+Paper: hep-th/0005112
+
+Date: 2000-05-12
+
+Title: Translational Chern--Simons Action and New Planar Particle Dynamics
+
+Authors: J. Lukierski (Wroclaw University), P.C. Stichel (Bielefeld, Germany)
+
+and W.J. Zakrzewski (University of Durham)Comments: LateX, 13 pages
+
+Journal-ref: Phys.Lett. B484 (2000) 315-322
+
+We consider a nonstandard $D=2+1$ gravity described by a translationalChern--Simons action, and couple it to the nonrelativistic point particles. Wefix the asymptotic coordinate transformations in such a way that the space partof the metric becomes asymptotically Euclidean. The residual symmetries are(local in time) translations and rigid rotations. The phase space Hamiltonian$H$ describing two-body interactions satisfies a nonlinear equation $H={\calH}(\vec{x},\vec{p};H)$ what implies, after quantization, a nonstandard form ofthe Schr\"{o}dinger equation with energy-dependent fractional angular momentumeigenvalues. Quantum solutions of the two-body problem are discussed. The boundstates with discrete energy levels correspond to a confined classical motion(for the planar distance between two particles $r\leq r_0$) and the scatteringstates with continuous energy correspond to classical motion for $r>r_0$.

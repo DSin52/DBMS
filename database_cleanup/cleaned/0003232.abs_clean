@@ -1,0 +1,13 @@
+Paper: hep-th/0003232
+
+Date: 2000-03-25
+
+Title: Noncommutative Geometry as a Regulator
+
+Authors: Badis Ydri
+
+Comments: Latex, 30 pages, no figures,typos corrected,references added .
+
+Substantial amount of rewriting of the last section . Final interestingremarks added at the end of the paperJournal-ref: Phys.Rev. D63 (2001) 025004
+
+We give a perturbative quantization of space-time $R^4$ in the case where thecommutators $C^{{\mu}{\nu}}=[X^{\mu},X^{\nu}]$ of the underlying algebragenerators are not central . We argue that this kind of quantum space-times canbe used as regulators for quantum field theories . In particular we show in thecase of the ${\phi}^4$ theory that by choosing appropriately the commutators$C^{{\mu}{\nu}}$ we can remove all the infinities by reproducing all thecounter terms . In other words the renormalized action on $R^4$ plus thecounter terms can be rewritten as only a renormalized action on the quantumspace-time $QR^4$ . We conjecture therefore that renormalization of quantumfield theory is equivalent to the quantization of the underlying space-time$R^4$ .

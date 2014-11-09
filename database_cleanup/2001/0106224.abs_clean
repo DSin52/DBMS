@@ -1,0 +1,13 @@
+Paper: hep-th/0106224
+
+Date: 2001-06-25
+
+Title: Particle description of zero energy vacuum. I. Virtual particles
+
+Authors: J.Y. Grandpeix (Laboratoire de Meteorologie Dynamique-Paris), F.
+
+Lurcat (Laboratoire de Physique Theorique-Orsay)Comments: 17 pages, no figure, LaTeX2e, Submitted to Foundation of Physics
+
+Journal-ref: Found.Phys. 32 (2002) 109-131
+
+obeys a simple law in galilean frames, but how does the galilean character ofthe frame manifest itself at the place of the particle? A description of vacuumas a system of virtual particles will help to answer this question. For futureapplication to such a description, the notion of global particle is defined andstudied. To this end, a systematic use of the Fourier transformation on thePoincare group is needed. The state of a system of n free particles isrepresented by a statistical operator W, which defines an operator-valuedmeasure on the n-th power of the dual of the Poincare group. The inverseFourier-Stieltjes transform of that measure is called the characteristicfunction of the system; it is a function on the n-th power of the Poincarerestriction of the characteristic function to the diagonal subgroup ; itrepresents the state of the system, considered as a single particle. The mainproperties of characteristic functions, and particularly of globalcharacteristic functions, are studied. A mathematical Appendix defines twofunctional spaces involved.

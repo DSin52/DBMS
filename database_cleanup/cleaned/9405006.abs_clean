@@ -1,0 +1,11 @@
+Paper: hep-th/9405006
+
+Date: 1994-05-02
+
+Title: Chiral random matrix theory and QCD
+
+Authors: Jacobus Verbaarschot
+
+Comments: 16 pages and 4 figures (available upon request), SUNY-NTG-94/20
+
+As was shown by Leutwyler and Smilga, the fact that chiral symmetry is brokenand the existence of a effective finite volume partition function leads to aninfinite number of sum rules for the eigenvalues of the Dirac operator in QCD.In this paper we argue these constraints, together with universality argumentsfrom quantum chaos and universal conductance fluctuations, completely determineits spectrum near zero virtuality. As in the classical random matrix ensembles,we find three universality classes, depedending on whether the colorrepresentation of the gauge group is pseudo-real, complex or real. Theycorrespond to $SU(2)$ with fundamental fermions, $SU(N_c)$, $N_c \ge 3$, withfundamental fermions, and $SU(N_c)$, $N_c \ge 3$, with adjoint fermions,respectively.}

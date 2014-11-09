@@ -1,0 +1,9 @@
+Paper: hep-th/0212176
+
+Date: 2002-12-16
+
+Title: Lorentz-Invariant Non-Commutative Space-Time Based On DFR Algebra
+
+Comments: LaTeX file, 27 pages
+
+It is argued that the familiar algebra of the non-commutative space-time with$c$-number $\theta^{\mu\nu}$ is inconsistent from a theoretical point of view.Consistent algebras are obtained by promoting $\theta^{\mu\nu}$ to ananti-symmetric tensor operator ${\hat\theta}^{\mu\nu}$. The simplest among themis Doplicher-Fredenhagen-Roberts (DFR) algebra in which the triple commutatoramong the coordinate operators is assumed to vanish. This allows us to definethe Lorentz-covariant operator fields on the DFR algebra as operators diagonalin the 6-dimensional $\theta$-space of the hermitian operators,${\hat\theta}^{\mu\nu}$. It is shown that we then recover Carlson-Carone-Zobin(CCZ) formulation of the Lorentz-invariant non-commutative gauge theory with noneed of compactification of the extra 6 dimensions. It is also pointed out thata general argument concerning the normalizability of the weight function in theLorentz metric leads to a division of the $\theta$-space into two disjointspaces not connected by any Lorentz transformation so that the CCZ covariantmoment formula holds true in each space, separately. A non-commutativegeneralization of Connes' two-sheeted Minkowski space-time is also proposed.Two simple models of quantum field theory are reformulated on $M_4\times Z_2$obtained in the commutative limit.

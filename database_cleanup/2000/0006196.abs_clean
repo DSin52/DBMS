@@ -1,0 +1,13 @@
+Paper: hep-th/0006196
+
+Date: 2000-06-25
+
+Title: Correlation functions for M^N/S_N orbifolds
+
+Authors: Oleg Lunin, Samir D. Mathur
+
+Comments: 59 pages, Latex, 1 figure; typos corrected
+
+Journal-ref: Commun.Math.Phys. 219 (2001) 399-442
+
+We develop a method for computing correlation functions of twist operators inthe bosonic 2-d CFT arising from orbifolds M^N/S_N, where M is an arbitrarymanifold. The path integral with twist operators is replaced by a path integralon a covering space with no operator insertions. Thus, even though the CFT isdefined on the sphere, the correlators are expressed in terms of partitionfunctions on Riemann surfaces with a finite range of genus g. For large N, thisgenus expansion coincides with a 1/N expansion. The contribution from thecovering space of genus zero is `universal' in the sense that it depends onlyon the central charge of the CFT. For 3-point functions we give an explicitform for the contribution from the sphere, and for the 4-point function we doan example which has genus zero and genus one contributions. The condition forthe genus zero contribution to the 3-point functions to be non--vanishing issimilar to the fusion rules for an SU(2) WZW model. We observe that the 3-pointcoupling becomes small compared to its large N limit when the orders of thetwist operators become comparable to the square root of N - this is amanifestation of the stringy exclusion principle.

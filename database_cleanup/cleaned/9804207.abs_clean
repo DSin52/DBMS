@@ -1,0 +1,11 @@
+Paper: hep-th/9804207
+
+Date: 1998-04-30
+
+Title: An Improved Gaussian Approximation for Quantum Field Theory
+
+Authors: Antun Balaz, Aleksandar Belic and Aleksandar Bogojevic (Institute of
+
+Physics, Belgrade)Comments: 9 pages, Latex 2e, 4 figures
+
+We present a new approximation technique for quantum field theory. Thestandard one-loop result is used as a seed for a recursive formula that gives asequence of improved Gaussian approximations for the generating functional. Ina different setting, the basic idea of this recursive scheme is used in thesecond part of the paper to substantialy speed up the standard Monte Carloalgorithm.

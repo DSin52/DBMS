@@ -1,0 +1,13 @@
+Paper: hep-th/0111040
+
+Date: 2001-11-05
+
+Title: Two-Loop Superstrings IV, The Cosmological Constant and Modular Forms
+
+Authors: Eric D'Hoker, D.H. Phong
+
+Comments: 58 pages, no figures
+
+Journal-ref: Nucl.Phys. B639 (2002) 129-181
+
+The slice-independent gauge-fixed superstring chiral measure in genus 2derived in the earlier papers of this series for each spin structure isevaluated explicitly in terms of theta-constants. The slice-independence allowsan arbitrary choice of superghost insertion points q_1, q_2 in the explicitevaluation, and the most effective one turns out to be the split gauge definedby S_{\delta}(q_1,q_2)=0. This results in expressions involving bilineartheta-constants M. The final formula in terms of only theta-constants followsfrom new identities between M and theta-constants which may be interesting intheir own right. The action of the modular group Sp(4,Z) is worked outexplicitly for the contribution of each spin structure to the superstringchiral measure. It is found that there is a unique choice of relative phaseswhich insures the modular invariance of the full chiral superstring measure,and hence a unique way of implementing the GSO projection for even spinstructure. The resulting cosmological constant vanishes, not by a Riemannidentity, but rather by the genus 2 identity expressing any modular form ofweight 8 as the square of a modular form of weight 4. The degeneration limitsfor the contribution of each spin structure are determined, and thedivergences, before the GSO projection, are found to be the ones expected onphysical grounds.

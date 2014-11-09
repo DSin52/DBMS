@@ -1,0 +1,13 @@
+Paper: hep-th/9507153
+
+Date: 1995-07-27
+
+Title: Mirror Maps, Modular Relations and Hypergeometric Series II
+
+Authors: Bong H. Lian and Shing-Tung Yau
+
+Comments: 27 pages; harvmac
+
+Journal-ref: Nucl.Phys.Proc.Suppl. 46 (1996) 248-262
+
+As a continuation of \lianyaufour, we study modular properties of theperiods, the mirror maps and Yukawa couplings for multi-moduli Calabi-Yauvarieties. In Part A of this paper, motivated by the recent work ofKachru-Vafa, we degenerate a three-moduli family of Calabi-Yau toric varietiesalong a codimension one subfamily which can be described by the vanishing ofcertain Mori coordinate, corresponding to going to the ``large volume limit''in a certain direction. Then we see that the deformation space of the subfamilyis the same as a certain family of K3 toric surfaces. This family can in turnbe studied by further degeneration along a subfamily which in the end isdescribed by a family of elliptic curves. The periods of the K3 family (andhence the original Calabi-Yau family) can be described by the squares of theconjectural formulas of physicists \vk\lkm~ involving mirror maps and modularfunctions; (2) new identities involving multi-variable hypergeometric seriesand modular functions -- generalizing \lianyaufour. In Part B, we study fortwo-moduli families the perturbation series of the mirror map and the type AYukawa couplings near certain large volume limits. Our main tool is a new classof polynomial PDEs associated with Fuchsian PDE systems. We derive the firstfew terms in the perturbation series. For the case of degree 12 hypersurfacesin $\P^4[6,2,2,1,1]$, in one limit the series of the couplings are expressed interms of the $j$ function. In another limit, they are expressed in terms ofrational functions. The latter give explicit formulas for infinite sequences of``instanton numbers'' $n_d$.

@@ -1,0 +1,9 @@
+Paper: hep-th/0206177
+
+Date: 2002-06-19
+
+Title: A new analytic approach to physical observables in QCD
+
+Authors: Wajdi Gaddah
+
+An analytic ghost-free model for the QCD running coupling $\alpha(Q^2)$ isproposed. It is constructed from a more general approach we developedparticularly for investigating physical observables of the type $F(Q^2)$ inregions that are inaccessible to perturbative methods of quantum field theory.This approach directly links the infrared (IR) and the ultraviolet(UV) regionstogether under the causal analyticity requirement in the complex $Q^2-$plane.Due to the inclusion of crucial non-perturbative effects, the running couplingin our model not only excludes unphysical singularities but also freezes to afinite value at the IR limit $Q^2=0$. This makes it consistent with a popularphenomenological hypothesis, namely the IR freezing phenomenon. Applying thismodel to compute the Gluon condensate, we obtain a result that is in goodagreement with the most recent phenomenological estimate. Having calculated the$\beta-$function corresponding to our QCD coupling constant, we find that itbehaves qualitatively like its perturbative counterpart, when calculated beyondthe leading order and with a number of quark flavours allowing for theoccurrence of IR fixed points.

@@ -1,0 +1,11 @@
+Paper: hep-th/9709042
+
+Date: 1997-09-04
+
+Title: Matrix Membranes and Integrability
+
+Authors: Cosmas Zachos, David Fairlie, and Thomas Curtright
+
+Comments: 14 pages, Latex, uses lamuphys.sty; talk by 1st author at the UIC
+
+"Supersymmetry and Integrable Systems" Workshop, Chicago, June 12-14, 1997;proceedings in Springer Lecture Notes in Physics, H Aratyn et al (eds)This is a pedagogical digest of results reported in Phys Lett B405 (1997) 37,and an explicit implementation of Euler's construction for the solution of thePoisson Bracket dual Nahm equation. But it does not cover 9 and 10-dimensionalsystems, and subsequent progress on them [hep-th/9707190]. Cubic interactionsare considered in 3 and 7 space dimensions, respectively, for bosonic membranesin Poisson Bracket form. Their symmetries and vacuum configurations areexplored. Their associated first order equations are transformed to Nahm'sequations, and are hence seen to be integrable, for the 3-dimensional case, byvirtue of the explicit Lax pair provided. Most constructions introduced alsoapply to matrix commutator or Moyal Bracket analogs.

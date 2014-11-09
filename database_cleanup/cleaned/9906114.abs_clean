@@ -1,0 +1,13 @@
+Paper: hep-th/9906114
+
+Date: 1999-06-15
+
+Title: Airy functions in the thermodynamic Bethe ansatz
+
+Authors: Paul Fendley
+
+Comments: 4 pages
+
+Solvable and Integrable SystemsJournal-ref: Lett.Math.Phys. 49 (1999) 229-233
+
+Thermodynamic Bethe ansatz equations are coupled non-linear integralequations which appear frequently when solving integrable models. Thoseassociated with models with N=2 supersymmetry can be related to differentialequations, among them Painleve III and the Toda hierarchy. In the simplest suchcase the massless limit of these non-linear integral equations can be solved interms of the Airy function. This is the only known closed-form solution ofthermodynamic Bethe ansatz equations, outside of free or classical models. Thisturns out to give the spectral determinant of the Schrodinger equation in alinear potential.

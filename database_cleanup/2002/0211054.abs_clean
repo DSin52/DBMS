@@ -1,0 +1,11 @@
+Paper: hep-th/0211054
+
+Date: 2002-11-07
+
+Title: Perturbative and non-perturbative aspects of the two-dimensional
+
+string/Yang-Mills correspondenceAuthors: Simone Lelli, Michele Maggiore and Anna Rissone
+
+Comments: 24 pages, 5 figures
+
+It is known that YM_2 with gauge group SU(N) is equivalent to a string theorywith coupling g_s=1/N, order by order in the 1/N expansion. We show how thisresults can be obtained from the bosonization of the fermionic formulation ofYM_2, improving on results in the literature, and we examine a number ofnon-perturbative aspects of this string/YM correspondence. We findcontributions to the YM_2 partition function of order exp{-kA/(\pi\alpha' g_s)}with k an integer and A the area of the target space, which would correspond,in the string interpretation, to D1-branes. Effects which could be interpretedas D0-branes are instead stricly absent, suggesting a non-perturbativestructure typical of type 0B string theories. We discuss effects from the YMside that are interpreted in terms of the stringy exclusion principle ofMaldacena and Strominger. We also find numerically an interesting phasestructure, with a region where YM_2 is described by a perturbative stringtheory separated from a region where it is described by a topological stringtheory.

@@ -1,0 +1,13 @@
+Paper: hep-th/9912150
+
+Date: 1999-12-16
+
+Title: M-Theory on S^1/Z_2
+
+Authors: Adel Bilal, Jean-Pierre Derendinger and Roger Sauser
+
+Comments: 32 pages, version to appear in Nucl. Phys. B, no figures, uses PHYZZX
+
+Journal-ref: Nucl.Phys. B576 (2000) 347-374
+
+We carefully re-examine the issues of solving the modified Bianchi identity,anomaly cancellations and flux quantization in the S^1/Z_2 orbifold of M-theoryusing the boundary-free "upstairs" formalism, avoiding several misconceptionspresent in earlier literature. While the solution for the four-form G to themodified Bianchi identity appears to depend on an arbitrary parameter b, weshow that requiring G to be globally well-defined, i.e. invariant under smalland large gauge and local Lorentz transformations, fixes b=1. This value alsois necessary for a consistent reduction to the heterotic string in thesmall-radius limit. Insisting on properly defining all fields on the circle, wefind that there is a previously unnoticed additional contribution to theanomaly inflow from the eleven-dimensional topological term. Anomalycancellation then requires a quadratic relation between b and the combinationlambda^6/kappa^4 of the gauge and gravitational coupling constants lambda andkappa. This contrasts with previous beliefs that anomaly cancellation wouldgive a cubic equation for b. We observe that our solution for G automaticallysatisfies integer or half-integer flux quantization for the appropriate cycles.We explicitly write out the anomaly cancelling terms of the heterotic string asinherited from the M-theory approach. They differ from the usual ones by theaddition of a well-defined local counterterm. We also show how five-branesenter our analysis.

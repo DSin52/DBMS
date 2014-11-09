@@ -1,0 +1,13 @@
+Paper: hep-th/9903111
+
+Date: 1999-03-12
+
+Title: On the Yangian Y(e_8) quantum symmetry of maximal supergravity in two
+
+dimensionsAuthors: K. Koepsell, H. Nicolai, H. Samtleben
+
+Comments: 21 pages, LaTeX2e
+
+Journal-ref: JHEP 9904 (1999) 023
+
+We present the algebraic framework for the quantization of the classicalbosonic charge algebra of maximally extended (N=16) supergravity in twodimensions, thereby taking the first steps towards an exact quantization ofthis model. At the core of our construction is the Yangian algebra $Y(e_8)$whose RTT presentation we discuss in detail. The full symmetry algebra is acentrally extended twisted version of the Yangian double $DY(e_8)_c$. We showthat there exists only one special value of the central charge for which thequantum algebra admits an ideal by which the algebra can be divided so as toconsistently reproduce the classical coset structure $E_{8(8)}/SO(16)$ in thelimit $\hbar\to 0$.

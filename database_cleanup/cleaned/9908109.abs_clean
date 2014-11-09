@@ -1,0 +1,13 @@
+Paper: hep-th/9908109
+
+Date: 1999-08-16
+
+Title: Charged and rotating AdS black holes and their CFT duals
+
+Authors: S.W. Hawking and H.S. Reall
+
+Comments: 18 pages, RevTex, 2 figures; v2
+
+Journal-ref: Phys.Rev. D61 (2000) 024014
+
+Black hole solutions that are asymptotic to $ AdS_5 \times S^5$ or $ AdS_4\times S^7$ can rotate in two different ways. If the internal sphere rotatesthen one can obtain a Reissner-Nordstrom-AdS black hole. If the asymptoticallyAdS space rotates then one can obtain a Kerr-AdS hole. One might expectsuperradiant scattering to be possible in either of these cases. Superradiantmodes reflected off the potential barrier outside the hole would bere-amplified at the horizon, and a classical instability would result. We pointout that the existence of a Killing vector field timelike everywhere outsidethe horizon prevents this from occurring for black holes with negative action.Such black holes are also thermodynamically stable in the grand canonicalensemble. The CFT duals of these black holes correspond to a theory in anEinstein universe with a chemical potential and a theory in a rotating Einsteinuniverse. We study these CFTs in the zero coupling limit. In the first case,Bose-Einstein condensation occurs on the boundary at a critical value of thechemical potential. However the supergravity calculation demonstrates that thisis not to be expected at strong coupling. In the second case, we investigatethe limit in which the angular velocity of the Einstein universe approaches thespeed of light at finite temperature. This is a new limit in which to comparethe CFT at strong and weak coupling. We find that the free CFT partitionfunction and supergravity action have the same type of divergence but the usualfactor of 4/3 is modified at finite temperature.

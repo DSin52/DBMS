@@ -1,0 +1,13 @@
+Paper: hep-th/9205058
+
+Date: 1992-05-18
+
+Title: A class of finite two - dimensional sigma models and string vacua
+
+Authors: A.A. Tseytlin
+
+Comments: 15 pages [Complete revision. The main statement of the previous
+
+version is generalised to the case of an arbitrary ``transverse" metricsatisfying sigma model renormalization group equation.]Journal-ref: Phys.Lett. B288 (1992) 279-285
+
+We consider a two - dimensional Minkowski signature sigma model with a $2+N$that the model is finite to all orders of the loop expansion if the dependenceof the ``transverse" part of the metric $\ggij (u,x)$ on the light conecoordinate $u$ is subject to the standard renormalization group equation of the$N$ - dimensional sigma model, $ {d\ggij\over du} = \gb_{ij} =R_{ij} + ... $.In particular, we discuss the `one - coupling' case when $\ggij(u,x)$ is ametric of an $N$ - dimensional symmetric space $\gij(x)$ multiplied by afunction $f(u)$. The theory is finite if $f(u)$ is equal to the ``running"coupling of the symmetric space sigma model (with $u$ playing the role of theRG ``time"). For example, the geometry of space - time with $\gij$ being themetric of the $N$ - sphere is determined by the form of the $\gb$ - function ofthe $O(N+1)$ model. The ``asymptotic freedom" limit of large $u$ corresponds tothe weak coupling limit of small $2+N$ - dimensional curvature. We prove thatthere exists a dilaton field which together with the $2+N$ - dimensional metricsolves the sigma model Weyl invariance conditions. The resulting backgroundsthus represent new tree level string vacua. We also remark on possibleconnections with some $2d$ quantum gravity models.

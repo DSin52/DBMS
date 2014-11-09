@@ -1,0 +1,11 @@
+Paper: hep-th/9406061
+
+Date: 1994-06-10
+
+Title: Symplectic geometry and Hamiltonian flow of the renormalisation group
+
+equationComments: 30 pages
+
+Journal-ref: Int.J.Mod.Phys. A10 (1995) 2703-2732
+
+It is argued that renormalisation group flow can be interpreted as being aHamiltonian vector flow on a phase space which consists of the couplings of thetheory and their conjugate \lq\lq momenta", which are the vacuum expectationvalues of the corresponding composite operators. The Hamiltonian is linear inthe conjugate variables and can be identified with the vacuum expectation valueof the trace of the energy-momentum operator. For theories with massivecouplings the identity operator plays a central role and its associatedcoupling gives rise to a potential in the flow equations. The evolution of anyquantity , such as $N$-point Green functions, under renormalisation group flowcan be obtained from its Poisson bracket with the Hamiltonian. Ward identitiescan be represented as constants of the motion which act as symmetry generatorson the phase space via the Poisson bracket structure.

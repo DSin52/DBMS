@@ -1,0 +1,13 @@
+Paper: hep-th/9806231
+
+Date: 1998-06-29
+
+Title: Transverse Lattice Approach to Light-Front Hamiltonian QCD
+
+Authors: S. Dalley (CERN), B. van de Sande (University of Erlangen)
+
+Comments: 55 pages, uses macro boxedeps.tex, minor corrections in revised
+
+versionJournal-ref: Phys.Rev. D59 (1999) 065008
+
+We describe a non-perturbative procedure for solving from first principlesthe light-front Hamiltonian problem of SU(N) pure gauge theory in D spacetimedimensions (D>2), based on enforcing Lorentz covariance of observables. Atransverse lattice regulator and colour-dielectric link fields are employed,together with an associated effective potential. We argue that the light-frontvacuum is necessarily trivial for large enough lattice spacing, and clarify whythis leads to an Eguchi-Kawai dimensional reduction of observables to1+1-dimensions in the infinite N limit. The procedure is then tested byexplicit calculations for 2+1-dimensional SU(infinity) gauge theory, within afirst approximation to the lattice effective potential. We identify a scalingtrajectory which produces Lorentz covariant behaviour for the lightestglueballs. The predicted masses, in units of the measured string tension, arein agreement with recent results from conventional Euclidean latticesimulations. In addition, we obtain the potential between heavy sources and thestructure of the glueballs from their light-front wavefunctions. Finally, webriefly discuss the extension of these calculations to 3+1-dimensions.

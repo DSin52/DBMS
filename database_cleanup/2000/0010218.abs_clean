@@ -1,0 +1,13 @@
+Paper: hep-th/0010218
+
+Date: 2000-10-24
+
+Title: Some Computations of Partition Functions and Tachyon Potentials in
+
+Background Independent Off-Shell String TheoryAuthors: Oleg Andreev
+
+Comments: LaTeX2e, 15 pages, corrected some typos
+
+Journal-ref: Nucl.Phys. B598 (2001) 151-168
+
+We discuss what information can be safely extracted from backgroundindependent off-shell string theory. The major obstacle in doing so is thatrenormalization conditions of the underlying world-sheet theories are notexactly known. To get some insight, we first consider the tachyon and gaugefield backgrounds and carry out computations in different renormalizationschemes for both, bosonic string and superstring. Next, we use a principle ofuniversality (renormalization scheme independence) to somehow compensate themissing of the renormalization conditions and get information we are lookingfor. It turns out that some asymptotics which are responsible for thepotentials only obey the principle of universality.

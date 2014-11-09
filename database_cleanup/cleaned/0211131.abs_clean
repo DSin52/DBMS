@@ -1,0 +1,11 @@
+Paper: hep-th/0211131
+
+Date: 2002-11-14
+
+Title: String Amplitudes from Moyal String Field Theory
+
+Authors: I. Bars, I. Kishimoto, Y. Matsuo
+
+Comments: 19 pages, LaTeX, typos corrected, comments added, Eqs.(27-32)(55-59)
+
+added. Eq.(27) includes a more explicit result of the four point functionWe illustrate a basic framework for analytic computations of Feynman graphsusing the Moyal star formulation of string field theory. We present efficientmethods of computation based on (a) the monoid algebra in noncommutative spaceand (b) the conventional Feynman rules in Fourier space. The methods applyequally well to perturbative string states or nonperturbative string statesinvolving D-branes. The ghost sector is formulated using Moyal products withfermionic (b,c) ghosts. We also provide a short account on how the purely cubictheory and/or VSFT proposals may receive some clarification of their midpointstructures in our regularized framework.

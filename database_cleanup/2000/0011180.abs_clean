@@ -1,0 +1,11 @@
+Paper: hep-th/0011180
+
+Date: 2000-11-20
+
+Title: Covariant relativistic quantum theory
+
+Authors: T. Garavaglia
+
+Comments: 19 page ps file. Tex file covqmp.tex uses mtexsis.tex macro(included)
+
+Covariant classical particle dynamics is described, and the associatedcovariant relativistic particle quantum mechanics is derived. The invariantsymmetric bracket is defined on the space of quantum amplitudes, and itsrelation to a generalized Hamiltonian dynamics and to a covariant Schr\"odingertype equation is shown. Examples for relativistic potential problems aresolved. Mathematically and physically acceptable probability densities for theKlein-Gordon equation and for the Dirac equation are derived, and a newcontinuity equation for each case is given. The quantum distribution for massis discussed, and unambiguous representations of four-velocity andfour-acceleration operators are given.

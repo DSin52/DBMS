@@ -1,0 +1,11 @@
+Paper: hep-th/0211022
+
+Date: 2002-11-04
+
+Title: Group velocity in noncommutative spacetime
+
+Authors: Giovanni Amelino-Camelia, Francesco D'Andrea, Gianluca Mandanici
+
+Comments: 13 pages, LaTex
+
+The realization that forthcoming experimental studies, such as the onesplanned for the GLAST space telescope, will be sensitive to Planck-scaledeviations from Lorentz symmetry has increased interest in noncommutativespacetimes in which this type of effects is expected. We focus here on$\kappa$-Minkowski spacetime, a much-studied example of Lie-algebranoncommutative spacetime, but our analysis appears to be applicable to a moregeneral class of noncommutative spacetimes. A technical controversy which hassignificant implications for experimental testability is the one concerning the$\kappa$-Minkowski relation between group velocity and momentum. A largemajority of studies adopted the relation $v = dE(p)/dp$, where $E(p)$ is the$\kappa$-Minkowski dispersion relation, but recently some authors advocatedalternative formulas. While in these previous studies the relation betweengroup velocity and momentum was introduced through ad hoc formulas, we rely ona direct analysis of wave propagation in $\kappa$-Minkowski. Our results leadconclusively to the relation $v = dE(p)/dp$. We also show that the previousproposals of alternative velocity/momentum relations implicitly relied on aninconsistent implementation of functional calculus on $\kappa$-Minkowski and/oron an inconsistent description of spacetime translations.

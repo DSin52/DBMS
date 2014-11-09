@@ -1,0 +1,13 @@
+Paper: hep-th/9908156
+
+Date: 1999-08-24
+
+Title: New Regularization Using Domain Wall
+
+Authors: Shoichi Ichinose
+
+Comments: 51 pages,10 figures
+
+Journal-ref: Nucl.Phys. B574 (2000) 719-760
+
+We present a new regularization method, for d dim (Euclidean) quantum fieldtheories in the continuum formalism, based on the domain wall configuration in(1+d) dim space-time. It is inspired by the recent progress in the chiralfermions on the lattice. The wall "height" is given by 1/M, where M is aregularization mass parameter and appears as a 1+d dim Dirac fermion mass. Thepresent approach gives a thermodynamic view to the domain wall or the overlapformalism in the lattice field theory. We will show qualitative correspondencebetween the present continuum results and those of the lattice. The extradimension is regarded as the (inverse) temperature t. The domains are definedby the directions of the "system movement", not by the sign of M as in theoriginal overlap formalism. Physically the parameter M controls both thechirality selection and the dimensional reduction to d dimension. From thepoint of regularization, the limit $Mt\ra 0$ regularize the infra-red behaviourwhereas the condition on the momentum ($k^\m$) integral, $|k^\m|\leq M$,regularize the ultra-violet behaviour.To check the new regularization works correctly, we take the 4 dim QED and 2dim chiral gauge theory as examples. Especially the consistent and covariantanomalies are correctly obtained. The choice of solutions of the higher dimDirac equation characterize the two anomalies. The projective properties of thepositive and negative energy free solutions are exploited in calculation. Someintegral functions, the incomplete gamma functions and the generalizedhypergeometric functions characteristically appear in the regularizationprocedure.

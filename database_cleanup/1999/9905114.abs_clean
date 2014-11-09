@@ -1,0 +1,13 @@
+Paper: hep-th/9905114
+
+Date: 1999-05-16
+
+Title: A Generalized Shannon Sampling Theorem, Fields at the Planck Scale as
+
+Bandlimited SignalsAuthors: A. Kempf (IFT, Univ. of Florida)
+
+Comments: rewritten for readability, 8 pages, LaTeX
+
+Probability; Mathematical PhysicsJournal-ref: Phys.Rev.Lett. 85 (2000) 2873
+
+It has been shown that space-time coordinates can exhibit only very few typescontinuous, discrete or "unsharp" in one of two ways. In the literature,various quantum gravity models of space-time at short distances point towardsone of these two types of unsharpness. Here, we investigate the properties offields over such unsharp coordinates. We find that these fields are continuouslattices. We observe that this type of unsharpness is technically the same asthe aperture induced unsharpness of optical images. It is also of the same typeas the unsharpness of the time-resolution of bandlimited electronic signals.Indeed, as a special case we recover the Shannon sampling theorem ofinformation theory.

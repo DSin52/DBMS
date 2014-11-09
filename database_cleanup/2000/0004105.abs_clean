@@ -1,0 +1,11 @@
+Paper: hep-th/0004105
+
+Date: 2000-04-14
+
+Title: On gauge fields - strings duality as an integrable system
+
+Authors: M. Zyskin
+
+Journal-ref: Phys.Lett. A275 (2000) 260-273
+
+It was suggested in hep-th/0002106, that semiclassically, a partitionfunction of a string theory in the 5 dimensional constant negative curvaturespace with a boundary condition at the absolute satisfy the loop equation withrespect to varying the boundary condition, and thus the partition function ofthe string gives the expectation value of a Wilson loop in the 4 dimensionalQCD. In the paper, we present the geometrical framework, which reveals that theequations of motion of such string theory are integrable, in the sense thatthey can be written via a Lax pair with a spectral parameter. We also show,that the issue of the loop equation rests solely on the properly posing theboundary condition.

@@ -1,0 +1,11 @@
+Paper: hep-th/0211244
+
+Date: 2002-11-25
+
+Title: Negative Energy Densities in Quantum Field Theory With a Background
+
+PotentialAuthors: Noah Graham and Ken D. Olum
+
+Comments: 24 pages, 2 .eps figures
+
+We present a general procedure for calculating one-loop ``Casimir'' energydensities for a scalar field coupled to a fixed potential in renormalizedquantum field theory. We implement direct subtraction of counterterms computedprecisely in dimensional regularization with a definite renormalization scheme.Our procedure allows us to test quantum field theory energy conditions in thepresence of background potentials spherically symmetric in some dimensions andindependent of others. We explicitly calculate the energy density for severalexamples. For a square barrier, we find that the energy is negative anddivergent outside the barrier, but there is a compensating divergent positivecontribution near the barrier on the inside. We also carry out calculationswith exactly solvable $\sech^2$ potentials, which arise in the study ofsolitons and domain walls.

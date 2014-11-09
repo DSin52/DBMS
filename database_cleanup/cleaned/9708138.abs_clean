@@ -1,0 +1,11 @@
+Paper: hep-th/9708138
+
+Date: 1997-08-26
+
+Title: Torsional Topological Invariants (and their relevance for real life)
+
+Authors: Osvaldo Chandia and Jorge Zanelli
+
+Comments: Lecture presented at the Meeting on Trends in Theoretical Physics
+
+held at La Plata, April 28-May 6, 1997. Minor correctionsThe existence of topological invariants analogous to Chern/Pontryagin classesfor a standard $SO(D)$ or $SU(N)$ connection, but constructed out of thetorsion tensor, is discussed. These invariants exhibit many of the features ofmanifold of local densities and take integer values on compact spaces withoutboundary; their spectrum is determined by the homotopy groups$\pi_{D-1}(SO(D))$ and $\pi_{D-1}(SO(D+1))$.These invariants are not solely determined by the connection bundle butdepend also on the bundle of local orthonormal frames on the tangent space ofthe manifold. It is shown that in spacetimes with nonvanishing torsion therecan occur topologically stable configurations associated with the frame bundlewhich are independent of the curvature.Explicit examples of topologically stable configurations carryingnonvanishing instanton number in four and eight dimensions are given, and theycan be conjectured to exist in dimension $4k$. It is also shown that the chiralanomaly in a spacetime with torsion receives a contribution proportional tothis instanton number and hence, chiral theories in $4k$-dimensional spacetimeswith torsion are potentially anomalous.

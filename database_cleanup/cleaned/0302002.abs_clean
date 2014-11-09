@@ -1,0 +1,11 @@
+Paper: hep-th/0302002
+
+Date: 2003-02-01
+
+Title: Pictures and equations of motion in Lagrangian quantum field theory
+
+Authors: Bozhidar Z. Iliev (Institute for Nuclear Research and Nuclear Energy,
+
+Bulgarian Academy of Sciences, Sofia, Bulgaria)Comments: 36 LaTeX pages. The packages AMS-LaTeX and amsfonts are required. For
+
+related papers, visit the "publication" pages atThe Heisenberg, interaction, and Schr\"odinger pictures of motion areconsidered in Lagrangian (canonical) quantum field theory. The equations ofmotion (for state vectors and field operators) are derived for arbitraryLagrangians which are polynomial or convergent power series in field operatorsand their first derivatives. The general links between different time-dependentpictures of motion are derived. It is pointed that all of them admit covariantformulation, similar to the one of interaction picture. A new picture, calledthe momentum picture, is proposed. It is a 4-dimensional analogue of theSchr\"odinger picture of quantum mechanics as in it the state vectors arespacetime-dependent, while the field operators are constant relative to thespacetime. The equations of motion in momentum picture are derived andpartially discussed. In particular, the ones for the field operators turn to beof algebraic type. The general idea of covariant pictures of motion ispresented. The equations of motion in these pictures are derived.

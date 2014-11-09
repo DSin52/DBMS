@@ -1,0 +1,11 @@
+Paper: hep-th/0211151
+
+Date: 2002-11-16
+
+Title: A note on anomalous Jacobians in 2+1 dimensions
+
+Authors: C. D. Fosco
+
+Comments: 9 pages, LaTeX, no figures
+
+There exist local infinitesimal redefinitions of the fermionic fields, whichmay be used to modify the strength of the coupling for the interaction term inmassless QED3. Under those (formally unitary) transformations, the functionalintegration measure changes by an anomalous Jacobian, which (afterregularization) yields a term with the same structure as the quadraticparity-conserving term in the effective action. Besides, the Dirac operator isaffected by the introduction of new terms, apart from the modification in theminimal coupling term. We show that the result coming from the Jacobian, plusthe effect of those new terms, add up to reproduce the exact quadratic term inthe effective action. Finally, we also write down the form a finite decouplingtransformation would have, and comment on the unlikelihood of thattransformation to yield a helpful answer to the non-perturbative evaluation ofthe fermionic determinant.

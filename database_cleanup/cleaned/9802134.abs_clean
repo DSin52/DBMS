@@ -1,0 +1,11 @@
+Paper: hep-th/9802134
+
+Date: 1998-02-19
+
+Title: Generalized Coordinate Gauge and Nonabelian Stokes Theorem
+
+Authors: V.I.Shevchenko, Yu.A.Simonov (ITEP)
+
+Comments: LaTeX, revised version, comments added
+
+A contour gauge of general type is analysed where 1-form (vector potential)is expressed as a contour integral of the 2-form (field strength) along anarbitrary contour $C$. For a special class of contours the gauge conditionreduces to $k_{\mu}(x) A_{\mu}(x) = 0 $ where $k_{\mu}(x)$ is a tangent vectorto the contour $C$. A simple proof of the nonabelian Stokes theorem is givendemonstrating the advantage of the gauge.

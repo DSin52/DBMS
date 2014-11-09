@@ -1,0 +1,13 @@
+Paper: hep-th/9308117
+
+Date: 1993-08-25
+
+Title: The Consistency of Topological Expansions in Field Theory
+
+Anomalies' in Strings and Yang-MillsAuthors: Paul Mansfield
+
+Comments: 19 pages, DTP-93-45 [original version corrupted by mailer]
+
+Journal-ref: Nucl.Phys. B416 (1994) 205-226
+
+Many field theories of physical interest have configuration spaces consistingof disconnected components. Quantum mechanical amplitudes are then expressed assums over these components. We use the Faddeev-Popov approach to write theterms in this topological expansion as moduli space integrals. A cut-off isneeded when these integrals diverge. This introduces a dependence on the choiceof parametrisation of configuration space which must be removed if the theoryis to make physical sense. For theories that have a local symmetry this alsoleads to a breakdown in BRST invariance. We discuss in detail the cases ofBosonic Strings and Yang-Mills theory, showing how this arbitrariness may beremoved by the use of a counter-term in the former case, and bycompactification on $S\sp 4$ in the latter.

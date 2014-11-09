@@ -1,0 +1,13 @@
+Paper: hep-th/9606072
+
+Date: 1996-06-13
+
+Title: On the Short Distance Behavior of the Critical Ising Model Perturbed by
+
+a Magnetic FieldAuthors: R. Guida, N. Magnoli
+
+Comments: 19 pages, LATEX, 2 figures
+
+Journal-ref: Nucl.Phys. B483 (1997) 563-579
+
+We apply here a recently developed approach to compute the short distancecorrections to scaling for the correlators of all primary operators of thecritical two dimensional Ising model in a magnetic field. The essence of themethod is the fact that if one deals with O.P.E. Wilson coefficients instead ofcorrelators, all order I.R. safe formulas can be obtained for the perturbativeexpansion with respect to magnetic field. This approach yields in a natural waythe expected fractional powers of the magnetic field, that are clearly absentin the naive perturbative expression for correlators. The technique of theMellin transform have been used to compute the I.R. behavior of the regularizedintegrals. As a corollary of our results, by comparing the existing numericaldata for the lattice model we give an estimate of the Vacuum Expectation Valueof the energy operator, left unfixed by usual nonperturbative approaches(Thermodynamic Bethe Ansatz).

@@ -1,0 +1,13 @@
+Paper: hep-th/0205287
+
+Date: 2002-05-28
+
+Title: Interacting fermions on noncommutative spaces
+
+field theories in 2n+1 dimensionsAuthors: Edwin Langmann
+
+Comments: 23 pages, LaTex
+
+Journal-ref: Nucl.Phys. B654 (2003) 404-426
+
+I present a novel class of exactly solvable quantum field theories. Theydescribe non-relativistic fermions on even dimensional flat space, coupled to aconstant external magnetic field and a four point interaction defined with theGroenewold-Moyal star product. Using Hamiltonian quantization and a suitableregularization, I show that these models have a dynamical symmetrycorresponding to $\gl_\infty\oplus \gl_\infty$ at the special points where themagnetic field $B$ is related to the matrix $\theta$ defining the star productas $B\theta=\pm I$. I construct all eigenvalues and eigenstates of themany-body Hamiltonian at these special points. I argue that this solutioncannot be obtained by any mean-field theory, i.e. the models describecorrelated fermions. I also mention other possible interpretations of thesemodels in solid state physics.

@@ -1,0 +1,13 @@
+Paper: hep-th/9501004
+
+Date: 1995-01-03
+
+Title: Solving general gauge theories on inner product spaces
+
+Authors: Igor Batalin,Robert Marnelius
+
+Comments: 25 pages,latexfile
+
+Journal-ref: Nucl. Phys. B442 (1995) 669
+
+By means of a generalized quartet mechanism we show in a model independent waythat a BRST quantization on an inner product space leads to physical states ofthe form |ph>=e^{[Q, \psi]} |ph>_0 where Q is the nilpotent BRST operator, \psia hermitian fermionic gauge fixing operator, and |ph>_0 BRST invariant statesdetermined by a hermitian set of BRST doublets in involution. |ph>_0 does notbelong to an inner product space although |ph> does. Since the BRST quartetsare split into two sets of hermitian BRST doublets there are two choices for|ph>_0 and the corresponding \psi. When applied to general, both irreducibleand reducible, gauge theories of arbitrary rank within the BFV formulation wefind that |ph>_0 are trivial BRST invariant states which only depend on thematter variables for one set of solutions, and for the other set |ph>_0 aresolutions of a Dirac quantization. This generalizes previous Lie groupsolutions obtained by means of a bigrading.

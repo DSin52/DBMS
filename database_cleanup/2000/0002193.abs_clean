@@ -1,0 +1,13 @@
+Paper: hep-th/0002193
+
+Date: 2000-02-23
+
+Title: Noncommutative Instantons and Twistor Transform
+
+Authors: Anton Kapustin, Alexander Kuznetsov, Dmitri Orlov
+
+Comments: 56 pages, AMS-Latex. Dedicated to A.N.Tyurin on his 60th birthday.
+
+q-deformation of the ADHM construction has been addedJournal-ref: Commun.Math.Phys. 221 (2001) 385-432
+
+Recently N.Nekrasov and A.Schwarz proposed a modification of the ADHMconstruction of instantons which produces instantons on a noncommutativedeformation of the 4-dimensional real affine space. In this paper we study therelation between their construction and algebraic bundles on noncommutativeprojective spaces. We exhibit one-to-one correspondences between three classescomplexes of sheaves on a noncommutative 3-dimensional projective space, andthe modified ADHM data. The modified ADHM construction itself is interpreted interms of a noncommutative version of the twistor transform. We also prove thatthe moduli space of framed bundles on the noncommutative projective plane has anatural hyperkahler metric and is isomorphic as a hyperkahler manifold to themoduli space of framed torsion free sheaves on the commutative projectiveplane. The natural complex structures on the two moduli spaces do not coincidebut are related by an SO(3) rotation. Finally, we propose a construction ofinstantons on a more general noncommutative R^4 than the one considered byNekrasov and Schwarz (a q-deformed R^4).

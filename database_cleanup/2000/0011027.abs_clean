@@ -1,0 +1,13 @@
+Paper: hep-th/0011027
+
+Date: 2000-11-05
+
+Title: Single State Supermultiplet in 1+1 Dimensions
+
+Authors: A. Losev, M. Shifman, A. Vainshtein
+
+Comments: LaTex, 42 pages, no figures. Contribution to the Michael Marinov
+
+Memorial Volume, ``Multiple facets of quantization and supersymmetry'' (eds.M.Olshanetsky and A. Vainshtein, to be publish by World Scientific). Thepaper is drastically revised compared to the first version. We add sectionssupermultiplets; (ii) analysis of hybrid models of general type; (iii)generalization of the anomaly in the central charge accounting for the targetspace metricJournal-ref: New J.Phys. 4 (2002) 21
+
+We consider multiplet shortening for BPS solitons in N=1 two-dimensionalmodels. Examples of the single-state multiplets were established previously inN=1 Landau-Ginzburg models. The shortening comes at a price of loosing thefermion parity $(-1)^F$ due to boundary effects. This implies the disappearanceof the boson-fermion classification resulting in abnormal statistics. Wediscuss an appropriate index that counts such short multiplets.A broad class of hybrid models which extend the Landau-Ginzburg models toinclude a nonflat metric on the target space is considered. Our index turns outto be related to the index of the Dirac operator on the soliton reduced modulispace (the moduli space is reduced by factoring out the translational modulus).The index vanishes in most cases implying the absence of shortening. Inparticular, it vanishes when there are only two critical points on the compacttarget space and the reduced moduli space has nonvanishing dimension.We also generalize the anomaly in the central charge to take into account thetarget space metric.

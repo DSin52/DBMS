@@ -1,0 +1,9 @@
+Paper: hep-th/9405168
+
+Date: 1994-05-26
+
+Title: Modular properties of ribbon abelian categories
+
+Comments: 51 pagea
+
+A category N of labeled (oriented) trivalent graphs (nets) or ribbon graphsis extended by new generators called fusing, braiding, twist and switch withrelations which can be called Moore--Seiberg relations. A functor to N isconstructed from the category Surf of oriented surfaces with labeled boundaryand their homeomorphisms. Given an (eventually non-semisimple) k-linear abelianribbon braided category C with some finiteness conditions we construct afunctor from a central extension of N with the set of labels ObC to k-vectorspaces. Composing the functors we get a modular functor from a centralextension of Surf to k-vector spaces. This is a mathematical paper whichexplains how to get proofs for its hep-th companion paper, which should be readfirst. Complete proofs are not given here. (Talk at Second Gauss Simposium,Munich, August 1993.)

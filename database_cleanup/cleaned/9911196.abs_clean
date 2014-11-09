@@ -1,0 +1,13 @@
+Paper: hep-th/9911196
+
+Date: 1999-11-24
+
+Title: RG-Improved Three-Loop Effective Potential of the Massive $\phi^4$
+
+theoryAuthors: J.-M. Chung and B. K. Chung
+
+Comments: In version 3, title was changed and a subsection (Sec. IIA) of
+
+version 1, which appears in the appendix in version 2, was removedJournal-ref: J.Korean Phys.Soc. 39 (2001) 971-979
+
+The renormalization group method is applied to the three-loop effectivepotential of the massive $\phi^4$ theory in the $\bar{\rm MS}$ scheme in orderto obtain the next-next-next-to-leading logarithm resummation. For this, weexploit four-loop parts of the renormalization group functions $\beta_\lambda$,$\gamma_m$, $\gamma_\phi$, and $\beta_\Lambda$, which were already given tofive-loop order via the renormalization of the zero-, two-, and four-pointone-particle-irreducible Green's functions, to solve evolution equations forthe parameters $\lambda$, $m^2$, $\phi$, and $\Lambda$ within the accuracy ofthe three-loop order.

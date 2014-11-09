@@ -1,0 +1,9 @@
+Paper: hep-th/0304081
+
+Date: 2003-04-09
+
+Title: Physical wavelets
+
+zero action, localized solutions to the wave equationComments: 12 pages, JHEP3.cls
+
+Particle physics has for some time made extensive use of extended fieldconfiguations such as solitons, instantons, and sphalerons. However, no directuse has yet been made of the quite extensive literature on ``localized wave''configurations developed by the engineering, optics, and mathematicscommunities. In this article I will exhibit a particularly simple ``physicalwavelet'' -- it is a Lorentz covariant classical field configuration that livesin physical Minkowski space. The field is everwhere finite and nonsingular, andhas quadratic falloff in both space and time. The total energy is finite, thetotal action is zero, and the field configuration solves the wave equation.These physical wavelets can be constructed for both complex and real scalarfields, and can be extended to the Maxwell and Yang-Mills fields in astraightforward manner. Since these wavelets are finite energy, they areguaranteed to be classically present at finite temperature; since they are zeroaction, they can contribute to the quantum mechanical path integral at zero``cost''.

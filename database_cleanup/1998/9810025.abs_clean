@@ -1,0 +1,13 @@
+Paper: hep-th/9810025
+
+Date: 1998-10-05
+
+Title: Hidden Symmetries, AdS_D x S^n, and the lifting of one-time-physics to
+
+two-time-physicsAuthors: Itzhak Bars
+
+Comments: Latex, 23 pages. The term "cosmological constant" that appeared in
+
+the original version has been changed to "mass term". My apologies for theconfusionJournal-ref: Phys.Rev. D59 (1999) 045019
+
+The massive non-relativistic free particle in d-1 space dimensions has anaction with a surprizing non-linearly realized SO(d,2) symmetry. This is thesimplest example of a host of diverse one-time-physics systems with hiddenSO(d,2) symmetric actions. By the addition of gauge degrees of freedom, theycan all be lifted to the same SO(d,2) covariant unified theory that includes anextra spacelike and an extra timelike dimension. The resulting action in d+2dimensions has manifest SO(d,2) Lorentz symmetry and a gauge symmetry Sp(2,R)and it defines two-time-physics. Conversely, the two-time action can be gaugefixed to diverse one-time physical systems. In this paper three new gauge fixedforms that correspond to the non-relativistic particle, the massiverelativistic particle, and the particle in AdS_(d-n) x S^n spacetime will bediscussed. The last case is discussed at the first quantized and field theorylevels as well. For the last case the popularly known symmetry is SO(d-n-1,2) xSO(n+1), but yet we show that it is symmetric under the larger SO(d,2). In thefield theory version the action is symmetric under the full SO(d,2) provided itis improved with a quantized mass term that arises as an anomaly from operatorordering ambiguities. The anomalous cosmological term vanishes for AdS_2 x S^0and AdS_n x S^n (i.e. d=2n). The strikingly larger symmetry could besignificant in the context of the proposed AdS/CFT duality.

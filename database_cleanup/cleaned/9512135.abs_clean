@@ -1,0 +1,13 @@
+Paper: hep-th/9512135
+
+Date: 1995-12-18
+
+Title: Light-Front QCD(1+1) Coupled to Chiral Adjoint Fermions
+
+Authors: Stephen S. Pinsky and David G. Robertson
+
+Comments: 14 pages, RevTeX, two figures requiring BoxedEPS.tex. References
+
+added and some typos correctedJournal-ref: Phys.Lett. B379 (1996) 169-178
+
+We consider SU(N) gauge theory in 1+1 dimensions coupled to chiral fermionsin the adjoint representation of the gauge group. With all fields in theadjoint representation the gauge group is actually SU(N)/Z_N, which possessesnontrivial topology. In particular, there are N distinct topological sectorsand the physical vacuum state has a structure analogous to a \theta vacuum. Weshow how this feature is realized in light-front quantization for the case N=2,using discretization as an infrared regulator. In the discretized form of thetheory the nontrivial vacuum structure is associated with the zero momentummode of the gauge field A^+. We find exact expressions for the degeneratevacuum states and the analog of the \theta vacuum. The model also possess acondensate which we calculate. We discuss the difference between this chirallight-front theory and the theories that have previously been considered in theequal-time approach.

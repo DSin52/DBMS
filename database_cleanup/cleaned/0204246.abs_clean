@@ -1,0 +1,13 @@
+Paper: hep-th/0204246
+
+Date: 2002-04-29
+
+Title: The solution of a chiral random matrix model with complex eigenvalues
+
+Authors: G. Akemann
+
+Comments: 17 pages, 4 figures
+
+Journal-ref: J. Phys. A
+
+We describe in detail the solution of the extension of the chiral GaussianUnitary Ensemble (chGUE) into the complex plane. The correlation functions ofthe model are first calculated for a finite number of N complex eigenvalues,where we exploit the existence of orthogonal Laguerre polynomials in thecomplex plane. When taking the large-N limit we derive new correlationfunctions in the case of weak and strong non-Hermiticity, thus describing thetransition from the chGUE to a generalized Ginibre ensemble. Applications tothe Dirac operator eigenvalue spectrum in QCD with non-vanishing chemicalpotential are briefly discussed. This is an extended version of

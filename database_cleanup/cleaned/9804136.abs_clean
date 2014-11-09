@@ -1,0 +1,13 @@
+Paper: hep-th/9804136
+
+Date: 1998-04-21
+
+Title: Systematic Renormalization in Hamiltonian Light-Front Field Theory
+
+Authors: Brent H. Allen and Robert J. Perry
+
+Comments: 47 pages, 6 figures; improved referencing, minor presentation changes
+
+Journal-ref: Phys.Rev. D58 (1998) 125017
+
+We develop a systematic method for computing a renormalized light-front fieldtheory Hamiltonian that can lead to bound states that rapidly converge in anexpansion in free-particle Fock-space sectors. To accomplish this withoutdropping any Fock sectors from the theory, and to regulate the Hamiltonian, wesuppress the matrix elements of the Hamiltonian between free-particleFock-space states that differ in free mass by more than a cutoff. The cutoffviolates a number of physical principles of the theory, and thus theHamiltonian is not just the canonical Hamiltonian with masses and couplingsredefined by renormalization. Instead, the Hamiltonian must be allowed tocontain all operators that are consistent with the unviolated physicalprinciples of the theory. We show that if we require the Hamiltonian to producecutoff-independent physical quantities and we require it to respect theunviolated physical principles of the theory, then its matrix elements areuniquely determined in terms of the fundamental parameters of the theory. Thismethod is designed to be applied to QCD, but for simplicity, we illustrate ourmethod by computing and analyzing second- and third-order matrix elements ofthe Hamiltonian in massless phi-cubed theory in six dimensions.

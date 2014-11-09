@@ -1,0 +1,11 @@
+Paper: hep-th/9609057
+
+Date: 1996-09-06
+
+Title: Non-Perturbative Aspects of Scalar Field theory
+
+Authors: Y. Meurice, S. Niermann and G. Ordaz (Dept. of Phys. and Astr.,
+
+University of Iowa, Iowa City)Comments: 5 pages, uses Revtex, Talk given at DPF 96
+
+Using the hierarchical approximation, we discuss the cut-off dependence ofthe renormalized quantities of a scalar field theory. The naturalness problemand questions related to triviality bounds are briefly discussed. We discussunphysical features associated with the hierarchical approximation such as therecently observed oscillatory corrections to the scaling laws. We mention atwo-parameter family of recursion formulas which allows one to continuouslyextrapolate between Wilson's approximate recursion formula and the recursionformula of Dyson's hierarchical model. The parameters are the dimension D and2^zeta, the number of sites integrated in one RG transformation. We shownumerically that at fixed D, the critical exponent gamma depends continuouslyon zeta. We suggest the requirement of zeta -independence as a guide forconstructing improved recursion formulas.

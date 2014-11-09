@@ -1,0 +1,11 @@
+Paper: hep-th/9611156
+
+Date: 1996-11-20
+
+Title: Coarse Grainings and Irreversibility in Quantum Field Theory
+
+Comments: 25 pages, Latex
+
+Journal-ref: Phys.Rev. D56 (1997) 1009-1020
+
+In this paper we are interested in the studying coarse-graining in fieldtheories using the language of quantum open systems. Motivated by the ideas ofCalzetta and Hu on correlation histories we employ the Zwanzig projectiontechnique to obtain evolution equations for relevant observables inself-interacting scalar field theories. Our coarse-graining operation consistsin concentrating solely on the evolution of the correlation functions of degreeless than $n$, a treatment which corresponds to the familiar from statisticalmechanics truncation of the BBKGY hierarchy at the n-th level. We derive theequations governing the evolution of mean field and two-point functions thusidentifying the terms corresponding to dissipation and noise. We discusspossible applications of our formalism, the emergence of classical behaviourand the connection to the decoherent histories framework.

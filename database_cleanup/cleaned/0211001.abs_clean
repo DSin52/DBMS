@@ -1,0 +1,11 @@
+Paper: hep-th/0211001
+
+Date: 2002-10-31
+
+Title: Functional relations and Bethe Ansatz for the XXZ chain
+
+Authors: Rafael I. Nepomechie
+
+Comments: 13 pages, LaTeX; amssymb, amsmath, no figures
+
+There is an approach due to Bazhanov and Reshetikhin for solving integrableRSOS models which consists of solving the functional relations which resultfrom the truncation of the fusion hierarchy. We demonstrate that this is alsoan effective means of solving integrable vertex models. Indeed, we use thismethod to recover the known Bethe Ansatz solutions of both the closed and openXXZ quantum spin chains with U(1) symmetry. Moreover, since this method doesnot rely on the existence of a pseudovacuum state, we also use this method tosolve a special case of the open XXZ chain with nondiagonal boundary terms.

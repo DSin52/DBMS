@@ -1,0 +1,11 @@
+Paper: hep-th/9404029
+
+Date: 1994-04-06
+
+Title: The Hilbert Space Representations for SO_q(3)-symmetric quantum
+
+mechanicsAuthors: Wolfgang Weich
+
+Comments: 24 pages, report LMU-TPW 1994-5
+
+The observable algebra O of SO_q(3)-symmetric quantum mechanics is generatedby the coordinates of momentum and position spaces (which are both isomorphicto the SO_q(3)-covariant real quantum space R_q^3). Their interrelations aredetermined with the quantum group covariant differential calculus. For aquantum mechanical representation of O on a Hilbert space essential self-adjointness of specified observables and compatibility of the covariance of theobservable algebra with the action of the unitary continuous corepresent- ationoperator of the compact quantum matrix group SO_q(3) are required. It is shownthat each such quantum mechanical representation extends uniquely to aself-adjoint representation of O. All these self-adjoint representations areconstructed. As an example an SO_q(3)-invariant Coulomb potential is intro-duced, the corresponding Hamiltonian proved to be essentially self-adjoint andits negative eigenvalues calculated with the help of a q-deformed Lenz-vector.

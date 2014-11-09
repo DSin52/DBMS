@@ -1,0 +1,11 @@
+Paper: hep-th/9808113
+
+Date: 1998-08-19
+
+Title: Counting planar diagrams with various restrictions
+
+Comments: 24 pages TeX, 16 figures Postscript
+
+Journal-ref: Nucl.Phys. B538 (1999) 389-410
+
+Explicit expressions are considered for the generating functions concerningthe number of planar diagrams with given numbers of 3- and 4-point vertices. Itis observed that planar renormalization theory requires diagrams withrestrictions, in the sense that one wishes to omit `tadpole' inserions and`seagull' insertions; at a later stage also self-energy insertions are to beremoved, and finally also the dressed 3-point inserions and the dressed 4-pointinsertions. Diagrams with such restrictions can all be counted exactly. Thisresults in various critical lines in the $\lambda$-$g$ plane, where $\lambda$and $g$ are effective zero-dimensional coupling constants. These lines can belocalized exactly.

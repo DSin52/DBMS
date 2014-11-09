@@ -1,0 +1,13 @@
+Paper: hep-th/0105257
+
+Date: 2001-05-25
+
+Title: On the unitarity of quantum gauge theories on non-commutative spaces
+
+Authors: A. Bassetto, L.Griguolo, G. Nardelli and F. Vian
+
+Comments: RevTeX, 27 pages, 8 eps-figures; report number and references added;
+
+minor changesJournal-ref: JHEP 0107 (2001) 008
+
+We study the perturbative unitarity of non-commutative quantum Yang-Millstheories, extending previous investigations on scalar field theories to thegauge case where non-locality mingles with the presence of unphysical states.We concentrate our efforts on two different aspects of the problem. We start bydiscussing the analytical structure of the vacuum polarization tensor, showinghow Cutkoski's rules and positivity of the spectral function are realized whennon-commutativity does not affect the temporal coordinate. When insteadnon-commutativity involves time, we find the presence of extra troublesomesingularities on the $p_0^2$-plane that seem to invalidate the perturbativeunitarity of the theory. The existence of new tachyonic poles, with respect tothe scalar case, is also uncovered. Then we turn our attention to a differentunitarity check in the ordinary theories, namely time exponentiation of aWilson loop. We perform a $O(g^4)$ generalization to the (spatial)non-commutative case of the familiar results in the usual Yang-Mills theory. Weshow that exponentiation persists at $O(g^4)$ in spite of the presence of Moyalphases reflecting non-commutativity and of the singular infrared behaviourinduced by UV/IR mixing.

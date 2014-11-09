@@ -1,0 +1,13 @@
+Paper: hep-th/9805156
+
+Date: 1998-05-25
+
+Title: Coupling Constant Dependence in the Thermodynamics of N=4 Supersymmetric
+
+Yang-Mills TheoryAuthors: Steven S. Gubser (Princeton), Igor R. Klebanov (Princeton, IAS), and
+
+Arkady A. Tseytlin (Imperial College London)Comments: 24 pages; a paragraph about the 5-form background added in section 3;
+
+in the Note Added we clarify the meaning of the metric found in section 3;sign in eq. (34) correctedJournal-ref: Nucl.Phys. B534 (1998) 202-222
+
+The free energy of the maximally supersymmetric SU(N) gauge theory attemperature T is expected to scale, in the large N limit, as N^2 T^4 times afunction of the 't Hooft coupling, f(g_{YM}^2 N). In the strong coupling limitthe free energy has been deduced from the near-extremal 3-brane geometry, andits normalization has turned out to be 3/4 times that found in the weakcoupling limit. In this paper we calculate the leading correction to thisresult in inverse powers of the coupling, which originates from the R^4 termsin the tree level effective action of type IIB string theory. The correction to3/4 is positive and of order (g_{YM}^2 N)^{-3/2}. Thus, f(g_{YM}^2 N) increasesas the 't Hooft coupling is decreased, in accordance with the expectation thatit should be approaching 1 in the weak coupling limit. We also discuss similarcorrections for other conformal theories describing coincident branes. Inparticular, we suggest that the coupling-independence of the near extremalentropy for D1-branes bound to D5-branes is related to the vanishing of theWeyl tensor of AdS_3\times S^3.

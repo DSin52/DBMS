@@ -1,0 +1,13 @@
+Paper: hep-th/0010107
+
+Date: 2000-10-13
+
+Title: Jacobson generators, Fock representations and statistics of sl(n+1)
+
+Authors: T.D. Palev and J. Van der Jeugt
+
+Comments: LaTeX-file, 33 pages
+
+Mechanics; Quantum AlgebraJournal-ref: J.Math.Phys. 43 (2002) 3850-3873
+
+The properties of A-statistics, related to the class of simple Lie algebrasfurther investigated. The description of each sl(n+1) is carried out viagenerators and their relations, first introduced by Jacobson. The related Fockspaces W_p (p=1,2,...) are finite-dimensional irreducible sl(n+1)-modules. ThePauli principle of the underlying statistics is formulated. In addition theas exclusion statistics; (b) Within each W_p operators B(p)_1^\pm, ...,B(p)_n^\pm, proportional to the Jacobson generators, are introduced. It isproved that in an appropriate topology the limit of B(p)_i^\pm for p going toinfinity is equal to B_i^\pm, where B_i^\pm are Bose creation and annihilationoperators; (c) It is shown that the local statistics of the degeneratedhard-core Bose models and of the related Heisenberg spin models is p=1A-statistics.

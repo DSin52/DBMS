@@ -1,0 +1,13 @@
+Paper: hep-th/9308129
+
+Date: 1993-08-27
+
+Title: The Ten-Dimensional Green-Schwarz Superstring is a Twisted
+
+Neveu-Schwarz-Ramond StringAuthors: Nathan Berkovits
+
+Comments: 6 pages plain Tex, KCL-TH-12
+
+Journal-ref: Nucl.Phys. B420 (1994) 332-338
+
+An action for the ten-dimensional Green-Schwarz superstring with N=2worldsheet superconformal invariance has recently been used to calculatesuperstring scattering amplitudes and prove their finiteness. In this paper, itis shown that the N=2 stress-energy tensor for this Green-Schwarz action can beconstructed out of the stress-energy tensor and ghosts of the Neveu-Schwarz-Ramond action by the standard twisting procedure. In other words, afield redefinition is found from the GS matter fields into the NSR matter andghost fields which transforms the matter part of the two fermionic GS super-conformal generators into the $b$ ghost and shifted BRST current of the NSRstring. In light-cone gauge, this field redefinition reduces to the usual onerelating the light-cone GS and NSR fields.Although this proves the equivalence of physical vertex operators in the twosuperstring formalisms, multiloop amplitudes are easier to calculate using theGreen-Schwarz formalism since manifest spacetime supersymmetry eliminates theneed for spin cuts, GSO projections, and cutoffs in moduli space.

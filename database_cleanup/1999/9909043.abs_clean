@@ -1,0 +1,13 @@
+Paper: hep-th/9909043
+
+Date: 1999-09-08
+
+Title: Correlation Functions of the Energy Momentum Tensor on Spaces of
+
+Constant CurvatureAuthors: H. Osborn, G.M. Shore
+
+Comments: 72 pages, plain TeX file using harvmac, final revision for
+
+publicationJournal-ref: Nucl.Phys. B571 (2000) 287-357
+
+An analysis of one and two point functions of the energy momentum tensor onhomogeneous spaces of constant curvature is undertaken. The possibility ofproving a $c$-theorem in this framework is discussed, in particular in relationto the coefficients $c,a$, which appear in the energy momentum tensor trace ongeneral curved backgrounds in four dimensions. Ward identities relating thecorrelation functions are derived and explicit expressions are obtained forfree scalar, spinor field theories in general dimensions and also free vectorfields in dimension four. A natural geometric formalism which is independent ofany choice of coordinates is used and the role of conformal symmetries on suchconstant curvature spaces is analysed. The results are shown to be constrainedby the operator product expansion. For negative curvature the spectralrepresentation, involving unitary positive energy representations of$O(d-1,2)$, for two point functions of vector currents is derived in detail andextended to the energy momentum tensor by analogy. It is demonstrated that, atnon coincident points, the two point functions are not related to $a$ in anydirect fashion and there is no straightforward demonstration obtainable in thisframework of irreversibility under renormalisation group flow of any functionof the couplings for four dimensional field theories which reduces to $a$ atfixed points.

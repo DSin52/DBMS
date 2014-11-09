@@ -1,0 +1,13 @@
+Paper: hep-th/9409020
+
+Date: 1994-09-03
+
+Title: How Many $N=4$ Strings Exist ?
+
+Authors: Sergei V. Ketov
+
+Comments: 31 pages, LaTeX, Hannover preprint ITP-UH-13/94, September 1994
+
+Journal-ref: Class.Quant.Grav. 12 (1995) 925-940
+
+Possible ways of constructing extended fermionic strings with $N=4$world-sheet supersymmetry are reviewed. String theory constraints form, ingeneral, a non-linear quasi(super)conformal algebra, and can have conformaldimensions $\geq 1$. When $N=4$, the most general $N=4$ quasi-superconformalalgebra to consider for string theory building is $\hat{D}(1,2;\a)$, whoselinearisation is the so-called `large' $N=4$ superconformal algebra. The$\hat{D}(1,2;\a)$ algebra has $\Hat{su(2)}_{k^+}\oplus\Hat{su(2)}_{k^-}\oplus\Hat{u(1)}$ Ka\v{c}-Moody component, and $\a=k^-/k^+$.We check the Jacobi identities and construct a BRST charge for the$\hat{D}(1,2;\a)$ algebra. The quantum BRST operator can be made nilpotent onlywhen $k^+=k^-=-2$. The $\hat{D}(1,2;1)$ algebra is actually isomorphic to the$SO(4)$-based Bershadsky-Knizhnik non-linear quasi-superconformal algebra. Weargue about the existence of a string theory associated with the latter, andpropose the (non-covariant) hamiltonian action for this new $N=4$ stringtheory. Our results imply the existence of two different $N=4$ fermionic stringand having the total ghost central charge $c_{\rm gh}=+12$, and the new onewith non-linearly realised $N=4$ supersymmetry, based on the $SO(4)$quasi-superconformal algebra and having $c_{\rm gh}=+6$. Both critical stringtheories have negative `critical dimensions' and do not admit unitary matterrepresentations.

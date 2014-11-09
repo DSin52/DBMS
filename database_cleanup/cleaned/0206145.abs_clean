@@ -1,0 +1,13 @@
+Paper: hep-th/0206145
+
+Date: 2002-06-17
+
+Title: A class of nonlocal truncations in Quantum Einstein Gravity and its
+
+renormalization group behaviorAuthors: M. Reuter, F. Saueressig
+
+Comments: 74 pages, 24 figures
+
+Journal-ref: Phys.Rev. D66 (2002) 125001
+
+Motivated by the conjecture that the cosmological constant problem could besolved by strong quantum effects in the infrared we use the exact flow equationof Quantum Einstein Gravity to determine the renormalization group behavior ofa class of nonlocal effective actions. They consist of the Einstein-Hilbertterm and a general nonlinear function F(k, V) of the Euclidean space-timevolume V. A partial differential equation governing its dependence on the scalek is derived and its fixed point is analyzed. For the more restrictivetruncation of theory space where F(k, V) is of the form V+V ln V, V+V^2, andV+\sqrt{V}, respectively, the renormalization group equations for the runningcouplings are solved numerically. The results are used in order to determinethe k-dependent curvature of the S^4-type Euclidean space-times which aresolutions to the effective Einstein equations, i.e. stationary points of thescale dependent effective action. For the V+V ln V-invariant (discussed earlierby Taylor and Veneziano) we find that the renormalization group runningenormously suppresses the value of the renormalized curvature which resultsfrom Planck-size bare parameters specified at the Planck scale. Hence one canobtain very large, almost flat universes without fine-tuning the cosmologicalconstant.

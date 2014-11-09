@@ -1,0 +1,13 @@
+Paper: hep-th/9508131
+
+Date: 1995-08-24
+
+Title: Worldline Path Integrals for Fermions with Scalar, Pseudoscalar and
+
+Vector CouplingsAuthors: Eric D'Hoker and Darius Gagne
+
+Comments: 23 pages, Plain Tex, no macros needed, some minor changes and some
+
+references addedJournal-ref: Nucl.Phys. B467 (1996) 272-296
+
+A systematic derivation is given of the worldline path integrals for theeffective action of a multiplet of Dirac fermions interacting with generalmatrix-valued classical background scalar, pseudoscalar, and vector gaugefields. The first path integral involves worldline fermions with antiperiodicboundary conditions on the worldline loop and generates the real part of theone loop (Euclidean) effective action. The second path integral involvesworldline fermions with periodic boundary conditions and generates theimaginary part of the (Euclidean) effective action, i.e. the phase of thefermion functional determinant. Here we also introduce a new regularization forthe phase of functional determinants resembling a heat-kernel regularization.Compared to the known special cases, our worldline Lagrangians have a number ofnew interaction terms; the validity of some of these terms is checked inperturbation theory. In particular, we obtain the leading order contribution(in the heavy mass expansion) to the Wess-Zumino-Witten term, which generatesthe chiral anomaly.

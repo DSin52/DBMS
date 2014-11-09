@@ -1,0 +1,11 @@
+Paper: hep-th/9603160
+
+Date: 1996-03-25
+
+Title: Topological Symmetry Breaking on Einstein Manifolds
+
+Comments: 16 pages, Latex
+
+Journal-ref: Int.J.Mod.Phys. A12 (1997) 1915-1932
+
+It is known that if gauge conditions have Gribov zero modes, then topologicalsymmetry is broken. In this paper we apply it to topological gravity indimension $n \geq 3$. Our choice of the gauge condition for conformalinvariance is $R+{\alpha}=0$ , where $R$ is the Ricci scalar curvature. We findwhen $\alpha \neq 0$, topological symmetry is not broken, but when $\alpha =0$and solutions of the Einstein equations exist then topological symmetry isbroken. This conditions connect to the Yamabe conjecture. Namely negativeconstant scalar curvature exist on manifolds of any topology, but existence ofnonnegative constant scalar curvature is restricted by topology. This fact iseasily seen in this theory. Topological symmetry breaking means that BRSsymmetry breaking in cohomological field theory. But it is found that anotherBRS symmetry can be defined and physical states are redefined. The divergencedue to the Gribov zero modes is regularized, and the theory after topologicalsymmetry breaking become semiclassical Einstein gravitational theory under aspecial definition of observables.

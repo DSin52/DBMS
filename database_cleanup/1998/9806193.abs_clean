@@ -1,0 +1,13 @@
+Paper: hep-th/9806193
+
+Date: 1998-06-23
+
+Title: Casimir Energy of a Spherical Shell
+
+Authors: M.E. Bowers and C.R. Hagen
+
+Comments: LaTeX, 14 pages, 1 figure
+
+Journal-ref: Phys.Rev. D59 (1999) 025007
+
+The Casimir energy for a conducting spherical shell of radius $a$ is computedusing a direct mode summation approach. An essential ingredient is theimplementation of a recently proposed method based on Cauchy's theorem for anevaluation of the eigenfrequencies of the system. It is shown, however, thatthis earlier calculation uses an improper set of modes to describe the wavesexterior to the sphere. Upon making the necessary corrections and taking careto ensure that no mathematically ill-defined expressions occur, the techniqueis shown to leave numerical results unaltered while avoiding a longstandingcriticism raised against earlier calculations of the Casimir energy.

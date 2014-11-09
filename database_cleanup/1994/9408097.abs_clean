@@ -1,0 +1,13 @@
+Paper: hep-th/9408097
+
+Date: 1994-08-17
+
+Title: Combinatorial Quantization of the Hamiltonian Chern-Simons Theory II
+
+Authors: A. Yu. Alekseev, H. Grosse, V. Schomerus
+
+Comments: 50 pages; HUTMP 94-B337, ESI 113 (1994), UUITP 11/94, UWThPh-1994-26
+
+Journal-ref: Commun.Math.Phys. 174 (1995) 561-604
+
+This paper further develops the combinatorial approach to quantization of theHamiltonian Chern Simons theory advertised in \cite{AGS}. Using the theory ofquantum Wilson lines, we show how the Verlinde algebra appears within thecontext of quantum group gauge theory. This allows to discuss flatness ofquantum connections so that we can give a mathe- matically rigorous definitionof the algebra of observables $\A_{CS}$ of the Chern Simons model. It is a*-algebra of ``functions on the quantum moduli space of flat connections'' andcomes equipped with a positive functional $\omega$ (``integration''). We provethat this data does not depend on the particular choices which have been madein the construction. Following ideas of Fock and Rosly \cite{FoRo}, the algebra$\A_{CS}$ provides a deformation quantization of the algebra of functions onthe moduli space along the natural Poisson bracket induced by the Chern Simonsaction. We evaluate a volume of the quantized moduli space and prove that itcoincides with the Verlinde number. This answer is also interpreted as apartition partition function of the lattice Yang-Mills theory corresponding toa quantum gauge group.

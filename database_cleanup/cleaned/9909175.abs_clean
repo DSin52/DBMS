@@ -1,0 +1,13 @@
+Paper: hep-th/9909175
+
+Date: 1999-09-23
+
+Title: A Non-perturbative Solution of the Zero-Dimensional lambda phi^4 Field
+
+TheoryAuthors: A.P.C. Malbouisson, R. Portugal, and N.F. Svaiter
+
+Comments: 11 pages, 2 figures
+
+Journal-ref: Physica A292 (2001) 485-493
+
+We have done a study of the zero-dimensional $\lambda\phi^{4}$ model.Firstly, we exhibit the partition function as a simple exact expression interms of the Macdonald's function for $Re(\lambda)>0$. Secondly, an analyticcontinuation of the partition function for $Re(\lambda)<0$ is performed, and weobtain an expression defined in the complex coupling constant plane $\lambda$,for $|arg \lambda|<\pi$. Consequently, the partition function understood as ananalytic continuation is defined for all values of $\lambda$, except for abranch cut along the real negative $\lambda$ axis. We also evaluate thepartition function on perturbative grounds, using the Borel summation techniqueand we found that in the common domain of validity for $Re(\lambda)>0$, itcoincides precisely with the exact expression.

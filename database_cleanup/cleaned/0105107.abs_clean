@@ -1,0 +1,13 @@
+Paper: hep-th/0105107
+
+Date: 2001-05-11
+
+Title: Jack superpolynomials, superpartition ordering and determinantal
+
+formulasAuthors: P. Desrosiers, L. Lapointe and P. Mathieu
+
+Comments: 20 pages - minor corrections; to appear in CMP
+
+Algebra; Exactly Solvable and Integrable SystemsJournal-ref: Commun.Math.Phys. 233 (2003) 383-402
+
+We call superpartitions the indices of the eigenfunctions of thesupersymmetric extension of the trigonometric Calogero-Moser-Sutherland model.We obtain an ordering on superpartitions from the explicit action of themodel's Hamiltonian on monomial superfunctions. This allows to define Jacksuperpolynomials as the unique eigenfunctions of the model that decomposetriangularly, with respect to this ordering, on the basis of monomialsuperfunctions. This further leads to a simple and explicit determinantalexpression for the Jack superpolynomials.

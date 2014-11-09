@@ -1,0 +1,11 @@
+Paper: hep-th/9911110
+
+Date: 1999-11-15
+
+Title: Liouville bootstrap via harmonic analysis on a noncompact quantum group
+
+Authors: B. Ponsot, J. Teschner
+
+Comments: 16 pages, typos removed incl. important one in (48)
+
+The purpose of this short note is to announce results that amount to averification of the bootstrap for Liouville theory in the generic case undercertain assumptions concerning existence and properties of fusiontransformations. Under these assumptions one may characterize the fusion andbraiding coefficients as solutions of a system of functional equations thatfollows from the combination of consistency requirements and known results.This system of equations has a unique solution for irrational central chargec>25. The solution is constructed by solving the Clebsch-Gordan problem for acertain continuous series of quantum group representations and constructing theassociated Racah-coefficients. This gives an explicit expression for the fusioncoefficients. Moreover, the expressions can be continued into the strongcoupling region 1<c<25, providing a solution of the bootstrap also for thisregion.

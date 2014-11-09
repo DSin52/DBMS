@@ -1,0 +1,11 @@
+Paper: hep-th/0304207
+
+Date: 2003-04-24
+
+Title: A Matrix Model for Bilayered Quantum Hall Systems
+
+Authors: Ahmed Jellal, Michael Schreiber
+
+Comments: 14 pages
+
+We develop a matrix model to describe bilayered quantum Hall fluids for aseries of filling factors. Considering two coupling layers, and starting from acorresponding action, we construct its vacuum configuration at\nu=q_iK_{ij}^{-1}q_j, where K_{ij} is a 2\times 2 matrix and q_i is a vector.Our model allows us to reproduce several well-known wave functions. We showthat the wave function \Psi_{(m,m,n)} constructed years ago by Yoshioka,MacDonald and Girvin for the fractional quantum Hall effect at filling factor{2\over m+n} and in particular \Psi_{(3,3,1)} at filling {1\over 2} can beobtained from our vacuum configuration. The unpolarized Halperin wave functionand especially that for the fractional quantum Hall state at filling factor{2\over 5} can also be recovered from our approach. Generalization to more than2 layers is straightforward.

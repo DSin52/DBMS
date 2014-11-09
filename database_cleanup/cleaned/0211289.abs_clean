@@ -1,0 +1,13 @@
+Paper: hep-th/0211289
+
+Date: 2002-11-29
+
+Title: Solvable model of strings in a time-dependent plane-wave background
+
+Authors: G. Papadopoulos, J.G. Russo and A.A. Tseytlin
+
+Comments: 58 pages, latex. v2
+
+addedJournal-ref: Class.Quant.Grav. 20 (2003) 969-1016
+
+We investigate a string model defined by a special plane-wave metric ds^2 =2dudv - l(u) x^2 du^2 + dx^2 with l(u) = k/u^2 and k=const > 0. This metric isa Penrose limit of some cosmological, Dp-brane and fundamental stringbackgrounds. Remarkably, in Rosen coordinates the metric has a ``nullcosmology'' interpretation with flat spatial sections and scale factor which isLorentzian homogeneous space. In particular, like Minkowski space, it admits aboost isometry in u,v. (ii) It is an exact solution of string theory whensupplemented by a u-dependent dilaton such that its exponent (i.e. effectivestring coupling) goes to zero at u=infinity and at the singularity u=0,reducing back-reaction effects. (iii) The classical string equations in thisbackground become linear in the light-cone gauge and can be solved explicitlyin terms of Bessel's functions; thus the string model can be directlyquantized. This allows one to address the issue of singularity at thestring-theory level. We examine the propagation of first-quantizedpoint-particle and string modes in this time-dependent background. Usingcertain analytic continuation prescription we argue that string propagationthrough the singularity can be smooth.

@@ -1,0 +1,11 @@
+Paper: hep-th/0304095
+
+Date: 2003-04-10
+
+Title: Universal random matrix correlations of ratios of characteristic
+
+polynomials at the spectral edgesAuthors: G. Akemann and Y.V. Fyodorov
+
+Comments: 18 pages
+
+It has been shown recently [10] that Cauchy transforms of orthogonalpolynomials appear naturally in general correlation functions containing ratiosof characteristic polynomials of random NxN Hermitian matrices. Our main goalis to investigate the issue of universality of large N asymptotics for thoseCauchy transforms for a wide class of weight functions. Our analysis coversedge" of the spectrum, thus extending the earlier results known for the bulk.The principal tool is to show that for finite matrix size N the auxiliary "wavefunctions" associated with the Cauchy transforms obey the same second orderdifferential equation as those associated with the orthogonal polynomialsthemselves.

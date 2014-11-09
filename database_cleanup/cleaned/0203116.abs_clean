@@ -1,0 +1,13 @@
+Paper: hep-th/0203116
+
+Date: 2002-03-13
+
+Title: Spectra of supersymmetric Yang-Mills quantum mechanics
+
+Authors: J. Wosiek (Jagellonian University)
+
+Comments: 39 pages, 9 Postscript figures
+
+Journal-ref: Nucl.Phys. B644 (2002) 85-112
+
+The new method of solving quantum mechanical problems is proposed. Thefinite, i.e. cut off, Hilbert space is algebraically implemented in thecomputer code with states represented by lists of variable length. Completenumerical solution of a given system is then automatically obtained. Thetechnique is applied to Wess-Zumino quantum mechanics and D=2 and D=4supersymmetric Yang-Mills quantum mechanics with SU(2) gauge group. Convergencewith increasing cut-off was observed in many cases, well within the reach ofpresent machines. Many old results were confirmed and some new ones, especiallyfor the D=4 system, are derived. Extension to D=10 is possible butcomputationally demanding for higher gauge groups.

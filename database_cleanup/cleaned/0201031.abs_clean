@@ -1,0 +1,11 @@
+Paper: hep-th/0201031
+
+Date: 2002-01-05
+
+Title: Matrix models as non-local hidden variables theories
+
+Authors: Lee Smolin
+
+Comments: 25 pages, latex, no figures
+
+It is shown that the matrix models which give non-perturbative definitions ofstring and M theory may be interpreted as non-local hidden variables theoriesin which the quantum observables are the eigenvalues of the matrices whiletheir entries are the non-local hidden variables. This is shown by studying thebosonic matrix model at finite temperature, with T taken to scale as 1/N. Forlarge N the eigenvalues of the matrices undergo Brownian motion due to theinteraction of the diagonal elements with the off diagonal elements, givingrise to a diffusion constant that remains finite as N goes to infinity. Theresulting probability density and current for the eigenvalues are then found toevolve in agreement with the Schroedinger equation, to leading order in 1/N.The quantum fluctuations and uncertainties in the eigenvalues are thenconsequences of ordinary statistical fluctuations in the values of theoff-diagonal matrix elements. This formulation of the quantum theory isbackground independent, as the definition of the thermal ensemble makes no useof a particular classical solution. The derivation relies on Nelson'sstochastic formulation of quantum theory, which is expressed in terms of avariational principle.

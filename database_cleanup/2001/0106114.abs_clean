@@ -1,0 +1,11 @@
+Paper: hep-th/0106114
+
+Date: 2001-06-14
+
+Title: Wess-Zumino term for the AdS superstring and generalized Inonu-Wigner
+
+contractionAuthors: Machiko Hatsuda and Makoto Sakaguchi
+
+Comments: 15 pages, Latex, references added, version focused on a
+
+generalization of the IW contractionWe examine a Wess-Zumino term, written in bilinear of superinvariantcurrents, for a superstring in anti-de Sitter (AdS) space. The standardInonu-Wigner contraction does not give the correct flat limit but gives zero.This originates from the fact that the fermionic metric of the super-Poincaregroup is degenerate. We propose a generalization of the Inonu-Wignercontraction which reduces the super-AdS group to the "nondegenerate"super-Poincare group, therefore it gives a correct flat limit of thisWess-Zumino term. We also discuss the M-algebra obtained by this generalizedInonu-Wigner contraction from osp(1|32).

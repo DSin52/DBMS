@@ -1,0 +1,13 @@
+Paper: hep-th/9301003
+
+Date: 1993-01-02
+
+Title: Summing Over Inequivalent Maps in the String Theory Interpretation of
+
+Two Dimensional QCDAuthors: Joseph A. Minahan
+
+Comments: 17 pages, 5 eps figures contained in a uuencoded file, UVA-HET-92-10
+
+Journal-ref: Phys.Rev. D47 (1993) 3430-3436
+
+Following some recent work by Gross, we consider the partition function forQCD on a two dimensional torus and study its stringiness. We present strongevidence that the free energy corresponds to a sum over branched surfaces withsmall handles mapped into the target space. The sum is modded out by alldiffeomorphisms on the world-sheet. This leaves a sum over disconnected classesof maps. We prove that the free energy gives a consistent result for all smoothmaps of the torus into the torus which cover the target space $p$ times, where$p$ is prime, and conjecture that this is true for all coverings. Each classcan also contain integrations over the positions of branch points and smallhandles which act as ``moduli'' on the surface. We show that the free energy isconsistent for any number of handles and that the first few leading terms areconsistent with contributions from maps with branch points.

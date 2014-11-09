@@ -1,0 +1,13 @@
+Paper: hep-th/9602028
+
+Date: 1996-02-06
+
+Title: Correlation Functions in the Multiple Ising Model Coupled to Gravity
+
+Authors: M.G.Harris and J.Ambjorn
+
+Comments: 29 pages, LaTeX, uses epsf macro, 5 figures
+
+Journal-ref: Nucl.Phys. B474 (1996) 575-601
+
+The model of p Ising spins coupled to 2d gravity, in the form of a sum overplanar phi-cubed graphs, is studied and in particular the two-point andspin-spin correlation functions are considered. We first solve a toy model inwhich only a partial summation over spin configurations is performed and, usinga modified geodesic distance, various correlation functions are determined. Thetwo-point function has a diverging length scale associated with it. Thecritical exponents are calculated and it is shown that all the standard scalingrelations apply. Next the full model is studied, in which all spinconfigurations are included. Many of the considerations for the toy model applyfor the full model, which also has a diverging geometric correlation lengthassociated with the transition to a branched polymer phase. Using a transferfunction we show that the two-point and spin-spin correlation functions decayexponentially with distance. Finally, by assuming various scaling relations, wemake a prediction for the critical exponents at the transition between themagnetized and branched polymer phases in the full model.

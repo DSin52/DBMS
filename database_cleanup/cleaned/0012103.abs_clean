@@ -1,0 +1,13 @@
+Paper: hep-th/0012103
+
+Date: 2000-12-12
+
+Title: From stochastic quantization to bulk quantization
+
+equations and S-matrixAuthors: Laurent Baulieu and Daniel Zwanziger
+
+Comments: 26 pages, Tex, 1 figure includes 2 graphs
+
+Journal-ref: JHEP 0108 (2001) 016
+
+In stochastic quantization, ordinary 4-dimensional Euclidean quantum fieldtheory is expressed as a functional integral over fields in 5 dimensions with afictitious 5th time. This is advantageous, in particular for gauge theories,because it allows a different type of gauge fixing that avoids the Gribovproblem. Traditionally, in this approach, the fictitious 5th time is the analogof computer time in a Monte Carlo simulation of 4-dimensional Euclidean fields.A Euclidean probability distribution which depends on the 5th time relaxes toan equilibrium distribution. However a broader framework, which we call ``bulkquantization", is required for extension to fermions, and for the increasedpower afforded by the higher symmetry of the 5-dimensional action that istopological when expressed in terms of auxiliary fields. Within the broaderframework, we give a direct proof by means of Schwinger-Dyson equations that atime-slice of the 5-dimensional theory is equivalent to the usual 4-dimensionaltheory. The proof does not rely on the conjecture that the relevant stochasticprocess relaxes to an equilibrium distribution. Rather, it depends on thehigher symmetry of the 5-dimensional action which includes a BRST-typetopological invariance, and invariance under translation and inversion in the5-th time. We express the physical S-matrix directly in terms of the truncated5-dimensional correlation functions, for which ``going off the mass-shell''means going from the 3 physical degrees of freedom to 5 independent variables.We derive the Landau-Cutokosky rules of the 5-dimensional theory which includethe physical unitarity relation.

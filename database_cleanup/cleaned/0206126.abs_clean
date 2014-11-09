@@ -1,0 +1,13 @@
+Paper: hep-th/0206126
+
+Date: 2002-06-17
+
+Title: AdS/CFT Equivalence Transformation
+
+Authors: S. Bellucci, E. Ivanov, S. Krivonos
+
+Comments: LaTeX, 19 pages, minor correction in Abstract
+
+Journal-ref: Phys.Rev. D66 (2002) 086001; Erratum-ibid. D67 (2003) 049901
+
+We show that any conformal field theory in d-dimensional Minkowski space, ina phase with spontaneously broken conformal symmetry and with the dilaton amongits fields, can be rewritten in terms of the static gauge (d-1)-brane onAdS_(d+1) by means of an invertible change of variables. This nonlinearholographic transformation maps the Minkowski space coordinates onto the braneworldvolume ones and the dilaton onto the transverse AdS brane coordinate. Oneof the consequences of the existence of this map is that any (d-1)-braneworldvolume action on AdS_(d+1)\times X^m (with X^m standing for the sphere S^mor more complicated curved manifold) admits an equivalent description inMinkowski space as a nonlinear and higher-derivative extension of someconventional conformal field theory action, with the conformal group beingrealized in a standard way. The holographic transformation explicitly relatesthe standard realization of the conformal group to its field-dependentnonlinear realization as the isometry group of the brane AdS_(d+1) background.Some possible implications of this transformation, in particular, for the studyof the quantum effective action of N=4 super Yang-Mills theory in the contextof AdS/CFT correspondence, are briefly discussed.

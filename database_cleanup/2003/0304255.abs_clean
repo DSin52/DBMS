@@ -1,0 +1,11 @@
+Paper: hep-th/0304255
+
+Date: 2003-04-29
+
+Title: Multi-spin string solutions in AdS_5 x S^5
+
+Authors: S. Frolov, A.A. Tseytlin
+
+Comments: 39 pages, harvmac; v2
+
+4.1 and 5; new appendix D and references addedMotivated by attempts to extend AdS/CFT duality to non-BPS states we considerclassical closed string solutions with several angular momenta in differentdirections of AdS_5 and S^5. We find a novel solution describing a circularclosed string located at a fixed value of AdS_5 radius while rotatingsimultaneously in two planes in AdS_5 with equal spins S. This solution is adirect generalization of a two-spin flat-space solution where the stringrotates in two orthogonal planes while always lying on a 3-sphere. Similarmomentum J of the center of mass and the two equal SO(6) angular momentaJ_2=J_3=J' in the two rotation planes. The remarkably simple case is of J=0where the energy depends on J' as E=[(2J')^2 + {\l}]^{1/2} with {\l}being thestring tension or `t Hooft coupling. We discuss interpolation of the E(J')relation to weak coupling by identifying the N=4 SYM theory operator thatshould be dual to the corresponding semiclassical string state and utilizingexisting results for its perturbative anomalous dimension. This opens apossibility of studying AdS/CFT duality in this new non-BPS sector. We alsoinvestigate stability of these classical solutions under small perturbationsand comment on several generalizations.

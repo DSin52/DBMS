@@ -1,0 +1,13 @@
+Paper: hep-th/0010066
+
+Date: 2000-10-10
+
+Title: Correspondence between Noncommutative Soliton and Open String/D-brane
+
+System via Gaussian Damping FactorAuthors: B. Chen, H. Itoyama, T. Matsuo and K. Murakami
+
+Comments: 17 pages, Latex
+
+Journal-ref: Prog.Theor.Phys. 105 (2001) 853-868
+
+The gaussian damping factor (g.d.f.) and the new interaction vertex with thesymplectic tensor are the characteristic properties of the N-pointscalar-vector scattering amplitudes of the p-p' (p < p') open string systemwhich realizes noncommutative geometry. The g.d.f. is here interpreted as aform factor of the Dp-brane by noncommutative U(1) current. Observing that theg.d.f. is in fact equal to the Fourier transform of the noncommutativeprojector soliton introduced by Gopakumar, Minwalla and Strominger, we furtheridentify the Dp-brane in the zero slope limit with the noncommutative solitonstate. It is shown that the g.d.f. depends only on the total momentum of N-2incoming/outgoing photons in the zero slope limit. In the description of thelow-energy effective action (LEEA) proposed before, this is shown to followfrom the delta function propagator and the form of the initial/final wavefunctions in the soliton sector which resides in x^{m} m= p+1, ...p' dependentpart of the scalar field \Phi(x^\mu, x^m). The three and four point amplitudescomputed from LEEA agree with string calculation. We discuss related issueswhich are resummation/lifting of infinite degeneracy and conservation ofmomentum transverse to the Dp-brane.
