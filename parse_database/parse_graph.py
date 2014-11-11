@@ -1,4 +1,5 @@
 
+import pandas as pd
 
 paper_graph = {}
 def readCitationFile(path):
@@ -19,3 +20,5 @@ def readSLACFile(path):
             token = line.split(' ')
             paper = str(token[0])
             date = str(token[1])
+
+pd.DataFrame
