@@ -1,13 +1,46 @@
 import datetime
 import os
-import copy
+import mysql.connector
+import re
+from nltk.tokenize import RegexpTokenizer
+import nltk
 
-#Consult Divit if you have any questions about the code
+# Consult Divit if you have any questions about the code
+
+
+#connect to database
+cnx = mysql.connector.connect(user='root', password='',
+                              host='127.0.0.1',
+                              database='dbms')
+cursor = cnx.cursor()
+
+add_employee = ("INSERT INTO employees "
+               "(first_name, last_name, hire_date, gender, birth_date) "
+               "VALUES (%s, %s, %s, %s, %s)")
+
+tokenizer = RegexpTokenizer(r'\w+')
 
 #reads and parses a file
 def read_file(file_path, filename, year):
 	curFile = open(file_path, 'r')
-	writeFile = open('./cleaned/' + filename +'_clean', 'w+')
+
+	add_meta = ("INSERT INTO paper_meta "
+               "(paper, date_created, title, comments, abstract) "
+               "VALUES (%s, %s, %s, %s, %s)")
+
+	add_author = ("INSERT INTO author "
+               "(name, paper) "
+               "VALUES (%s, %s)")
+
+	mysql_object = {
+		"Title": "",
+		"Paper": "",
+		"Comments": "",
+		"Journal-ref": "",
+		"Abstract": "",
+		"Authors": ""
+	}
+	abstract = ""
 
 	for line in curFile:
 
@@ -17,15 +50,78 @@ def read_file(file_path, filename, year):
 
 			if propertyName[0] == 'Date':
 				act_date = parse_date(line.strip(), year)
-				writeFile.write('Date: ' + str(act_date) + '\n\n')
+				mysql_object['Date'] = str(act_date)
 
-			elif propertyName[0] == 'Title' or propertyName[0] == 'Paper' or propertyName[0] == 'Authors' or propertyName[0] == 'Comments' or propertyName[0] == 'Journal-ref':
-				writeVal = str(propertyName[0].strip() + ': ' + propertyName[1].strip() + '\n\n')
-				writeFile.write(writeVal)
+			elif propertyName[0] == 'Comments' or propertyName[0] == 'Journal-ref':
+				cleaned_word_array = tokenizer.tokenize(propertyName[1])
+				cleaned_word = ""
+				for word in cleaned_word_array:
+					cleaned_word += word + ' '
 
-		#abstract
+				mysql_object[propertyName[0]] = str(cleaned_word.strip())
+
+			elif propertyName[0] == 'Title':
+				cleaned_word_array = tokenizer.tokenize(propertyName[1])
+				cleaned_word = ""
+				for word in cleaned_word_array:
+					if word in nltk.corpus.stopwords.words('english') or len(word) < 3: 
+						cleaned_word_array.remove(word)
+				
+				for word in cleaned_word_array:
+					cleaned_word += word.lower() + ' '
+
+				mysql_object[propertyName[0]] = str(cleaned_word.strip())
+
+			elif propertyName[0] == 'Authors' or propertyName[0] == 'Paper':
+				mysql_object[propertyName[0]] = str(propertyName[1].strip())
+
+
 		elif len(line[2:]) > 1 and propertyName[0] != 'From' and line[0] != '-':
-			writeFile.write(str(line.strip()))
+			word_list = tokenizer.tokenize(line)
+			for word in word_list: # iterate over word_list
+				if word in nltk.corpus.stopwords.words('english') or len(word) < 3: 
+					word_list.remove(word) # remove word from filtered_word_list if it is a stopwo
+			
+			for word in word_list:
+					abstract += word + ' '
+
+	mysql_object['Abstract'] = abstract.lower().strip()
+	add_info = (mysql_object['Paper'], mysql_object['Date'], mysql_object['Title'], mysql_object['Comments'], str(mysql_object['Abstract']))
+
+	authors = mysql_object['Authors'].replace(" and ", ",");
+	authors = authors.replace("&", ",")
+
+	cleaned_authors = ""
+
+	seenLeft = None
+	for letter in authors:
+
+		# print letter
+		if letter == "(":
+	 		seenLeft = True
+
+	 	if seenLeft == None:
+			cleaned_authors += letter
+
+		if letter == ")":
+			seenLeft = None
+
+	if 'JR' in cleaned_authors.upper():
+		temp = cleaned_authors.upper().replace(", JR", " JR")
+		temp = temp.replace("JR.", "JR")
+		cleaned_authors = temp
+
+
+	parsed_authors = cleaned_authors.split(",")
+
+	for author in parsed_authors:
+		if len(author) > 0:
+			add_author_info = (author.strip().upper(), mysql_object['Paper'])
+			cursor.execute(add_author, add_author_info)
+
+	cursor.execute(add_meta, add_info)
+	cnx.commit()
+
 
 #Given in this format: Fri, 17 Jan 92 16
 def parse_date(date_string, year):

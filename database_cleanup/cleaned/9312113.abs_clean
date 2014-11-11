@@ -1,9 +1,0 @@
-Paper: hep-th/9312113
-
-Date: 1993-12-14
-
-Title: Poisson geometry of flat connections for $\roman{SU}(2)$-bundles on
-
-surfacesComments: 17 pages
-
-In earlier work we have shown that the moduli space $N$ of flat connectionsfor the (trivial) $\roman{SU(2)}$-bundle on a closed surface of genus $\ell\geq 2$ inherits a structure of stratified symplectic space with two connectedstrata $N_Z$ and $N_{(T)}$ and $2^{2\ell}$ isolated points. In this paper weshow that, close to each point of $N_{(T)}$, the space $N$ and its Poissonalgebra look like a product of $\bold C^{\ell}$ endowed with the standardsymplectic Poisson structure with the reduced space and Poisson algebra of thesystem of $(\ell-1)$ particles in the plane with total angular momentum zero,while close to one of the isolated points, the Poisson algebra on $N$ lookslike that of the reduced system of $\ell$ particles in $\bold R^3$ with totalangular momentum zero. Moreover, in the genus two case where the space $N$ isknown to be smooth we locally describe the Poisson algebra and the variousunderlying symplectic structures on the strata and their mutual positionsexplicitly in terms of the Poisson structure.

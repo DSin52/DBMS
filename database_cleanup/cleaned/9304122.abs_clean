@@ -1,9 +1,0 @@
-Paper: hep-th/9304122
-
-Date: 1993-04-26
-
-Title: Modules Over Affine Lie Superalgebras
-
-Comments: 35 pages
-
-Modules over affine Lie superalgebras ${\cal G}$ are studied, in particular,for ${\cal G}=\hat{OSP(1,2)}$. It is shown that on studying Verma modules, muchof the results in Kac-Moody algebra can be generalized to the super case. Ofmost importance are the generalized Kac-Kazhdan formula and theMalikov-Feigin-Fuchs construction, which give the weights and the explicit formof the singular vectors in the Verma module over affine Kac-Moodysuperalgebras. We have also considered the decomposition of the admissiblerepresentation of $\hat{OSP(1,2)}$ into that of $\hat{SL(2)}\otimes$Virasoroalgebra, through which we get the modular transformations on the torus and thefusion rules. Different boundary conditions on the torus correspond to thedifferent modings of the current superalgebra and characters orsuper-characters, which might be relevant to the Hamiltonian reductionresulting in Neveu-Schwarz or Ramond superconformal algebras. Finally, theFelder BRST complex, which consists of Wakimoto modules by the free fieldrealization, is constructed.
