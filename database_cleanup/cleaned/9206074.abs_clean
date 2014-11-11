@@ -1,9 +1,0 @@
-Paper: hep-th/9206074
-
-Date: 1992-06-19
-
-Title: Quantum Field Theory as a Problem of Resummation (Short guide to using
-
-summability methods)Comments: Plain latex, 82 pp, 8 figures (ask author)) PhD Thesis, Prague, July
-
-1991Thesis includes review on the large order behaviour of perturbation theory inquantum mechanical and field theory models; generalization of the Borelsummability and strong asymptotic conditions to various (including horn-shaped)regions; discussion of analytic aspects of perturbation theory; examples whichdemonstrate differences between the Borel summability and generalized one;application to the Rayleigh-Schr\"{o}dinger perturbation theory and to thedefinition of the operator valued functions. The new summability methodsconverges in the whole Mittag-Leffeler star of an analytical function and assuch is useful for localization of singularities in the complex plane. Theirposition can be calculated even analytically provided large order behaviour ofthe Taylor series is known. Method can be implemented numerically as well.

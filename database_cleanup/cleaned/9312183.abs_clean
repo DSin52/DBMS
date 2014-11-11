@@ -1,9 +1,0 @@
-Paper: hep-th/9312183
-
-Date: 1993-12-23
-
-Title: BRST structure of polynomial Poisson algebras
-
-Comments: 16 pages
-
-The BRST structure of polynomial Poisson algebras is investigated. It isshown that Poisson algebras provide non trivial models where the full BRSTrecursive procedure is needed. Quadratic Poisson algebras may already be ofarbitrarily high rank. Explicit examples are provided, for which the firstterms of the BRST generator are given. The calculations are cumbersome butpurely algorithmic, and have been treated by means of the computer algebrasystem REDUCE. Our analysis is classical ($=$ non quantum) throughout.

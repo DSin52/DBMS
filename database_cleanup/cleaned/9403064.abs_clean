@@ -1,9 +1,0 @@
-Paper: hep-th/9403064
-
-Date: 1994-03-10
-
-Title: Center of a quantum affine algebra at the critical level
-
-Comments: 10 pages
-
-We construct central elements in a completion of the quantum affine algebraat the critical level c=-g from the universal R-matrix (g being the dualCoxeter number of the corresponding simple Lie algebra), using the method ofReshetikhin and Semenov-Tian-Shansky. This construction defines an action ofthe Grothendieck algebra of the category of finite-dimensional representationsof the quantum affine algebra on any module over this algebra from category Owith c=-g. We explain the connection between the central elements and transfermatrices in statistical mechanics. In the quasiclassical approximation thisconnection was explained by Feigin, E.Frenkel, and Reshetikhin in hep-th9402022, and it was mentioned that one could generalize it to the quantum caseto get Bethe vectors for transfer matrices. Using this connection, we provethat the central elements(for all finite dimensional representations) applied to the highest weightvector of a generic Verma module at the critical level generate the whole spaceof singular vectors in this module. We also compute the first term of thequasiclassical expansion of the central elements near q=1, and show that italways gives the Sugawara current with a certain coefficient.
